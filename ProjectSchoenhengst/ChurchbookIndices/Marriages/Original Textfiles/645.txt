@@ -1,0 +1,326 @@
+Böhmen
+Tschechien
+Kirchenmatrik r.k.
+Gabel an der Adler
+Jablonné nad Orlicí
+rk
+1767-1784
+
+DP 1
+
+1767
+
+Waltersdorf,2.1.,Adalbert,Paul,Teitzl,Catharina
+Worlitschka,3.1.,Franz Karl,Anton,Knoll,Johanna
+Tschenkowitz,4.1.,Franz Karl,Johann,Fiescher,Veronica
+Jamnay,5.1.,Veronica,Paul,Philipp,Anna
+Neudorf,6.1.,Franz Karl,Franz,Pfeiffer,Maria
+Waltersdorf,6.1.,Joseph,Paul,Kobliczek,Magdalena
+
+DP 2
+
+Waltersdorf,10.1.,Johann,Johann,Kratky,Anna
+Worlitschka,13.1.,Leopold,Joseph,Schlesinger,Johanna
+Weypersdorf,16.1.,Anton,Augustin,Koliczky,Judith
+Jamnay,16.1.,Catharina,Anton,Dolezal,Anna
+Jamnay,16.1.,Anna,Joseph,Giruet#,Dorothea
+Jamnay,16.1.,Johann,Johann,Brox,Catharina
+Jablona,17.1.,Anton,Christian,Jansa,Catharina
+Weypersdorf,17.1.,Anton,Franz,Marecz,Eva
+Jablona,19.1.,Dorothea Elisabeth,Johann,Kleslo#,Catharina
+Tschenkowitz,20.1.,Rosalia,Wenzel,Schembera,Rosalia
+Tschenkowitz,20.1.,Anna Maria,Gotthard,Brix,Anna Maria
+Tschenkowitz,22.1.,Maria Theresia,Anton,Krögler,Elisabeth
+Tschenkowitz,23.1.,Anna Maria,Augustin,Feltzmann,Veronica
+Neudorf,25.1.,Theresia,Johann,Hentzl,Judith
+
+DP 3
+
+Worlitschka,30.1.,Theresia,Franz,Krögler,Johanna
+Tschenkowitz,2.2.,Veronica,Elias,Bün,Anna
+Tschenkowitz,3.2.,Anton,Wenzel,Stöhr,Elisabeth
+Tschenkowitz,3.2.,Anna Maria,Johann,Weinlich,Anna Maria
+Worlitschka,3.2.,Johann Wenzel,Abraham,Heisler,Theresia
+Weypersdorf,4.2.,Johanna,Martin,Kobliczek,Marina
+Waltersdorf,6.2.,Anna,Paul,Charvat,Anna
+Neudorf,6.2.,Marianna,Joseph,Schmid,Magdalena
+Weypersdorf,9.2.,Johann,Anton,Kaliczke#,Anna
+Jamnay,15.2.,Anna,Wenzel,Chladek,Anna
+Tschenkowitz,22.2.,Juliana,Augustin,Bier,Veronica
+Waltersdorf,26.2.,Rosalia,Georg,Krczivohla#,Catharina
+Worlitschka,26.2.,Franz Anton,Heinrich,Schlesinger,Elisabeth
+Waltersdorf,27.2.,Catharina,Johann,Charvat,Veronica
+
+DP 4
+
+Tschenkowitz,28.2.,Anton,Franz,Kuczera,Rosalia
+Weypersdorf,1.3.,Joseph,Martin,Jandegsek#,Marina
+Waltersdorf,1.3.,Benedikt,Johann,Tegkl#,Eva
+Worlitschka,2.3.,Leopold,Wenzel,Krögler,Anna Maria
+Jamnay,2.3.,Anna,Paul,Hansliczek,Rosalia
+Jamnay,6.3.,Joseph,Johann,Bauchal,Veronica
+Neudorf,6.3.,Franz Karl,Johann,Schüll,Barbara  ("Extradito Baptismales 24 April 1800 ex Consensu Dominy" - was heisst das?)
+Worlitschka,8.3.,Maria Elisabeth,Wenzel,Schlesinger,Elisabeth
+Jamnay,12.3.,Franz,Joseph,Chladek,Elisabeth
+Neudorf,12.3.,Franz Karl,Christoph,Bün,Theresia
+Tschenkowitz,12.3.,Johann Wenzel,Augustin,Weinlich,Veronica
+Tschenkowitz,13.3.,Gottlieb und Franz Karl,Amadeus,Sonntag,Theresia
+Tschenkowitz,13.3.,Juliana,Johann,Egidi,Maria Elisabeth
+Tschenkowitz,15.3.,Joseph,Wenzel,Langhammer,Veronica
+
+DP 5
+
+Jamnay,15.3.,Anton,Wenzel,Bauchal,Veronica
+Weypersdorf,15.3.,Franz,Johann,Chladek,Barbara
+Worlitschka,16.3.,Johann Wenzel,Johann Wenzel,Neugebauer,Anna Maria
+Worlitschka,16.3.,Rosalia,Johann,Trampota#,Eva
+Waltersdorf,16.3.,Rosalia,Franz,Kratky,Judith
+Jamnay,17.3.,Joseph,Wenzel,Kraczek#,Anna
+Tschenkowitz,17.3.,Franz Joseph,Wenzel,Nehyba,Elisabeth
+Worlitschka,20.3.,Polegina,Franz,Schlesinger,Rosalia
+Weypersdorf,20.3.,Theresia,Johann,Heyl,Catharina
+Tschenkowitz,24.3.,Johann Wenzel,Mathias,Schlesinger,Elisabeth
+Tschenkowitz,24.3.,Johann,Ignatz,Hentzl,Judith
+Tschenkowitz,27.3.,Franz Anton,Franz,Weinlich,Anna Maria
+Weypersdorf,30.3.,Theresia,Jacob,Kaliczky,Marina
+Waltersdorf,30.3.,Rosalia,Martin,Wondra#,Anna
+
+DP 6
+
+Tschenkowitz,1.4.,Theresia,Wenzel,Heisler,Catharina
+Worlitschka,1.4.,Gotthard,Anton,Weinlich,Judith
+Weypersdorf,3.4.,Thomas,Paul,Chalaupka,Eva
+Waltersdorf,6.4.,Joseph,Paul,Matigka#,Anna
+Tschenkowitz,6.4.,Johann Wenzel,Joseph,Mister,Catharina
+Jablona,6.4.,Franz,Wenzel,Kregcz#,Eva
+Tschenkowitz,9.4.,Theresia,Joseph,Fiescher,Veronica
+Tschenkowitz,14.4.,Johann Wenzel,Johann Wenzel,Langhammer,Maria Elisabeth
+Jablona,14.4.,Catharina,Florian,Schevel,Anna
+Worlitschka,16.4.,Peregrin,Amadeus,Chladek,Johanna
+Worlitschka,16.4.,Theresia,Franz,Müller,Elisabeth
+Tschenkowitz,16.4.,Maria Elisabeth,Johann Heyl,Elisabeth
+Worlitschka,17.4.,Leopold,Joseph,Schlesinger,Veronica
+Weypersdorf,17.4.,Johanna und Eva,Martin,Killa#,Barbara
+
+DP 7
+
+Waltersdorf,17.4.,Wenzel,Joseph,Waschiczek,Veronica
+Tschenkowitz,23.4.,Maria Elisabeth,Franz,Brix,Maria Elisabeth
+Weypersdorf,23.4.,Adalbert,Georg,Daubrova#,Judith
+Jablona,23.4.,Dorothea,Anton,Feltzmann,Maria
+Jamnay,25.4.,Dorothea,Johann,Brockopetz#,Catharina
+Worlitschka,27.4.,Gotthard,Paul,Janisch#,Anna Maria
+Jamnay,28.4.,Anna,Johann,Waczek,Dorothea
+Worlitschka,29.4.,Johanna,Franz,Heisler,Johanna
+Tschenkowitz,9.5.,Paul,Paul,Charvat,Elisabeth
+Weypersdorf,10.5.,Anton,Franz,Heyl,Rosalia
+Worlitschka,11.5.,Leopold,Anton,Wagner,Elisabeth
+Tschenkowitz,11.5.,Anna Elisabeth,Joseph,Feltzmann,Veronica
+Tschenkowitz,12.5.,Leopold,Florian,Fiescher,Maria Elisabeth
+Jamnay,12.5.,Joseph,Paul,Philipp,Marina
+Waynersdorf,15.5.,Johann Nepomuk,Wenzel,Weiprachtitzky,Judith
+
+DP 8
+
+Tschenkowitz,16.5.,Franz Anton,Paul,Heisler,Veronica
+Jamnay,17.5.,Adalbert Joseph,Paul,Waczek,Veronica
+Waltersdorf,22.5.,Joseph,Paul,Tegkl,Judith
+Weypersdorf,24.5.,Theresia,Anton,Kaliczky,Anna
+Jamnay,26.5.,Fabian,Georg,Czernokaus,Anna
+Neudorf,28.5.,Leopold,Anton,Feltzmann,Veronica
+Jamnay,29.5.,Judith Catharina,Wenzel,Filipp,Catharina
+Jamnay,30.5.,Paul,Wenzel,Czernokaus,Veronica
+Worlitschka,30.5.,Franz Anton,Gotthard,Schlesinger,Anna Maria
+Waltersdorf,3.6.,Rosalia,Johann,Kaschka,Judith
+Weypersdorf,8.6.,Johann,Johann,Sedlaczek,Dorothea
+Weypersdorf,8.6.,Paul,Paul,Bechaczek#,Judith
+Jablona,15.6.,Valentin Anton,Karl,Grus#,Anna
+Jamnay,18.6.,Anna Maria,Georg,Hegerlik,Anna
+Waltersdorf,19.6.,Johann,Johann,Tegkl,Eva
+
+DP 9
+
+Weypersdorf,24.6.,Johann,Anton,Kaliczky,Eva
+Tschenkowitz,24.6.,Franz Karl,Johann,Steiner,Juliana
+Jablona,24.6.,Johann,Bernard,Schevel,Catharina
+Waltersdorf,29.6.,Catharina,Georg,Killar,Anna
+Waltersdorf,29.6.,Anna,Paul,Baux#,Anna
+Worlitschka,2.7.,Elisabeth,Wenzel,Langer,Elisabeth
+Jamnay,2.7.,Anna,Wenzel,Giru#,Dorothea
+Waltersdorf,4.7.,Catharina,Georg,Hedina#,Marianna
+Jablona,5.7.,Joseph,Thomas,Waczek,Anna
+Worlitschka,6.7.,Maria Elisabeth,Georg,Schlesinger,Elisabeth
+Worlitschka,10.7.,Maria Elisabeth,Anton,Schüll,Elisabeth
+Jamnay,19.7.,Anna,Wenzel,Waczek,Eva
+Waltersdorf,21.7.,Wenzel,Joseph,Schimek,Catharina
+Waltersdorf,22.7.,Johann,Paul,Mister,Anna
+Worlitschka,26.7.,Anna Maria Cäcilia,Dominik,Knoll,Anna Maria
+Jamnay,26.7.,Tobias,Adalbert,Baltzar#,Veronica
+
+DP 10
+
+Neudorf,2.8.,Theresia,Gotthard,Stricker,Catharina
+Jamnay,4.8.,Theresia Polexina,Johann,Kobliczek,Anna
+Jamnay,4.8.,Joseph,Johann,Filipp,Veronica
+Weypersdorf,6.8.,Martin,Ludwig,Hluchy#,Judith
+Waltersdorf,7.8.,Johann,Georg,Mraczek,Anna
+Weypersdorf,7.8.,Veronica,Johann,Skaliczky#,Veronica
+Waltersdorf,11.8.,Johanna,Paul,Bednarcz#,Judith
+Waltersdorf,16.8.,Anna,Joseph,Krcziwohlavek#,Rosalia
+Jablona,20.8.,Dominik,Franz,Javurek#,Polexina
+Worlitschka,21.8.,Eleonora,Anton,Köller,Elisabeth
+Waltersdorf,22.8.,Wenzel,Wenzel,Charvat,Rosalia
+Waltersdorf,23.8.,Franz,Martin,Waschiczek,Judith
+Neudorf,25.8.,Leopold,Thomas,Zaubele,Veronica
+Worlitschka,25.8.,Anna Johanna,Heinrich,Schlesinger,Judith
+
+DP 11
+
+Waltersdorf,26.8.,Catharina,Georg,Waniczek,Eva
+Jablona,30.8.,Anna Elisabeth,Joseph,Janiczek,Rosalia
+Tschenkowitz,1.9.,Veronica,Wenzel,Heisler,Catharina
+Waltersdorf,4.9.,Catharina,Franz,Kubin,Anna
+Jamnay,8.9.,Rosalia,Wenzel,Steyskal,Anna
+Weypersdorf,8.9.,Rosalia,Wenzel,Faltus,Veronica
+Neudorf,8.9.,Dominik,Johann,Victorin,Magdalena
+Worlitschka,8.9.,Maria Theresia,Anton,Czernokorsky,Elisabeth
+Waltersdorf,11.9.,Juliana,Joseph,Gregor,Theresia
+Jamnay,13.9.,Johann,Paul,Liska,Dorothea
+Jablona,14.9.,Joseph,Johann,Wottawa,Catharina
+Weypersdorf,14.9.,Joseph,Franz,Maczek#,Catharina
+Jamnay,17.9.,Barbara,Wenzel,Czernokaus,Marianna
+Jamnay,21.9.,Johann,Johann,Trampota,Dorothea
+Jamnay,27.9.,Anton,Joseph,Johann Georg,Bendarcz#,Veronica
+Tschenkowitz,27.9.,Maria Elisabeth,Johann,Stöhr,Anna Maria
+
+DP 12
+
+Neudorf,29.9.,Peregrin,Johann,Veith,Anna Maria
+Tschenkowitz,30.9.,Leopold,Michael,Hentzl,Anna Maria
+Weypersdorf,1.10.,Anton,Franz,Rubesch,Marina
+Neudorf,1.10.,Julianna,Johann,Lyer,Elisabeth
+Neudorf,7.10.,Peregrin#,Elias,Bün,Veronica
+Weypersdorf,10.10.,Wenzel,Wenzel,Skaliczky,Anna
+Weypersdorf,18.10.,Ignatz,Johann,Schembera,Judith
+Tschenkowitz,18.10.,Theresia,Johann Wenzel,Bier,Theresia
+Worlitschka,22.10.,Anna Eleonora,Johann,Czastek,Anna Maria
+Waltersdorf,24.10.,Johanna,Paul,Hedina,Rosalia
+Weypersdorf,24.10.,Anton,Mathias,Chladek,Rosalia
+Waltersdorf,25.10.,Wenzel,Anton,Krzwohla#,Theresia
+Jablona,29.10.,Ignatz,Karl,Baux,Susanna#
+Weypersdorf,4.11.,Catharina,Leopold,Schlesinger,Catharina
+Weypersdorf,4.11.,Juliana,Johann,Langer,Catharina
+
+DP 13
+
+Worlitschka,9.11.,Peregrin,Andreas,Weinlich,Anna Maria
+Worlitschka,11.11.,Maria Magdalena,Gotthard,Krögler,Maria Magdalena
+Jamnay,11.11.,Rosalia,Augustin,Maczat#,Judith
+Waltersdorf,13.11.,Catharina,Franz,Hedina,Judith
+Tschenkowitz,13.11.,Franz Anton,Augustin,Weinlich,Elisabeth
+Waltersdorf,15.11.,Anna,Paul,Harlena#,Theresia
+Jamnay,16.11.,Johann Wenzel,Dominik,Schlesinger,Theresia
+Tschenkowitz,17.11.,Genoveffa,Amadeus,Feltzmann,Juliana
+Worlitschka,18.11.,Franz,Anton,Gabler,Elisabeth
+Tschenkowitz,19.11.,Florian,Joseph,Merta,Anna Maria
+Weypersdorf,20.11.,Veronica,Anton,Chladek,Veronica
+Worlitschka,25.11.,Rosalia,Gotthard,Heisler,Anna Maria
+Tschenkowitz,25.11.,Maria Josepha,Johann Georg,Krögler,Genoveffa
+Jamnay,27.11.,Johann,Anton,Jandeghsek#,Catharina
+
+DP 14
+
+Worlitschka,2.12.,Johann Wenzel,Franz,Krögler,Apollonia
+Weypersdorf,3.12.,Anton,Johann,Kubesch,Rosalia
+Tschenkowitz,4.12.,Maria Barbara,Anton,Weinlich,Veronica
+Lubnik,8.12.,Nikolaus,Adalbert,Schafferz,Catharina
+Weypersdorf,14.12.,Theresia,Johann,Janisch#,Margaretha
+Tschenkowitz,20.12.,Catharina,Joseph,Heisler,Veronica
+Tschenkowitz,21.12.,Franz Joseph,Johann,Krögler,Veronica
+Weypersdorf,21.12.,Anna,Johann,Morawetz,Magdalena
+Jablona,21.12.,Theresia,Ignatz,Sedlarcz,Anna
+Weypersdorf,23.12.,Apollonia,Johann,Rehsler,Catharina
+Tschenkowitz,25.12.,Augustin,Johann,Nehyba,Veronica
+Jablona,28.12.,Dorothea Catharina,Bartholomäus,Kobliczek,Catharina
+Waltersdorf,28.12.,Catharina,Jacob,Czernokorsky,Marianna
+Waltersdorf,28.12.,Johann,Johann,Killar#,Elisabeth
+Worlitschka,31.12.,Thekla,Andreas,Krögler,Elisabeth
+
+DP 15
+
+1768
+
+Waltersdorf,2.1.,Johann,Johann,Zalmann,Anna
+Waltersdorf,3.1.,Johanna,Paul,Waniczek,Catharina
+Waltersdorf,4.1.,Juliana,Johann,Killar,Catharina
+Weypersdorf,7.1.,Theresia,Paul,Daubrava,Judith
+Jamnay,11.1.,Juliana,Anton,Philipp,Judith
+Waltersdorf,14.1.,Johann,Joseph,Mister,Catharina
+Waltersdorf,17.1.,Marianna,Martin,Nedostalek,Judith
+Weypersdorf,22.1.,Theresia,Anton,Schembera,Rosalia
+Jamnay,29.1.,Rosalia,Anton,Steyskal,Catharina
+Waltersdorf,29.1.,Catharina,Paul,Krcziwohlawek,Catharina
+Waltersdorf,4.2.,Johann,Johann,Hotovetz#,Anna
+Weypersdorf,7.2.,Apollonia,Augustin,Janku,Rosalia
+Waltersdorf,7.2.,Catharina,Joseph,Waniczek,Veronica
+Jamnay,21.2.,Wenceslaus,Wenceslaus,Czernohaus,Rosalia
+Weypersdorf,21.2.,Anna,Martin,Morawetz,Rosalia
+
+DP 16
+
+Jamnay,23.2.,Anna Maria,Adalbert,Czernohaus,Dorothea
+Weypersdorf,26.2.,Joachim,Johann,Heyl,Catharina
+Waltersdorf,29.2.,Johanna,Wenceslaus,Pauk,Anna
+Jamnay,2.3.,Adalbert,Joseph,Srschen,Judith
+Waltersdorf,16.3.,Wenceslaus,Vitus,Kaschka,Anna Maria
+Waltersdorf,4.4.,Theresia,Joseph,Kratky,Judith
+Weypersdorf,19.4.,Joseph,Johann,Skaliczky,Rosalia
+Weypersdorf,27.4.,Marina,Martin,Kubiczek,Marina
+Waltersdorf,29.4.,Anna,Joseph,Maslo,Catharina
+Waltersdorf,2.5.,Joseph,Joseph,Kubin,Catharina
+Waltersdorf,4.5.,Johann,Joseph,Wondra,Veronica
+Weypersdorf,6.5.,Rosalia,Anton,Heisler,Rosalia
+Jamnay,8.5.,Johann,Joseph,Spaczek,Elisabeth
+Jamnay,16.5.,Juliana,Johann,Killar,Anna
+Waltersdorf,18.5.,Theresia,Martin,Chromy,Anna
+
+DP 17
+
+Weypersdorf,22.5.,Theresia,Paul,Kobliczek,Judith
+Jamnay,22.5.,Johann,Joseph,Philipp,Catharina
+Jamnay,22.5.,Anton,Johann,Prokopetz,Anna
+Jamnay,28.5.,Joseph,Joseph,Hansliczek,Marianna
+Waltersdorf,31.5.,Joseph,Georg,Kuczera,Catharina
+Waltersdorf,5.6.,Anna Theresia,Georg,Jukl,Anna
+Jablona,12.6.,Anna,Johann,Skaliczky,Barbara
+Weypersdorf,13.6.,Anna,Wenceslaus,Skaliczky,Anna
+Jablona,22.6.,Catharina,Joseph,Rubesch,Catharina
+Waltersdorf,23.6.,Joseph Johann,Franz,Ender#,Anna
+Waltersdorf,23.6.,Ludwig,Joseph,Mrazek,Judith
+Jablona,29.6.,Peter Paul,Joseph,Kostron,Johanna
+Jamnay,29.6.,Peter Paul,Adalbert,Bednarz,Judith
+Jablona,1.7.,Catharina,Florian,Schewl,Anna
+Jablona,1.7.,Josepha Marianna,Johann,Kleslo,Catharina
+Jablona,5.7.,Joseph,Johann,Hegerlik,Rosalia
+
+DP 18
+
+Waltersdorf,6.7.,Johann,Paul,Uher,Elisabeth
+Jamnay,6.7.,Jacob Tobias,Paul,Waschiczek,Dorothea
+Waltersdorf,7.7.,Rosalia,Georg,Waniczek,Rosalia
+Weypersdorf,8.7.,Anna,Anton,Wondra,Rosalia
+Weypersdorf,10.7.,Joseph,Adam,Chladek,Rosalia
+Waltersdorf,14.7.,Rosalia,Joseph,Kristek,Catharina
+Waltersdorf,16.7.,Catharina,Paul,Krcziwohlawek,Catharina
+Waltersdorf,17.7.,Franz,Johann,Kaschka,Johanna
+Weypersdorf,24.7.,Karl,Wenceslaus,Heyl,Marina
+Weypersdorf,24.7.,Wenceslaus,Wenceslaus,Wurscht,Anna
+Weypersdorf,24.7.,Anton,Johann,Skaliczky,Eva
+Jamnay,25.7.,Anna Maria,Paul,Gironcz,Anna
+Weypersdorf,26.7.,Apollonia,Paul,Skaliczky,Rosalia
+Waltersdorf,28.7.,Rosalia,Adalbert,Teykl,Marianna
+Jamnay,6.8.,Anna Maria,Wenceslaus,Czernohaus,Anna
+Waltersdorf,10.8.,Georg,Georg,Jeczek,Anna
+
+DP 19
+
