@@ -1,0 +1,3396 @@
+Sterbe
+Böhmen
+Tschechien
+Kirchenmatrik r.k
+Tschenkowitz
+Cenkovice
+rk
+1761-1784
+
+DP 2
+
+1761
+
+Worlitschka,2.1.,Wenceslaus,Wenceslaus,Krögler,3m
+Waltersdorf,7.1.,Johann,Martin,Bieczalek,11d
+Worlitschka,7.1.,Heinrich,Anton,Krögler,9m
+Jablona,8.1.,Karl,Augustin,Waczek,1d
+Jablona,15.1.,Karl,-,Skaliczky,6m
+Weypersdorf,15.1.,Magdalena,Ludwig,Darczilek,62 (Ehefrau)
+Weypersdorf,15.1.,Franz,Martin,Jandegsek,13d
+
+DP 3
+
+Worlitschka,20.1.,Rosina,Gottfried,Heisler,63 (Witwe)
+Jablona,20.1.,Magdalena,Johann,Czervinka,76 (Ehefrau)
+Jablona,20.1.,Johann,Johann,Wottawa,3m
+Lubnik,21.1.,Rosina,Wilhelm,Sti#tina,35
+Jablona,24.1.,Johann,-,Heylek,84
+Jamnay,29.1.,Georg,-,Philipp,80 (Witwer)
+Jablona,29.1.,Barbara,Franz,Grus,86 (Witwe)
+Tschenkowitz,1.2.,Georg,-,Noschke,68
+Waltersdorf,4.2.,Johann,Wenceslaus,Budsich,12w
+Weypersdorf,4.2.,Judith,Paul,Skaliczky,7d
+Waltersdorf,7.2.,Paul,Paul,Hrdina,8w
+Weypersdorf,8.2.,Georg,-,Chladek,63
+Neudorf,8.2.,Anna,Paul,Janisch,35 (Ehefrau)
+Waltersdorf,13.2.,Catharina,Martin,Kratky,50
+
+DP 4
+
+Tschenkowitz,15.2.,Franz Karl,Wenceslaus,Schüll,11m
+Neudorf,15.2.,Julianna,Caspar,Bier,7
+Weypersdorf,16.2.,Magdalena,Martin,Wondra,3
+Weypersdorf,22.2.,Catharina,Mathias,Chladek,30 (Ehefrau)
+Weypersdorf,24.2.,Franz,-,Havelka,50 (Witwer)
+Waltersdorf,3.3.,Paul,Paul,Wondra,25
+Jablona,4.3.,Catharina,Johann,Wottawa,20w
+Worlitschka,11.3.,Genoveffa,Gotthard,Schüll,18d
+Weypersdorf,14.3.,Martin,-,Marek,60
+Neudorf,15.3.,Clemens,Ferdinand,Heisler,6
+Jamnay,17.3.,Marina,Johann,Mach,80 (Witwe,Beruf Inwohnerin)
+Weypersdorf,19.3.,Paul,-,Burian,80
+Lubnik,21.3.,Anna,Johann,Maczak,90 (#)("Im Hause des Adalbert Schaffarcz")
+Waltersdorf,21.3.,Johann,-,Kaschka,40
+Weypersdorf,23.3.,Paul,-,Marek,83
+
+DP 5
+
+Worlitschka,26.3.,Susanna,Johann,Wagner,60
+Weypersdorf,26.3.,Catharina,Johann,Resler,20m
+Weypersdorf,27.3.,Anton,Georg,Kuczilek,6m
+Waltersdorf,28.3.,Anna,Johann,Zelinka,65 (Witwe,Beruf Inwohnerin)
+Waltersdorf,28.3.,Veronica,Franz,Kobliczek,52 (Ehefrau)
+Weypersdorf,29.3.,Rosalia,Johann,Steyskal,9m
+Weypersdorf,6.4.,Johann,-,Wondra,40
+Waltersdorf,6.4.,Joseph,Paul,Marischek,3
+Jamnay,7.4.,Matthäus,-,Steyskal,85 (Witwer,Beruf Exemptarius#)
+Neudorf,8.4.,Wenceslaus,-,Roczen,67
+Jamnay,12.4.,Catharina,Wenceslaus,Czernohaus,7w
+Waltersdorf,15.4.,Joseph,Joseph,Dittrich,9m
+Waltersdorf,18.4.,Franz,Martin,Bednarcz,39 (#)("Im Hause des Johann Bednarcz")
+Weypersdorf,20.4.,Paul,-,Skaliczky,60
+Weypersdorf,20.4.,Judith,Martin,Bechaczek,65 (Witwe,Beruf Exemptaria)
+
+DP 6
+
+Jamnay,23.4.,Anton,Matthäus,Steyskal,4m
+Weypersdorf,24.4.,Paul,-,Steyskal,60
+Weypersdorf,25.4.,Dorothea,Adalbert,Marek,54 (Ehefrau)
+Weypersdorf,25.4.,Martin,Martin,Morawetz,18
+Tschenkowitz,26.4.,Johann Wenceslaus,Fabian,Kratky,3
+Jablona,26.4.,Franz,-,Sedlarcz,63
+Worlitschka,3.5.,Maria Elisabeth,Heinrich,Wagner,4d
+Worlitschka,6.5.,Theresia,Paul,Polak,18m
+Weypersdorf,7.5.,Marina,Augustin,Skaliczky,73 (Ehefrau)
+Neudorf,7.5.,Caspar,-,Bün,52
+Tschenkowitz,8.5.,Johann,-,Langhammer,48
+Waltersdorf,8.5.,Anna,Johann,Krcziwohlawek,10
+Jamnay,12.5.,Anna,Johann,Trampota,40 (Ehefrau)
+Jamnay,13.5.,Dorothea,Georg,Lischka,53 (Ehefrau)
+Neudorf,15.5.,Elias,Elias,Bün,4w
+
+DP 7
+
+Jamnay,18.5.,Dorothea,Wenceslaus,Hraczek,12d
+Neudorf,23.5.,Rosalia,Joseph,Stephan,6m
+Tschenkowitz,27.5.,Christian,-,Polak,50
+Waltersdorf,30.5.,Anna,Wenceslaus,Pauk,53 (Ehefrau)
+Waltersdorf,3.6.,Jacob,-,Kratky,70
+Weypersdorf,7.6.,Marina,Martin,Skaliczky,45 (Ehefrau)
+Worlitschka,9.6.,Franz,-,Krögler,60
+Jamnay,10.6.,Johanna,Joseph,Chladek,9w
+Weypersdorf,11.6.,Judith,Franz,Bechaczek,55 (Witwe)
+Jamnay,11.6.,Wenceslaus,Johann,Waczek,14d
+Worlitschka,15.6.,Rosalia,Wenceslaus,Schlesinger,1
+Waltersdorf,21.6.,Catharina,Jacob,Kaschka,40 (Witwe)
+Weypersdorf,22.6.,Veronica,Johann,Suchomel,42 (Ehefrau)
+Jablona,28.6.,Johann,David,Merta,6
+Weypersdorf,28.6.,Judith,Martin,Kubiczek,8d
+
+DP 8
+
+Tschenkowitz,30.6.,Veronica,Michael,Heisler,38 (Witwe)
+Neudorf,9.7.,Barbara,Paul,Lyer,4m
+Tschenkowitz,12.7.,Franz Karl,Franz,Langhammer,2
+Worlitschka,16.7.,Johanna,Wenceslaus,Heyl,1
+Worlitschka,17.7.,Theresia,Heinrich,Wagner,10
+Tschenkowitz,18.7.,Elias Anton,Gottfried,Czernohorsky,15
+Worlitschka,21.7.,Peregrin,Franz,Heisler,9w
+Tschenkowitz,22.7.,Peregrin,Johann Georg,Krögler,14d (#)("Peregrin Johann,Georg" oder "Peregrin,Johann Georg"?)
+Worlitschka,27.7.,Maria Anna,Gotthard,Schlesinger,14d
+Waltersdorf,29.7.,Johann,Wenceslaus,Hrdina,6w
+Tschenkowitz,30.7.,Gotthard,-,Polak,35
+Tschenkowitz,1.8.,Susanna,Martin,Hrdina,32 (Ehefrau)
+Neudorf,1.8.,Christoph,-,Katzer,46
+Jamnay,3.8.,Catharina,Matthäus,Steyskal,84 (Witwe)
+Jamnay,3.8.,-,Matthäus,Philipp,1d (#)(Matthäus Name des Vaters?)
+
+DP 9
+
+Waltersdorf,7.8.,Joseph,Vitus,Nowak,3
+Worlitschka,8.8.,Rosalia,Bartholomäus,Schlesinger,8w
+Tschenkowitz,9.8.,Johanna,Johann Wenceslaus,Koblischek,7w
+Weypersdorf,10.8.,Johann,Johann,Kubesch,2d
+Worlitschka,16.8.,Veronica,Caspar,Krögler,75 (Witwe)
+Weypersdorf,16.8.,Paul,Paul,Daubrawa,8m
+Tschenkowitz,19.8.,Theresia,Johann,Egydi,3m
+Waltersdorf,20.8.,Johann,Joseph,Czernohorsky,7
+Jablona,27.8.,Johann,-,Skaliczky,78
+Weypersdorf,30.8.,Georg,-,Doleczal,60
+Tschenkowitz,4.9.,Elisabeth,Wenceslaus,Heisler,30 (Ehefrau)
+Worlitschka,5.9.,Johann Wenceslaus,Anton,Krögler,5
+Worlitschka,5.9.,Franz,Heinrich,Schlesinger,8d
+Tschenkowitz,8.9.,Johann Wenceslaus,Paul,Kobliczek,11d
+
+DP 10
+
+Worlitschka,13.9.,Dominik,Gottfried,Schlesinger,1
+Lubnik,13.9.,Maria Theresia,Johann,Petriczek,7d
+Tschenkowitz,16.9.,Philipp,Wenceslaus,Sonntag,1
+Weypersdorf,18.9.,Joseph,Martin,Kubiczek,7
+Worlitschka,20.9.,Rosalia,Joseph,Hrdina,3
+Jamnay,22.9.,Wenceslaus,Wenceslaus,Czernohaus,2
+Weypersdorf,23.9.,Magdalena,Mathias,#er#a,36 (Beruf Bettlerin)("Im Hause des Franz Resler")
+Jamnay,25.9.,Adalbert,Mathias,Steyskal,6
+Jamnay,25.9.,Paul,Wenceslaus,Prokopecz,11
+Jamnay,27.9.,Augustin,Augustin,Czernohaus,5
+Tschenkowitz,27.9.,Veronica,Johann,Heisler,16
+Jamnay,28.9.,Barbara,Joseph,Philipp,10#
+Jamnay,2.10.,Johann,Joseph,Philipp,3
+Jamnay,4.10.,Anna,Wenceslaus,Philipp,18m
+
+DP 11
+
+Weypersdorf,9.10.,Anna,Paul,Bechaczek,14m
+Tschenkowitz,13.10.,Gottlieb,Caspar,Feltzmann,1
+Weypersdorf,13.10.,Karl,Adam,Schembera,18m
+Weypersdorf,14.10.,Johann,-,Chladek,60
+Worlitschka,15.10.,Johanna,Gottlieb,Schlesinger,18m
+Jamnay,15.10.,Anna,Matthäus,Steyskal,5
+Waltersdorf,15.10.,Martin,Paul,Krcziwohlawek,4
+Tschenkowitz,16.10.,Michael,-,Egydi,60 (Witwer,Beruf Inwohner)
+Weypersdorf,18.10.,Caspar,Johann,Janku,3
+Weypersdorf,20.10.,Judith,Wenceslaus,Weyprachtitzky,2
+Jamnay,20.10.,Georg,-,Kregczy,55
+Jamnay,21.10.,Catharina,Paul,Steyskal,3
+Tschenkowitz,22.10.,Veronica,Franz,Krögler,82 (Witwe)("Im Hause des Wenceslaus Heisler")
+Jamnay,26.10.,Georg,-,Lischka,61
+
+DP 12
+
+Tschenkowitz,27.10.,Anton,-,Bier,38
+Tschenkowitz,31.10.,Anna Maria,Fabian,Kratky,13m
+Worlitschka,9.11.,Johann,-,Wagner,60
+Jamnay,12.11.,Dominik,Wenceslaus,Giru,14m
+Tschenkowitz,12.11.,Apollonia,Johann,Hertl,33 (Ehefrau)
+Waltersdorf,20.11.,Judith,Johann,Waschiczek,60 (Witwe)
+Weypersdorf,22.11.,Anna,Martin,Hawelka,27
+Jamnay,23.11.,Martin,Paul,Czernohaus,5
+Waltersdorf,25.11.,Judith,Wenceslaus,Chromy,65 (Ehefrau)
+Tschenkowitz,26.11.,Karl,Johann,Hertl,3m
+Jamnay,28.11.,Paul,-,Philipp,90
+Tschenkowitz,5.12.,Anna Maria,Johann,Fischer,62 (Ehefrau)
+Tschenkowitz,5.12.,Anna Maria,Johann,Hentzl,18
+Tschenkowitz,6.12.,Elisabeth,Wenceslaus,Polak,13
+Tschenkowitz,8.12.,Judith,Joseph,Seidlmann,45 (Ehefrau)
+
+DP 13
+
+Worlitschka,8.12.,Rosina,Paul,Schüll,55 (Witwe)
+Tschenkowitz,10.12.,Karl,Caspar,Bier,8
+Waltersdorf,11.12.,Eva,Georg,Jansa,30 (Ehefrau)
+Weypersdorf,13.12.,Rosalia,Augustin,Janku,6m
+Weypersdorf,13.12.,Johann,-,Janku,34
+Worlitschka,16.12.,Anton,Anton,Duschek,11m
+Tschenkowitz,18.12.,Franz,Wenceslaus,Langhammer,1
+Waltersdorf,19.12.,Anna,Wenceslaus,Kaschka,70 (Ehefrau)
+Tschenkowitz,20.12.,Johann,-,Weinlich,63
+Weypersdorf,23.12.,Franz,-,-,20 (#) U: Kind von Magdalena Wodliczkin
+Worlitschka,26.12.,Anna Maria,Franz,Schlesinger,70 (Ehefrau)
+Tschenkowitz,28.12.,Juliana,Caspar,Bier,13
+Waltersdorf,31.12.,Anna,Johann,Ptaczek,60 (Witwe,Beruf Inwohnerin)
+Tschenkowitz,31.12.,Gotthard,-,Langhammer,30
+
+DP 14
+
+1762
+
+Jamnay,5.1.,Dorothea,Georg,Seschen,70 (Witwe)
+Weypersdorf,6.1.,Ignatz,Wenceslaus,Bechaczek,6
+Waltersdorf,8.1.,Johann,-,Seybal,86
+Tschenkowitz,8.1.,Johann,-,Hentzl,60
+Tschenkowitz,10.1.,Susanna,Franz,Koller,70 (Ehefrau)
+Neudorf,10.1.,Theresia,Martin,Lyer,7
+Waltersdorf,11.1.,Judith,Paul,Bednarcz,2
+Tschenkowitz,14.1.,Salomena,Caspar,Heisler,24
+Waltersdorf,16.1.,Johann,-,Schimek,82
+Tschenkowitz,17.1.,Gottlieb,Caspar,Feltzmann,13
+Waltersdorf,18.1.,Dorothea,Johann,Lischka,55 (Ehefrau)
+Tschenkowitz,20.1.,Ignatz,-,Langhammer,27 (Beruf Inwohner)
+Neudorf,20.1.,Anna Maria,Augustin,Heisler,56 (Witwe)
+Jablona,21.1.,Dorothea,Ignatz,Wottawa,1d
+
+DP 15
+
+Jablona,25.1.,Anna Maria,Augustin,Waczek,2
+Waltersdorf,29.1.,Magdalena,Joseph,Dittrich,- (Ehefrau)(Alter wurde nicht angegeben)
+Tschenkowitz,30.1.,Judith,Michael,Hentzl,50 (Ehefrau)
+Tschenkowitz,30.1.,Philipp,Anton,Blaczek,2
+Weypersdorf,3.2.,Joseph,Johann,Falta,16
+Worlitschka,3.2.,Franz Anton,Andreas,Krögler,5w
+Tschenkowitz,5.2.,Anton,Caspar,Fischer,10d
+Tschenkowitz,7.2.,Theresia,Amadeus,Nentvich,15m
+Jamnay,8.2.,Wenceslaus,-,Czernohaus,66
+Weypersdorf,8.2.,Georg,-,Daubrawa,60
+Jablona,10.2.,Christian,Joseph,Janisch,6m
+Weypersdorf,11.2.,Judith,Georg,Marek,62# (Witwe)
+Waltersdorf,16.2.,Johann,Georg,Waniczek,14d
+Tschenkowitz,17.2.,Mathias,-,Sonntag,75
+
+DP 16
+
+Waltersdorf,19.2.,Judith,Georg,Waniczek,25 (Ehefrau)
+Waltersdorf,19.2.,Johann,Franz,Czernohorsky,4
+Waltersdorf,20.2.,Wenceslaus,-,Ptaczek,40
+Worlitschka,20.2.,Susanna,Johann,Heisler,80 (Witwe)
+Waltersdorf,21.2.,Franz,-,Jansa,39
+Jablona,21.2.,Anna,Jacob,Hawel#,60 (#)("Im Hause des Melchior Stansky#")
+Tschenkowitz,23.2.,Augustin,-,Horaczek,60
+Weypersdorf,23.2.,Catharina,Karl,Brochaschka,60
+Waltersdorf,24.2.,-,Martin,Charvat,7 (#)(Eine Tochter, Name des Kindes wurde nicht genannt)
+Worlitschka,24.2.,Johann Wenceslaus,-,Krögler,3m
+Jamnay,26.2.,Rosina,Johann,Bauchal,50 (Ehefrau)
+Waltersdorf,27.2.,Anna,Johann,Charvat,26 (Ehefrau)
+Waltersdorf,28.2.,Elisabeth,Paul,Tegkel,28 (Ehefrau)
+Jamnay,28.2.,Anna Juliana,Adalbert,Bednarcz,10d
+
+DP 17
+
+Waltersdorf,1.3.,Catharina,Paul,Krcziwohlawek,5m
+Jamnay,4.3.,Johann,-,Bauchal,55
+Tschenkowitz,6.3.,Maria,Paul,Stöhr,55 (Witwe,Beruf Inwohnerin)
+Tschenkowitz,7.3.,Johann,Augustin,Weinlich,15m
+Jamnay,9.3.,Catharina,Paul,Philipp,70 (Witwe)
+Waltersdorf,12.3.,Joseph,Paul,Charvat,8m
+Weypersdorf,12.3.,Martin,-,Hawelka,60
+Neudorf,13.3.,Apollonia,Christian,Schüll,19
+Neudorf,13.3.,Ludwig,Franz,Lyer,15m
+Jamnay,15.3.,Joseph Dominik,Wenceslaus,Ambrosch,9d
+Waltersdorf,15.3.,Joseph,-,Krcziwohlawek,30
+Waltersdorf,17.3.,Wenceslaus,Wenceslaus,Budisch,2m
+Waltersdorf,18.3.,Paul,-,Krcziwohlawek,80
+Waltersdorf,20.3.,Anna,Joseph,Mraczek,4m
+
+DP 18
+
+Weypersdorf,21.3.,Catharina,Augustin,Kubelka,25d
+Jablona,30.3.,Catharina,Johann,Trampota,60 (Witwe,Beruf Inwohnerin)
+Worlitschka,1.4.,Anna Maria,Andreas,Schlesinger,80 (Witwe)
+Worlitschka,2.4.,Anna Maria,Paul,Heisler,30
+Weypersdorf,2.4.,Johann,-,Killar,102
+Weypersdorf,4.4.,Marina,Johann,Heyl,70 (Witwe)
+Weypersdorf,4.4.,Dorothea,Paul,Matiegka,80 (Witwe)
+Waltersdorf,5.4.,Marina,Georg,Chromy,60 (#)("Im Hause des Tobias Kratky")
+Waltersdorf,6.4.,Maria,Georg,Killar,28 (Ehefrau)
+Jamnay,6.4.,Dorothea,Augustin,Bauchal,25
+Neudorf,7.4.,Michael,-,Bok,80
+Jablona,8.4.,Anton,-,Adolph,63
+Jamnay,9.4.,Dorothea,Georg,Hegerlik,44 (Ehefrau)
+Waltersdorf,10.4.,Anna,Franz,Jeczek,30 (Ehefrau)
+
+DP 19
+
+Lubnik,12.4.,Marianna,Adalbert,Schaffarcz,16d
+Waltersdorf,14.4.,Johann,-,Waniczek,54
+Jamnay,17.4.,Anna,Georg,Bchaunek,45 (Ehefrau)
+Weypersdorf,17.4.,Matthäus,-,Wondra,80
+Waltersdorf,19.4.,Johann,-,Pauk,33
+Jamnay,19.4.,Catharina,Matthäus,Kobliczek,70 (Witwe)
+Weypersdorf,20.4.,Anna,Georg,Kuczilek,27 (Ehefrau)
+Waltersdorf,20.4.,Marina,Tobias,Kratky,30
+Waltersdorf,23.4.,Theresia,Georg,Krcziwohlawek,3
+Waltersdorf,25.4.,Georg,-,Spiczak,54
+Worlitschka,30.4.,Heinrich,Heinrich,Schüll,2
+Tschenkowitz,2.5.,Maria,Anton,Blaschke,40 (Ehefrau)
+Waltersdorf,7.5.,Paul,-,Bednarcz,50
+Tschenkowitz,8.5.,Georg,-,Schlesinger,30
+
+DP 20
+
+Jablona,9.5.,Wenceslaus,Wenceslaus,Ondraczek,6
+Waltersdorf,10.5.,Wenceslaus,-,Bieczalek,70
+Worlitschka,15.5.,Augustin,-,Heisler,62
+Jamnay,20.5.,Johann,Paul,Waczek,6
+Jamnay,22.5.,Anna,Paul,Waschiczek,10d
+Weypersdorf,22.5.,Anna,Franz,Resler,8d
+Jablona,24.5.,Dominik,Johann,Kobliczek,6w
+Tschenkowitz,26.5.,Elisabeth,Joseph,Weinlich,15m
+Neudorf,28.5.,Anton,Wenceslaus,Schmiedt,15w
+Worlitschka,28.5.,Elisabeth,Christoph,Heisler,60 (Witwe)
+Jamnay,30.5.,Johann,-,Waczek,65
+Waltersdorf,30.5.,Catharina,Paul,Jansa,60
+Jamnay,2.6.,Adalbert,Johann,Philipp,2
+Tschenkowitz,2.6.,Rosalia,Gotthard,Heyl,2m
+
+DP 21
+
+Worlitschka,5.6.,Anna Maria,Wenceslaus,Czernohorsky,6d
+Weypersdorf,6.6.,Anna,Martin,Hawelka,2m
+Waltersdorf,9.6.,Theresia,Paul,Matiegka,5m
+Tschenkowitz,10.6.,Maria Anna,Christian,Fischer,2d
+Weypersdorf,13.6.,Theresia,Johann,Skaliczky,15m
+Waltersdorf,13.6.,Anna,Paul,Matiegka,24 (Ehefrau)
+Tschenkowitz,15.6.,Anna Maria,Wenceslaus,Kobliczek,4w
+Jamnay,16.6.,Wenceslaus,Martin,Spaczek,4w
+Waltersdorf,18.6.,Paul,-,Uher,35
+Waltersdorf,21.6.,Catharina,Jospeh,Machaczek,6m
+Weypersdorf,26.6.,Theresia,Paul,Skaliczky,3
+Waltersdorf,27.6.,Catharina,Paul,Czernohorsky,70 (Ehefrau)
+Worlitschka,28.6.,Rosina,Caspar,Heisler,66 (Ehefrau)
+Weypersdorf,28.6.,Johann,Johann,Schüll,6
+
+DP 22
+
+Weypersdorf,1.7.,Paul,-,Skaliczky,2m
+Neudorf,2.7.,Franz Karl,Thomas,Zobel,6m
+Weypersdorf,6.7.,Theresia,Martin,Heyl,6m
+Waltersdorf,12.7.,Paul,-,Hrdina,25
+Weypersdorf,13.7.,Martin,Johann,Schembera,6
+Neudorf,14.7.,Johann Wenceslaus,Wenceslaus,Roczen,2
+Waltersdorf,17.7.,Anton,Franz,Hawelka,7#d
+Waltersdorf,22.7.,Anna,Johann,Waschiczek,20m
+Waltersdorf,25.7.,Johann,Jacob,Spiczak,18
+Weypersdorf,3.8.,Marina,Franz,Resler,14
+Jamnay,7.8.,Dorothea,Augustin,Hansliczek,- (Ehefrau)(Alter der Verstorbenen wurde nicht genannt)
+Neudorf,8.8.,Juliana,Johann,Victorin,15m
+Jamnay,10.8.,Anna,Joseph,Morawetz,45 (Ehefrau)
+Waltersdorf,16.8.,Anna,Joseph,Krcziwohlawek,2
+
+DP 23
+
+Jablona,21.8.,Rosina,Wenceslaus,Domlatil,65 (Witwe)
+Tschenkowitz,21.8.,Anna Maria,Augustin,Heyl,55 (Witwe)
+Tschenkowitz,24.8.,Martin,Andreas,Krögler,9m
+Tschenkowitz,24.8.,Johann,-,Bier,62
+Weypersdorf,25.8.,Martin,-,Heyl,35
+Waltersdorf,7.9.,Johann,Anton,Hrdina,9w
+Waltersdorf,8.9.,Anna,Jacob,Spiczak,39 (Ehefrau)
+Jamnay,8.9.,Veronica,Martin,Chladek,50 (#)("Im Hause des Paul Philipp")
+Worlitschka,11.9.,Johann Joseph,Gotthard,Krögler,14d
+Waltersdorf,12.9.,Judith,Johann,Uher,40 (Ehefrau)
+Waltersdorf,12.9.,Franz,Catharina,Kaschka,1
+Jablona,13.9.,Anna,Augustin,Neschkudla,6m
+
+DP 24
+
+Jablona,13.9.,Anna,Paul,Trampota,22
+Neudorf,16.9.,Maria Elisabeth,Wenceslaus,Roczen,8d
+Jamnay,16.9.,Adalbert,Johann,Bauchal,6m
+Weypersdorf,16.9.,Anton,Johann,Chladek,6m
+Jamnay,16.9.,Judith,Joseph,Morawetz,5w
+Jamnay,16.9.,Johann,Martin,Maczat,25 (#)("Im Hause des Augustin Maczat")
+Worlitschka,20.9.,Rosalia,Anton,Weinlich,9m
+Jablona,23.9.,Catharina,Anton,Schwestka,4
+Tschenkowitz,29.9.,Elisabeth,Florian,Fischer,14d
+Weypersdorf,29.9.,Franz,Johann,Kubesch,3w
+Tschenkowitz,30.9.,Franz,-,Weinlich,70
+Waltersdorf,1.10.,Joseph,Jacob,Spiczak,1
+Worlitschka,6.10.,Anna Maria,Susanna,Chladek,8d
+Weypersdorf,15.10.,Anna,Paul,Daubrawa,60 (Witwe,Beruf Inwohnerin)
+
+DP 25
+
+Tschenkowitz,20.10.,Theresia,Anton,Kosch,6w
+Tschenkowitz,21.10.,Andreas,-,Bier,75
+Waltersdorf,22.10.,Rosalia,Paul,Kratky,6
+Jablona,26.10.,Eleonora,Martin,Jansa,11m
+Waltersdorf,27.10.,Anna,Georg,Kaschka,60 (Witwe,Beruf Bettlerin)
+Waltersdorf,27.10.,Joseph,Jacob,Czernohorsky,3
+Weypersdorf,31.10.,Anna,Johann,Janku,14w
+Jamnay,31.10.,Anna,Paul,Tegkl,73 (Ehefrau)
+Waltersdorf,3.11.,Johann,Georg,Mraczek,5
+Tschenkowitz,8.11.,Anna Maria,Wenceslaus,Heisler,6m
+Tschenkowitz,9.11.,Franz,Wenceslaus,Heisler,1
+Waltersdorf,9.11.,Rosalia,Paul,Hrdina,7m
+Jablona,13.11.,Bernhard,Bernhard,Schevel,3
+Waltersdorf,16.11.,Joseph,Martin,Biczalek,4
+
+DP 26
+
+Jablona,18.11.,Ignatz,Ignatz,Adolph,2
+Jamnay,21.11.,Paul,-,Tegkl,80
+Tschenkowitz,21.11.,Franz Karl,Johann Wenceslaus,Kobliczek,3
+Tschenkowitz,22.11.,Matthäus,-,Feltzmann,70 (Witwer,Beruf Inwohner)
+Waltersdorf,22.11.,Anna,Wenceslaus,Budisch,3
+Jamnay,30.11.,Anna,Johann Georg,Bednarcz,2
+Tschenkowitz,4.12.,Johann,-,Bier,65
+Tschenkowitz,4.12.,Franz Karl,Paul,Mister,1
+Waltersdorf,5.12.,Joseph,Paul,Pauk,3m
+Tschenkowitz,10.12.,Laurenz,Amadeus,Nentvich,20d
+Waltersdorf,11.12.,Wenceslaus,-,Skaliczky,95 (Witwer,Beruf Exemplarius#)
+Waltersdorf,12.12.,Elisabeth,Johann,Jansa,50
+Waltersdorf,13.12.,Catharina,Franz,Jansa,52
+
+DP 27
+
+Lubnik,15.12.,Marina,Wilhelm,Stirtina#,90 (Witwe,Beruf Exemplaria#)
+Tschenkowitz,17.12.,Tobias,-,-,8m (#) U:Kind von Anna Charvat
+Waltersdorf,18.12.,Georg,-,Kobliczek,50
+Jablona,18.12.,Agnes,Ignatz,Kupka,3
+Weypersdorf,22.12.,Martin,Martin,Kubiczek,7w
+Jamnay,22.12.,Anna,Anton,Philipp,2
+Waltersdorf,23.12.,Paul,-,Czernohorsky,65 (Witwer)
+Waltersdorf,25.12.,Anna,Johann,Tegkl,39# (Ehefrau)(33 oder 39 oder 53 oder 59?)
+Jamnay,25.12.,Barbara,Joseph,Philipp,2
+Worlitschka,26.12.,Gotthard,Johann,Koller,3w
+Tschenkowitz,27.12.,Marianna,Wenceslaus,Weinlich,3
+Tschenkowitz,27.12.,Rosalia,Karl,Langhammer,15m
+Neudorf,30.12.,Juliana,Andreas,Schüll,1
+Weypersdorf,31.12.,Judith,Johann,Niderle,5
+
+DP 28
+
+1763
+
+Weypersdorf,1.1.,Catharina,Johann,Marek,70 (#)("Im Hause des Jacob Marek")
+Jamnay,1.1.,Johann,-,Steyskal,46
+Waltersdorf,2.1.,Anna Maria,Martin,Seidlmann,18m
+Tschenkowitz,6.1.,Veronica,Augustin,Kobliczek,40 (Ehefrau)
+Weypersdorf,7.1.,Rosalia,Johann,Niderle,2
+Waltersdorf,9.1.,Judith,Paul,Waschiczek,3
+Waltersdorf,10.1.,Anna,Johann,Waschiczek,26
+Waltersdorf,11.1.,Anton,Paul,Krcziwohlawek,2
+Neudorf,11.1.,Johann,Paul,Roczen,9
+Weypersdorf,12.1.,Ignatz,Paul,Chalaupka,7w
+Weypersdorf,14.1.,Joseph,Mathias,Wondra,1
+Worlitschka,14.1.,Joseph,Karl,Merta,15m
+Tschenkowitz,14.1.,Judith,Paul,Langhammer,63 (Witwe)
+
+DP 29
+
+Tschenkowitz,15.1.,Christoph,-,Heisler,75
+Worlitschka,19.1.,Theresia,Paul,Polak,5m
+Waltersdorf,19.1.,Laurenz,Johann,Tegkl,5m
+Tschenkowitz,19.1.,Catharina,Christoph,Feltzmann,80 (Witwe,Beruf Exemptuaria)
+Weypersdorf,20.1.,Anton,-,Philipp,33
+Weypersdorf,24.1.,Catharina,Johann,Smeykal,70 (Witwe)
+Jamnay,24.1.,Mathias,Paul,Philipp,26
+Tschenkowitz,26.1.,Marina,Paul,Ptaczek,60 (Witwe)
+Tschenkowitz,28.1.,Augustin,-,Polak,70
+Tschenkowitz,29.1.,Marina,Joseph,Merta,3
+Jamnay,30.1.,Joseph,-,Morawetz,45 (Witwer)
+Jablona,31.1.,Anton,-,Jawurek,60
+Weypersdorf,1.2.,Johann,Mathias,Chladek,3m
+Waltersdorf,1.2.,Elisabeth,Johann,Krcziwohlawek,68 (Witwe)
+
+DP 30
+
+Worlitschka,2.2.,Rosalia,Heinrich,Schlesinger,17m
+Jamnay,3.2.,Anna,Joseph,Morawetz,7
+Weypersdorf,5.2.,Judith,Martin,Kubiczek,38# (Ehefrau)(38 oder 78?)
+Weypersdorf,6.2.,Paul,Anton,Steyskal,2
+Jamnay,7.2.,Anton,Joseph,Morawetz,5
+Tschenkowitz,9.2.,Maria,Augustin,Polak,70 (Witwe)
+Jamnay,12.2.,Anna,Wenceslaus,Biehaunek,83 (Ehefrau)
+Jamnay,12.2.,Anna,Wenceslaus,Philipp,9m
+Waltersdorf,14.2.,Anna,Catharina,Kaschka,8
+Jamnay,16.2.,Paul,Paul,Philipp,12d
+Tschenkowitz,20.2.,Theresia,Elias,Bün,3
+Jamnay,23.2.,Catharina,Johann,Mach,80 (Beruf Bettlerin)
+Jamnay,23.2.,Anna,Johann,Valenta,2
+Worlitschka,25.2.,Gotthard,-,Neugebauer,40
+
+DP 31
+
+Waltersdorf,26.2.,Elisabeth,Georg,Jansa,80 (Witwe,Beruf Bettlerin)
+Weypersdorf,27.2.,Theresia,Wenceslaus,Resler,3
+Waltersdorf,1.3.,Joseph,Franz,Czernohorsky,2
+Weypersdorf,2.3.,Veronica,Johann,Czernohorsky,2m
+Weypersdorf,2.3.,Anna,Martin,Wondra,18m
+Waltersdorf,6.3.,Joseph,Johann,Krcziwohlawek,8
+Waltersdorf,7.3.,Rosalia,Joseph,Dittrich,4
+Jablona,7.3.,Johann,Magdalena,Kregczy,8d
+Worlitschka,8.3.,Franz,-,-,55 (#)(Der Nachname wird nicht genannt)
+Worlitschka,8.3.,Franz,Friedrich,Schlesinger,3m
+Weypersdorf,8.3.,Judith,Georg,Heyl,18
+Jablona,10.3.,Dorothea,Johann,Skaliczky,96 (Witwe,Beruf Inwohnerin)
+Jamnay,10.3.,Paul,-,Steyskal,50
+
+DP 32
+
+Waltersdorf,12.3.,Veronica,Paul,Killar,64 (Ehefrau)
+Weypersdorf,12.3.,Johann,Johann,Schembera,3m
+Jamnay,14.3.,Wenceslaus,-,Philipp,55
+Tschenkowitz,14.3.,Veronica,Abraham,Heisler,28 (Ehefrau)
+Weypersdorf,15.3.,Judith,Paul,Wondra,45
+Weypersdorf,19.3.,Johann,Paul,Czernohorsky,1
+Weypersdorf,20.3.,Wenceslaus,-,Heisler,80
+Jamnay,20.3.,Barbara,Johann,Gironcz,5m
+Jamnay,20.3.,Dorothea,Georg,Bauchal,70# (10 oder 70? "Im Hause des Johann Kobliczek")
+Tschenkowitz,21.3.,Anton,Caspar,Sonntag,9m
+Weypersdorf,21.3.,Johann,Jacob,Skaliczky,7d
+Tschenkowitz,23.3.,Franz,Wenceslaus,Sonntag,15d
+Waltersdorf,24.3.,Veronica,Joseph,Machaczek,26 (Ehefrau)
+Waltersdorf,24.3.,Franz,-,Czernohorsky,50
+Tschenkowitz,24.3.,Theresia,Franz,Heisler,9m
+
+DP 33
+
+Jamnay,26.3.,Marina,Georg,Czernohaus,60
+Tschenkowitz,26.3.,Veronica,Paul,Polak,50 (Witwe,Beruf Inwohnerin)("Im Hause des Gotthard Feltzmann")
+Waltersdorf,28.3.,Joseph,Paul,Kobliczek,2m
+Jablona,31.3.,Theresia,Franz,Kobliczek,53 (Ehefrau)
+Weypersdorf,31.3.,Anna,Johann,Mlegnek,4
+Weypersdorf,31.3.,Martin,-,Resler,5
+Jamnay,2.4.,Catharina,Johann,Kobliczek,7d
+Weypersdorf,2.4.,Martin,-,Sedlaczek,50
+Weypersdorf,3.4.,Marina,Johann,Resler,45 (Ehefrau)
+Waltersdorf,7.4.,Theresia,Joseph,Wondra,17m
+Waltersdorf,13.4.,Anna,Wenceslaus,Charvat,55 (Ehefrau)
+Weypersdorf,14.4.,Joseph,Martin,Worlitschka,18m
+Weypersdorf,15.4.,Marina,Johann,Daubrawa,10m
+Neudorf,18.4.,Maria,Christian,Müller,45 (Ehefrau)
+
+DP 34
+
+Waltersdorf,18.4.,Martin,Martin,Bednarcz,40
+Waltersdorf,18.4.,Magdalena,Johann,Hrdina,80 (Witwe,Beruf Inwohnerin)
+Waltersdorf,19.4.,Paul,Paul,Hrdina,5m
+Weypersdorf,19.4.,Judith,Paul,Daubrawa,4
+Tschenkowitz,19.4.,Marianna,Franz,Egydi,5w
+Jablona,20.4.,Anna,Mathias,Steyskal,63 (Witwe,Beruf Inwohnerin)
+Waltersdorf,21.4.,Anna,Johann,Kristek,17d
+Worlitschka,24.4.,Anna Maria,Anton,Pfertner,44 (Ehefrau)
+Tschenkowitz,28.4.,Gottfried,-,Czernohorsky,55
+Tschenkowitz,28.4.,Johann Wenceslaus,Andreas,Bier,9d
+Tschenkowitz,29.4.,Andreas,-,Heisler,56 (Beruf Bettler)
+Jamnay,1.5.,Veronica,Paul,Lischka,9m
+Weypersdorf,2.5.,Judith,Georg,Kubu,20
+Weypersdorf,2.5.,Franz,Anton,Marek,18
+
+DP 35
+
+Waltersdorf,3.5.,Judith,Georg,Kobliczek,66 (Witwe,Beruf Inwohnerin)
+Tschenkowitz,4.5.,Rosalia,Abraham,Heisler,3m
+Jamnay,5.5.,Anton,Anton,Philipp,3m
+Waltersdorf,6.5.,Johann,Johann,Charvat,19m
+Waltersdorf,8.5.,Barbara,Vitus,Jansa,5
+Jamnay,10.5.,Joseph,Georg,Hansliczek,30 (Beurf Inwohner)("Im Hause des Johann Hansliczek")
+Tschenkowitz,10.5.,Theresia,Johann,Heisler,4w
+Tschenkowitz,10.5.,Elisabeth,Gottfried,Czernohorsky,50 (Witwe)
+Jamnay,11.5.,Judith,Johann,Bauchal,17# (#)(11, 12 oder 17?)
+Weypersdorf,11.5.,Anna,Georg,Kuczilek,5
+Waltersdorf,12.5.,Catharina,Johann,Krcziwohlawek,1
+Waltersdorf,12.5.,Rosalia,Paul,Jansa,1
+Waltersdorf,15.5.,Paul,Wenceslaus,Charvat,2
+Neudorf,17.5.,Joseph,Friedrich,Pfeiffer,1
+
+DP 36
+
+Waltersdorf,19.5.,Anna,Joseph,Kristek,4w
+Tschenkowitz,23.5.,Theresia,Johann,Czernohorsky,7
+Neudorf,23.5.,Christoph,-,Bün,60
+Jablona,26.5.,Maria,Ignatz,Adolph,3m
+Waltersdorf,28.5.,Anna,Johann,Pauk,1
+Waltersdorf,29.5.,Dorothea,Georg,Schich#,100 (Beruf Bettlerin)("Im Hause des Georg Krcziwohlawek")
+Jamnay,30.5.,Anna,Augustin,Czernohaus,50 (Witwe)
+Worlitschka,31.5.,Johanna,Georg,Schimek,1
+Weypersdorf,31.5.,Johann,-,Wottawa,53
+Worlitschka,31.5.,Johanna,Franz,Krögler,1
+Worlitschka,1.6.,Franz Anton,Gotthard,Wagner,16m
+Waltersdorf,5.6.,Anna,Georg,Krcziwohlawek,18m
+Waltersdorf,7.6.,Theresia,Georg,Jukel,6m
+Tschenkowitz,8.6.,Ludmilla,Wenceslaus,Hentzl,60 (Witwe)
+
+DP 37
+
+Weypersdorf,10.6.,Anna,Paul,Skaliczky,3
+Waltersdorf,11.6.,Rosalia,Georg,Jansa,5m
+Waltersdorf,12.6.,Franz,Paul,Hrdina,6m
+Tschenkowitz,12.6.,Theresia,Joseph,Kratky,5
+Tschenkowitz,16.6.,Johann,-,Schlesinger,78
+Waltersdorf,18.6.,Magdalena,Johann,Hrdina,60 (Ehefrau)
+Weypersdorf,18.6.,Paul,-,Burian,44
+Tschenkowitz,20.6.,Judith,Paul,Feltzmann,60 (Ehefrau)
+Jablona,21.6.,Wenceslaus,-,Sedlarcz,33#
+Waltersdorf,23.6.,Johann,-,Kubin,50
+Waltersdorf,27.6.,Johann,-,Hrdina,60
+Waltersdorf,1.7.,Wenceslaus,Paul,Kratky,2
+Waltersdorf,1.7.,Anna,Martin,Geczek,60 (Ehefrau)
+Waltersdorf,8.7.,Dorothea,Paul,Jansa,25# (Ehefrau)
+
+DP 38
+
+Weypersdorf,14.7.,Theresia,Paul,Schembera,5m
+Jablona,14.7.,-,Wenceslaus,Havel,55 (#)(Der Vorname wird nicht genannt, "Im Hause der Rosina Stranskin")
+Jamnay,18.7.,Philipp,Wenceslaus,Prokopecz,9m
+Waltersdorf,19.7.,Anna,Joseph,Mraczek,5m
+Neudorf,19.7.,Marianna,Christoph,Bün,3
+Waltersdorf,23.7.,Catharina,Georg,Killar,3
+Weypersdorf,27.7.,Catharina,Paul,Burian,5
+Waltersdorf,30.7.,Anton,Anton,Wondra,25d
+Weypersdorf,30.7.,Martin,Martin,Worlitschka,8
+Waltersdorf,10.8.,Georg,-,Killar,75
+Jamnay,11.8.,Elisabeth,Georg,Chladek,65 (Witwe)
+Worlitschka,11.8.,Theresia,Amadeus,Gritzbauch,6
+Weypersdorf,19.8.,Apollonia,Martin,Zednik,2
+Weypersdorf,19.8.,Joseph,Franz,Beran,6m
+
+DP 39
+
+Tschenkowitz,24.8.,Johann Wenceslaus,Michael,Hentzl,14d
+Jamnay,26.8.,Johann,Joseph,Spaczek,5m
+Jablona,28.8.,Georg,-,Czerwinka,66
+Weypersdorf,28.8.,Anna,Georg,Resler,13m
+Jablona,1.9.,Johann Ignatz,Karl,Grus,1m
+Jamnay,1.9.,Anna,Wenceslaus,Bauchal,90
+Jamnay,5.9.,Veronica,Joseph,Bauchal,1
+Waltersdorf,20.9.,Catharina,Paul,Waniczek,80 (Ehefrau)
+Jamnay,25.9.,Marina,Jacob,Doleczal,60 (Beruf Bettlerin)
+Tschenkowitz,26.9.,Theresia,Fabian,Kratky,9m
+Worlitschka,5.10.,Anton,-,Köller,75
+Worlitschka,10.10.,Johann,-,Moser,70
+Weypersdorf,19.10.,Paul,-,Resler,54
+Jablona,24.10.,-,-,-,30 (Beruf Schuhmacherin#)(Was bedeutet "# Silesita Franz Erben", Tochter oder Ehefrau von Franz Erben? Artis Sutorina == Schuhmacherin? Im Hause des Karl Merta")
+
+DP 40
+
+Waltersdorf,26.10.,Theresia,Catharina,Dittrich,15d
+Waltersdorf,31.10.,Anna,Johann,Geczek,85 (Ehefrau)
+Weypersdorf,1.11.,Johann,Johann,Marek,14d
+Jamnay,5.11.,Apollonia,Wenceslaus,Schlesinger,8
+Worlitschka,8.11.,Rosalia,Anton,Krögler,46d
+Jamnay,8.11.,Joseph,-,Bauchal,30
+Waltersdorf,9.11.,Judith,Franz,Wawra,60 (Ehefrau)
+Jamnay,9.11.,Magdalena,Wenceslaus,Schlesinger,4
+Waltersdorf,12.11.,Johann,-,-,10d (#) U: Kind von Anna Ptaczek
+Waltersdorf,16.11.,Johann,-,Jansa,61
+Weypersdorf,19.11.,Joachim,Johann,Schüll,2
+Jablona,21.11.,Marina,Wenceslaus,Kregczy,65 (Ehefrau)
+Jamnay,24.11.,Catharina,Wenceslaus,Bechaczek,92 (Witwe)
+Waltersdorf,27.11.,Paul,Georg,Hrdina,5
+
+DP 41
+
+Tschenkowitz,1.12.,Andreas,-,Krögler,44
+Tschenkowitz,2.12.,Augustin,-,Heisler,70
+Neudorf,2.12.,Anna Maria,Franz,Lyer,6w
+Worlitschka,4.12.,Peregrin,Gottfried,Heisler,12d
+Jamnay,8.12.,Anna,Wenceslaus,Bechaczek,50
+Tschenkowitz,8.12.,Florian,Florian,Fischer,3m
+Jamnay,10.12.,Dorothea,Georg,Kobliczek,16
+Worlitschka,12.12.,Susanna,Dominik,Schüll,56
+Jamnay,16.12.,Wenceslaus,-,Spaczek,80
+Tschenkowitz,17.12.,Ignatz,Ignatz,Hentzl,6d
+Jamnay,17.12.,Elisabeth,Anton,Chladek,72 (Witwe)
+Weypersdorf,17.12.,Georg,Johann,Schembera,3w
+Weypersdorf,17.12.,Wenceslaus,Johann,Hawelka,4w
+Tschenkowitz,21.12.,Anna Maria,Fabian,Kratky,33 (Ehefrau)
+
+DP 42
+
+Jamnay,23.12.,Wenceslaus,-,Ambrosch,55
+Jamnay,24.12.,Wenceslaus,Wenceslaus,Giru,13m
+Jablona,25.12.,Wenceslaus,-,Czerwinka,76
+Neudorf,29.12.,Maria,Christian,Schike,2
+
+1764
+
+Tschenkowitz,3.1.,Judith,Wenceslaus,Polak,92 (Witwe,Beruf Bettlerin)
+Tschenkowitz,9.1.,Johann Wenceslaus,Wenceslaus,Kobliczek,3d
+Waltersdorf,11.1.,Marianna,Paul,Kaschka,43 (Ehefrau)
+Worlitschka,12.1.,Franz,Anton,Wagner,6d
+Tschenkowitz,14.1.,Wenceslaus,-,Weinlich,90
+Waltersdorf,15.1.,Catharina,Georg,Chromy,83
+Tschenkowitz,15.1.,Franz Karl,Wenceslaus,Stöhr,2
+Waltersdorf,16.1.,Franz,Joseph,Dittrich,6w
+Jamnay,19.1.,Augustin,-,Czernohaus,55
+Jamnay,22.1.,Anton,-,Philipp,48
+Weypersdorf,22.1.,Caspar,Paul,Chalaupka,18d
+
+DP 43
+
+Jamnay,26.1.,Anna,Paul,Waczek,65 (Ehefrau)
+Tschenkowitz,30.1.,Barbara,Anton,Kosch,20d
+Weypersdorf,1.2.,Anton,Martin,Jandegsek,2
+Tschenkowitz,2.2.,Peregrin,Anton,Langhammer,6m
+Neudorf,4.2.,Franz Karl,Paul,Koller,7d
+Tschenkowitz,9.2.,Anna Maria,Ignatz,Osman,27 (Ehefrau)
+Neudorf,12.2.,Clemens und Marianna,Wenceslaus,Kobliczek,6d
+Neudorf,14.2.,Georg,-,Pfertner,76
+Tschenkowitz,15.2.,Peregrin,Joseph,Feltzmann,6m
+Waltersdorf,17.2.,Magdalena,Martin,Kaschka,25 (#)("Im Hause des Vitus Kaschka")
+Tschenkowitz,17.2.,Johann,Wenceslaus,Sedlarcz,4m
+Worlitschka,24.2.,Christoph,-,Heisler,70
+Tschenkowitz,26.2.,Elisabeth,Johann,Weinlich,10d
+Worlitschka,1.3.,Paul,-,Schwartz,70 (Beruf Inwohner)
+
+DP 44
+
+Jablona,4.3.,Ignatz Dominik,Engelbert,Müller,8m
+Jablona,5.3.,Anna,Wenceslaus,Scheibl,46 (#)("Im Hause des Karl Scheibl")
+Tschenkowitz,6.3.,Wenceslaus,-,Kobliczek,35
+Neudorf,9.3.,Franz Karl,Johann,Veith,5w
+Jamnay,10.3.,Dorothea,Paul,Waczek,1d
+Tschenkowitz,11.3.,Eva,Georg,Neschkudla,66 (Witwe)
+Worlitschka,15.3.,Franz Karl,Wenceslaus,Langer,15d
+Worlitschka,16.3.,Anna Maria,Johann Friedrich,Wagner,1m
+Worlitschka,17.3.,Johanna,Johann Georg,Schlesinger,9m
+Weypersdorf,17.3.,Catharina,Johann,Buczek,60
+Jablona,3.4.,Anna,Johann,Neschkudla,86 (Witwe)
+Worlitschka,4.4.,Anna Maria,Johann,Hudecz,66 (Witwe)
+Jablona,4.4.,Eleonora,Georg,Petriczek,7
+Worlitschka,5.4.,Franz Anton,Heinrich,Heisler,7w
+
+DP 45
+
+Weypersdorf,7.4.,Catharina,Paul,Burian,1
+Tschenkowitz,11.4.,Franz,Johann Georg,Krögler,11m
+Worlitschka,12.4.,-,-,-,- (Weder Namen noch Namen der Eltern noch Alter des Kindes genannt)
+Tschenkowitz,16.4.,Franz Karl,Joseph,Feltzmann,2
+Worlitschka,17.4.,Ignatz,Dominik,Knoll,2
+Tschenkowitz,19.4.,Florian,-,Heisler,40
+Jablona,24.4.,Franz,-,Neschkudla,52
+Tschenkowitz,25.4.,Paul,Paul,Stör#,20
+Tschenkowitz,28.4.,Caspar,-,Heisler,56
+Jamnay,30.4.,Anton#,-,Spaczek,- (#)(Anton Name des Kindes oder des Vaters?)
+Worlitschka,30.4.,Franz,Anton,Koller,14d
+Worlitschka,2.5.,Andreas,Andreas,Weinlich,11w
+Waltersdorf,3.5.,Catharina,Paul,Bednarcz,2
+Waltersdorf,7.5.,Martin,Martin,Ptaczek,30
+Weypersdorf,10.5.,Anna,Heinrich,Zalmann,6d
+
+DP 46
+
+Worlitschka,14.5.,Juliana,Heinrich,Krögler,5d
+Jamnay,15.5.,Anna,Johann,Hansliczek,66 (#)("Im Hause des Augustin Hansliczek")
+Worlitschka,18.5.,Veronica,Franz,Hedrich,40 (Ehefrau)
+Tschenkowitz,23.5.,Judith,Augustin,Neschkudla,60 (Witwe)
+Worlitschka,23.5.,Franz,-,Hedirch,3
+Weypersdorf,5.6.,Joseph,Mathias,Resler,7
+Waltersdorf,9.6.,Paul,Joseph,Kristek,7w
+Weypersdorf,12.6.,Franz,Johann,Janku,6
+Worlitschka,17.6.,Gottfried,-,Schlesinger,70 (Beruf Inwohner)
+Tschenkowitz,24.6.,Wenceslaus,Ferdinand,Bier,18m
+Weypersdorf,5.7.,Rosalia,Ludwig,Hluchy,10m
+Waltersdorf,8.7.,Paul,Paul,Mraczek,11
+Waltersdorf,9.7.,Catharina,Johann,Kubin,50 (Witwe,Beruf Inwohner)
+Worlitschka,10.7.,Johann,-,Schlesinger,67
+
+DP 47
+
+Worlitschka,11.7.,Heinrich,Franz,Schlesinger,6
+Waltersdorf,15.7.,Rosalia,Franz,Jansa,5
+Worlitschka,19.7.,Franz,-,Langer,68 (Beruf Inwohner)
+Waltersdorf,22.7.,Franz,Jacob,Czernohorsky,3
+Tschenkowitz,23.7.,Catharina,Wenceslaus,Heisler,2
+Waltersdorf,25.7.,Johann,Wenceslaus,Lischka,2
+Jamnay,26.7.,Dorothea,Joseph,Bauchal,3m
+Weypersdorf,27.7.,Karl,Georg,Kubu,5d
+Jamnay,3.8.,Catharina,Wenceslaus,Spaczek,80 (Witwe)
+Tschenkowitz,11.8.,Leopold,Leopold,Bartosch,17m
+Tschenkowitz,11.8.,Elisabeth,Wenceslaus,Heisler,3
+Tschenkowitz,16.8.,Juliana,Augustin,Bier,3
+Tschenkowitz,18.8.,Johann,-,Pfertner,34
+Waltersdorf,20.8.,Georg,Georg,Schimek,24
+
+DP 48
+
+Worlitschka,21.8.,Paul,-,Heisler,66 (Witwer,Beruf Inwohner)
+Worlitschka,23.8.,Ignatz,Johann,Krögler,24
+Neudorf,23.8.,Johann,Amadeus,Schike,4m
+Jamnay,23.8.,Dominik,Wenceslaus,Prokopecz,4
+Weypersdorf,24.8.,Anton,Paul,Daubrawa,1d
+Jamnay,25.8.,Johann,-,Spaczek,95
+Weypersdorf,25.8.,Johann,Anton,Marek,4d
+Weypersdorf,27.8.,Marina,Paul,Burian,55 (Witwe,Beruf Inwohnerin)
+Tschenkowitz,28.8.,Maria Elisabeth,Franz,Langhammer,2
+Worlitschka,29.8.,Heinrich,-,Blaschke,52
+Waltersdorf,30.8.,Wenceslaus,-,Krcziwohlawek,54
+Tschenkowitz,1.9.,Elisabeth,Christian,Fischer,45 (Ehefrau)
+Tschenkowitz,1.9.,Gottlieb,Wenceslaus,Heisler,1
+Tschenkowitz,4.9.,Catharina,Johann,Kobliczek,5
+
+DP 49
+
+Tschenkowitz,5.9.,Johann Wenceslaus,Wenceslaus,Schembera,1
+Tschenkowitz,7.9.,Leopold,Wenceslaus,Weinlich,6m
+Weypersdorf,7.9.,Joseph,-,Marek,30#
+Worlitschka,9.9.,Judith,Christian,Schüll,30 (Ehefrau)
+Tschenkowitz,9.9.,Anna Maria,Augustin,Weinlich,3
+Tschenkowitz,10.9.,Gotthard,-,Waschiczek,3
+Tschenkowitz,10.9.,Susanna,Johann,Steiner,68 (Ehefrau)
+Worlitschka,12.9.,Anna Maria,Anton,Krögler,2
+Tschenkowitz,12.9.,Veronica,Joseph,Heisler,1
+Worlitschka,14.9.,Genoveffa,Anton,Gabler,3
+Jamnay,15.9.,Anna,Joseph,Philipp,33 (Ehefrau)
+Tschenkowitz,16.9.,Rosalia,Johann,Langhammer,18m
+Tschenkowitz,17.9.,Anton,Wenceslaus,Langhammer,12
+Tschenkowitz,20.9.,Maria Elisabeth,Wenceslaus,Langhammer,2
+
+DP 50
+
+Waltersdorf,21.9.,Karl,Johann,Krcziwohlawek,5m
+Tschenkowitz,21.9.,Elisabeth,Johann,Heyl,18m
+Worlitschka,23.9.,Theresia,Wenceslaus,Neugebauer,6
+Tschenkowitz,23.9.,Elisabeth,Johann,Hertl,18m
+Tschenkowitz,26.9.,Anna,Veronica,Weinlich,15d
+Tschenkowitz,28.9.,Elisabeth,Wenceslaus,Ptaczek,1
+Waltersdorf,30.9.,Wenceslaus,Georg,Waniczek,16d
+Worlitschka,8.10.,Maria Elisabeth,Franz,Wagner,86 (Witwe)
+Waltersdorf,8.10.,Catharina,Paul,Tegkel,9m
+Worlitschka,17.10.,Gotthard,Heinrich,Heisler,9m
+Jamnay,17.10.,Fabian,Joseph,Philipp,2m
+Weypersdorf,21.10.,Joseph,Johann,Pauk,6 (#)(Paukert == Pauk?)
+Tschenkowitz,28.10.,Elisabeth,Tobias,Nehyba,90 (Witwe)
+Jamnay,28.10.,-,Johann,Killar,30 (#)(Johann Name von Kind oder vom Vater?)
+
+DP 51
+
+Jablona,1.11.,Dorothea,Karl,Czerny,28 (Ehefrau)
+Waltersdorf,1.11.,Elisabeth,Georg,Kos,80 (Ehefrau)
+Jamnay,5.11.,Johann,-,Kobliczek,50
+Jamnay,7.11.,Catharina,Johann,Giru,60 (Ehefrau)
+Waltersdorf,7.11.,Anna,Martin,Beczalek,2m
+Jamnay,10.11.,Wenceslaus,-,Bauchal,67 (Witwer,Beruf Exemptarius#)
+Tschenkowitz,14.11.,Rosalia,Caspar,Bier,6
+Weypersdorf,14.11.,Matthäus,-,Skaliczky,90
+Jablona,15.11.,Anna,Felix,Waczek,20m
+Tschenkowitz,18.11.,Veronica,Wenceslaus,Polak,22 (Beruf Bettler)
+Worlitschka,24.11.,Veronica,Gotthard,Polak,1
+Worlitschka,24.11.,Franz,Wenceslaus,Chladek,11
+Waltersdorf,1.12.,Catharina,Paul,Tegkel,80 (Witwe)
+Tschenkowitz,3.12.,Marianna,Augustin,Kobliczek,3m
+
+DP 52
+
+Tschenkowitz,3.12.,Franz Karl,Amadeus,Sonntag,7w
+Worlitschka,7.12.,Juliana,Wenceslaus,Krögler,9m
+Weypersdorf,8.12.,Franz,-,Suchomel,55
+Neudorf,16.12.,Caspar,Christian,Schüll,30
+Worlitschka,19.12.,Rosina,Franz,Pfertner,70 (Witwe)("im Hause des Laurenz Schlesinger")
+Jamnay,21.12.,Anton,Wenceslaus,Bauchal,3m
+Worlitschka,24.12.,Theresia,Anton,Wagner,18m
+Weypersdorf,25.12.,Ignatz,Adam,Chladek,6d
+Neudorf,26.12.,Anna Maria,Johann,Hentzl,45 (Ehefrau)
+Waltersdorf,27.12.,Theresia,Paul,Charvat,10w
+Waltersdorf,27.12.,Catharina,Wenceslaus,Matiegka,80 (Witwe,Beruf Bettlerin)
+Weypersdorf,30.12.,Rosina,Martin,Skaliczky,70 (Witwe)
+
+1765
+
+Tschenkowitz,6.1.,Anna Maria,Michael,Langhammer,45 (Ehefrau)
+Tschenkowitz,9.1.,Veronica,Joseph,Merta,30 (Ehefrau)
+
+DP 53
+
+Worlitschka,9.1.,Sybilla,Wenceslaus,Schlesinger,80 (Ehefrau)
+Jablona,9.1.,Johann,Karl,Grus,4w
+Waltersdorf,10.1.,Magdalena,Johann,Ambrosch,80 (Witwe,Beruf Exemptuaria#)
+Weypersdorf,10.1.,Marina,Johann,Chladek,60 (Witwe)
+Jamnay,15.1.,Wenceslaus,Wenceslaus,Morawetz,5d
+Weypersdorf,18.1.,Magdalena,Martin,Resler,60 (Witwe)
+Waltersdorf,20.1.,Anna,Joseph,Tegkel,10w
+Jablona,20.1.,Anna,Joseph,Trampota,28 (Ehefrau)
+Tschenkowitz,20.1.,Franz Karl,Johann,Kobliczek,2
+Jamnay,24.1.,Wenceslaus,-,Seschen,60
+Worlitschka,24.1.,Wenceslaus,-,Schlesinger,70
+Tschenkowitz,27.1.,Maria Theresia,Andreas,Krögler,5
+Weypersdorf,29.1.,Wenceslaus,-,Resler,50
+Worlitschka,1.2.,Anna Maria,Augustin,Heisler,80 (Witwe,Beruf Inwohnerin)
+
+DP 54
+
+Jamnay,3.2.,Judith,Johann,Kobliczek,33
+Neudorf,9.2.,Marina,Franz,Zaubele,50
+Tschenkowitz,13.2.,Franz,-,Stoltz,86
+Tschenkowitz,13.2.,Theresia,Wenceslaus,Stöhr,5w
+Weypersdorf,15.2.,Paul,-,Hawlena,45
+Weypersdorf,18.2.,Johann,-,Wondra,88
+Weypersdorf,20.2.,Rosalia,Anton,Heyl,9m
+Waltersdorf,22.2.,Anna,Paul,Schimek,70 (Witwe)
+Worlitschka,22.2.,Elisabeth,Andreas,Veith,66 (Witwe,Beruf Inwohnerin)
+Weypersdorf,24.2.,Marina,Nicolaus,Kubesch,85 (Witwe)
+Tschenkowitz,25.2.,Johann Karl,Amadeus,Nentvich,9
+Tschenkowitz,25.2.,Genoveffa,Florian,Heisler,2m
+Waltersdorf,27.2.,Georg,-,Uher,40
+Worlitschka,3.3.,Franz,Franz,Chladek,18m
+Waltersdorf,9.3.,Veronica,Johann,Kubin,5
+Jamnay,11.3.,Anna,Johann,Prokopecz,10d
+
+DP 55
+
+Weypersdorf,13.3.,Catharina,Joseph,Zalmann,9m
+Waltersdorf,14.3.,Catharina,Johann,Schimek,66 (Witwe,Beruf Exemptuaria#)
+Neudorf,15.3.,Johann,Joseph,Stephan,7
+Weypersdorf,17.3.,Johann,-,Heyl,60
+Weypersdorf,18.3.,Joachim,Paul,Chalaupka,8d
+Weypersdorf,22.3.,Franz,Franz,Heyl,4m
+Jamnay,24.3.,Rosalia,Johann,Philipp,12
+Tschenkowitz,24.3.,Theresia,Johann,Egydi,17d
+Tschenkowitz,29.3.,Veronica,Johann,Egydi,30 (Ehefrau)
+Tschenkowitz,30.3.,Maria,Jacob,Stephan,90 (Witwe)
+Jamnay,30.3.,Karl,Paul,Gironecz,6w
+Worlitschka,1.4.,Johann,Franz,Krögler,24
+Neudorf,5.4.,Anna Maria,Franz,Sedlaczek,50 (Ehefrau)
+Waltersdorf,7.4.,Joseph,-,Machaczek,35 (Witwer)
+
+DP 56
+
+Worlitschka,7.4.,Karl David,Franz,Schlesinger,14d
+Waltersdorf,8.4.,Rosalia,Paul,Waniczek,7d
+Jamnay,13.4.,Rosalia,Anna,Biehaunek,1
+Waltersdorf,15.4.,Wenceslaus,-,Lischka,50
+Waltersdorf,15.4.,Johann,Johann,Killar,6w
+Tschenkowitz,16.4.,Wencslaus,-,Weinlich,65
+Tschenkowitz,16.4.,Engelbert,Wenceslaus,Ptaczek,3w
+Waltersdorf,16.4.,Magdalena,Johann,Hrdina,70 (Witwe)
+Jamnay,17.4.,Augustin,-,Hansliczek,75 (Witwer)
+Worlitschka,18.4.,Johanna,Joseph,Schlesinger,13m
+Worlitschka,20.4.,Judith,Anton,Czernohorsky,35 (Ehefrau)
+Waltersdorf,22.4.,Franz,Paul,Stiasny#,4m (#)(Sstasny == Stiasny?)
+Tschenkowitz,26.4.,Karl,Joseph,Merta,4m
+Worlitschka,28.4.,Genoveffa,Friedrich,Schlesinger,1
+Waltersdorf,30.4.,Johann,-,Urban,50
+Waltersdorf,30.4.,Theresia,Wenceslaus,Pauk,3w
+
+DP 57
+
+Worlitschka,1.5.,Franz,Paul,Schüll,25
+Waltersdorf,1.5.,Paul,-,Kos,65
+Tschenkowitz,2.5.,Judith,Anton,Zobel,55 (Ehefrau)
+Weypersdorf,3.5.,Johann,Paul,Brochaska,22
+Worlitschka,3.5.,Gotthard,Franz,Heyl,9m
+Jamnay,9.5.,Anton,Matthäus,Steyskal,1d
+Worlitschka,10.5.,Veronica,Heinrich,Wagner,26 (Ehefrau)
+Jamnay,14.5.,Anna,Johann,Chalaupka,13
+Worlitschka,14.5.,Gotthard,Franz,Krögler,15m
+Jamnay,17.5.,Anna,Johann,Killar,20
+Jablona,21.5.,Wenceslaus,-,Heylek,68
+Weypersdorf,21.5.,Anna,Wenceslaus,Kubelka,6m
+Worlitschka,23.5.,Anna Maria,Tobias,Krögler,80 (Witwe)
+Jablona,25.5.,Susanna,Martin,Bliva#,82 (Ehefrau)(Nachname schwer zu lesen, unsicher)
+
+DP 58
+
+Tschenkowitz,25.5.,Anton,Joseph,Kratky,6w
+Weypersdorf,27.5.,Judith,Johann,Falta,60 (Ehefrau)
+Neudorf,30.5.,Catharina,Amadeus,Streker,4
+Jamnay,30.5.,Veronica,Paul,Doleczal,63 (Witwe)
+Waltersdorf,3.6.,Judith,Georg,Jansa,10d
+Waltersdorf,12.6.,Anna,Joseph,Hrdina,10w
+Neudorf,13.6.,Anna Maria,Johann,Pfeiffer,56 (Ehefrau)
+Weypersdorf,15.6.,Georg,Martin,Hawlena,1
+Worlitschka,16.6.,Andreas,-,Schlesinger,64
+Jamnay,25.6.,Joseph,Wenceslaus,Schlesinger,16
+Worlitschka,26.6.,Rosalia,Gottfried,Schlesinger,50 (Ehefrau)
+Jamnay,28.6.,Marina,Jacob,Kregczy,80 (Ehefrau)
+Neudorf,29.6.,Veronica,Wenceslaus,Lyer,70 (Ehefrau)
+Tschenkowitz,3.7.,Franz Karl,Franz,Heisler,3m
+
+DP 59
+
+Tschenkowitz,6.7.,Genoveffa,Johann,Kobliczek,6m
+Jamnay,10.7.,Anna,Johann,Philipp,26
+Jamnay,10.7.,Veronica,Johann,Valenta,19m
+Jamnay,11.7.,Wenceslaus,Joseph,Seschen,10d
+Tschenkowitz,14.7.,Judith,Wenceslaus,Kaschka,25
+Worlitschka,17.7.,Franz,Anton,Weinlich,6m
+Waltersdorf,19.7.,Theresia,Anton,Wondra,5
+Waltersdorf,27.7.,Judith,Joseph,Blaczek,2m
+Weypersdorf,30.7.,Anton,Johann,Skaliczky,2
+Weypersdorf,2.8.,Paul,Wenceslaus,Heyl,4d
+Weypersdorf,3.8.,Wenceslaus,-,Ptaczek,70#
+Jablona,8.8.,Veronica,Franz,Kupka,55 (Witwe)
+Waltersdorf,18.8.,Augustin,-,Czernohorsky,58
+Jamnay,18.8.,Anton,Anton,Spaczek,2m
+
+DP 60
+
+Jamnay,25.8.,Joseph,Anton,Spaczek,3m
+Weypersdorf,25.8.,Anna,Paul,Morawetz,1
+Waltersdorf,26.8.,Magdalena,Martin,Nehyba,26
+Waltersdorf,27.8.,Joseph,-,Dittrich,55
+Lubnik,3.9.,Joseph,-,Christoph,63
+Waltersdorf,4.9.,Catharina,Paul,Mister,64 (Ehefrau)
+Jamnay,6.9.,Johann,Wenceslaus,Kobliczek,1
+Weypersdorf,6.9.,Catharina,Paul,Skaliczky,1
+Jamnay,8.9.,Ignatz,Karl,Bauchal,2w
+Worlitschka,11.9.,Franz Karl,Anton,Schlesinger,2
+Jamnay,12.9.,Margaretha,-,-,6 (#) U: Kind von Anna Waczek
+Weypersdorf,15.9.,Rosalia,Augustin,Kubelka,6m
+Tschenkowitz,21.9.,Maria Anna,Augustin,Stoltz,9m
+
+DP 61
+
+Jamnay,22.9.,Anna,Johann,Bauchal,55 (Ehefrau)
+Waltersdorf,23.9.,Anna,Georg,Killar,14m
+Tschenkowitz,27.9.,Florian,Wenceslaus,Weinlich,1
+Waltersdorf,27.9.,Franz,-,Jansa,60
+Worlitschka,28.9.,Franz,Heinrich,Wagner,1
+Waltersdorf,29.9.,Joseph,Paul,Kobliczek,4w
+Worlitschka,3.10.,Judith,Johann,Koller,- (Ehefrau)(Alter der Verstorbenen wird nicht genannt)
+Jamnay,5.10.,Johann,Johann,Spaczek,7m
+Tschenkowitz,7.10.,Leopold,Johann,Fischer,1
+Jamnay,12.10.,Dorothea,Wenceslaus,Czernohaus,28
+Tschenkowitz,13.10.,Magdalena,Johann,Kobliczek,100 (Witwe)
+Waltersdorf,14.10.,Catharina,Martin,Kuczera,86 (Witwe)
+Worlitschka,14.10.,Juliana,Gotthard,Heisler,2
+Neudorf,15.10.,Johann Wenceslaus,Franz,Lyer,4
+
+DP 62
+
+Worlitschka,18.10.,Franz Anton,Wenceslaus,Langer,2m
+Tschenkowitz,20.10.,Anna Maria,Wenceslaus,Langhammer,18m
+Worlitschka,23.10.,Gotthard,Gotthard,Schlesinger,2m
+Worlitschka,23.10.,Peter Karl,Heinrich,Koller,14d
+Jamnay,25.10.,Wenceslaus,-,Gironcz,70
+Tschenkowitz,26.10.,Leopold,Anton,Kobliczek,3m
+Jablona,29.10.,Anna,Franz,Duschek,70 (Witwe)
+Worlitschka,31.10.,Joseph,Georg,Schimek,10m
+Weypersdorf,31.10.,Paul,-,Resler,75 (Beruf Inwohner)
+Tschenkowitz,1.11.,Paul,-,Kobliczek,30
+Tschenkowitz,1.11.,Maria Anna,Joseph,Feltzmann,6m
+Tschenkowitz,9.11.,Anton,Anton,Kosch,7m
+Tschenkowitz,16.11.,Gottlieb,Mathias,Schlesinger,5w
+Worlitschka,21.11.,Susanna,Wenceslaus,Koller,76 (Ehefrau)
+Tschenkowitz,21.11.,Catharina,Johann,Schlesinger,63 (Witwe)
+Jablona,24.11.,Johann,-,Czerwinka,64
+
+DP 63
+
+Neudorf,25.11.,Anton,Anton,Blaschke,3
+Jablona,3.12.,Barbara,Georg,Czervinka,55 (Witwe)
+Worlitschka,3.12.,Anton,-,Heisler,50
+Neudorf,6.12.,Juliana,Wenceslaus,Roczen,1
+Worlitschka,14.12.,Franz,-,Krögler,86 (Beruf Exemptuarius#)
+Tschenkowitz,14.12.,Maria Elisabeth,Anton,Krögler,6m
+Jamnay,19.12.,Wenceslaus,Wenceslaus,Spaczek,4d
+Worlitschka,19.12.,Ignatz,Heinrich,Gabler,10d
+Waltersdorf,25.12.,Joseph,Paul,Waniczek,2
+Waltersdorf,26.12.,Rosalia,Paul,Kratky,45 (Ehefrau)
+Waltersdorf,29.12.,Georg,Georg,Geczek,9
+Waltersdorf,31.12.,Catharina,Paul,Matiegka,12d
+Worlitschka,31.12.,Theresia,Florian,Streker,7
+
+DP 64
+
+1766
+
+Weypersdorf,1.1.,Anna,Franz,Ptaczek,80 (Witwe)
+Waltersdorf,4.1.,Rosalia,Joseph,Waschiczek,3w
+Waltersdorf,7.1.,Joseph,-,Urban,25
+Tschenkowitz,9.1.,Veronica,Paul,Heisler,15m
+Waltersdorf,14.1.,Dorothea,Joseph,Kristek,34 (Ehefrau)
+Waltersdorf,14.1.,Anna,Wenceslaus,Charvat,30 (Ehefrau)
+Waltersdorf,17.1.,Marianna,Georg,Spiczak,60 (Witwe, Beruf Inwohnerin)
+Jamnay,20.1.,Anna,Wenceslaus,Bauchal,50 (Ehefrau)
+Tschenkowitz,21.1.,Anton,Augustin,Kobliczek,17d
+Waltersdorf,21.1.,Johann,Joseph,Kristek,18m
+Joansdorf#,23.1.,Anna,Wenceslaus,Huschka#,46 (Ehefrau)("In Stadt Jablona im Hause des Paul Grus")
+Waltersdorf,28.1.,Marianna,Georg,Krcziwohlawek,53 (#)("Im Hause des Paul Krcziwohlawek")
+Weypersdorf,29.1.,Anton,Anton,Marek,14d
+Waltersdorf,2.1.,Johann,-,Hrdina,60
+
+DP 65
+
+Waltersdorf,10.2.,Paul,-,Wondra,90
+Waltersdorf,11.2.,Joseph,-,Waschiczek,26
+Jamnay,11.2.,Johann,-,Biehaunek,80
+Worlitschka,14.2.,Gottlieb,Gotthard,Heisler,2
+Tschenkowitz,14.2.,Johann Wenceslaus,Franz,Brix,8d
+Worlitschka,15.2.,Juliana,Amadeus,Chladek,6m
+Waltersdorf,16.2.,Johann,Paul,Waniczek,7w
+Waltersdorf,19.2.,Judith,Augustin,Killar,11
+Jamnay,20.2.,Paul,Paul,Hansliczek,3m
+Neudorf,24.2.,Anna,Anton,Blaschke,35 (Ehefrau)
+Jamnay,26.2.,Barbara,Paul,Prokopecz,1
+Worlitschka,28.2.,Peregrin,Wenceslaus,Krögler,5d
+Weypersdorf,2.3.,Judith,Johann,Skaliczky,70 (#)("Im Hause des Georg Hawelka")
+Waltersdorf,3.3.,Judith,Paul,Pauk,14d
+Waltersdorf,7.3.,Joseph,Joseph,Bednarcz,5
+Tschenkowitz,9.3.,Franz,Augustin,Kobliczek,9w
+
+DP 66
+
+Worlitschka,10.3.,Rosina,Wenceslaus,Schlesinger,60 (Witwe)
+Waltersdorf,11.3.,Paul,-,Geczek,53
+Lubnik,13.3.,Georg,-,Schipek#,70 (Witwe,Beruf Inwohner)
+Waltersdorf,13.3.,Marina,Georg,Geczek,20m
+Tschenkowitz,17.3.,Franz Karl,Wenceslaus,Kobliczek,3w
+Jamnay,18.3.,Dorothea,Johann,Waczek,15m
+Jamnay,20.3.,Fabian,Johann Georg,Bednarcz,10w
+Tschenkowitz,26.3.,Augustin,-,Polak,70
+Waltersdorf,26.3.,Paul,Georg,Geczek,6
+Jamnay,30.3.,Wenceslaus,-,Schlesinger,53
+Tschenkowitz,30.3.,Theresia,Johann,Heisler,4w
+Worlitschka,1.4.,Juliana,Heinrich,Heisler,20d
+Worlitschka,1.4.,Wenceslaus,Wenceslaus,Schlesinger,7w
+Jablona,5.4.,Rosina,Franz,Heyl,60 (Ehefrau)
+Waltersdorf,12.4.,Johann,-,Hawelka,66
+
+DP 67
+
+Tschenkowitz,14.4.,Franz Joseph,Joseph,Mister,14d
+Neudorf,16.4.,Elisabeth,Bartholomäus,Polak,70 (Witwe)("Im Hause des Wenceslaus Langhammer")
+Jamnay,18.4.,Johann,-,Philipp,63
+Waltersdorf,19.4.,Catharina,Augustin,Hawlena,62 (Witwe)
+Jamnay,19.4.,Veronica,Anton,Doleczal,2
+Weypersdorf,26.4.,Martin,-,Skaliczky,80
+Worlitschka,26.4.,Wenceslaus,-,Koller,64
+Jablona,3.5.,Dorothea,Johann,Wottawa,1
+Waltersdorf,6.5.,Judith,Paul,Matiegka,20w
+Waltersdorf,8.5.,Anna,Augustin,Killar,75 (Ehefrau)
+Worlitschka,8.5.,Andreas,Ferdinand,Czernohorsky,13
+Weypersdorf,8.5.,Paul,Georg,Daubrawa,2w
+Waltersdorf,19.5.,Paul,-,Waniczek,70
+Neudorf,28.5.,Marianna,Paul,Koller,2
+Lubnik,29.5.,Johann,-,Petriczek,52
+
+DP 68
+
+Jamnay,8.6.,Catharina,Matthäus,Philipp,6
+Jamnay,8.6.,Johann,Johann,Prokopecz,4
+Jablona,12.6.,Anna,Thomas,Waczek,18m
+Jablona,13.6.,Genoveffa,Joseph,Neschkudla,2
+Jablona,14.6.,Judith,Anton,Wottawa,70 (Witwe)
+Weypersdorf,19.6.,Joseph,Mathias,Chladek,8w
+Weypersdorf,25.6.,Catharina,Anton,Skaliczky,33 (Ehefrau)
+Waltersdorf,25.6.,Joseph,-,Kuczilek,26
+Jablona,15.7.,Franz,Joseph,Rubesch,18d
+Jablona,18.7.,Anna,Joseph,Rubesch,20d
+Weypersdorf,29.7.,Sybilla,Georg,Benesch,14d
+Worlitschka,2.8.,Sybilla,Christoph,Neugebauer,80 (Witwe)("Im Hause des Andreas Neugebauer")
+Tschenkowitz,5.8.,Johann,-,Egydi,73
+Jablona,7.8.,Wenceslaus,Joseph,Urban,4m
+Jablona,27.8.,Margaretha,Anton,Feltzmann,11m
+Waltersdorf,29.8.,Anna,Paul,Kobliczek,2
+
+DP 69
+
+Jamnay,2.9.,Johann,Augustin,Bauchal,26
+Jablona,7.9.,Franz,-,Kulhanek,26
+Jablona,17.9.,Catharina,Andreas,Kaspar,83 (Witwe)("mea propria Genitisix"???, "Aus Joannsdorf Im Hause des Dominik Litomhslin", "Im Hause des Parochiali Jablona")
+Waltersdorf,18.9.,Franz,Franz,Zalmann,6d
+Jamnay,21.9.,Wenceslaus,-,Trampota,80
+Waltersdorf,21.9.,Elisabeth,Jacob,Waschiczek,60 (Witwe)
+Worlitschka,24.9.,Peregrin,Gotthard,Schüll,5m
+Tschenkowitz,25.9.,Anna Maria,Wenceslaus,Prokopecz,40 (Ehefrau)
+Waltersdorf,26.9.,Johann,Joseph,Waniczek,9d
+Worlitschka,26.9.,Gotthard,-,Schlesinger,2
+Worlitschka,27.9.,Joseph,Paul,Polak,3m
+Weypersdorf,1.10.,Anna,Wenceslaus,Morawetz,88 (Beruf Bettlerin)
+Neudorf,8.10.,Franz Karl,Christian,Polak,9m
+Waltersdorf,19.10.,Adalbert,Anton,Wondra,16m
+Waltersdorf,23.10.,Elisabeth,Johann,Killar,6m
+
+DP 70
+
+Tschenkowitz,27.10.,Elisabeth,Paul,Pfertner,78 (Witwe)
+Worlitschka,29.10.,Gotthard,Georg,Schimek,3m
+Neudorf,31.10.,Rosalia,-,-,6m (#)("Im Hause des Augustin Heisler") U: Kind von Anna Maria Heisler
+Jablona,31.10.,Peregrin Dominik# Johann Heinrich,-,#,55 ("de Rosenheim Bambergensis" - Ortsangabe oder ist "de Rosenheim" ein Name? Bedeutet Dmus Dominicus? "Im Hause des Franz Pauk")
+Tschenkowitz,3.11.,Ferdinand,Wenceslaus,Langhammer,7m
+Neudorf,6.11.,Catharina,Joseph,Kos,2
+Tschenkowitz,12.11.,Rosalia,Wenceslaus,Kobliczek,3
+Worlitschka,15.11.,Georg,-,Schimek,50
+Jablona,16.11.,Catharina,Bartholomäus,Kobliczek,5w
+Tschenkowitz,17.11.,Veronica,Anton,Weinlich,4w
+Tschenkowitz,17.11.,Wenceslaus,Wenceslaus,Hrdina,18m
+Tschenkowitz,20.11.,Leonhard,Florian,Heisler,6
+Waltersdorf,20.11.,Wenceslaus,Wenceslaus,Hrdina,33 (#)("Im Hause des Georg Mraczek")
+Tschenkowitz,22.11.,Peregrin,Gotthard,Heyl,13m
+Neudorf,22.11.,Philipp,Johann,LYer,7m
+Jablona,22.11.,Catharina,Martin,Waczek,90 (Witwe)("Im Hause des Johann Grus")
+Worlitschka,24.11.,Franz Anton,Anton,Schlesinger,18d
+
+DP 71
+
+Waltersdorf,27.11.,Anna,Paul,Seidlmann,80 (Witwe)
+Weypersdorf,27.11.,Ludwig,-,Darczilek,78
+Tschenkowitz,28.11.,Catharina,Johann,Nehyba,3
+Tschenkowitz,28.11.,Johann Joseph,Michael,Hentzl,2
+Tschenkowitz,2.12.,Peregrin,Johann,Krögler,3
+Worlitschka,2.12.,Elisabeth,Franz,Schlesinger,2
+Weypersdorf,4.12.,Judith,Joseph,Heyl,50 (Ehefrau)
+Waltersdorf,5.12.,Catharina,Martin,Nehyba,66 (Ehefrau)
+Tschenkowitz,8.12.,Franz Karl,Augustin,Weinlich,6m
+Tschenkowitz,8.12.,Maria Elisabeth,Paul,Mister,10m
+Tschenkowitz,8.12.,Maria Elisabeth,Johann,Kratky,9m
+Tschenkowitz,9.12.,Leopold,Johann,Brix,2
+Tschenkowitz,10.12.,Maria Theresia,Johann Georg,Krögler,4w
+Weypersdorf,10.12.,Catharina,Johann,Skaliczky,60 (#)("Im Hause des Anton Skaliczky")
+Tschenkowitz,12.12.,Franz Anton,Wenceslaus,Nehyba,2
+Weypersdorf,14.12.,Eva,Johann,Resler,6w
+
+DP 72
+
+Tschenkowitz,14.12.,Franz Karl,Franz,Heisler,9m
+Weypersdorf,16.12.,Johann,Paul,Bechaczek,3
+Worlitschka,16.12.,Susanna,Christian,Schüll,80
+Waltersdorf,17.12.,Joseph,Joseph,Mraczek,9m
+Weypersdorf,19.12.,Joseph,Johann,Morawetz,9d
+Waltersdorf,22.12.,Joseph,Anton,Krcziwohlawek,8m
+Tschenkowitz,22.12.,Rosalia,Anton,Langhammer,2m
+Neudorf,22.12.,Anton,-,Streker,33
+Tschenkowitz,27.12.,Theresia,Joseph,Heisler,9m
+Tschenkowitz,28.12.,Engelbert,Augustin,Heisler,6m
+Jablona,29.12.,Catharina,Martin,Jansa,50 (Ehefrau)
+
+1767
+
+Worlitschka,1.1.,Judith,Gallus,Gritzbauch,80
+Neudorf,1.1.,Philipp,Franz,Brokesch,4m
+Weypersdorf,4.1.,Susanna,Paul,Czernohorsky,60 (Witwe,Beruf Inwohnerin)
+Weypersdorf,7.1.,Veronica,Franz,Rubesch,2
+
+DP 73
+
+Jamnay,8.1.,Dorothea,Martin,Czernohaus,75
+Waltersdorf,8.1.,Theresia,Georg,Killar,18m
+Weypersdorf,11.1.,Joseph,Paul,Czernohorsky,8w
+Weypersdorf,14.1.,Joseph,Paul,Morawetz,2
+Weypersdorf,14.1.,Apollonia,Georg,Resler,14m
+Worlitschka,14.1.,Johanna,Franz,Weinlich,4
+Weypersdorf,17.1.,Veronica,Wenceslaus,Kubesch,60 (Witwe)
+Waltersdorf,17.1.,Judith,Johann,Kaschka,40 (Ehefrau)
+Neudorf,22.1.,Rosina,Augustin,Hentzl,38
+Tschenkowitz,23.1.,Anton,-,Kobliczek,38
+Tschenkowitz,27.1.,Anton,Johann,Weinlich,7
+Neudorf,31.1.,Wenceslaus,-,Koller,70
+Waltersdorf,7.2.,Joseph,Johann,Kaschka,4
+Jablona,8.2.,Josepha,Johann,Kleslo,4
+Worlitschka,8.2.,Andreas,-,Krögler,30
+Waltersdorf,11.2.,Joseph,-,Zelinka,51
+
+DP 74
+
+Waltersdorf,12.2.,Catharina,Joseph,Matiegka,14m
+Weypersdorf,14.2.,Anna Maria,Johann,Ptaczek,3
+Waltersdorf,21.2.,Wenceslaus,Jacob,Waschiczek,28 (Beruf Famulus)
+Jablona,21.2.,Catharina,Paul,Merta,65 (Witwe)
+Neudorf,21.2.,Wenceslaus,-,Kobliczek,60
+Worlitschka,23.2.,Susanna,Ferdinand,Moser,70 (Ehefrau)
+Waltersdorf,3.3.,Catharina,Johann,Kos,70 (Witwe)
+Worlitschka,3.3.,Ferdinand,-,Moser,70
+Jablona,3.3.,Wenceslaus,Johann,Biczouvsky#,25
+Worlitschka,4.3.,Judith,Anton,Chladek,50 (Ehefrau)
+Jablona,4.3.,Dorothea,Johann,Kleslo,6w
+Weypersdorf,7.3.,Dorothea,Franz,Heyl,60 (Witwe)
+Weypersdorf,13.3.,Joseph,Martin,Jandegsek,12d
+Weypersdorf,15.3.,Johanna,Martin,Kubiczek,5w
+Weypersdorf,15.3.,Apollonia,Franz,Marek,2
+Weypersdorf,15.3.,Wenceslaus,-,Sedlaczek,60
+
+DP 75
+
+Weypersdorf,16.3.,Magdalena,Georg,Wondra,60 (Ehefrau)
+Worlitschka,18.3.,Judith,Anton,Feltzmann,55 (Witwe)
+Weypersdorf,18.3.,Marina,Johann,Morawetz,35
+Waltersdorf,19.3.,Catharina,Wenceslaus,Matiegka,45 (Witwe)
+Tschenkowitz,20.3.,Judith,Franz,Egydi,66 (Witwe)
+Weypersdorf,21.3.,Catharina,Johann,Slawik,73# (Witwe)
+Tschenkowitz,22.3.,Juliana,Johann Wenceslaus,Feltzmann,1
+Weypersdorf,22.3.,Anna,Joseph,Ban,3m
+Jamnay,24.3.,Anton,Wenceslaus,Bauchal,12d
+Weypersdorf,24.3.,Augustin,-,Hawlena,77
+Tschenkowitz,24.3.,Johann,Augustin,Weinlich,13d
+Tschenkowitz,26.3.,Anna Maria,Johann,Weinlich,6w
+Worlitschka,28.3.,Judith,Franz,Krögler,70 (Witwe)
+Tschenkowitz,30.3.,Maximilian,Franz,Langhammer,1
+Jamnay,2.4.,Johann,-,Giru,46
+Weypersdorf,5.4.,Theresia,Johann,Czerny,7
+
+DP 76
+
+Waltersdorf,6.4.,Georg,-,Waschiczek,50
+Weypersdorf,6.4.,Veronica,Jacob,Skaliczky,7d
+Tschenkowitz,9.4.,Johann Wenceslaus,Wenceslaus,Weinlich,15m
+Weypersdorf,9.4.,Thomas,Paul,Chalaupka,8d
+Weypersdorf,9.4.,Rosina,Martin,Wondra,35
+Tschenkowitz,14.4.,Leopold,Wenceslaus,Egydi,6m
+Tschenkowitz,15.4.,Theresia,Johann,Feltzmann,2
+Weypersdorf,15.4.,Johann,Martin,Morawetz,6m
+Weypersdorf,18.4.,Anton,Anton,Heyl,6m
+Tschenkowitz,21.4.,Franz,Franz,Weinlich,1m
+Weypersdorf,24.4.,Marina,Johann,Steyskal,70 (Witwe)
+Weypersdorf,25.4.,Anton,Martin,Worlitschka,8m
+Tschenkowitz,25.4.,Wenceslaus,Joseph,Mister,16d
+Jamnay,25.4.,Johann,-,Bauchal,70
+Waltersdorf,27.4.,Judith,Paul,Paul,60 (Ehefrau)(Es steht 17., aber gemeint ist wohl 27.)
+Waltersdorf,27.4.,Johann,Johann,Waczek,20
+Jablona,27.4.,Catharina,Franz,Bekert,53 (#)("Im Hause des Johann Adolph")
+Worlitschka,29.4.,Gotthard,Paul,Janisch,3d
+
+DP 77
+
+Weypersdorf,30.4.,Rosalia,Johann,Janisch,3
+Weypersdorf,30.4.,Johann,Anton,Falta,1
+Weypersdorf,30.4.,Martin,-,Zalmann,50
+Tschenkowitz,30.4.,Anna Maria,Franz,Weinlich,36 (Ehefrau)
+Jamnay,30.4.,Veronica,Anton,Philipp,4
+Waltersdorf,1.5.,Judith,Johann,Kaschka,45 (Ehefrau)
+Jamnay,1.5.,Anna,Johann,Valenta,9m
+Neudorf,4.5.,Christian,-,Noschke,70
+Jablona,9.5.,Wenceslaus,-,Kregczy,60
+Weypersdorf,10.5.,Johann,Paul,Kobliczek,6m
+Neudorf,10.5.,Paul,-,Sedlarcz,80
+Tschenkowitz,10.5.,Anna,Christian,Bün,82 (Witwe)("Im Hause des Georg Stöhr")
+Waltersdorf,11.5.,Judith,Johann,Mister,60
+Waltersdorf,12.5.,Judith,Thomas,Kobliczek,20
+Tschenkowitz,13.5.,Veronica,Christoph,Katzer,40 (Witwe)
+Waltersdorf,13.5.,Paul,-,Pauk,90
+Jablona,14.5.,Franz,-,Neschkudla,52
+Waltersdorf,14.5.,Elisabeth,Paul,Czernohorsky,50 (#)("Im Hause der Elisabeth Urban")
+
+DP 78
+
+Tschenkowitz,15.5.,Leopold,Florian,Fischer,20d
+Waltersdorf,15.5.,Barbara,Paul,Marischek,56 (Ehefrau)
+Tschenkowitz,16.5.,Judith,Paul,Heisler,70 (Witwe,Beruf Inwohner)
+Tschenkowitz,16.5.,Juliana,Johann,Egydi,9w
+Jamnay,17.5.,Anna,Wenceslaus,Seschen,84 (Witwe)
+Jablopna,18.5.,Dominik,Georg,Waczek,8m
+Tschenkowitz,20.5.,Gottlieb,Amadeus,Sonntag,2m
+Waltersdorf,20.5.,Paul,-,Marischek,47
+Waltersdorf,20.5.,Judith,Franz,Wawra,40 (#)("Im Hause der Catharina Seybal")
+Jablona,21.5.,Anna,Franz,Koczel,16
+Weypersdorf,21.5.,Augustin,-,Skaliczky,70
+Jamnay,22.5.,Wenceslaus,-,Czernohaus,62
+Waltersdorf,24.5.,Wenceslaus,-,Chromek,70
+Weypersdorf,25.5.,Johanna,Martin,Killar,5w
+Weypersdorf,25.5.,Rosalia,Johann,Niderle,13m
+Weypersdorf,31.5.,Ignatz,Anton,Skaliczky,2
+
+DP 79
+
+Neudorf,7.6.,Judith,Christian,Polak,30 (Ehefrau)
+Jamnay,10.6.,Mathias,-,Spaczek,76
+Weypersdorf,14.6.,Juliana,Paul,Skaliczky,6m
+Weypersdorf,17.7.,Anna,Johann,Skaliczky,13m
+Tschenkowitz,20.6.,Elisabeth,Johann,Langhammer,45 (Witwe)
+Worlitschka,21.6.,Heinrich,Heinrich,Heyl,23
+Worlitschka,22.6.,Leopold,Wenceslaus,Krögler,4m
+Jablona,22.6.,Catharina,Florian,Scheibl,10w
+Jamnay,24.6.,Wenceslaus,Georg,Kregczy,15
+Weypersdorf,2.7.,Johann,Martin,Zednik#,6m
+Jamnay,2.7.,Johann,Paul,Philipp,10#
+Weypersdorf,4.7.,Magdalena,Johann,Resler,6m
+Worlitschka,24.7.,Gottlieb,Wenceslaus,Heyl,10
+Jamnay,25.7.,Dorothea,Wenceslaus,Giru,35 (Ehefrau)
+Weypersdorf,25.7.,Theresia,Augustin,Janku,2
+Weypersdorf,26.7.,Theresia,Johann,Kubesch,2
+Tschenkowitz,3.8.,-,Martin,Seidlmann,- (#)(Martin Name von Kind oder Vater?)
+
+DP 80
+
+Jablona,4.8.,Augustin,-,Waczek,75 (Witwer)
+Waltersdorf,4.8.,Wenceslaus,Joseph,Schimek,15d
+Jamnay,6.8.,Anna,Wenceslaus,Giru,5w
+Waltersdorf,13.8.,Joseph,Georg,Waniczek,5
+Weypersdorf,16.8.,Magdalena,Johann,Resler,50 (Ehefrau)
+Tschenkowitz,21.8.,Johann,-,Fischer,55
+Waltersdorf,5.9.,Judith,Georg,Killar,5
+Jablona,5.9.,Catharina,Franz,Neschkudla,53 (Witwe)
+Weypersdorf,6.9.,Magdalena,Georg,Matieka,50 (#)("Im Hause des Johann Bednarcz")
+Jablona,7.9.,Anton,Karl,Grus,3m
+Waltersdorf,9.9.,Karl,Johann,Bechaczek,13 (#)("Im Hause seiner Mutter")
+Waltersdorf,19.9.,Judith,Paul,Mraczek,2
+Jamnay,21.9.,Johann,Johann,Bauchal,1
+Jamnay,24.9.,Joseph,-,Spaczek,50
+Waltersdorf,27.9.,Johanna,Paul,Bednarcz,7w
+Worlitschka,27.9.,Veronica,Johann Friedrich,Wagner,20
+Worlitschka,28.9.,Johanna,Heinrich,Schlesinger,5w
+
+DP 81
+
+Weypersdorf,2.10.,Anna,Adam,Hawlena,1
+Weypersdorf,7.10.,Johann,Martin,Wondra,6m
+Worlitschka,9.10.,Anna Maria,Anton,Duschek,1
+Tschenkowitz,15.10.,Augustin,-,Kobliczek,70
+Waltersdorf,17.10.,Johann,Johann,Tegkel,15w
+Tschenkowitz,27.10.,Johann,-,Sonntag,64
+Worlitschka,2.11.,Genoveffa,Heinrich,Gabler,9m
+Jamnay,18.11.,Dorothea,Johann,Rubesch,60
+Worlitschka,18.11.,Rosalia,Heinrich,Schlesinger,1
+Tschenkowitz,27.11.,Maria Josepha,Franz,Nentvich,16m
+Jamnay,29.11.,Anna,Anton,Spaczek,18m
+Waltersdorf,29.11.,Vitus,Paul,Krcziwohlawek,7
+Jablona,1.12.,Anna,Wenceslaus,Haglek#,63 (Witwe)
+Jamnay,9.12.,Marina,Wenceslaus,Doleczal,102 (Witwe)
+Worlitschka,10.12.,Anna Maria,Johann,Krögler,- (Ehefrau)(Keine Altersangabe)
+Weypersdorf,11.12.,Judith,Paul,Morawetz,80 (Ehefrau)
+Worlitschka,12.12.,Elisabeth,Johann,Schlesinger,70 (Ehefrau)
+
+DP 82
+
+Waltersdorf,15.12.,Paul,-,Killar,75
+Tschenkowitz,19.12.,Johann Wenceslaus,Johann,Heisler,1
+Jablona,21.12.,Paulina,Johann,Grus,60 (Witwe)
+Waltersdorf,25.12.,Catharina,Franz,Kubin,3m
+Worlitschka,25.12.,Leopold,Anton,Wagner,7m
+Jamnay,27.12.,Anna,Adalbert,Bednarcz,4
+
+1768
+
+Jamnay,1.1.,Dorothea,Wenceslaus,Prokopecz,60 (Ehefrau)
+Waltersdorf,3.1.,Wenceslaus,Veronica,Chromek,5m
+Weypersdorf,7.1.,Catharina,Mathias,Wek#,66 (Witwe)
+Weypersdorf,17.1.,Eva,Martin,Morawetz,63 (Ehefrau)
+Jamnay,17.1.,Magdalena,Johann,Nowak,50 (#)(Im Hause des Paul Maczat)
+Jamnay,18.1.,Catharina,Johann,Bauchal,60 (Witwe)
+Waltersdorf,20.1.,Theresia,Franz,Hrdina,2m
+Jablona,21.1.,Anna Maria,Wenceslaus,Krejczy,2
+
+DP 83
+
+Jamnay,22.1.,Paul,Paul,Krcziwohlawek,2
+Weypersdorf,24.1.,Ambrosius,Johann,Dittrich,12
+Weypersdorf,27.1.,Judith,Paul,Skaliczky,75 (Witwe)
+Waltersdorf,2.2.,Paul,-,Teykl,63
+Jamnay,7.2.,Johann Wenceslaus,Dominik,Schlesinger,3m
+Jamnay,9.2.,Peter,Wenceslaus,Bechaczek,40 (#)(Im Hause seiner Mutter)
+Jablona,12.2.,Dorothea,Rudolph,Berschik,80 (Witwe)
+Jamnay,21.2.,Joseph,Johann Georg,Bednarz,5m
+Weypersdorf,22.2.,Anna,Franz,Chladek,55 (#)(Im Hause des Martin Jandegsek)
+Waltersdorf,20#.2.,Wenceslaus,Martin,Nehyba,36
+Waltersdorf,3.3.,Paul,-,Hrdina,80 (#)(Steht zwar "Feb.", ist aber wohl ein Schreibfehler)
+Weypersdorf,8.3.,Franz,Johann Georg,Heyl,20m
+Waltersdorf,8.3.,Anna,Johann,Kratky,50 (Witwe)
+Weypersdorf,10.3.,Joseph,Franz,Maczek,5m
+Weypersdorf,13.3.,Wenceslaus,-,Chladek,60
+Jamnay,15.3.,Adalbert,Joseph,Srschen,14d
+
+DP 84
+
+Waltersdorf,19.3.,Ludmilla,Martin,Marischek,87 (Witwe)
+Waltersdorf,22.3.,Johann,Johann,Krcziwohlawek,11
+Jamnay,14.4.,Anna,Johann,Waczek,50 (#)(Im Hause des Georg Philipp)
+Weypersdorf,22.4.,Martin,-,Heyl,60
+Weypersdorf,23.4.,Adam,-,Schembera,66
+Jamnay,26.4.,Adalbert,Paul,Steyskal,24 (#)(Im Hause seiner Mutter)
+Weypersdorf,28.4.,Judith,Paul,Marek,56 (Witwe)
+Weypersdorf,1.5.,Marina,Johann,Hawlena,28 (Ehefrau)
+Waltersdorf,3.5.,Marina,Paul,Uher,60 (Witwe)(Im Hause des Johann Uher)
+Jamnay,7.5.,Wenceslaus,Paul,Steyskal,22 (#)(Im Hause seiner Mutter)
+Jamnay,17.5.,Jacob,-,Krejczy,96
+Weypersdorf,18.5.,Veronica,Johann,Skaliczky,9m
+Waltersdorf,29.5.,Franz,-,Kobliczek,60
+Jamnay,2.6.,Anna,Adalbert,Czernohaus,3m
+Waltersdorf,7.6.,Catharina,Georg,Kuczera,35 (Ehefrau)
+Jamnay,10.6.,Rosalia,Wenceslaus,Heisler,9m
+Weypersdorf,11.6.,Johann,Wenceslaus,Weyprachtitzky,1
+
+DP 85
+
+Jamnay,21.6.,Joseph,-,Srschen,40
+Weypersdorf,25.6.,Georg,-,Kuczilek,50
+Weypersdorf,2.7.,Anna,Wenceslaus,Skaliczky,3w
+Waltersdorf,17.7.,Johann,Paul,Uher,10d
+Weypersdorf,28.7.,Karl,Wenceslaus,Heyl,6d
+Waltersdorf,30.7.,Georg,-,Schimek,86 (Beruf Inwohner)(Im Hause des Anton Wondra)
+Weypersdorf,3.8.,Procop,Wenceslaus,Mleynek,3
+Waltersdorf,4.8.,Judith,Paul,Bednarz,44 (Ehefrau)
+Jamnay,16.8.,Wenceslaus,-,Spaczek,40
+Waltersdorf,30.8.,Judith,Wenceslaus,Hrdina,50 (Witwe)
+Jamnay,1.9.,Magdalena,Johann,Bauchal,60 (Witwe)
+Weypersdorf,6.9.,Anton,Johann,Skaliczky,6w
+Weypersdorf,10.9.,Martin,Ludwig,Hluchy,1
+Waltersdorf,11.9.,Marianna,Johann,Kuczilek,60 (Ehefrau)
+Waltersdorf,20.9.,Johann,-,Teykl,80
+Weypersdorf,22.9.,Anna,Franz,Janku,7
+
+DP 86
+
+Waltersdorf,22.9.,Paul,-,Machaczek,50
+Jablona,27.9.,Judith,Johann,Domlatil,60 (#)(Im Hause des Johann Kos)
+Weypersdorf,29.9.,Joseph,Georg,Chladek,20 (Beruf Famulus)(Im Hause des Johann Heisler)
+Weypersdorf,11.10.,Theresia,Franz,Janku,2
+Waltersdorf,26.10.,Franz,-,Jansa,50
+Waltersdorf,1.11.,Judith,Mathias,Spiczak,24 (Ehefrau)
+Jamnay,7.11.,Juliana,Wenceslaus,Philipp,18m
+Jamnay,7.11.,Wenceslaus,Wenceslaus,Czernohaus,6m
+Jamnay,12.11.,Johann,Johann,Rubesch,6
+Waltersdorf,17.11.,Rosalia,Martin,Jansa,2m
+Jablona,24.11.,Joseph,Johann,Wottawa,1
+Weypersdorf,26.11.,Rosalia,Johann,HEyl,2w
+Weypersdorf,27.11.,Theresia,Johann,Niderle,6
+Jamnay,15.12.,Catharina,Johann,Czernohaus,90# (#)(Im Hause des Johann Srschen)
+Waltersdorf,15.12.,Judith,Anton,Wondra,40 (Ehefrau)
+Waltersdorf,19.12.,Judith,Johann,Spiczak,60 (Ehefrau)
+Weypersdorf,19.12.,Catharina,Martin,Maczek,58 (Witwe,Beruf Bettlerin)
+
+DP 87
+
+1769
+
+Waltersdorf,1.1.,Johann,Joseph,Mister,9m
+Jamnay,6.1.,Catharina,Johann,Spaczek,2
+Jablona,7.1.,Dorothea,Karl,Skaliczky,18m
+Waltersdorf,10.1.,Joseph,Joseph,Ptaczek,7d
+Jablona,10.1.,Johann,-,Kleslo,80
+Waltersdorf,13.1.,Georg,Georg,Teykl,10d
+Jamnay,14.1.,Anna,Paul,Bauchal,67 (Witwe)
+Weypersdorf,15.1.,Anna,Johann,Slawik,3w
+Waltersdorf,17.1.,Judith,Franz,Kaschka,60 (Witwe, Beruf Inwohnerin)
+Jamnay,18.1.,Anna,Wenceslaus,Czernohaus,50 (Witwe)(Im Hause des Johann Czernohaus)
+Weypersdorf,22.1.,Johann,Martin,Daubrawa,13d
+Waltersdorf,25.1.,Catharina,Georg,Schimek,30 (#)(Im Hause des Anton Wondra)
+Weypersdorf,25.1.,Eva,Mathias,Koczak,50 (Beruf Bettlerin)(Im Hause des Johann Kubesch)
+Jamnay,9.2.,Jacob,Paul,Waschiczek,9m
+Jamnay,10.2.,Adalbert,Joseph,Giru,4d
+Weypersdorf,19.2.,Judith,Johann,Janku,60 (Witwe)
+Jamnay,21.2.,Franz,Johann,Spaczek,2m
+Weypersdorf,26.2.,Anton,Anton,Heisler,3
+
+DP 88
+
+Jablona,26.2.,Anna Maria,Wenceslaus,Schimek,5d (Beruf Vagabund)(Im Hause des Frank Pauk)
+Weypersdorf,28.2.,Marina,Augustin,Resler,55n (Ehefrau)(Als "Mater familia" genannt, also vermutlich Ehefrau??? Aber nicht explizit als solche genannt, also unklar, ob Augustin Vater oder Ehemann war)
+Jamnay,3.3.,Barbara,Wenceslaus,Czernohaus,15m
+Jablona,8.3.,Johann,Johann,Worlitschka,40d
+Weypersdorf,13.3.,Joseph,Johann,Schembera,30m
+Waltersdorf,14.3.,Matthäus,Matthäus,Wojaczek,48 (Beruf Bettler)(Beruf gehört zum Verstorbenen! Von Hand korrigieren, das Tool macht das vermutlich nicht richtig!)
+Waltersdorf,15.3.,Anna,Paul,Hrdina,80 (Witwe)
+Jamnay,15.3.,Wenceslaus,-,Kobliczek,45
+Jamnay,16.3.,Dorothea,Wenceslaus,Czernohaus,6
+Weypersdorf,17.3.,Joseph,Johann,Hawlena,3m
+Jablona,20.3.,Catharina,Martin,Ptaczek,65 (Witwe)
+Jamnay,20.3.,Theresia,Wenceslaus,Waczek,7
+Jamnay,23.3.,Anna,Paul,Hegerlik,6
+Jamnay,26.3.,Joseph,Paul,Hegerlik,4
+Weypersdorf,28.3.,Joseph,Anton,Steyskal,4
+Jablona,29.3.,Anna,Ludwig,Sedlarz,70# (Heißt das 70 oder 10? Im Hause des Wenceslaus Krejczy)
+Jablona,30.3.,Catharina,Martin,Wottawa,60 (Witwe,Beruf Inwohnerin)(Im Hause der Rosina Heyl)
+Jamnay,1.4.,Adalbert,Wenceslaus,Czernohaus,6
+
+DP 89
+
+Jamnay,5.4.,Ignatz,Wenceslaus,Waczek,3
+Jamnay,14.4.,Johann,-,Waczek,45
+Weypersdorf,16.4.,Marina,Johann,Skaliczky,2
+Jamnay,23.4.,Catharina,Johann,Hansliczek,8m
+Jamnay,27.4.,Joseph,Wenceslaus,Spaczek,2
+Jablona,28.4.,Anna,Wenceslaus,Czerwinka,- (Witwe)
+Waltersdorf,28.4.,Joseph,Wenceslaus,Ptaczek,6w
+Weypersdorf,1.5.,Dorothea,Johann,Killar,60 (Witwe)(Im Hause des Martin Killar)
+Jamnay,4.5.,Maria,Wenceslaus,Bauchal,4
+Waltersdorf,6.5.,Paul,-,Teykl,70 (Beruf Exemptuarius#)
+Waltersdorf,14.5.,Theresia,Martin,Spiczak,10w
+Weypersdorf,20.5.,Anna Maria,Joseph,Pan,8m
+Waltersdorf,2.6.,Veronica,Joseph,Krcziwohlawek,1d
+Jamnay,13.6.,Elisabeth,Joseph,Spaczek#,40 (Witwe)(Im Hause des Matthäus Steyskal)
+Weypersdorf,18.6.,Georg,-,Prochaska,60
+Weypersdorf,24.6.,Johann,Ferdinand,Darczilek,11w
+Jablona,27.6.,Peter,Joseph,Kostrona#,1
+Jamnay,28.6.,Anna,Wenceslaus,Behaunek,44
+
+DP 90
+
+Waltersdorf,7.7.,Catharina,Georg,Mrazek,60
+Jamnay,9.7.,Anna,Wenceslaus,Chladek,40 (#)(Im Hause des Johann Steyskal)
+Weypersdorf,30.7.,Joseph,Franz,Skaliczky,4m
+Jamnay,31.7.,Joseph,Joseph,Bauchal,10m
+Jamnay,14.8.,Wenceslaus,Joseph,Chladek,3m
+Jamnay,18.8.,Judith,Paul,Gironcz,55 (Witwe)(Im Hause des Joseph Hansliczek)
+Waltersdorf,4.9.,Franz,Franz,Jansa,6
+Jamnay,7.9.,Anna,Wenceslaus,Trampota,40 (#)(Im Hause ihrer Mutter)
+Jamnay,20.9.,Anna,Johann,Spaczek,33 (Ehefrau)
+Jamnay,28.9.,Barbara,Paul,Hegerlik,2m
+Waltersdorf,6.10.,Georg,-,Kos,82 (Beruf Exemptarius#)
+Waltersdorf,8.10.,Anna,Joseph,Waschiczek,16
+Weypersdorf,12.10.,Judith,Wenceslaus,Maczat,80 (Witwe)
+Waltersdorf,13.10.,Judith,Paul,Killar,63 (Ehefrau)
+Jamnay,14.10.,Wenceslaus,Johann,Srschen,6
+Waltersdorf,17.10.,Elisabeth,Paul,Waschiczek,78 (Ehefrau)
+Waltersdorf,18.10.,Paul,Paul,Teykl,18m
+Jamnay,18.10.,Anna,Wenceslaus,Czernohaus,7w
+
+DP 91
+
+Jamnay,19.10.,Anna,Anton,Kobliczek,30 (Ehefrau)
+Waltersdorf,21.10.,Catharina,Johann,Spiczak,27 (Ehefrau)
+Weypersdorf,22.10.,Johann,Johann,Skaliczky,3w
+Weypersdorf,26.10.,Wenceslaus,Johann,Chladek,2w
+Waltersdorf,27.10.,Catharina,Georg,Kuczera,14d
+Waltersdorf,30.10.,Karl,Martin,Jansa,4w
+Jamnay,3.11.,Johann,Johann,Bauchal,5
+Waltersdorf,5.11.,Catharina,Franz,Jansa,5
+Weypersdorf,7.11.,Anton,Jacob,Skaliczky,15d
+Weypersdorf,7.11.,Anna,Johann,Heyl,20d
+Jamnay,16.11.,Catharina,Wenceslaus,Bauchal,17
+Jamnay,18.11.,Anton,-,Kobliczek,30
+Jamnay,19.11.,Ursula,Johann,Bauchal,10d
+Weypersdorf,19.11.,Ludwig,Anton,Marek,5w
+Waltersdorf,21.11.,Barbara,Paul,Kulhanek,16d
+Jablona,25.11.,Bernhard,Bernhard,Schevel,5 (#)(Schevel == Scheibl?)
+Jablona,25.11.,Wenceslaus,Bartholomäus,Kobliczek,12w
+Waltersdorf,29.11.,Anna,Johann,Spiczak,2m
+
+DP 92
+
+Jamnay,1.12.,Catharina,Johann,Kobliczek,23#
+Jablona,10.12.,Bernhard,-,Schevel,59# (Schevel == Scheibl?)
+Waltersdorf,13.12.,Joseph,Georg,Kuczera,15m
+Waltersdorf,14.12.,Joseph,Paul,Waniczek,8d
+Weypersdorf,16.12.,Joseph,Anton,Marek,9m
+Weypersdorf,17.12.,Marina,Nicolaus,Janku,55 (Ehefrau)
+Waltersdorf,26.12.,Anna,Johann,Kos,3
+Weypersdorf,26.12.,Eva,Johann,Skaliczky,2m
+Jamnay,26.12.,Anton,Johann,Trampota,9#m
+
+1770
+
+Waltersdorf,1.1.,Joseph,-,Kubin,45
+Jamnay,4.1.,Anna,Paul,Prokopecz,40 (Ehefrau)
+Jamnay,6.1.,Wenceslaus,-,Behaunek,70
+Jablona,6.1.,Joseph,Johann,Kleslo,25
+Jablona,9.1.,Anna,Ignatz,Neschkudla,9m
+Waltersdorf,10.1.,Johann,Joseph,Hrdina,5m
+Jamnay,11.1.,Rosalia,Wenceslaus,Czernohaus,35 (Ehefrau)
+Jamnay,13.1.,Anna,Johann,Spaczek,6
+Waltersdorf,15.1.,Joseph,Wenceslaus,Matiegka,3m
+
+DP 93
+
+Waltersdorf,15.1.,Marianna,Paul,Kristek,66 (Witwe)(Im Hause des Johann Kristek)
+Lubnik,17.1.,Elisabeth,Johann,Petriczek,50 (Witwe)
+Jamnay,17.1.,Anna,Wenceslaus,Czernohaus,13 
+Waltersdorf,18.1.,Anna,Johann,Charvat,80 (Ehefrau)
+Jamnay,20.1.,Anna,Johann,Baltzar,30 (Ehefrau)
+Jamnay,24.1.,Joseph,Paul,Hansliczek,3m
+Waltersdorf,25.1.,Rosalia,Johann,Mister,2m
+Jamnay,25.1.,Anna,Paul,Czernohaus,50 (Ehefrau)
+Waltersdorf,26.1.,Joseph,Joseph,Kubiczek,1
+Weypersdorf,27.1.,Judith,Joseph,Maczek,13
+Jamnay,28.1.,Judith,Wenceslaus,Giru,80 (Witwe,Beruf Inwohnerin)
+Jamnay,28.1.,Barbara,Anton,Prokopecz,7
+Waltersdorf,30.1.,Magdalena,Paul,Mister,75 (Witwe)(Im Hause des Johann Blaczek)
+Jamnay,2.2.,Theresia,Dominik,Schlesinger,22 (Ehefrau)
+Waltersdorf,5.2.,Catharina,Joseph,Schimek,45 (Ehefrau)
+Jablona,13.2.,Johann,Karl,Skaliczky,3m
+Jablona,13.2.,Joseph,Anton,Feltzmann,7
+Waltersdorf,15.2.,Johann,Georg,Mrazek,2
+
+DP 94
+
+Waltersdorf,18.2.,Martin,-,Mrazek,100 (Beruf Exemptarius#)
+Jamnay,18.2.,Adalbert,Johann,Srschen,6
+Waltersdorf,20.2.,Catharina,Jacob,Pan,60 (Ehefrau)
+Jablona,23.2.,Norbert,-,Ondraczek,66 (Beruf Inwohner)
+Weypersdorf,24.2.,Joseph,-,Maczek,40
+Jamnay,26.2.,Wenceslaus,-,Morawetz,96 (Beruf Exemptarius#)
+Weypersdorf,6.3.,Martin,-,Hawelka,50
+Weypersdorf,6.3.,Johann,Anton,Steyskal,3
+Weypersdorf,8.3.,Magdalena,Johann,Hrabaczek,13
+Jamnay,10.3.,Paul,-,Czernohaus,60
+Jamnay,14.3.,Rosalia,Augustin,Maczat,15m
+Weypersdorf,15.3.,Anna,Adam,Skaliczky,11
+Jamnay,18.3.,Ignatz,-,Krögler,44
+Jablona,18.3.,Marianna,Jacob,Kuczilek,35 (#)(Im Hause des Christian Jansa)
+Jablona,21.3.,Maria,Johann,Jansa,28
+Jablona,28.3.,Catharina,Franz,Jansa#,50 (Witwe)(Im Hause des Augustin Neschkudla)
+Weypersdorf,28.3.,Magdalena,Georg,Doleczal,30 (#)(Im Hause des Paul Skaliczky)
+
+DP 95
+
+Weypersdorf,29.3.,Johann,Paul,Czernohorsky,8m
+Jamnay,1.4.,Wenceslaus,Wenceslaus,Morawetz,14d
+Waltersdorf,4.4.,Anna Maria,Veronica,Chromek,3m (#)(Im Hause ihrer Mutter)
+Jamnay,4.4.,Wenceslaus,Johann,Gironcz,7m
+Jablona,5.4.,Wenceslaus,-,Merta,50
+Jamnay,5.4.,Judith,Augustin,Maczat,42 (Ehefrau)
+Jamnay,17.4.,Anna,Ignatz,Krögler,- (Witwe)
+Jamnay,17.4.,Rosalia,Ignatz,Krögler,12
+Weypersdorf,19.4.,Adalbert,Georg,Daubrawa,3
+Jamnay,1.5.,Elisabeth,Johann,Kobliczek,80 (Ehefrau,Beruf Exemptuaria#)
+Waltersdorf,10.5.,Anna,Georg,Waniczek,6
+Weypersdorf,12.5.,Theresia,Martin,Kubiczek,12
+Jamnay,15.5.,Anna,Georg,Hansliczek,16
+Jamnay,15.5.,Martin,Georg,Kobliczek,24 (Beruf Famulus)(Im Hause des Johann Philipp)
+Waltersdorf,16.5.,Catharina,Adalbert,Teykl,6
+Weypersdorf,19.5.,Marina,Paul,Faltus,60 (Ehefrau)
+Waltersdorf,21.5.,Johann,Joseph,Spaczek,2
+Weypersdorf,22.5.,Theresia,Johann,Mleynek,7
+
+DP 96
+
+Waltersdorf,2.6.,Franz,Johann,Kratky,30 (Beruf Famulus)
+Waltersdorf,6.6.,Catharina,Anton,Jansa,1 
+Weypersdorf,18.6.,Johann,-,Mleynek,50
+Lubnik,19.6.,Adalbert,Joseph,Kristoff,6
+Weypersdorf,20.6.,Augustin,-,Resler,60
+Waltersdorf,26.6.,Theresia,Paul,Pauk,6m
+Waltersdorf,26.6.,Anna,Johann,Teykl,20d
+Jamnay,27.6.,Anna,-,-,- (Unehelich) U: Kind von Catharina Bauchal
+Waltersdorf,2.7.,Joseph,Johann,Seybal,1 (#)(Seybal == Zaubele?)
+Waltersdorf,6.7.,Johann,Joseph,Ptaczek,-
+Waltersdorf,9.7.,Barbara,Georg,Killar,3
+Jablona,11.7.,Dorothea,Joseph,Schevel,66 (Witwe)(Schevel == Scheibl? "Im Hause des Johann Kos")
+Jamnay,18.7.,Judith,Anna,Hansliczek,2m
+Waltersdorf,22.7.,Theresia,Vitus,Jansa,5
+Weypersdorf,31.7.,Johann,Johann,Hawelka,5w
+Waltersdorf,9.8.,Johann,Franz,Zalmann,2
+Waltersdorf,10.8.,Johann,Johann,Waschiczek,6m
+Weypersdorf,12.8.,Justina,Anton,Matiegka,66 (Ehefrau)
+Waltersdorf,19.8.,Catharina,Joseph,Ptaczek,3m
+
+DP 97
+
+Jamnay,27.8.,Wenceslaus,Martin,Spaczek,5
+Weypersdorf,28.8.,Paul,-,Skaliczky,60
+Jamnay,4.9.,Anton,Wenceslaus,Waczek,8m
+Waltersdorf,5.9.,Joseph,Paul,Hawlena,6m
+Lubnik,5.9.,Adalbert,-,Schaffarcz,70
+Jamnay,7.9.,Joseph,Johann,Waczek,7m
+Jamnay,13.9.,Wenceslaus,Wenceslaus,Krejczy,5d
+Waltersdorf,23.9.,Georg,Johann,Charvat,6m
+Weypersdorf,30.9.,Eva,Johann,Hawlena,54 (Ehefrau)
+Weypersdorf,1.10.,Rosalia,Paul,Daubrawa,5
+Jamnay,12.10.,Johann,Johann,Prokopecz,9m
+Jamnay,14.10.,Franz Joseph,Paul,Philipp,15m
+Jamnay,19.10.,Adalbert,Adalbert,Bednarz,28d
+Jamnay,20.10.,Johann,Paul,Prokopecz,3
+Jamnay,24.10.,Franz,Anton,Prokopecz,2
+Weypersdorf,27.10.,Joseph,Wenceslaus,Marek,13
+Jamnay,2.11.,Peter,Adalbert,Bednarz,2
+Waltersdorf,2.11.,Mathias,-,Kubin,55
+
+DP 98
+
+Jamnay,6.11.,Ursula,Joseph,Hansliczek,7m
+Weypersdorf,9.11.,Georg,-,Resler,50
+Weypersdorf,16.11.,Anton,Paul,Chladek,9m
+Waltersdorf,22.11.,Anna,Joseph,Krcziwohlawek,2
+Weypersdorf,22.11.,Juliana,Florian,Wagner,24
+Jablona,28.11.,Catharina,Johann,Wottawa,1
+Weypersdorf,30.11.,Theresia,Martin,Skaliczky,16d
+Waltersdorf,8.12.,Joseph,Georg,Kobliczek,1m (Beruf Arbeiter)
+Weypersdorf,9.12.,Anton,Anton,Schembera,9m (Beruf Müller)
+Weypersdorf,10.12.,Joachim,Johann Georg,Heyl,18m (Beruf Arbeiter)
+Jablona,10.12.,Anna,Christian,Jansa,2m (Beruf Weber)
+Weypersdorf,19.12.,Rosina,Johann,Skaliczky,60 (Witwe,Beruf Arbeiter)
+Weypersdorf,22.12.,Georg,Daubrawa,40 (Beruf Arbeiter)
+Weypersdorf,24.12.,Wenceslaus,-,Mleynek,70 (Beruf Bettler)
+
+1771
+
+Jamnay,6.1.,Theresia,Joseph,Giru,1m (Beruf Arbeiter)
+Weypersdorf,6.1.,Juliana,Augustin,Janku,7m (Beruf Faber)
+
+DP 99
+
+Weypersdorf,9.1.,Mathias,-,Chladek,72 (Beruf Arbeiter)
+Waltersdorf,16.1.,Wenceslaus,Johann,Kaschka,2m (Beruf Bauer)
+Waltersdorf,18.1.,Marianna,Martin,Kos,68 (Beruf Arbeiter)
+Jamnay,20.1.,Johann,-,Valenta,92 (Beruf Arbeiter)
+Waltersdorf,27.1.,Catharina,Georg,Killar,70 (Witwe,Beruf Bauer)
+Weypersdorf,7.2.,Rosalia,Johann,Skaliczky,2m (Beruf Arbeiter)
+Weypersdorf,8.2.,Marina,Joseph,Waczek,8d 
+Weypersdorf,9.2.,Helena,Florian,Wagner,4 (Beruf Müller)
+Waltersdorf,13.2.,Wenceslaus,-,Jeczek,70 (Beruf Arbeiter)
+Waltersdorf,14.2.,Paul,Paul,Charvat,7 (Beruf Arbeiter)
+Jablona,18.2.,Johann,Anton,Jansa,20d (Beruf Weber)
+Waltersdorf,20.2.,Marianna,Georg,Kobliczek,80 (Beruf Arbeiter)
+Weypersdorf,20.2.,Franz,-,Marek,69 (Beruf Exemplarius#)
+Waltersdorf,22.2.,Catharina,Franz,Waschiczek,40 (Ehefrau,Beruf Häusler)
+Jablona,28.2.,Martin,-,Bliva#,68 (Beruf Vietor#)
+Weypersdorf,28.2.,Augustin,-,Skaliczky,75 (Beruf Arbeiter)
+Weypersdorf,3.3.,Paul,-,Lyer,86 (Beruf Arbeiter)
+Jablona,4.3.,Dorothea,Ludwig,Sedlarz,83 (Beruf Weber)
+
+DP 100
+
+Jamnay,5.3.,Wenceslaus,Wenceslaus,Schlesinger,19 (Beruf Exemplarius#)
+Weypersdorf,12.3.,Adalbert,Marek,76 (Beruf Arbeiter)
+Waltersdorf,12.3.,Catharina,Joseph,Maslaw#,40 (Ehefrau,Beruf Arbeiter)(Maslo == Maslaw?)
+Jamnay,13.3.,Joseph,-,Morawetz,46 (Beruf Bauer)
+Waltersdorf,13.3.,Catharina,Mathias,Kubin,50 (Witwe,Beruf Arbeiter)
+Waltersdorf,16.3.,Johann,Joseph,Kristek,3m (Beruf Arbeiter)
+Jablona,23.3.,Paul,-,Trampota,74 (Beruf Weber)
+Waltersdorf,24.3.,Joseph,Joseph,Kratky,4m (Beruf Häusler)
+Waltersdorf,24.3.,Catharina,Wenceslaus,Schimek,64 (Ehefrau,Beruf Arbeiter)
+Waltersdorf,31.3.,Judith,Anton,Kristek,63 (Beruf Häusler)
+Waltersdorf,4.4.,Marina,Georg,Jeczek,66 (Beruf Arbeiter)
+Waltersdorf,5.4.,Catharina,Johann,Jukl,40 (Ehefrau,Beruf Arbeiter)
+Waltersdorf,6.4.,Joseph,Jacob,Spiczak,23d (Beruf Arbeiter)
+Jablona,12.4.,Catharina,Paul,Merta,42 (Beruf Schuhmacher)
+Weypersdorf,13.4.,Catharina,Paul,Wodliczkin#,60 (Witwe,Beruf Bettler)
+Weypersdorf,16.4.,Johann,Joseph,Mleynek,2 (#74,Beruf Häusler)
+Jablona,19.4.,Adalbert Caspar,Johann,Kobliczek,3m (Beruf Weber)
+Waltersdorf,22.4.,Paul,-,Waschiczek,62 (Beruf Häusler)
+Waltersdorf,22.4.,Anna,Wenceslaus,Charvat,53 (Ehefrau,Beruf Arbeiter)
+Waltersdorf,24.4.,Paul,Johann,Kratky,5 (Beruf Arbeiter)
+
+DP 101
+
+Jamnay,25.4.,Anna,Joseph,Bauchal,13 (#88,Beruf Arbeiter)
+Waltersdorf,27.4.,Fabian,Joseph,Schimek,- (Beruf Cartoris#)
+Waltersdorf,29.4.,Joseph,Jeczek,26 (#116,Beruf Bauer)
+Weypersdorf,29.4.,Magdalena,Johann,Wondra,80 (#123,Beruf Arbeiter)
+Weypersdorf,2.5.,Martin,-,Marek,77 (#75,Beruf Weber)
+Jamnay,4.5.,Johann,Joseph,Srschen,5 (#34,Beruf Arbeiter)
+Weypersdorf,7.5.,Rosalia,Wenceslaus,Wurscht,21d (#47,Beruf Arbeiter)
+Waltersdorf,9.5.,Paul,-,Jansa,83 (#83,Beruf Häusler)
+Jamnay,19.5.,Dorothea,Anton,Spaczek,6d (#52,Beruf Häusler)
+Waltersdorf,19.5.,Paul,Paul,Bednarz,6 (#128,Beruf Arbeiter)
+Jamnay,22.5.,Wenceslaus,Philipp,79 (#131,Beruf Bauer)
+Weypersdorf,24.5.,Anna,Wenceslaus,Heisler,55 (#114,Beruf Bauer)
+Jablona,26.5.,Judith,Martin,Neschkudla,64 (Witwe,#40,Beruf Cartorem#)
+Waltersdorf,29.5.,Johann,-,Resler,50 (#159,Beruf Arbeiter)
+Waltersdorf,11.6.,Heinrich,-,Urban,38 (#186,Beruf Bauer)
+Jamnay,12.6.,Johann,-,Giru,75 (#88,Beruf Arbeiter)
+Weypersdorf,13.6.,Anna,Martin,Resler,50 (Ehefrau,#29,Beruf Arbeiter)
+Waltersdorf,17.6.,Johann,-,Lischka,63 (#39,Beruf Arbeiter)
+Jamnay,17.6.,Rosalia,Anton,Philipp,30d (#108,Beruf Arbeiter)
+Waltersdorf,17.6.,Catharina,Franz,Zalmann,2m (#154,Beruf Arbeiter)
+Jablona,19.6.,Anna,Ignatz,Sedlarz,44 (Ehefrau,#44,Beruf Weber)
+Waltersdorf,23.6.,Joseph,-,Hrdina,50 (#19,Beruf Bettler)
+
+DP 102
+
+Weypersdorf,23.6.,Marina,Franz,Chladek,1 (#80,Beruf Arbeiter)
+Jablona,24.6.,Anna,-,-,1 (#30)(Die Mutter stammt aus Jablona) U: Kind von Catharina Jansa
+Waltersdorf,1.7.,Johann,Johann,Waschiczek,2m (#161,Beruf Arbeiter)
+Waltersdorf,4.7.,Philipp,Paul,Krcziwohlawek,14 (#54,Beruf Arbeiter)
+Waltersdorf,10.7.,Joseph,Vitus,Jansa,1m (#98,Beruf Arbeiter)
+Weypersdorf,11.7.,Catharina,Johann,Resler,2m (#101,Beruf Arbeiter)
+Waltersdorf,12.7.,Catharina,Franz,Kulhanek,65 (Ehefrau,#182,Beruf Arbeiter)
+Weypersdorf,12.7.,Magdalena,Johann,Sedlaczek,64 (#12,Beruf Arbeiter)
+Waltersdorf,20.7.,Franz,Franz,Kubin,6 (#37,Beruf Arbeiter)
+Waltersdorf,25.7.,Rosalia,Wenceslaus,Kobliczek,18m (#14,Beruf Arbeiter)
+Waltersdorf,29.7.,Martin,-,Nehyba,82 (#103,Beruf Exemplarius#)
+Jamnay,3.8.,Joseph,Tobias,Philipp,3d (#123,Beruf Bauer)
+Jamnay,4.8.,Catharina,Johann,Behaunek,84 (Witwe,#73,Beruf Arbeiter)
+Weypersdorf,12.8.,Anna,Paul,Steyskal,65 (Witwe,#118,Beruf Häusler)
+Jamnay,14.8.,Georg,-,Prokopecz,66 (#83,Beruf Bauer)
+Jamnay,21.8.,Catharina,Wenceslaus,Czernohaus,55 (Witwe,#41,Beruf Häusler)
+Waltersdorf,27.8.,Marianna,Wenceslaus,Lischka,50 (Witwe,#127,Beruf Arbeiter)
+Waltersdorf,3.9.,Anna,Georg,Kos,29 (Ehefrau,#33,Beruf Arbeiter)
+
+DP 103
+
+Weypersdorf,6.9.,Theresia,Martin,#derik,6m (#53,Beruf Arbeiter)
+Jablona,9.9.,Anton,Sebastian,Merta,22 (#28,Beruf Schuhmacher)
+Weypersdorf,11.9.,Franz,Franz,Janku,6m (#61,Beruf Häusler)
+Jablona,13.9.,Karl,-,Schevel,60 (#82,Beruf Schuhmacher)(Schevel == Scheibl?)
+Weypersdorf,16.9.,Rosalia,Wenceslaus,Buczek,3m (#154,Beruf Arbeiter)
+Jamnay,30.9.,Anna,Johann,Kobliczek,52 (Ehefrau,#112,Beruf Arbeiter)
+Jamnay,5.10.,Martin,-,Czernohaus,90 (#50,Beruf Arbeiter)
+Jamnay,6.10.,Anna,Jacob,Chladek,60 (#107,Beruf Arbeiter)
+Lubnik,8.10.,Martin,-,Mikiska#,60 (#6,Beruf Bauer)
+Jamnay,13.10.,Joseph,Paul,Philipp,8d (#138,Beruf Häusler)
+Weypersdorf,13.10.,Catharina,Martin,Hawlena,50 (Ehefrau,#55,Beruf Arbeiter)
+Waltersdorf,15.10.,Paul,-,Charvat,40 (#131,Beruf Arbeiter)
+Weypersdorf,16.10.,Anton,Florian,Wagner,14 (#82,Beruf Müller)
+Jablona,24.10.,Johann,-,Czerny,63 (#81,Beruf Schuhmacher)
+Weypersdorf,27.10.,Augustin,-,Kubelka,80 (#76,Beruf Arbeiter)
+Jamnay,28.10.,Johann,Anton,Valenta,4m (#73,Beruf Arbeiter)
+Waltersdorf,4.11.,Joseph,Franz,Morawetz,2m (#153,Beruf Arbeiter)
+Weypersdorf,7.11.,Franz,Georg,Benesch,14 (#83,Beruf Arbeiter)
+Jamnay,14.11.,Johann,-,Chladek,66 (#5,Beruf Arbeiter)
+Jablona,16.11.,Nicolaus,Joseph,Rubesch,2 (#76,Beruf Bettler)
+Waltersdorf,2.12.,Anna,Paul,Matiegka,1y3m (#129,Beruf Arbeiter)
+
+DP 104
+
+Waltersdorf,6.12.,Magdalena,Paul,Charvat,80 (Ehefrau,#180,Beruf Arbeiter)
+Waltersdorf,9.12.,Johann,Mathias,H#czak,1y3m (#2,Beruf Arbeiter)(Oder heißt das Spiczak?)
+Weypersdorf,11.12.,Magdalena,Wenceslaus,Heyl,64 (Witwe,#12,Beruf Arbeiter)
+Waltersdorf,14.12.,Paul,-,Charvat,70 (#180,Beruf Arbeiter)
+Weypersdorf,18.12.,Thekla,Florian,Wagner,1y1m (#82,Beruf Müller)
+Weypersdorf,26.12.,Veronica,Johann,Morawetz,5y6m (#6,Beruf Arbeiter)
+
+1772
+
+Weypersdorf,1.1.,Martin,Joseph,Pan,8 (#155,Beruf Arbeiter)
+Jamnay,1.1.,Johann,-,Kobliczek,54 (#112,Beruf Häusler)
+Weypersdorf,2.1.,Martin,-,Faltus,80 (#167,Beruf Arbeiter)
+Weypersdorf,3.1.,Johann,Johann,Morawetz,9 (#6,Beruf Arbeiter)
+Jamnay,6.1.,Wenceslaus,Georg,Hegerlik,8 (#132,Beruf Arbeiter)
+Waltersdorf,7.1.,Franz,-,Hrdina,53 (#36,Beruf Arbeiter)
+Jamnay,8.1.,Paul,Wenceslaus,Czernohaus,4 (#39,Beruf Häusler)
+Weypersdorf,8.1.,Judith,Johann,Chromy,53 (#106,Beruf Arbeiter)
+Waltersdorf,13.1.,Veronica,Paul,Teykl,1y6m (#119,Beruf Arbeiter)
+Weypersdorf,13.1.,Eva,Georg,Krz#vina,60 (#0#,Beruf Bettler)
+Jamnay,14.1.,Johann,-,Philipp,73 (#96,Beruf Häusler)
+Jamnay,18.1.,Franz,Georg,Beran,15 (#49,Beruf Jäger)
+Weypersdorf,19.1.,Anton,-,Wurscht,60 (#93,Beruf Häusler)
+Waltersdorf,19.1.,Paul,-,Waschiczek,87 (#163,Beruf Exemplarius#)
+Waltersdorf,20.1.,Dorothea,Johann,Kaschka,63 (Witwe,#146,Beruf Arbeiter)
+Jamnay,21.1.,Marina,Wenceslaus,Trampota,80 (Witwe,#90,Beruf Bauer)
+Weypersdorf,23.1.,Anna,Paul,Prochaska,55 (Witwe,#66,Beruf Arbeiter)
+
+DP 105
+
+Waltersdorf,24.1.,Anna,Paul,Charvat,4y3m (#133,Beruf Arbeiter)
+Weypersdorf,25.1.,Martin,-,Resler,69 (#129,Beruf Exemptarius#)
+Waltersdorf,27.1.,Johann,Paul,Teykl,11 (#119, Beruf Arbeiter)
+Waltersdorf,28.1.,Wenceslaus,-,Charvat,76 (#87,Beruf Exemptarius#)
+Weypersdorf,29.1.,Judith,Anton,Skaliczky,68 (Ehefrau,#162,Beruf Exemptarius#)
+Waltersdorf,29.1.,Wenceslaus,Paul,Kos,1y6m (#183,Beruf Arbeiter)
+Waltersdorf,30.1.,Franz,Joseph,Mister,2 (#126,Beruf Inwohner)
+Waltersdorf,30.1.,Franz,-,Ru#er,36 (#50,Beruf Müller)
+Weypersdorf,31.1.,Georg,Kubu,70 (#92,Beruf Inwohner)
+Waltersdorf,1.2.,Johann,Paul,Charvat,8 (#131,Beruf Inwohner)
+Weypersdorf,1.2.,Johann,Wenceslaus,Mleynek,18 (#112,Beruf Bettler)
+Jamnay,2.2.,Joseph,-,Kobliczek,50 (#34,Beruf Famulus)
+Jamnay,2.2.,Judith,Wenceslaus,Ambrosch,70 (Witwe,#76,Beruf Häusler)
+Waltersdorf,2.2.,Franz,Catharina,Hrdina,2m5d (#129)
+Waltersdorf,2.2.,Judith,Paul,Krcziwohlawek,50 (Ehefrau,#104)
+Weypersdorf,4.2.,Dorothea,Georg,Kubelka,55 (Witwe,#166,Beruf Soldat)
+Waltersdorf,4.2.,Wenceslaus,Mathias,Spiczak,11 (#58,Beruf Arbeiter)
+Waltersdorf,6.2.,Jacob#,-,Czernohorsky,65 (#118,Beruf Arbeiter)
+Waltersdorf,8.2.,Joseph,Paul,Kos,5y6m (#183,Beruf Arbeiter)
+Weypersdorf,8.2.,Paul,-,Wondra,48 (#68,Beruf Häusler)
+Waltersdorf,8.2.,Anna,Joseph,Matiegka,46 (Ehefrau,#140,Beruf Bauer)
+Waltersdorf,9.2.,Johanna,Paul,Mister,1m9d (#149,Beruf Fabri# Lignary#)
+Weypersdorf,9.2.,Paul,-,Morawetz,60 (#124,Beruf Arbeiter)
+Waltersdorf,12.2.,Paul,Waschiczek,33 (#176,Beruf Inwohner)
+
+DP 106
+
+Waltersdorf,13.2.,Anna,Vitus,Nowak,56 (Ehefrau,#162,Beruf Häusler)
+Waltersdorf,13.2.,Catharina,Karl,Anderle,11m (#86,Beruf Häusler)
+Weypersdorf,14.2.,Anna,Matthäus,Chladek,50 (#115,Beruf Häusler)
+Waltersdorf,14.2.,Vitus,-,Nowak,65 (#162,Beruf Häusler)
+Waltersdorf,15.2.,Veronica,Joseph,Spiczak,55 (#56,Beruf Arbeiter)
+Waltersdorf,16.2.,Anna,Paul,Waschiczek,58 (#12,Beruf Häusler)
+Waltersdorf,17.2.,Johann,-,Charvat,57 (#131,Beruf Inwohner)
+Weypersdorf,17.2.,Wenceslaus,Franz,Skaliczky,4 (#79,Beruf Inwohner)
+Waltersdorf,17.2.,Anna,Wenceslaus,Beczalek,60 (Witwe,#93,Beruf Häusler)
+Jamnay,18.2.,Johann,-,Bauchal,90 (#33,Beruf Inwohner)
+Waltersdorf,19.2.,Mathias,-,Spiczak,44 (#30,Beruf Inwohner)
+Weypersdorf,24.2.,Georg,-,Wawra,84 (#86)
+Waltersdorf,25.2.,Wenceslaus,-,Waschiczek,74 (#70,Beruf Exemptuarius#)
+Waltersdorf,26.2.,Johann,-,Kaschka,85 (#21,Beruf Exemptarius#)
+Weypersdorf,29.2.,Marina,Johann,Dittrich#,66 (#25,Beruf Müller)
+Waltersdorf,1.3.,Paul,-,Matiegka,42 (#129,Beruf Häusler)
+Jamnay,1.3.,Wenceslaus,Johann,Philipp,25 (#96,Beruf Häusler)
+Waltersdorf,1.3.,Martin,Martin,Jeczek,1y6m (#115,Beruf Exemptarius#)
+Jamnay,2.3.,Johann,-,Hansliczek,42 (#137,Beruf Häusler)
+Waltersdorf,3.3.,Judith,Tobias,Kratky,45 (#41,Beruf Häusler)
+Waltersdorf,7.3.,Joseph,Paul,Kobliczek,6y2m (#151,Beruf Häusler)
+Weypersdorf,10.3.,Martin,-,Killar,39 (#135,Beruf Häusler)
+Weypersdorf,11.3.,Apollonia,Martin,Kobliczek,18m (#146,Beruf Inwohner)
+Waltersdorf,11.3.,Judith,Paul,Teykl,40 (#119,Beruf Häusler)
+Jablona,11.3.,Johann,-,Skaliczky,45 (#7,Beruf Schuhmacher)
+
+DP 107
+
+Waltersdorf,11.3.,Franz,-,Kaschka,60 (#176,Beruf Bettler)
+Weypersdorf,12.3.,Wenceslaus,Johann,Marek,1m9d (#43,Beruf Bauer)
+Jamnay,12.3.,Fabian,Paul,Gironcz,6m (#9,Beruf Häusler)
+Waltersdorf,14.3.,Georg,-,Waniczek,45 (#156,Beruf Bauer)
+Jamnay,17.3.,Catharina,Augustin,Behaunek,60 (Ehefrau,#45,Beruf Häusler)
+Jamnay,18.3.,Anna,Wenceslaus,Gironcz,62 (Witwe,#70,Beruf Arbeiter)
+Weypersdorf,20.3.,Veronica,Johann,Morawetz,20d (#150,Beruf Inwohner)
+Weypersdorf,21.3.,Anna,Georg,Kubu,30 (#92,Beruf Arbeiter)
+Weypersdorf,21.3.,Franz,-,Maczek,50 (#158,Beruf Arbeiter)
+Waltersdorf,22.3.,Rosalia,Anton,Mrazek,53 (Ehefrau,#8,Beruf Arbeiter)
+Weypersdorf,23.3.,Johann,-,Sedlaczek,35 (#71,Beruf Inwohner)
+Waltersdorf,26.3.,Franz,-,Jeczek,48 (#114,Beruf Arbeiter)
+Waltersdorf,26.3.,Magdalena,Paul,Jukl,80 (#17,Beruf Häusler)
+Jamnay,27.3.,Dorothea,Johann,Philipp,35 (Witwe,#96,Beruf Häusler)
+Waltersdorf,28.3.,Catharina,Wenceslaus,Chromy,30 (#34,Beruf Arbeiter)
+Waltersdorf,28.3.,Johann,-,Seybal,45 (#49,Beruf Häusler)
+Jamnay,29.3.,Marina,Joseph,Hansliczek,28 (Ehefrau,#7,Beruf Häusler)
+Weypersdorf,29.3.,Eva,Paul,Morawetz,53 (Witwe,#124,Beruf Arbeiter)
+Waltersdorf,29.3.,Adalbert,Joseph,Waschiczek,2 (#68,Beruf Häusler)
+Weypersdorf,30.3.,Paul,-,Skaliczky,36 (#171,Beruf Bettler)
+Weypersdorf,31.3.,Josepha,Augustin,Kanku,13d (#42,Beruf Faber)
+Waltersdorf,3.4.,Marianna,Wenceslaus,Chromy,45 (#34,Beruf Arbeiter)
+Jamnay,4.4.,Wenceslaus,Wenceslaus,Chladek,1 (#60,Beruf Häusler)
+Waltersdorf,5.4.,Catharina,Franz,Jansa,60 (Witwe,#26,Beruf Arbeiter)
+Weypersdorf,5.4.,Anna,Georg,Kubesch,9m (#105,Beruf Häusler)
+Waltersdorf,5.4.,Polexina,Caspar,Schike#,59 (Witwe,#150,Beruf Inwohner)(Gelesen: "Schüch")
+
+DP 108
+
+Weypersdorf,6.4.,Anna,Paul,Skaliczky,41 (Witwe,#142,Beruf Arbeiter)
+Jamnay,11.4.,Veronica,Joseph,Behaunek,40 (Ehefrau,#46,Beruf Häusler)
+Jamnay,12.4.,Augustin,-,Behaunek,70 (#46,Beruf Exemptuarius#)
+Waltersdorf,13.4.,Franz,-,Kubin,61 (#37,Beruf Häusler)
+Jablona,15.4.,Anna,Georg,Schwantzar,60 (Witwe,#77,Beruf Faber)
+Waltersdorf,16.4.,Wenceslaus,-,Neschkudla,62 (#84,Beruf Faber)
+Waltersdorf,17.4.,Marina,Anton,Ptaczek,35 (Ehefrau,#31,Beruf Häusler)
+Weypersdorf,17.4.,Franz,Georg,Kubu,22 (#92,Beruf Inwohner)
+Waltersdorf,18.4.,Catharina,Jacob,Spiczak,84 (Witwe,#11,Beruf Häusler)
+Weypersdorf,18.4.,Eva,Anton,Heyl,40 (Ehefrau,#60,Beruf Inwohner)
+Waltersdorf,21.4.,Paul,-,Waniczek,44 (#167,Beruf Häusler)
+Waltersdorf,25.4.,Judith,Johann,Wondra,73 (Witwe,#71,Beruf Häusler)
+Waltersdorf,26.4.,Judith,Georg,Lischka,70 (Witwe,#178,Beruf Häusler)
+Jamnay,27.4.,Dorothea,Wenceslaus,Bauchal,50 (Ehefrau,#101,Beruf Häusler)
+Waltersdorf,28.4.,Catharina,Johann,Kubin#,14 (Beruf Häusler)
+Weypersdorf,28.4.,Johann,-,Skaliczky,67 (#90,Beruf Weber)
+Jamnay,29.4.,Paul,-,Doleczal,- (#76,Beruf Inwohner)
+Jamnay,30.4.,Augustin,-,Morawetz,68 (#110,Beruf Exemptarius#)
+Weypersdorf,1.5.,Anna,Paul,Morawetz,9m  (#163,Beruf Bauer)
+Waltersdorf,1.5.,Johann,-,Kubin,60 (#119,Beruf Inwohner)
+Jamnay,2.5.,Theresia,Dominik,Schlesinger,24 (Ehefrau,#1,Beruf Richter)
+Weypersdorf,5.5.,Ignatz,Martin,Hawlena,13 (#55,Beruf Häusler)
+Waltersdorf,5.5.,Marina,Paul,Kos,60 (Witwe,#22,Beruf Häusler)
+Weypersdorf,5.5.,Franz,Franz,Skaliczky,1y6m (#79#,Beruf exautorati# militis#)
+Waltersdorf,7.5.,Marianna,Paul,Machaczek,60 (Witwe,#61,Beruf Häusler)
+Jablona,8.5.,Rosina,Wenceslaus,Heyl,55 (#71,Beruf Exauctorati# milites#)
+Waltersdorf,9.5.,Catharina,Martin,Chromy,6 (#38,Beruf Häusler)
+
+DP 109
+
+Waltersdorf,9.5.,Johann,Johann,Matiegka,30 (#9,Beruf Bettler)
+Waltersdorf,9.5.,Joseph,Paul,Hrdina,1 (#36,Beruf Häusler)
+Waltersdorf,9.5.,Anna,Franz,Kubin,40 (Witwe,#37,Beruf Häusler)
+Waltersdorf,9.5.,Franz,Martin,Bieczalek,2y2m (#174,Beruf Häusler)
+Waltersdorf,10.5.,Wenceslaus,Joseph,Ptaczek,7m (#160,Beruf Häusler)
+Jamnay,10.5.,Dorothea,Johann,Philipp,7 (#96,Beruf Häusler)
+Jamnay,11.5.,Georg,-,Behaunek,65 (#63,Beruf Häusler)
+Waltersdorf,12.5.,Paul,Martin,Chromy,14 (#38,Beruf Häusler)
+Jamnay,13.5.,Anna,Paul,Philipp,9m (#56,Beruf Arbeiter)
+Jamnay,17.5.,Johann,-,Waczek,50 (#25,Beruf Häusler)
+Jablona,19.5.,Dorothea,Johann,Rubesch,48 (#76,Beruf Schuhmacher)
+Waltersdorf,19.5.,Anna,Georg,Jukl,37 (Ehefrau,#42,Beruf Häusler)
+Weypersdorf,20.5.,Veronica,Martin,Wottawa,61 (Witwe,#174,Beruf Inwohner)
+Weypersdorf,20.5.,Judith,Paul,Skaliczky,41 (Witwe,#171,Beruf Inwohner)
+Waltersdorf,21.5.,Catharina,Johann,Jukl,30 (#16,Beruf Bauer)
+Waltersdorf,22.5.,Joseph,-,Charvat,45 (#16,Beruf Arbeiter)
+Waltersdorf,22.5.,Franz,Johann,Jukl,28 (#16,Beruf Bauer)
+Weypersdorf,22.5.,Anna,Paul,Resler,56 (Witwe,#143,Beruf Häusler)
+Waltersdorf,22.5.,Catharina,Johann,Spiczak,9m (#48,Beruf Häusler)
+Jamnay,24.5.,Georg,-,Krejczy,55 (#37,Beruf Häusler)
+Waltersdorf,24.5.,Anna,Franz,Morawetz,40 (Ehefrau,#153,Beruf Bettler)
+Weypersdorf,25.5.,Martin,-,Marek,81 (#97,Beruf Inwohner)
+Waltersdorf,25.5.,Catharina,Joseph,Charvat,56 (Witwe,#16,Beruf Arbeiter)
+Waltersdorf,27.5.,Paul,-,Kobliczek,50 (#79,Beruf Häusler)
+Waltersdorf,27.5.,Elisabeth,Paul,Mrazek,45 (Ehefrau,#175,Beruf Bauer)
+Jamnay,28.5.,Catharina,Paul,Czernohaus,50 (Witwe,#101,Beruf Häusler)
+Weypersdorf,28.5.,Judith,Anton,Skaliczky,52 (Witwe,#119,Beruf Bauer)
+
+DP 110
+
+Jamnay,1.6.,Franz,-,Waschiczek,56 (#107,Beruf Inwohner)
+Waltersdorf,1.6.,Joseph,Paul,Mrazek,8d (#175,Beruf Bauer)
+Waltersdorf,1.6.,Judith,Wenceslaus,Jeczek,60 (Witwe,#120,Beruf Häusler)
+Weypersdorf,2.6.,Ignatz,Joseph,Mleynek,11m14d (#74,Beruf Häusler)
+Waltersdorf,2.6.,Anna,Mathias,Kubi#,15 (#91,Beruf Häusler)
+Waltersdorf,3.6.,Joseph,Georg,Kos,1y2m (#33,Beruf Häusler)
+Waltersdorf,3.6.,Veronica,Georg,Kobliczek,31 (Ehefrau,#153,Beruf Inwohner)
+Waltersdorf,6.6.,Georg,-,Killar,50 (#124,Beruf Arbeiter)
+Waltersdorf,8.6.,Anna,Paul,Chromy#,46 (Ehefrau,#34,Beruf Häusler)
+Waltersdorf,10.6.,Wenceslaus,-,Schimek,70 (#75,Beruf Arbeiter)
+Jamnay,12.6.,Johann,Paul,Bittmann#,8 (#30,Beruf Bettler)
+Waltersdorf,13.6.,Catharina,Martin#,Charvat,48 (Ehefrau,#88,Beruf Häusler)
+Waltersdorf,14.6.,Paul,-,Chromy,46 (#34,Beruf Häusler)
+Jamnay,14.6.,Magdalena,Johann,Chladek,65 (Witwe,#5,Beruf Inwohner)
+Waltersdorf,14.6.,Marianna,Paul,Waschiczek,36 (Witwe,#177,Beruf Häusler)
+Weypersdorf,16.6.,Marina,Joseph,Mleynek,30 (Ehefrau,#74,Beruf Arbeiter)
+Jamnay,16.6.,Judith,Augustin,Spaczek,32 (#98,Beruf Inwohner)
+Weypersdorf,17.6.,Magdalena,Georg,Daubrawa,63 (Ehefrau,#94,Beruf Arbeiter)
+Weypersdorf,17.6.,Marina,Martin,Hawelka,65 (Witwe,#84,Beruf Inwohner)
+Jamnay,17.6.,Joseph,-,Kos,50 (#171,Beruf Inwohner)
+Waltersdorf,17.6.,Judith,Georg,Jeczek,55 (Ehefrau,#42,Beruf Inwohner)
+Weypersdorf,18.6.,Barbara,Johann,Falta#,70 (Witwe,#95,Beruf Bettler)
+Jamnay,19.6.,Anna,Anton,Doleczal,40 (Ehefrau,#10,Beruf Arbeiter)
+Jamnay,21.6.,Wenceslaus,Paul,Bittmann#,5 (#30,Beruf Bettler)
+Waltersdorf,24.6.,Anna,Wenceslaus,Chromy,35 (#34,Beruf Häusler)
+Jamnay,25.6.,Veronica,Paul,Steyskal,9 (#93,Beruf Arbeiter)
+Weypersdorf,25.6.,Anna,Augustin,Kubelka,41 (Witwe,#76,Beruf Inwohner)
+Weypersdorf,26.6.,Anna,Martin,Daubrawa,2 (#142,Beruf Inwohner)
+
+DP 111
+
+Weypersdorf,28.6.,Anton,-,Janku,28 (#67,Beruf Inwohner)
+Jablona,29.6.,Anna,Wenceslaus,Weinlich,58 (Ehefrau,#11,Beruf Müller)
+Waltersdorf,1.7.,Anna,Wenceslaus,Hrdina,50 (Witwe,#17,Beruf Inwohner)
+Waltersdorf,1.7.,Judith,Georg,Kobliczek,28 (#153,Beruf Bettler)
+Weypersdorf,6.7.,Magdalena,Martin,Worlitschka,2 (#99#,Beruf Arbeiter)
+Weypersdorf,7.7.,Judith,Paul,Daubrawa,56 (#97,Beruf Häusler)
+Jamnay,9.7.,Anna,Joseph,Kos,45 (Witwe,#171,Beruf Inwohner)
+Weypersdorf,9.7.,Georg,-,Heyl,63 (#169,Beruf Häusler)
+Waltersdorf,10.7.,Martin,-,Bieczalek,44 (#174,Beruf Häusler)
+Waltersdorf,10.7.,Waschiczek,45 (#106,Beruf Inwohner)
+Waltersdorf,11.7.,Johann,Franz,Kaschka,16 (#77,Beruf Häusler)
+Waltersdorf,11.7.,Franz,Martin,Waschiczek,2 (#106,Beruf Inwohner)
+Waltersdorf,13.7.,Jacob,-,Pan,92 (#177,Beruf Häusler)
+Weypersdorf,14.7.,Judith,Georg,Heyl,64 (Witwe,#169,Beruf Häusler)
+Jamnay,14.7.,Catharina,Wenceslaus,Prokopecz,95 (Witwe,#61,Beruf Bauer)
+Waltersdorf,16.7.,Anton,Paul,Kobliczek,2y6m (#153,Beruf Häusler)
+Waltersdorf,19.7.,Theresia,Johann,Czernohorsky,41 (#96,Beruf Häusler)
+Waltersdorf,20.7.,Anna,Paul,Mrazek,53 (Ehefrau,#15,Beruf Häusler)
+Waltersdorf,20.7.,Catharina,Georg,Krcziwohlawek,7 (#17,Beruf Bauer)
+Waltersdorf,22.7.,Catharina,Paul,Pauk,5 (#177,Beruf Inwohner)
+Weypersdorf,22.7.,Marina,Wenceslaus,Ptaczek,80 (Witwe,#164,Beruf Bauer)
+Weypersdorf,22.7.,Judith,Johann,Mleynek,47 (Witwe,#158,Beruf Inwohner)
+Jamnay,24.7.,Paul,-,Steyskal,50 (#93,Beruf Häusler)
+Jablona,27.7.,Wenceslaus,-,Weinlich,64 (#11,Beruf Müller)
+Weypersdorf,29.7.,Anna,Wenceslaus,Janku,12 (#72,Beruf Häusler)
+Waltersdorf,31.7.,Catharina,Joseph,Matiegka,52 (#Ehefrau,9,Beruf Häusler)
+Waltersdorf,3.8.,Paul,-,Krcziwohlawek,55 (#5,Beruf Rotarius#)
+
+DP 112
+
+Jamnay,4.8.,Anna,Anton,Bauchal,2 (#102,Beruf Inwohner)
+Waltersdorf,5.8.,Veronica,Joseph,Waschiczek,40 (Ehefrau,#68,Beruf Häusler)
+Jamnay,6.8.,Anton,Joseph,Czernohaus,1d (#67,Beruf Häusler)
+Jablona,12.8.,Jacob,Anton,Feltzmann,21d (#88,Beruf Libary#)
+Czermna,15.8.,Judith,Wenceslaus,Mottl,62 (Witwe,#155,Beruf Inwohner)
+Jamnay,16.8.,Dorothea,Johann,Waczek,62 (#131,Beruf Häusler)
+Jamnay,17.8.,Augustin,-,Maczat,63 (#68,Beruf Häusler)
+Weypersdorf,17.8.,Anna,Johann,Heyl,80 (Witwe,#139,Beruf Häusler)
+Weypersdorf,18.8.,Johann,-,Paukert,61 (#125,Beruf Inwohner)
+Jamnay,19.8.,Anna,Wenceslaus,Chladek,37# (Ehefrau,#60,Beruf Arbeiter)
+Weypersdorf,20.8.,Wenceslaus,-,Maresch,51# (#48,Beruf Bauer)
+Jablona,20.8.,Anna,David,Merta,46 (Ehefrau,#90,Beruf Schuhmacher)
+Weypersdorf,3.9.,Anna,Martin,Skaliczky,4m (#121,Beruf Bauer)
+Waltersdorf,4.9.,Joseph,Georg,Waniczek,2y6m (#156,Beruf Bauer)
+Jablona,5.9.,Anna,Franz,Sedlarz,60 (Witwe,#68,Beruf Weber)
+Waltersdorf,8.9.,Georg,Joseph,Hrdina,3 (#19,Beruf Häusler)
+Waltersdorf,11.9.,Johann,-,Kristek,35 (#25,Beruf Arbeiter)
+Weypersdorf,11.9.,Rosalia,Johann,Schüll,14 (#32,Beruf Arbeiter)
+Jamnay,12.9.,Georg,Hegerlik,55 (#132,Beruf Häusler)
+Weypersdorf,13.9.,Judith,Johann,Schüll,6 (#32,Beruf Arbeiter)
+Jamnay,14.9.,Martin,Wenceslaus,Spaczek,40 (#19,Beruf Bettler)
+Jamnay,14.9.,Rosina,Paul,Steyskal,45 (Witwe,#93,Beruf Arbeiter)
+Waltersdorf,15.9.,Rosalia,Vitus,Jansa,2m (#98,Beruf Inwohner)
+Weypersdorf,16.9.,Dorothea,Anton,Schembera,75 (Witwe,#5,Beruf Inwohner)
+Waltersdorf,17.9.,Wenceslaus,-,Zelinka,29 (#99,Beruf Häusler)
+Waltersdorf,19.9.,Franz,Paul,Mister,3 (#149,Beruf Faber legnary#)
+
+DP 113
+
+Waltersdorf,20.9.,Judith,Jospeh,Hrdina,3 (#19,Beruf Inwohner)
+Jamnay,21.9.,Anton,-,Maczat,47 (#72,Beruf Arbeiter)
+Jamnay,22.9.,Catharina,Anton,Maczat,1 (#72,Beruf Arbeiter)
+Waltersdorf,24.9.,Marina,Georg,Jeczek,66 (#72,Beruf Bauer)
+Jablona,25.9.,Franz,-,Heyl,74 (#65,Beruf Faber Lignarius)
+Waltersdorf,26.9.,Georg,Georg,Kobliczek,46 (#79,Beruf Bettler)
+Weypersdorf,27.9.,Johann,Martin,Skaliczky,1 (#162,Beruf Bauer)
+Jamnay,28.9.,Franz,Joseph,Philipp,11m (#4,Beruf Bauer)
+Weypersdorf,28.9.,Paul,-,Czernohorsky,44 (#41,Beruf Häusler)
+Jablona,29.9.,Dorothea,Franz,Koczel,56 (Ehefrau,#60,Beruf Fleischer)
+Weypersdorf,30.9.,Marina,Johann,Morawetz,70 (Ehefrau,#150,Beruf Inwohner)
+Jablona,1.10.,Catharina,Johann,Kos,6 (#56,Beruf Arbeiter)
+Jamnay,1.10.,Georg,Matthäus,Philipp,1m14d (#51,Beruf Bauer)
+Jamnay,1.10.,Dorothea,Johann,Hansliczek,55 (#139,Beruf Inwohner)
+Waltersdorf,5.10.,Augustin,-,Hawelka,50 (#157#,Beruf Inwohner)
+Jablona,5.10.,Joseph,Joseph,Neschkudla,16m (#37,Beruf Schneider)
+Waltersdorf,6.10.,Anna,Paul,Charvat,6y7m (#94,Beruf Häusler)
+Waltersdorf,8.10.,Anna,Franz,Killar,55 (Ehefrau,#71,Beruf Exemptuarius#)
+Jamnay,8.10.,Wenceslaus,-,Bauchal,65 (#101,Beruf Häusler)
+Jamnay,9.10.,Anna,Joseph,Giru,6 (#115,Beruf Häusler)
+Jablona,12.10.,Catharina,Johann,Kos,46 (Ehefrau,#56,Beruf Arbeiter)
+Jamnay,13.10.,Catharina,Wenceslaus,Schlesinger,6 (#143,Beruf Exemptuarius#)
+Jablona,13.10.,Theresia,Ignatz,Sedlarz,4y9m (#73,Beruf Weber)
+Weypersdorf,13.10.,Marina,Wenceslaus,Mleynek,60 (Witwe,#112,Beruf Inwohner)
+Jablona,13.10.,Maria,Franz,Koczel,21 (#60,Beruf Fleischer)
+Jamnay,14.10.,Fabian,Johann,Trampota,1y6m (#90,Beruf Bauer)
+Jablona,14.10.,Bartholomäus,Joseph,Neschkudla,3 (#37#,Beruf Schneider)
+
+DP 114
+
+Waltersdorf,17.10.,Wenceslaus,-,Kaschka,66 (#71,Beruf Inwohner)
+Jamnay,17.10.,Johann Wenceslaus,Wenceslaus,Schlesinger,6 (#1,Beruf Exemptarius#)
+Waltersdorf,17.10.,Theresia,Paul,Kobliczek,4y4m (#153,Beruf Häusler)
+Weypersdorf,18.10.,Marina,Martin,Kubiczek,34 (Ehefrau,#146,Beruf Inwohner)
+Weypersdorf,18.10.,Karl,Wenceslaus,Mleynek,10 (#112,Beruf Inwohner)
+Jablona,18.10.,Franz,Franz,Horaczek,7 (#31,Beruf Vagabund)
+Jamnay,19.10.,Catharina,Mathias,Trampota,60 (Witwe,#81,Beruf Häusler)
+Weypersdorf,19.10.,Eva,Wenceslaus,Skaliczky,1 (#136,Beruf Inwohner)
+Weypersdorf,21.10.,Johann,-,Heyl,44 (#166,Beruf Häusler)
+Weypersdorf,21.10.,Catharina,Martin,Heyl,62 (Witwe,#62,Beruf Inwohner)
+Jamnay,25.10.,Jacob,-,Hansliczek,92 (#134,Beruf Inwohner)
+Weypersdorf,30.10.,Georg,-,Kubesch,35 (#105,Beruf Häusler)
+Weypersdorf,30.10.,Catharina,Martin,Zalmann,42 (Witwe,#112,Beruf Inwohner)
+Waltersdorf,1.11.,Magdalena,Paul,Merta,70 (#140,Beruf Häusler)
+Jablona,2.11.,Rosalia,Augustin,Neschkudla,6 (#22,Beruf Arbeiter)
+Jamnay,2.11.,Marina,Johann,Kobliczek,50 (Witwe,#74,Beruf Häusler)
+Jamnay,2.11.,Johann,-,Behaunek,55 (#77,Beruf Faber)
+Jamnay,4.11.,Joseph,Johann,Baltzar,11m (#124,Beruf Bauer)
+Weypersdorf,6.11.,Anna,Georg,Prochaska,60 (Witwe,#47,Beruf Häusler)
+Jamnay,6.11.,Wenceslaus,-,Schlesinger,62 (#143,Beruf Exemptuarius#)
+Jamnay,7.11.,Johann,-,Kobliczek,88 (#69,Beruf Inwohner)
+Weypersdorf,7.11.,Martin,-,Chladek,80 (#29,Beruf Häusler)
+Waltersdorf,7.11.,Joseph,Wenceslaus,Charvat,8 (#181,Beruf Inwohner)
+Waltersdorf,8.11.,Johann,Georg,Jeczek,19 (#55,Beruf Häusler)
+Waltersdorf,9.11.,Wenceslaus,Wenceslaus,Charvat,5 (#181,Beruf Inwohner)
+Waltersdorf,10.11.,Rosalia,Franz,Kaschka,40 (Witwe,#176,Beruf Inwohner)
+Waltersdorf,12.11.,Anton,Wenceslaus,Charvat,3 (#181,Beruf Inwohner)
+
+DP 115
+
+Waltersdorf,15.11.,Joseph,Paul,Kulhanek,1y6m (#158,Beruf Inwohner)
+Jablona,17.11.,Juliana,Franz,Neschkudla,6y6m (#53,Beruf Schneider)
+Weypersdorf,18.11.,Catharina,Georg,Kubesch,36 (Witwe,#105,Beruf Häusler)
+Waltersdorf,18.11.,Anna,Franz,Kaschka,7 (#176,Beruf Inwohner)
+Waltersdorf,19.11.,Anna,Martin,Bieczalek,50 (Witwe,#174,Beruf Häusler)
+Weypersdorf,23.11.,Martin,Martin,Chladek,27 (#29,Beruf Häusler)
+Jablona,23.11.,Catharina,Joseph,Rubesch,38 (Ehefrau,#76,Beruf Häusler)
+Waltersdorf,24.11.,Franz,Georg,Machaczek,4# (#61,Beruf Schuhmacher)(Heißt das 4 oder 43?)
+Jablona,27.11.,Elisabeth,Johann,Skaliczky,68 (Witwe,#8,Beruf Faber)
+Jamnay,27.11.,Maria Theresia,Dominik,Schlesinger,2 (#1,Beruf Richter)
+Weypersdorf,28.11.,Dominik,Georg,Kubu,6 (#92,Beruf Inwohner)
+Waltersdorf,1.12.,Johann Georg,Georg,Waniczek,2m16d (#156,Beruf Bauer)
+Jablona,1.12.,Maria,Franz,Kupka,26 (#31,Beruf Fleischer#)
+Weypersdorf,2.12.,Veronica,Georg,Kubu,42 (Witwe,#92,Beruf Inwohner)
+Waltersdorf,3.12.,Joseph,Franz,Enter#,4 (#89,Beruf Cantor)
+Waltersdorf,3.12.,Anton,-,Blaczek,49 (#31,Beruf Häusler)
+Weypersdorf,4.12.,Wenceslaus,Martin,Jandegsek,33 (#56,Beruf Häusler)
+Waltersdorf,10.12.,Anna,Jacob,Kratky,60 (Witwe,#100,Beruf Häusler)
+Waltersdorf,13.12.,Elisabeth,Wenceslaus,Ptaczek,36 (Ehefrau,#118,Beruf Arbeiter)
+Weypersdorf,18.12.,Marina,Johann,Hawelka,42 (Ehefrau,#84,Beruf Häusler)
+Jablona,23.12.,Joseph,Anton,Czervinka,9 (#12,Beruf Schuhmacher)
+Waltersdorf,23.12.,Marina,Georg,Hrdina,49# (Ehefrau,#43,Beruf Arbeiter)
+Jablona,25.12.,Joseph,Joseph,Rubesch,8 (#76,Beruf Häusler)
+Jamnay,25.12.,Juliana,Johann,Killar,4 (#68,Beruf Inwohner)
+Jamnay,26.12.,Anna,Johann,Killar,45 (#68,Beruf Inwohner)
+
+DP 116
+
+Lubnik,27.12.,Joseph Thomas,Adalbert,Schaffarcz,8d (#4,Beruf Bauer)
+Weypersdorf,27.12.,Georg,-,Resler,52 (#107,Beruf Arbeiter)
+Waltersdorf,28.12.,Johanna,-,-,1m14d (#86) U: Kind von Rosalia Anderle
+Weypersdorf,28.12.,Johann,-,-,4 (#129,Beruf Inwohnerin) U: Kind von Judith Spaczek
+
+1773
+
+Jablona,2.1.,Anton,Joseph,Schevel,39 (#56,Beruf Bettler)(Schevel == Scheibl?)
+Weypersdorf,6.1.,Anna,Augustin,Janku,6#m (#42,Beruf Faber)
+Jablona,6.1.,Dorothea,Anton,Koczel,60 (Witwe,#66,Beruf Arbeiter)
+Weypersdorf,7.1.,Joseph,Georg,Kuba,3y6m (#92,Beruf Inwohner)
+Waltersdorf,12.1.,Catharina,Georg,Waschiczek,60 (Witwe,#32,Beruf Häusler)
+Waltersdorf,13.1.,Anna,Paul,Mister,29 (#31,Beruf Häusler)
+Jamnay,13.1.,Eva,Wenceslaus,Teykl,60 (#129,Beruf Häusler)
+Waltersdorf,13.1.,Marianna,Paul,Waschiczek,54 (Witwe,#0,Beruf Vagabund)(#0 == Kein fester Wohnsitz?)
+Waltersdorf,14.1.,Joseph,-,Bednarz,55 (#134,Beruf Arbeiter)
+Waltersdorf,16.1.,Judith,Martin,Kos,70 (#158,Beruf Arbeiter)
+Jamnay,17.1.,Anna,Johann,Bechaczek#,15 (#7,Beruf Faber)
+Waltersdorf,25.1.,Veronica,Joseph,Wondra,38 (Ehefrau,#90,Beruf Bauer)
+Jablona,26.1.,Johann,-,Kos,48 (#56,Beruf Arbeiter)
+Waltersdorf,29.1.,Catharina,Augustin,Waschiczek,80 (Witwe,#23,Beruf Inwohner)
+Jablona,30.1.,Johann,-,Gelinek,60 (#21,Beruf Schuhmacher)
+Jablona,31.1.,Joseph,Franz,Heyl,2m10d (#65,Beruf Arculary)
+Jamnay,1.2.,Margarita,Paul,Waczek,1y6m (#8,Beruf Häusler)
+Jamnay,3.2.,Paul,-,Bauchal,90 (#107,Beruf Inwohner)
+Waltersdorf,4.2.,Joseph,Joseph,Wondra,7 (#90,Beruf Bauer)
+
+DP 117
+
+Weypersdorf,8.2.,Catharina,Johann,Sedlarz,66 (Ehefrau,#15,Beruf Häusler)
+Lubnik,10.2.,Anna,Wenceslaus,Schevel,60 (Witwe,#4,Beruf Fischer)
+Waltersdorf,10.2.,Johann,-,Fischer,80 (#141,Beruf Inwohner)
+Jamnay,12.2.,Johann,Joseph,Morawetz,11 (#110,Beruf Häusler)
+Jablona,13.2.,Rosina,Melchior,Strensky#,60 (Witwe,#58,Beruf Arbeiter)(Nachname schwer zu lesen, unsicher)
+Weypersdorf,18.2.,Ignatz,Joseph,Horaczek,1m20d (#131,Beruf Inwohner)
+Waltersdorf,20.2.,Anna,Paul,Bednarz,18 (#128,Beruf Arbeiter)
+Waltersdorf,23.2.,Wenceslaus,-,Kobliczek,40 (#14,Beruf Häusler)
+Waltersdorf,24.2.,Catharina,Paul,Wondra,17 (#91,Beruf Exemptarius#)
+Weypersdorf,27.2.,Johann,-,Heyl,36 (#165,Beruf Häusler)
+Jamnay,28.2.,Anna,Wenceslaus,Teykl,60 (#129,Beruf Arbeiter)
+Jamnay,2.3.,Johann,Joseph,Chladek,1y6m (#95,Beruf Häusler)
+Waltersdorf,3.3.,Johann,-,Kaschka,54 (#147,Beruf Bauer)
+Jamnay,5.3.,Martin,-,Spaczek,82 (#79,Beruf Bauer)
+Jablona,7.3.,Anton,Schwestka,60 (#59,Beruf Arbeiter)
+Waltersdorf,9.3.,Catharina,Paul,Wondra,50 (Witwe,#91,Beruf Exemptuarius#)
+Waltersdorf,10.3.,Rosina,Johann,Maslo,80 (Witwe,#85,Beruf Arbeiter)(Maslo == Maslaw?)
+Waltersdorf,13.3.,Anna,Paul,Charvat,52 (Witwe,#131,Beruf Inwohner)
+Weypersdorf,17.3.,Johann,-,Morawetz,86 (#150,Beruf Inwohner)
+Jablona,19.3.,Catharina,Johann,Grus,46 (Ehefrau,#44,Beruf Schuhmacher#)
+Waltersdorf,26.3.,Catharina,Franz,Czernohorsky,50 (Witwe,#143#,Beruf Arbeiter)
+Jamnay,30.3.,Johann,Johann,Waczek,6 (#25,Beruf Arbeiter)
+Waltersdorf,4.4.,Judith,Johann,Hrdina,65 (Witwe,#52,Beruf Exemptuaria#)
+
+DP 118
+
+Jamnay,5.4.,Anna,Wenceslaus,Bek,60 (#81,Beruf Häusler)
+Waltersdorf,8.4.,Jacob,-,Charvat,68 (#94,Beruf Inwohner)
+Weypersdorf,10.4.,Martin,-,Hawlena,50 (#55,Beruf Häusler)
+Waltersdorf,16.4.,Georg,-,Hrdina,55# (#43,Beruf Arbeiter)
+Waltersdorf,17.4.,Joseph,-,Hrdina,42 (#132,Beruf Bauer)
+Jablona,18.4.,Franz,-,Pauk,80 (#14)
+Waltersdorf,18.4.,Johanna,Wenceslaus,Charvat,1y6m (#87,Beruf Exemptuarius#)
+Jamnay,19.4.,Joseph,-,Steyskal,56 (#128,Beruf Bauer)
+Waltersdorf,2.5.,Johann,Joseph,Jeczek,3y6m (#116,Beruf Bauer)
+Waltersdorf,6.5.,Paul,-,Kaschka,55 (#145,Beruf Häusler)
+Jamnay,14.5.,Paul,-,Biehaunek,70 (#62,Beruf Häusler)
+Jablona,17.5.,Karl,Sebastian,Czernohaus,20d (#84,Beruf Schuhmacher)
+Weypersdorf,19.5.,Johann,-,Czerny,79 (#147,Beruf Exemptuarius#)
+Weypersdorf,24.5.,Johann Georg,-,Darczilek,49 (#128,Beruf Cantor)
+Weypersdorf,5.6.,Anton,-,Marek,80 (#153,Beruf Inwohner)
+Waltersdorf,14.6.,Tekla,Franz,Ender,6m (#89,Beruf Cantor)
+Weypersdorf,19.6.,Franz,-,Martinek,50 (#43,Beruf Bauer)
+Weypersdorf,2.7.,Judith,Martin,Daubra,28 (Ehefrau,#97,Beruf Inwohner)(Daubra == Daubrawa?)
+Jamnay,5.7.,Anna,Adalbert,Baltzar,2m (#19,Beruf Rotary#)
+Jablona,7.7.,Catharina,Bartholomäus,Grus,60 (Ehefrau,#77,Beruf Schuhmacher)
+Waltersdorf,24.7.,Joseph,Anton,Seybal,18 (#47,Beruf Häusler)
+Weypersdorf,24.7.,Anna,Adam,Chladek,26d (#98,Beruf Bauer)
+Waltersdorf,27.7.,Catharina,Johann,Killar,6m (#150,Beruf Bauer)
+
+DP 119
+
+Jamnay,4.8.,Wenceslaus,-,Czernohaus,35 (#50,Beruf Inwohner)
+Waltersdorf,9.8.,Theresia,Wenceslaus,Hrdina,8 (#136,Beruf Bauer)
+Waltersdorf,15.8.,Johann,Paul,Hrdina,5 (#36,Beruf Häusler)
+Waltersdorf,15.8.,Johann,Joseph,Hrdina,4 (#51,Beruf Bauer)
+Weypersdorf,23.8.,Catharina,Franz,Maczek,43 (Witwe,#176,Beruf Inwohner)
+Waltersdorf,24.8.,Joseph,Joseph,Hrdina,3 (#51,Beruf Bauer)
+Weypersdorf,26.8.,Franz,-,Marek,40 (#37,Beruf Bauer)
+Waltersdorf,28.8.,Rosalia,Wenceslaus,Waschiczek,1y6m (#74,Beruf Inwohner)
+Waltersdorf,5.9.,Joseph,Wenceslaus,Pauk,4y6m  (#45,Beruf Bauer)
+Jamnay,16.9.,Wenceslaus,Philipp,45 (#126,Beruf Schuhmacher)
+Waltersdorf,16.9.,Judith,Wenceslaus,Krcziwohlawek,40 (#28,Beruf Häusler)
+Waltersdorf,18.9.,Johann,Johann,Kuczilek,2 (#179,Beruf Arbeiter)
+Jablona,21.9.,Wenceslaus,Anton,Kubelka,68 (#28,Beruf Schuhmacher)
+Jablona,22.9.,Sebastian,-,Merta,68 (#28,Beruf Schuhmacher)
+Jablona,25.9.,Marianna,Georg,Kobliczek,50 (#52,Beruf Weber)
+Waltersdorf,28.9.,Johann,Martin,Spiczak,7 (#2,Beruf Inwohner)
+Jablona,29.9.,Maria,Anton,Feltzmann,18d (#88,Beruf Libary#)
+Jablona,1.10.,Catharina,Bernhard,Wottawa,3 (#29,Beruf Schuhmacher#)
+Waltersdorf,9.10.,Georg,Georg,Jeczek,5 (#55,Beruf Häusler)
+Weypersdorf,12.10.,Catharina,Frank,Maczek,4 (#158,Beruf Häusler)
+Waltersdorf,19.10.,Wenceslaus,Anton,Krcziwohlawek,6 (#44,Beruf Inwohner)
+Waltersdorf,21.10.,Johann,Adalbert,Kaschka,4 (#118,Beruf Häusler)
+
+DP 120
+
+Weypersdorf,23.10.,Johann,Anton#,Falta,3 (#47,Beruf Häusler)
+Jablona,24.10.,Martin,-,Grus,70 (#57,Beruf Schuhmacher)
+Weypersdorf,27.10.,Ignatz,Wenceslaus,Weyprachtitzky,7 (#175,Beruf Häusler)
+Waltersdorf,27.10.,Wenceslaus,Martin,Chromy,3 (#38,Beruf Häusler)
+Weypersdorf,31.10.,Joseph,Paul,Hawlena,14d (#88,Beruf Häusler)
+Waltersdorf,2.11.,Joseph,Paul,Kristek,2y2m (#23,Beruf Bauer)
+Waltersdorf,2.11.,Joseph,Franz,Kulhanek,20 (#182,Beruf Häusler)
+Jamnay,3.11.,Dorothea,Johann,Prokopecz,1m8d (#84,Beruf Bauer)
+Jamnay,3.11.,Johann,Johann,Czernohaus,1m3d (#67,Beruf Casarius Ruralis)
+Jamnay,6.11.,Rosalia,Paul,Prokopecz,2y4m (#69,Beruf Bauer)
+Waltersdorf,7.11.,Catharina,Georg,Jukl,2y2m (#42,Beruf Häusler)
+Jablona,8.11.,Barbara,Anton,Jansa,1y5m (#45,Beruf Weber)
+Waltersdorf,12.11.,Anna,Georg,Marischek,60 (Ehefrau,#13,Beruf Inwohner)
+Weypersdorf,15.11.,Franz,Martin,Wondra,16 (#23,Beruf Arbeiter)
+Jablona,17.11.,Dorothea,Karl,Skaliczky,2y9m (#17,Beruf Schuhmacher)
+Waltersdorf,21.11.,Anna,Georg,Hrdina,17d (#169,Beruf Häusler)
+Waltersdorf,26.11.,Johann,Wenceslaus,Krcziwohlawek,7y6m (#32,Beruf Häusler)
+Weypersdorf,29.11.,Johann,Georg,Daubrawa,3y6m (#141,Beruf Inwohner)
+Waltersdorf,2.12.,Elisabeth,Wenceslaus,Urban,87 (Witwe,#81,Beruf Richter)
+Weypersdorf,7.12.,Franz,Adam,Chladek,3 (#98,Beruf Bauer)
+Weypersdorf,7.12.,Vinzenz,Joseph,Grus,1d (#5,Beruf Müller)
+
+DP 121
+
+Lubnik,13.12.,Joseph,Anton,Mikiska#,10m (#6,Beruf Bauer)
+Weypersdorf,14.12.,Marina,Augustin,Skaliczky,80 (Witwe,#74,Beruf Häusler)
+Weypersdorf,15.12.,Veronica,Anton,Wondra,2 (#138,Beruf Häusler)
+Waltersdorf,28.12.,Joseph,Theresia,Czernohorsky,6 (#96)
+Waltersdorf,29.12.,Anna,Martin,Nehyba,56 (#102,Beruf Casarius Ruralis)
+
+1774
+
+Waltersdorf,6.1.,Magdalena,Augustin,Kubin,68 (Witwe,#78,Beruf Häusler)
+Weypersdorf,7.1.,Catharina,Wenceslaus,Seykor#,60 (#31#,Beruf Inwohner)(Heißt das #3 oder #31?)
+Weypersdorf,20.1.,Martin,-,Kubiczek,80 (#142,Beruf Inwohner)
+Waltersdorf,20.1.,Johann,Johann,Czernohorsky,34 (#96,Beruf Inwohner)
+Weypersdorf,23.1.,Anna,Johann,Maresch,1m14d (#24,Beruf Häusler)
+Jamnay,24.1.,Wenceslaus,Anton,Philipp,1d (#111,Beruf Häusler)
+Waltersdorf,8.2.,Joseph,Philipp,Seybal,6m (#47,Beruf Inwohner)
+Weypersdorf,17.2.,Anna,Johann,Buczek,63 (Witwe,#154,Beruf Häusler)
+Waltersdorf,21.2.,Johann,Augustin,Hawlena,3y6m (#180,Beruf Inwohner)
+Weypersdorf,22.2.,Juliana,Johann,Langer,6 (#97,Beruf Inwohner)
+Waltersdorf,24.2.,Apollonia,Paul,Krcziwohlawek,2y6m (#5,Beruf Häusler)
+Waltersdorf,26.2.,Johann,Georg,Waniczek,9#m (#62,Beruf Bauer)(9m oder 19m?)
+Weypersdorf,27.2.,Johann,Franz,Martinek,2 (#43,Beruf Bauer)
+Jamnay,2.3.,Wenceslaus,Johann,Trampota,2 (#81,Beruf Häusler)
+Waltersdorf,4.3.,Anna,Anton,Killar,44 (Witwe,#129,Beruf Inwohner)
+Weypersdorf,6.3.,Marina,Georg,Wawra,70 (Witwe,#19)(Georg Wawra Villium (Dorfbewohner?) aus Planuva#)
+
+DP 122
+
+Weypersdorf,20.3.,Johann,Johann,Hawlena,16d (#78,Beruf Häusler)
+Weypersdorf,22.3.,Anna,Mathias,Resler,60 (Witwe,#50,Beruf Bettlerin)
+Weypersdorf,26.3.,Martin,Joseph,Heyl,25 (#17,Beruf Bauer)
+Weypersdorf,28.3.,Rosalia,Johann,Langer,15 (#97,Beruf Inwohner)
+Weypersdorf,30.3.,Apollonia,Anton,Skaliczky,1m14d (#171,Beruf Exemptuarius#)
+Weypersdorf,31.3.,Anna,Franz,Chladek,1m8d (#29,Beruf Häusler)
+Weypersdorf,1.4.,Anna,Johann,Morawetz,6 (#177,Beruf Arbeiter)
+Waltersdorf,5.4.,Judith,Johann,Machaczek,66 (Ehefrau,#22,Beruf Bauer)
+Weypersdorf,7.4.,Judith,Matthäus,Ptaczek,70 (Witwe,#37,Beruf Inwohnerin)
+Waltersdorf,25.4.,Franz,Joseph,Teykl,1y1m (#177#,Beruf Inwohner)
+Waltersdorf,27.4.,Apollonia,Paul,Mrazek,1#m (#175,Beruf Häusler)
+Weypersdorf,11.5.,Franz,Franz,Marek,7m (#37,Beruf Bauer)
+Waltersdorf,14.5.,Rosalia,Georg,Killar,6m (#72,Beruf Bauer)
+Waltersdorf,20.5.,Joseph,-,Waniczek,26 (#64,Beruf Casarius Ruralis)
+Waltersdorf,22.5.,Wenceslaus,Joseph,Hrdina,2y6m (#77,Beruf Häusler)
+Jamnay,6.6.,Catharina,Tobias,Philipp,1m8d (#123,Beruf Bauer)
+Waltersdorf,12.6.,Joseph,Joseph,Mrazek,17d (#168,Beruf Inwohner)
+Jablona,21.6.,Catharina,Sebastian,Stiasny,82 (Witwe,#81)
+Waltersdorf,9.7.,Johann,Anton,Jansa,1m20d (#129,Beruf Inwohner)
+Waltersdorf,17.7.,Anna Margarita,Johann,Krcziwohlawek,6d (#59,Beruf Bauer)
+Jamnay,18.7.,Judith,Paul,Kubelka,56 (Ehefrau,#136,Beruf Bauer)
+Jablona,30.7.,Catharina,Joseph,Kostron#,7 (#56,Beruf Tibicali#)
+
+DP 123
+
+Jamnay,10.8.,Anna,Georg,Prokopecz,54 (Witwe,#83,Beruf Bauer)
+Waltersdorf,23.8.,Joseph,Paul#,Teykl,6m (#119,Beruf Häusler)
+Weypersdorf,6.9.,Franz,-,Kubesch,60 (#126,Beruf Häusler)
+Jamnay,17.9.,Johann,Adalbert,Doleczal,1m2d (#10,Beruf Häusler)
+Jablona,18.9.,Anna,Johann,Kos,12 (#56,Beruf Arbeiter)
+Waltersdorf,2.10.,Veronica,Johann,Waschiczek,83 (Witwe,#68,Beruf Häusler)
+Weypersdorf,15.10.,Anna,Anton,Skaliczky,15d (#119,Beruf Häusler)
+Weypersdorf,22.10.,Judith,Paul,Wondra,60 (Witwe,#68,Beruf Häusler)
+Waltersdorf,24.10.,Paul,Martin,Jeczek,30 (#128,Beruf Exemptuarius#)
+Weypersdorf,28.10.,Catharina,Johann,Mleynek,25 (#30,Beruf Inwohner)
+Jamnay,6.11.,Johann Wenceslaus,Johann Georg,Bednarz,18 (#17,Beruf Bauer)
+Waltersdorf,11.11.,Rosalia,Johann,Matiegka,20 (#9,Beruf Inwohner)
+Waltersdorf,22.11.,Magdalena,Martin,Kratky,72 (Witwe,#170,Beruf Bauer)
+Waltersdorf,26.11.,Johann,-,Anderle,66 (#86,Beruf Inwohner)
+Weypersdorf,5.12.,Eva,Johann,Schembera,50 (Ehefrau,#131,Beruf Inwohner)
+Jamnay,9.12.,Judith,Wenceslaus,Doleczek,40 (#111,Beruf Inwohner)
+Weypersdorf,18.12.,Franz,Franz,Heyl,2 (#145,Beruf Häusler)
+Weypersdorf,20.12.,Franz,Adam,Chladek,26d (#98,Beruf Bauer)
+
+DP 124
+
+Waltersdorf,4.1.,Anna,Paul,Petr,13d (#120,Beruf Häusler)
+Jablona,12.1.,Catharina,Johann,Kleslo,2 (#9,Beruf Fleischer)
+Jamnay,15.1.,Polexina,Johann,Steyskal,53 (Witwe,#175,Beruf Häusler)
+Weypersdorf,23.1.,Anton,-,Wondra,39# (#109,Beruf Häusler)
+Waltersdorf,26.1.,Rosalia,Augustin,Hawlena,10d (#180,Beruf Inwohner)
+Lubnik,1.2.,Anton,-,Valenta,30 (#2,Beruf Häusler)
+Weypersdorf,13.2.,Anton,Johann,Beran,4m (#160,Beruf Bauer)
+Jamnay,14.2.,Anton,Johann,Kobliczek,6m (#58,Beruf Häusler)
+Weypersdorf,20.2.,Johann,-,Resler,40 (#9,Beruf Bauer)
+Weypersdorf,22.2.,Rosina,Martin,Chladek,43 (Witwe,#144,Beruf Inwohner)
+Weypersdorf,28.2.,Rosalia,Franz,Resler,1y5m (#63,Beruf Casarius Ruralis)
+Weypersdorf,12.3.,Anna,Ludwig,Hluchy,6m (#101,Beruf Häusler)
+Weypersdorf,15.3.,Vitus,-,Kubiczek,77 (#46,Beruf Häusler)
+Waltersdorf,19.3.,Georg,-,Jeczek,51 (#55,Beruf Häusler)
+Waltersdorf,23.3.,Catharina,Johann,Waczek,52 (Ehefrau,#69,Beruf Faber)
+Jamnay,26.3.,Veronica,Wenceslaus,Morawetz,2m (#105,Beruf Häusler)
+Weypersdorf,28.3,Marina,Johann,Czernohorsky,104 (Witwe,#41,Beruf Häusler)
+Weypersdorf,28.3.,Anton,Anton,Wondra,7m (#109,Beruf Häusler)
+Waltersdorf,30.3.,Joseph,Paul,Uher,2m (#60,Beruf Inwohner)
+Lubnik,1.4.,Magdalena,Adalbert,Schaffarcz,70 (Witwe,#5,Beruf Bauer)
+Jamnay,5.4.,Wenceslaus,Anton,Philipp,4d (#111,Beruf Häusler)
+Jamnay,5.4.,Veronica,Georg,Kobliczek,70 (Witwe,#57,Beruf Häusler)
+Weypersdorf,10.4.,Wenceslaus,Paul,Czernohorsky,15 (#41,Beruf Häusler)
+
+DP 125
+
+Weypersdorf,12.4.,Johann,-,Dittrich,70 (#60,Beruf Inwohner)
+Waltersdorf,15.4.,Paul,Joseph,Kratky,10d (#171,Beruf Häusler)
+Jamnay,19.4.,Judith,Joseph,Chladek,80 (Witwe,#95,Beruf Häusler)
+Weypersdorf,19.4.,Genoveffa,Franz,Janku,10m (#61,Beruf Häusler)
+Weypersdorf,24.4.,Theresia,Wenceslaus,Buczek,2 (#154,Beruf Häusler)
+Waltersdorf,25.4.,Johanna,Wenceslaus,Matiegka,30 (Ehefrau,#113,Beruf Bauer)
+Waltersdorf,1.5.,Joseph,Anton,Ma#tik#,1y10m (#116,Beruf Bauer)
+Waltersdorf,2.5.,Catharina,Georg,Kobliczek,2m (#127,Beruf Häusler)
+Waltersdorf,4.5.,Wenceslaus,Johann,Kratky,6m (#121,Beruf Inwohner)
+Waltersdorf,6.5.,Veronica,Paul,Kratky,55 (Witwe,#131,Beruf Inwohner)
+Jamnay,7.5.,Florian,Johann Georg,Bednarz,4d (#17,Beruf Bauer)
+Weypersdorf,19.5.,Ignatz,Johann Georg,Heyl,6m (#59,Beruf Häusler)
+Waltersdorf,21.5.,Catharina,Georg,Hrdina,7 (#43,Beruf Häusler)
+Weypersdorf,23.5.,Magdalena,Anton,Skaliczky,78 (Witwe,#58,Beruf Häusler)
+Jamnay,25.5.,Anton,Anton,Spaczek,1m (#52,Beruf Häusler)
+Jamnay,30.5.,Johann,-,Killar,80 (#12,Beruf Exemptuarius#)
+Jablona,8.6.,Anna Eleonora,Joseph,Neschkudla,5d (#53,Beruf Schneider)
+Waltersdorf,11.6.,Anna,Johann,Bednarz,60 (Ehefrau,#135,Beruf Häusler)
+Waltersdorf,22.6.,Joseph,Paul,Kubin,24d (#18,Beruf Häusler)
+Jamnay,30.6.,Georg,-,Beran,55 (#49,Beruf Jäger)
+Jablona,25.7.,Catharina,Anton,Feltzmann,1m2d (#88,Beruf Libary#)
+Jamnay,10.8.,Judith,Adalbert,Bednarz,40 (Ehefrau,#20,Beruf Faber)
+Waltersdorf,15.8.,Judith,Paul,Kaschka,40 (#-,Beruf Bettler)
+Weypersdorf,18.8.,Theresia,Johann,Heyl,2m14d (#152,Beruf Häusler)
+Weypersdorf,26.8.,Johann,Franz,Chladek,2m14d (#29,Beruf Häusler)
+
+DP 126
+
+Weypersdorf,1.9.,Rosalia,Johann,Wottawa,8m (#166,Beruf Häusler)
+Waltersdorf,4.9.,Georg,Georg,Mrazek,9 (#6,Beruf Bauer)
+Waltersdorf,4.9.,Johann,Johann,Kaschka,13y3m (#20,Beruf Casarius Ruralis)
+Waltersdorf,5.9.,Wenceslaus,Wenceslaus,Pauk,12y1m (#45,Beruf Bauer)
+Waltersdorf,7.9.,Joseph,Georg,Kaschka,4d (#24,Beruf Schneider)
+Weypersdorf,10.9.,Maria Paulina,Mathias,Marzek,5d (#86)(Mathias ist Villici/Dorfbewohner??? aus Blan#kova)
+Waltersdorf,14.9.,Rosalia,Joseph,Wurscht,3y2m (#186,Beruf Bauer)
+Jamnay,17.9.,Margarita,Johann,Bauchal#,8d (#33,Beruf Häusler)
+Waltersdorf,18.9.,Heinrich,Johann,Teykl,4 (#185,Beruf Bauer)
+Waltersdorf,19.9.,Joseph,Joseph,Hrdina,9m (#51,Beruf Bauer)
+Waltersdorf,21.9.,Heinrich,Heinrich,#ban,5 (#186,Beruf Bauer)(Urban?)
+Waltersdorf,1.10.,Anna,Joseph,Neschkudla,1y8d (#84,Beruf Faber)
+Weypersdorf,2.10.,Judith,Wenceslaus,Marek,74 (Ehefrau,#16,Beruf Häusler)
+Jamnay,7.10.,Adalbert,Adalbert,Doleczal,1m20d (#10,Beruf Häusler)
+Waltersdorf,8.10.,Anna,Wenceslaus,Kulhanek,8m (#31,Beruf Häusler)
+Weypersdorf,14.10.,Johann,-,Chladek,66 (#173,Beruf Exemptuarius# Miles#)
+Waltersdorf,16.10.,Anna,Paul,Kaschka,14d (#138,Beruf Inwohner)
+Waltersdorf,24.10.,Theresia,Paul,Mrazek,7 (#175,Beruf Casarius Ruralis)
+Jamnay,15.11.,Wenceslaus,Johann,Rubesch,23 (#120,Beruf Inwohner)
+Jamnay,24.11.,Catharina,Joseph,Hansliczek,44 (Ehefrau,#7,Beruf Häusler)
+Jablona,24.11.,Anna,Wenceslaus,Czerny,72 (Witwe,#70,Beruf Schuhmacher)
+Lubnik,25.11.,Anton,Anton,Valenta,1y6m13d (#2,Beruf Häusler)
+
+DP 127
+
+Jamnay,6.12.,Dorothea,Paul,Waczek,60 (#82,Beruf Häusler)
+Waltersdorf,7.12.,Anna,Paul,Urban,58# (Ehefrau,#73,Beruf Bauer)
+Jamnay,7.12.,Georg,Franz,Schlesinger,30 (#34,Beruf Häusler)
+Weypersdorf,9.12.,Marina,Johann,Chladek,26 (#133,Beruf Häusler)
+Weypersdorf,20.12.,Judith,Adam,Hawlena,3y2m (#85,Beruf Häusler)
+Lubnik,20.12.,Johann,Stietin#,80 (#2,Beruf Inwohner)
+Jablona,21.12.,Anna,Joseph,Cort#,9 (#56,Beruf #alif#)
+Jablona,22.12.,Karl,-,Czerny,50 (#83,Beruf Schuhmacher)
+
+1776
+
+Jamnay,14.1.,Elisabeth,Joseph,Chladek,37 (Ehefrau,#95,Beruf Häusler)
+Jamnay,15.1.,Peregrin,Joseph,Chladek,7#d (#95,Beruf Häusler)
+Jamnay,15.1.,Joseph,-,Philipp,60 (#113,Beruf Bauer)
+Weypersdorf,22.1.,Anna Maria,-,-,17d (#60)(Unehelich) U: Kind von Rosalia Dittrich
+Weypersdorf,24.1.,Franz,Johann,Morawetz,5 (#122,Beruf Häusler)
+Jablona,17.2.,Caspar,-,Kaspar,73 (#1#,Beruf Emeritus titularis Decanus Jablonensi)(Stimmt der Name? Oder stand nur der Vorname des Dekan's da?)
+Jamnay,19.2.,Anna,Anton,Bauchal,12m6d (#107,Beruf Häusler)
+Waltersdorf,19.2.,Anna,Joseph,Schimek,17 (#52,Beruf Schneider)
+Lubnik,22.2.,Joseph,Petr,3d (#1#,Beruf Müller)
+Weypersdorf,22.2.,Dorothea,Johann,Sedlaczek,40 (Witwe,#89,Beruf Häusler)
+Jamnay,22.2.,Johann,-,Bauchal,30 (#50,Beruf Inwohner)
+Waltersdorf,25.2.,Dorothea,Georg,Jansa,45 (Ehefrau,#101,Beruf Inwohner)
+Weypersdorf,26.2.,Caspar,-,-,2m (#60) U: Kind von Rosalia Dittrich
+Jablona,26.2.,Johann,-,Grus,63 (#44,Beruf Schuhmacher)
+
+DP 128
+
+Weypersdorf,27.2.,Johann,Johann,Schmid,2m (#137,Beruf Häusler)
+Weypersdorf,1.3.,Johann,Franz,Janku,12d (#61,Beruf Häusler)
+Weypersdorf,2.3.,Apollonia,Franz,Resler#,10d (#46,Beruf Bauer)
+Weypersdorf,2.3.,Rosalia,Wenceslaus,Prokopecz,10m (#18,Beruf Bauer)
+Waltersdorf,7.3.,Rosalia,Georg,Teykl,1m (#7,Beruf Bauer)
+Waltersdorf,10.3.,Rosalia,Paul,Kratky,1m14d (#107,Beruf Bauer)
+Weypersdorf,12.3.,Rosalia,Johann,Buczek,3 (#34,Beruf Inwohner)
+Weypersdorf,16.3.,Anton,Ludwig,Hluchy,1m21d (#101#,Beruf Häusler)
+Jablona,21.3.,Franz,Franz,Heyl,2m14d (#65#,Beruf Arculary#)(Heißt das 2m14d oder 2y2m14d?)
+Weypersdorf,21.3.,Catharina,Wenceslaus,Janku,36 (Ehefrau,#72,Beruf Häusler)
+Waltersdorf,22.3.,Magdalena,Adalbert,Teykl,3m (#172,Beruf Bauer)
+Weypersdorf,24.3.,Anna,Augustin,Resler#,52# (Witwe,#73,Beruf Häusler)
+Waltersdorf,27.3.,Joseph,Joseph,Kratky,7m (#41,Beruf Häusler)
+Weypersdorf,28.3.,Veronica,Mathias,Morawetz,70 (Witwe,#177,Beruf Bauer)
+Jamnay,30.3.,Paul,-,Hegerlik,60 (#43,Beruf Inwohner)
+Jamnay,1.4.,Anna,Paul,Worlitschka,6m14d (#132,Beruf Weber)
+Jablona,3.4.,Anna,Joseph,Kostron#,1d (#56,Beruf Tibi#)
+Waltersdorf,4.4.,Georg,-,Krcziwohlawek,40 (#15#,Beruf Inwohner)
+Jamnay,4.4.,Franz,Johann,Trampota,6m14d (#89,Beruf Bauer)
+Jablona,13.4.,Catharina,Martin,Jansa#,3m (#79)
+Waltersdorf,13.4.,Catharina,Joseph,Kristek,3m21d (#17,Beruf Casarius Ruralis)
+Waltersdorf,13.4.,Anna,Paul,Uher,1m12d (#61,Beruf Exemptuarius#)
+Waltersdorf,14.4.,Johann,Johann,Kos,4m (#67,Beruf Häusler)
+Jamnay,14.4.,Rosalia,Paul,Hansliczek,47 (Ehefrau,#134,Beruf Häusler)
+Jablona,18.4.,Anton,-,Wottawa,76 (#36,Beruf Exemptuarius#)
+Waltersdorf,20.4.,Catharina,Martin,Jansa,4m14d (#108,Beruf Bauer)
+Jamnay,21.4.,Barbara,Johann,Prokopecz,9m (#85,Beruf Inwohner)
+Waltersdorf,4.5.,Anna,Wenceslaus,Weinlich,30 (#58,Beruf Häusler)(Was bedeutet "superstes", "hinterlassene"?)
+
+DP 129
+
+Jamnay,11.5.,Veronica,-,Krejczy,1d (#142,Beruf Schuhmacher)(Der Vorname ihres Vaters wurde nicht genannt, nur dass sie "Tochter von Krejczy" war)
+Jablona,12.5.,Rosina,Johann,Suchomel,18 (#57,Beruf)
+Jablona,13.5.,Joseph,Joseph,Czerny,1y9m (#83)
+Waltersdorf,14.5.,Anna,Paul#,#ol,73 (Witwe,#184,Beruf Bauer)(Sehr unklar, ob dies Paul heißt, oder etwas Anderes, schwer lesbar, Nachname kaum lesbar, fängt mit "T" an?)
+Jamnay,23.5.,Anna,Wenceslaus,Giru,50 (Ehefrau,#88,Beruf Häusler)
+Jamnay,6.6.,Anna#,Joseph#,Philipp#,21d (#3,Beruf Bauer)(Unklar, ob richtige Reihenfolge der Namen?)
+Waltersdorf,6.6.,Joseph,Joseph,Neschkudla#,2m (#84,Beruf F#)(Beruf Faber?)
+Weypersdorf,7.6.,Martin,-,Morawetz,72 (#161,Beruf Exemptuarius#)
+Weypersdorf,11.6.,Anna,Anton,Falta,2m (#50,Beruf Bauer)
+Weypersdorf,13.6.,Theresia,Paul,Hawlena,1y6m (#105,Beruf Inwohner)
+Jablona,14.6.,Marina,Paul,#a#yba,48 (#84,Beruf Häusler)
+Jamnay,27#.6.,Wenceslaus,Wenceslaus,Giru,1m14d (#88,Beruf Häusler)
+Weypersdorf,19.6.,Theresia,Andreas,Martinek,5 (#43,Beruf Bauer)
+Weypersdorf,1.7.,Franz,Joseph,Heyl,3m18d (#169,Beruf Häusler)
+Weypersdorf,1.7.,Franz,Johann,Janisch,14m (#19,Beruf Exemptarius#)
+Weypersdorf,8.7.,Theresia,Anton,Marek,6 (#27,Beruf Bauer)
+Weypersdorf,11.7.,Johann,Wenceslaus,Wurscht,7#m (#93,Beruf Häusler)
+Weypersdorf,13.7.,Anna,Franz,Darczilek,6m (#82,Beruf Müller)
+Weypersdorf,14.7.,Eva,Joseph,Bechaczek,3y9m (#114,Beruf Inwohner)
+Weypersdorf,19.7.,Sibylla,Johann,Burian,5m (#172#,Beruf Bauer)(112 oder 172?)
+Weypersdorf,20.7.,Wenceslaus,Anton,Marek,10m (#27)
+Weypersdorf,20.7.,Rosalia,Franz,Heyl,6m (#145,Beruf Exemptuarius#)
+Waltersdorf,20.7.,Johanna,Johann,Mister,5y6m (#141,Beruf Häusler)
+Waltersdorf,28.7.,Catharina,Joseph,Schimek,3m7d (#83,Beruf Schneider)
+Waltersdorf,30.7.,Dorothea,Paul,Matiegka,76 (Ehefrau,#113,Beruf Exemptarius#)
+Weypersdorf,30.7.,Joseph,Wenceslaus,Buczek,2m8d (#154,Beruf Häusler)
+Weypersdorf,4.8.,Johanna,Martin,Morawetz,2 (#156,Beruf Häusler)
+Weypersdorf,6.8.,Judith,Anton,Wondra,3m (#138,Beruf Häusler)
+Jamnay,8.8.,Adalbert,Anton,Philipp,26d (#117#,Beruf Häusler)(117 oder 111?)
+Weypersdorf,11.8.,Catharina,Wenceslaus,Marek,60 (Witwe,#51,Beruf Inwohner#)
+Weypersdorf,27.8.,Enerentiana#,Franz,Beran,9m (#170,Beruf Bauer)
+
+DP 130
+
+Weypersdorf,1.9.,Joseph,Johann,Morawetz,1y6m (#177,Beruf Inwohner)
+Weypersdorf,4.9.,Catharina,Anton,Skaliczky,6y9m (#171,Beruf Exemptuarius#)
+Waltersdorf,8.9.,Johann,Johann,Charvat,10m14d (#100,Beruf Inwohner)
+Waltersdorf,12.9.,Anna,Johann,Killar,2 (#150,Beruf Bauer)
+Jamnay,12.9.,Joseph,Anton,Bergmann,10y10m (#130,Beruf Gärtner)(Aus Terto#-Petersdorf #7)
+Waltersdorf,14.9.,Anton,Vitus,Rasschke#,6y1m14d (#158,Beruf Bauer)
+Waltersdorf,15.9.,Johann,Johann,Mrazek,1 (#96,Beruf Häusler)
+Jamnay,15.9.,Anna Catharina,Georg,Hegerlik,8 (#132,Beruf Häusler)
+Waltersdorf,18.9.,Anna,Wenceslaus,Teykl,3y3m21d (#-,Beruf Bauer)
+Jamnay,19.9.,Wenceslaus,Wenceslaus,Czernohaus,3y2m (#47,Beruf Inwohner)
+Lubnik,1.10.,Maria,Joseph,Christoph,1y3d (#8,Beruf Bauer)
+Jamnay,8.10.,Theresia,Johann,Philipp,9m (#139,Beruf Bauer)
+Waltersdorf,9.10.,Anna,Wenceslaus,Matiegka,2 (#113,Beruf Bauer)
+Waltersdorf,9.10.,Rosalia,Anton,Jansa,1 (#129,Beruf Häusler)
+Weypersdorf,13.10.,Johann,Paul,Smeykal,14d (#159,Beruf Bauer)
+Jablona,16.10.,Josepha,Johann,Kleslo,6 (#9,Beruf Fleischer)
+Jamnay,18.10.,Anna,Joseph,Hansliczek,1 (#133,Beruf Häusler)
+Waltersdorf,19.10.,Anna,Johann,Bednarcz,6m (#135,Beruf Häusler)
+Jamnay,23.10.,Rosalia,Paul,Hansliczek,1y2m (#134,Beruf Häusler)
+Jamnay,24.10.,Johann,Johann,Steyskal,6d (#135,Beruf Häusler)
+Weypersdorf,26.10.,Rosalia,Wenceslaus,Skaliczky,2y1m (#112,Beruf Bauer)
+Jamnay,1.11.,Dominik,Dominik,Schlesinger,1y6m (#1,Beruf Richter)
+Jablona,4.11.,Catharina,Wenceslaus,Heylek#,- (#38)
+Jamnay,10.11.,Johann,Johann,Spaczek,5y1m (#97,Beruf Bauer)
+Waltersdorf,12.11.,Catharina,Paul,Jeczek,70 (#171)(Nicht angegeben ob Witwe oder Tochter)
+Weypersdorf,19.11.,Johann,-,Schembera,80 (#137,Beruf Häusler)
+Jamnay,28.11.,Marina,Johann,Mach,90 (Witwe,#72,Beruf Häusler)
+Weypersdorf,29.11.,Johann,Franz,Marek,3m (#8,Beruf Häusler)
+Waltersdorf,1.12.,Anna,Joseph,Kobliczek,37 (Ehefrau,#26,Beruf Häusler)
+Waltersdorf,2.12.,Josepha,Franz,Enter#,4m (#89,Beruf Cantor)
+
+DP 131
+
+Jablona,2.12.,Johann,Johann,Czerny,2y2m (#43,Beruf Schuhmacher)
+Waltersdorf,4.12.,Joseph,Franz,Kulhanek,1y5m14d (#182,Beruf Häusler)
+Waltersdorf,5.12.,Theresia,Anton,Krcziwohlawek,1y9m (#44,Beruf Inwohner)
+Jablona,6.12.,Paul,-,Grus,60 (#3)
+Waltersdorf,6.12.,Johann,Philipp,Scheibl#,2 (#47,Beruf Häusler)(Gelesen: Scheyvl)
+Weypersdorf,14.12.,Marina,Paul,Hrubesch,55 (Ehefrau,#13,Beruf Häusler)
+Waltersdorf,18.12.,Joseph,Johann,Hrdina,9m7d (#43,Beruf Häusler)
+Jablona,20.12.,Catharina,Augustin,Wottawa,70y7#m (Ehefrau,#67)
+
+1777
+
+Weypersdorf,2.1.,Joseph,Franz,Chladek,9d (#29,Beruf Häusler)
+Waltersdorf,5.1.,Paul,-,Bednarz,6 (#128,Beruf Inwohner)
+Waltersdorf,10.1.,Paul,Adalbert,Kaschka,2y1m18d (#118,Beruf Häusler)
+Weypersdorf,11.1.,Ignatz,Johann,Wottawa,3m (#166,Beruf Häusler)
+Jamnay,15.1.,Wenceslaus,-,Czernohaus,45 (#39)
+Weypersdorf,19.1.,Judith,Wenceslaus,Prokopecz,9d (#18,Beruf Bauer)
+Weypersdorf,20.1.,Marina,Wenceslaus,Prokopecz,38 (Ehefrau,#18,Beruf Bauer)
+Waltersdorf,20.1.,Johann,Wenceslaus,Urban,6m10d (#12,Beruf Häusler)
+Weypersdorf,2.2.,Catharina,Joseph,Wottawa,2 (#174,Beruf Häusler)
+Weypersdorf,8.2.,Marina,Jacob,Chladek,20 (#80,Beruf Häusler)
+Weypersdorf,13.2.,Johann,Johann,Skaliczky,6m (#17#,Beruf Inwohner)
+Weypersdorf,13.2.,Georg,-,Daubrawa,70 (#94,Beruf Häusler)
+Jamnay,21.2.,Bernhard,Bernhard,Wottawa,3y3m (#29,Beruf Schuhmacher)
+Jamnay,21.2.,Catharina,Paul,Kregczy,65 (Ehefrau,#142,Beruf Exemptuarius#)
+Jamnay,21.2.,Johann Anton,Wenceslaus,Krejczy,4d (#47,Beruf Häusler)
+Jamnay,23.2.,Johann,Georg,Beran,27 (#36,Beruf Jäger und Soldat im Regiment Augustin des Kaisters Joseph II.)
+Waltersdorf,27.2.,Joseph,Joseph,Waschiczek,12d (#161,Beruf Bauer)
+Jamnay,11.3.,Wenceslaus,-,Philipp,55 (#59,Beruf Häusler)
+Weypersdorf,12.3.,Franz,Johann,Ptaczek,2m8d (#111#,Beruf Häusler)
+Waltersdorf,13.3.,Joseph,Wenceslaus,Charvat,9m (#87,Beruf Exemptarius#)
+Waltersdorf,15#.3.,Joseph,Georg,Kos,19d (#33,Beruf Inwohner)
+Weypersdorf,23.3.,Johann,Johann,Resler,10d (#88,Beruf Inwohner)
+Weypersdorf,8.4.,Johann,-,Wondra,98 (#138,Beruf Häusler)
+Jamnay,8.4.,Johann,-,Resler,45 (#126,Beruf Häusler)
+
+DP 132
+
+Waltersdorf,18.4.,Johann,Martin,Lischka,2m (#178,Beruf Häusler)
+Jamnay,29.4.,Barbara,Anton,Philipp,3m (#86,Beruf Häusler)
+Jablona,8.5.,Ursula,Florian,Scheibl#,16d (#33,Beruf Schneider)
+Weypersdorf,9.5.,Anna,Johann,Chladek,3y9m (#81,Beruf Häusler)
+Jablona,11.5.,Anna Maria,Franz,Heyl,1m8d (#65,Beruf Arculary#)
+Waltersdorf,11.5.,Georg,-,Jeczek,70 (#42,Beruf Inwohner)
+Weypersdorf,12.5.,Rosalia,Wenceslaus,Morawetz,28 (#157,Beruf Häusler)
+Waltersdorf,13.5.,Anna Maria,Georg,Jansa,30 (#101,Beruf Inwohner)
+Jamnay,13.5.,Anna,Johann,Resler,3m (#126,Beruf Häusler)(Was heißt "superstes", "hinterlassene"?)
+Jamnay,30.5.,Joseph,-,Czernohaus,58 (#66,Beruf Häusler)
+Jablona,5.6.,Johanna,Joseph,Kostron#,37 (#56,Beruf Tibili#)
+Jamnay,6.6.,Johann,Anton,Philipp,21d (#31,Beruf Häusler)
+Jamnay,12.6.,Juliana,Joseph,Philipp,2 (#77,Beruf Häusler)
+Waltersdorf,2.7.,Heinrich,Johann,Schillar#,10d (#119,Beruf Häusler)(Schillar# == Schüll?)
+Weypersdorf,8.7.,Theresia,Jacob,Skaliczky,1m (#106,Beruf Bauer)
+Jamnay,13.7.,Anna,Paul,Charvat,2m (#116,Beruf Inwohner)
+Jablona,2.8.,Rosalia,Franz,Heyl,33 (Ehefrau,#65,Beruf Arculary#)
+Weypersdorf,4.8.,Joseph,Joachim,Bechaczek,4y6m (#129,Beruf Häusler)
+Jablona,11.8.,Rosalia,Joseph,Kostron,3m (#56,Beruf Tibil#)
+Jamnay,21.8.,Franz,-,Philipp,32 (#130,Beruf Schneider)
+Weypersdorf,31.8.,Marina,Martin,Marek,28 (Ehefrau,#109,Beruf Häusler)
+Jablona,5.9.,Joseph,Johann,Kleslo,5m14d (#9,Beruf Fleischer)
+Weypersdorf,23.9.,Rosalia,Johann,Resler,2y6m (#88,Beruf Häusler)("dicti Maticzku" - Maticz/Matiegka genannt?)
+Waltersdorf,23.9.,Johann,Paul,Kobliczek,1y4m (#153,Beruf Häusler)
+Weypersdorf,26.9.,Johann,Wenceslaus,Skaliczky,14d (#112,Beruf Häusler)
+Lubnik,6.10.,Anna,Anton,Mikiska#,3 (#6,Beruf Bauer)
+Waltersdorf,7.10.,Dorothea,Tobias,Kratky,56 (Witwe,#41,Beruf Häusler)
+Waltersdorf,10.10.,Anna,Christoph,Schüch,35  (Ehefrau,#150,Beruf Inwohner)
+Jamnay,15.10.,Veronica,Anton,Philipp,20 (#94,Beruf Häusler)
+Waltersdorf,18.10.,Adalbert,Paul,Kratky,12d (#170,Beruf Inwohner)
+
+DP 133
+
+Jamnay,22.10.,Johann,-,Trampota,87 (#91,Beruf Exemptuarius#)
+Jamnay,23.10.,Anna,Joseph,Czernohaus,4 (#98,Beruf Inwohner)
+Jamnay,28.10.,Marina,Paul,Resler#,45 (#103,Beruf Häusler)(unsicher, ob dies Resler heißt)
+Weypersdorf,30.10.,Franz,-,Skaliczky,1m3y (#38,Beruf Häusler)(Vom Vater wird nur der Nachname genannt)
+Jamnay,30.10.,Paul,-,Kubelka,60 (#136,Beruf Müller)
+Weypersdorf,8.11.,Johann,Martin,Marek,4m (#109,Beruf Häusler)
+Lubnik,10.11.,Catharina,Adalbert,Schaffarcz,1y3m (#4,Beruf Bauer)
+Weypersdorf,19.11.,Anton,Wenceslaus,Smeykal,3m8d (#74,Beruf Häusler)
+Weypersdorf,22.11.,Johann,Johann,Heyl,11d (#9,Beruf Bauer)
+Jamnay,30.11.,Catharina,Johann,Prokopecz,9m (#85,Beruf Inwohner)
+Jamnay,2.12.,Johann,-,Hansliczek,3m (#134,Breuf Häusler)(Vom Vater wird nur der Nachname genannt)
+Jamnay,4.12.,Joseph,Adalbert,Bednarz,1 (#24,Beruf Häusler)
+Jamnay,6.12.,Rosalia,Joseph,Kobliczek,7m (#112,Beruf Häusler)
+Jablona,11.12.,Joseph,Joseph,Philipp,4y3m (#11#,Beruf Müller)
+Weypersdorf,13.12.,Marianna,Augustin,Janku,1d (#42,Beruf Faber)
+Waltersdorf,16.12.,Johann,Joseph,Mrazek,3m (#165,Beruf Häusler)
+Jablona,23.12.,Elisabeth,Johann,Schütz,78 (Ehefrau,#51,Beruf Schuhmacher)
+Jablona,29.12.,Elisabeth,Paul,Trampota,70 (Witwe,#29,Beruf Weber)
+
+1778
+
+Jamnay,3.1.,Dorothea,Wenceslaus,Philipp,45 (Witwe,#53,Beruf Häusler)
+Jamnay,4.1.,Fabian,Adalbert,Doleczal,1y21d (#10,Beruf Häusler)
+Waltersdorf,6.1.,Theresia,Paul,Teykl,1y8d (#119,Beruf Häusler)
+Weypersdorf,6.1.,Rosalia,Johann,Kubesch,47 (Ehefrau,#112,Beruf Schneider)
+Waltersdorf,23.1.,Johann,-,Neschkudla,30 (#159,Beruf Schneider)
+Jamnay,25.1.,Anna,Johann,Kobliczek,6m (#74,Beruf Häusler)
+Waltersdorf,29.1.,Joseph,Joseph,Waniczek,5m8d (#3,Beruf Inwohner)
+Weypersdorf,29.1.,Apollonia,Johann,Morawetz,,8 (#122,Beruf Inwohner)
+Jamnay,29.1.,Wenceslaus Franz,Joseph,Killar,3m (#11,Beruf Bauer)
+Jablona,30.1.,Theresia,Wenceslaus,Czervinka,70 (Ehefrau,#20#,Beruf Schuhmacher)
+Jamnay,30.1.,Tobias,-,Philipp,70 (#123,Beruf Exemptuarius#)
+Weypersdorf,6.2.,Joseph,Johann,Morawetz,9m (#122,Beruf Inwohner)
+Waltersdorf,7.2.,Johann,Paul,Spiczak,6m (#52,Beruf Inwohner)
+
+DP 134
+
+Waltersdorf,18.2.,Anna,Paul,Killar,6m (#58,Beruf Bauer)
+Jablona,19.2.,Wenceslaus,-,Czervinka,53 (#20,Beruf Schuhmacher)
+Weypersdorf,21.2.,Anna,Paul,Morawetz,9m (#163,Beruf Bauer)
+Jamnay,21.2.,Elisabeth,Wenceslaus,Prokopecz,50 (Witwe,#94,Beruf Häusler)
+Jablona,28.2.,Judith,Anton,Adolph,80 (Witwe,#42)
+Weypersdorf,3.3.,Judith,Georg,Rubesch,56# (Ehefrau,#3,Beruf Häusler)(36 oder 56?)
+Jablona,3.3.,Karl,Franz,Kobliczek,35 (#85,Beruf Schuhmacher)
+Waltersdorf,6.3.,Veronica,Joseph,Waniczek,30 (Ehefrau,#3,Beruf Häusler)
+Waltersdorf,13.3.,Johann,Anton,Philipp,1d (#18,Beruf Bauer)
+Waltersdorf,19.3.,Marina,Franz,Killar,50m (Ehefrau,#-,Beruf Exemptuarius#)
+Waltersdorf,25.3.,Johann,Georg,Kobliczek,52 (#9,Beruf Häusler)
+Weypersdorf,29.3.,Eva,Anton,Marek,40 (Ehefrau,#95,Beruf Inwohner)
+Weypersdorf,6.4.,Veronica,Johann,Skaliczky,45 (Ehefrau,#25,Beruf Bauer)
+Waltersdorf,9.4.,Johanna,Paul,Czernohorsky,18d (#143,Beruf Häusler)
+Weypersdorf,25.4.,Marina,Martin,Zednik#,62 (Ehefrau,#53,Beruf Häusler)
+Jablona,27.4.,Anton,Joseph,Trampota,7d (#63,Beruf Weber)
+Jamnay,28.4.,Anna,Johann,Prokopecz,40 (Ehefrau,#85,Beruf Häusler)
+Weypersdorf,6.5.,Anton,Anton,Marek,7m14d (#27,Beruf Bauer)
+Waltersdorf,8.5.,Johann,Joseph,Kratky,7m (#171,Beruf Häusler)
+Weypersdorf,9.5.,Paul,Adam,Chladek,1m14d (#98,Beruf Bauer)
+Waltersdorf,9.5.,Rosalia,Joseph,Kratky,3m (#41,Beruf Häusler)
+Waltersdorf,12.5.,Theresia,Karl,Anderle,1m (#86,Beruf Häusler)
+Waltersdorf,13.5.,Margarita,Paul,Uher,9m (#60,Beruf Inwohner)
+Waltersdorf,14.5.,Theresia,Johann,Killar,1y4m (#150)
+Waltersdorf,18.5.,Joseph,Georg,Hrdina,3m (#169,Beruf Häusler)
+Waltersdorf,18.5.,Anna,Anton,Jansa,7 (#129,Beruf Häusler)
+Weypersdorf,21.5.,Johanna,Johann,Heyl,21 (Ehefrau,#9#,Beruf Inwohner)
+Waltersdorf,23.5.,Dorothea,Paul,Mrazek,1m (#175,Beruf Häusler)
+Weypersdorf,28.5.,Ignatz,Johann,Skaliczky,7m (#108,Beruf Bauer)
+Jamnay,31.5.,Johann,Johann,Srschen,21#d (#29,Beruf Häusler)
+Waltersdorf,2.6.,Joseph,Johann,Hrdina,4 (#156,Beruf Bauer)
+Waltersdorf,29.6.,Adalbert,Wenceslaus,Kulhanek,3m (#31,Beruf Häusler)
+Weypersdorf,29.6.,Wenceslaus,Johann,Skaliczky,1y6m (#25,Beruf Bauer)
+Weypersdorf,29.6.,Johann,Martin,Skaliczky,16 (#121,Beruf Bauer)
+Waltersdorf,30.6.,Anna,Paul#,Kratky,44 (#171#,Beruf #)
+
+DP 135
+
+Waltersdorf,18.7.,Joseph,Johann,Hrdina,1d (#43)
+Weypersdorf,18.7.,Rosalia,Johann,Czerny,22 (#49)
+Waltersdorf,18.7.,Judith,Joseph,Czernohorsky,60 (Ehefrau,#96,Beruf Häusler)
+Weypersdorf,22.7.,Johann,Augustin,Janku#,19 (#42,Beruf Faber)(Gelesen: "Jank")
+Weypersdorf,27.7.,Anton,-,Hrubesch,80 (#31,Beruf Häusler)
+Waltersdorf,28.7.,Catharina,Joseph,Teykl,9m (#39,Beruf Häusler)
+Weypersdorf,6.8.,Anna,Anton,Skaliczky,14d (#171,Beruf Inwohner)
+Weypersdorf,9.8.,Paul,-,Buczek,73 (#35,Beruf Häusler)
+Waltersdorf,13.8.,Wenceslaus,-,Waschiczek,32 (#74,Beruf Häusler)
+Waltersdorf,22.8.,Joseph,-,Giru,47 (#34,Beruf Häusler)
+Jamnay,24.8.,Anna,Wenceslaus,Czernohaus,10m (#57#,Beruf Inwohner)(#57 oder #37?)
+Lubnik,1.9.,Anna,Joseph,Christoph,42 (Ehefrau,#8,Beruf Bauer)
+Waltersdorf,2.9.,Marianna,Jacob,Spiczak,19 (#8,Beruf Inwohner)
+Jamnay,2.9.,Wenceslaus,-,Czernohaus,45 (#57,Beruf Inwohner)
+Waltersdorf,12.9.,Anna,Joseph,Krcziwohlawek,8 (#122,Beruf Bauer)
+Lubnik,5.10.,Johann,Joseph,Christoph,11m (#8,Beruf Bauer)
+Waltersdorf,12.10.,Marianna,Paul,Wawra,85 (Witwe,#24,Beruf Häusler)(Was bedeutet "superstes", "hinterbliebene"?)
+Jamnay,25.10.,Dorothea,Georg,Hansliczek,60 (Witwe,#-,Beruf Häusler)
+Weypersdorf,31.10.,Eva,Martin,Skaliczky,1y12d (#26#,Beruf Häusler#)
+Waltersdorf,1.11.,Anna,Johann,Mrazek,60 (Ehefrau,#165,Beruf Inwohner)
+Weypersdorf,21.11.,Anton,-,Skaliczky,80 (#162,Beruf Exemptuarius#)
+Waltersdorf,21.11.,Johann,Joseph,Teykl#,30 (#172#,Beruf Häusler)(172 oder 132 oder 122?)
+Waltersdorf,25.11.,Catharina,Paul,Killar,60 (Ehefrau,#117,Beruf Häusler)
+Weypersdorf,1.12.,Theresia,Ferdinand,#elbich,4m9d (#-,Beruf Jäger und #)
+Jamnay,18.12.,Tobias,Adalbert,Philipp,21d (#113)
+Jamnay,21.12.,Anna,Augustin#,Schüller,4 (#-,Beruf Häusler)(Oder heißt das "Auguste" und "Casaria", also uneheliches Kind? Schüller == Schüll?)
+
+DP 136
+
+Weypersdorf,21.12.,Catharina,Mathias,Chladek,30 (#73#,Beruf Häusler)(#13 oder #73?)
+Weypersdorf,22.12.,Marina,Franz,Rösler,63 (Ehefrau,#63,Beruf Gärtner)
+Waltersdorf,24.12.,Johann,-,Krcziwohlawek,- (#67,Beruf Bauer)(Alter wird nicht genannt)
+Jamnay,31.12.,Joseph,-,Philipp,70 (#87,Beruf Häusler)
+
+1779
+
+Weypersdorf,4.1.,Ignatz,Anton,Skaliczky,1y27d (#119,Beruf Häusler)
+Weypersdorf,18.1.,Marina,Adam,Skaliczky,42 (#90,Beruf Häusler)
+Weypersdorf,20.1.,Martin,-,Charvat,60 (#88,Beruf Häusler)
+Weypersdorf,29.1.,Theresia,Franz,Skaliczky,15 (#79#,Beruf Inwohner)(#19 oder #79?)
+Jablona,30.1.,Dorothea,Joseph,Kostron#,1m7#d (#66#)(#56 oder #66?)
+Jablona,1.2.,Franz,-,Koczel,60 (#60,Beruf Lanio)(Lanio == Laniones/Fleischer?)
+Weypersdorf,1.2.,Joseph,-,Hansek#,9d (#80,Beruf Inwohner)(Vorname des Vaters/der Mutter nicht genannt, nur "Hansekin")
+Weypersdorf,4.2.,Marina#,Jacob,Chladek,60 (Ehefrau,#124)(Maria oder Marina? Czerno == Czerny?)
+Jamnay,7.2.,Catharina,-,Czerny#,1m21d (#670)(670 Schreibfehler?)
+Waltersdorf,15.2.,Joseph,-,Hrinda#,66
+Jamnay,15.2.,Paul,-,Hrinda#,80 (#48,Beruf Inwohner)
+Weypersdorf,17.2.,Johann,Paul,Hawlena,3d (#105)
+Jamnay,25.2.,Joseph,Wenceslaus,Philipp,8m (#130,Beruf Bauer)
+Lubnik,27.2.,Elisabeth,Johann,Michina#,60 (Witwe)
+Waltersdorf,6.3.,Anna,Martin,Chrazek#,95 (Witwe,#6)
+Jablona,7.3.,Peregrin,Franz,Schlesinger,21d (#69)
+Waltersdorf,13.3.,Georg,-,Pauk,80 (#57,Beruf Exemptuarius#)
+Waltersdorf,13.3.,Anna,Paul,Hrinda#,46 (Ehefrau,#19,Beruf Inwohner)
+Weypersdorf,13.3.,Franz,Johann,Burian#,1y3m (#172)
+Jablona,18.3.,Anna,Ignatz#,Neschkudla,45 (Ehefrau,#2)
+Weypersdorf,22.3.,Adam,Joseph,Stablina#,5 (#85)
+Jamnay,29.3.,Paul,Charvat,30 (#116,Beruf Inwohner)
+Jamnay,2.4.,Anna,Jacob,Heusla#,60 (Witwe,#134)(Heusla# == Heisler?)
+
+DP 137
+
+Jablona,5.4.,Ignatz,-,Scheibl,38 (#47,Beruf Weber)
+Jamnay,6.4.,Marina,Wenceslaus,Doleczek,71# (Witwe,#111)
+Jamnay,7.4.,Heinrich,-,Steyskal,35 (#128,Beruf Bauer)
+Weypersdorf,8.4.,Anna,Ludwig,Hluchy#,1 (#101,Beruf Inwohner)(Nachname schwer zu lesen, unsicher, ob am Anfang "H" oder "A")
+Waltersdorf,9.4.,Johann,Wenceslaus,Marzek#,8m (#110,Beruf Häusler)(Gelesen: "Marzech")
+Bystrcze,11.4.,Rosalia,Paul#,Czernohorsky,10d (#143,Beruf Häusler)(10m oder 10d?)
+Weypersdorf,13.4.,Rosalia,Paul,Hawlena,3m (#105,Beruf Häusler)
+Weypersdorf,15.4.,Joseph,Joseph,Hawelka,1y1m (#91,Beruf Häusler)
+Jamnay,16.4.,Anna,-,Steyskal,50 (Witwe,#127)
+Weypersdorf,19.4.,Joseph,Franz,Chladek,3 (#100,Beruf Inwohner)(Gelesen: Kladek)
+Weypersdorf,20.4.,Eva,Georg,Kubesch,9 (#93,Beruf Häusler)
+Weypersdorf,24.4.,Franz,Martin,Skaliczky,2d (#162,Beruf Bauer)
+Weypersdorf,26.4.,Marina,Johann,Hawelka,1y12d (#84,Beruf Häusler)
+Weypersdorf,27.4.,Eva,Martin,Smeykal,80 (Ehefrau,#159,Beruf Bauer)
+Weypersdorf,29.4.,Anna,Joseph,Marek,8 (#92)
+Jablona,30.4.,Catharina,Ignatz,Kupka Junior,48 (#5,Beruf Schuhmacher)
+Weypersdorf,2.5.,Anna,Martin,Skaliczky,2y14d  (#162,Beruf Bauer)
+Waltersdorf,4.5.,Adalbert,Johann,Lischka,1y10d (#39)
+Weypersdorf,4.5.,Rosalia,Anton,Heisler#,11 (#103)
+Weypersdorf,5.5.,Rosalia,Franz,Beran,5y3m (#170#,Beruf Bauer)
+
+DP 138
+
+Weypersdorf,5.5.,Joseph,Johann,Buczek,1y3m (#34,Beruf Häusler)
+Waltersdorf,6.5.,Catharina,Johann,Kos#,5y1m (#67,Beruf Häusler)
+Jamnay,7.5.,Adalbert,Adalbert,Doleczal,3m (#10,Beruf Häusler)
+Waltersdorf,8.5.,Paul,Wenceslaus,Hrdina,20 (#19)
+Weypersdorf,9.5.,Anton,Anton,Matiegka,1 (#40,Beruf Häusler)
+Jablona,11.5.,Rosalia,Franz,Kleslo,51 (#30)
+Jamnay,12.5.,Johann,-,Richter,39 (#49,Beruf Venerator Domini#)(Ist das der Beruf oder Teil des Namens?)
+Waltersdorf,13.5.,Theresia,Joseph,Hrdina,6m (#51,Beruf Bauer)
+Weypersdorf,14.5.,Ignatz,Anton,Matiegka,3y6m (#40,Beruf Häusler)
+Jamnay,21.5.,Veronica,Johann,Schüller,66 (Ehefrau,#2,Beruf Expr#)(Schüller == Schüll?)
+Weypersdorf,21.5.,Ignatz,Anton,Skaliczky,3y6m (#171,Häusler)
+Weypersdorf,25.5.,Johann,Anton,Matiegka,5 (#40,Beruf Häusler)
+Lubnik,26.5.,Dorothea,Adalbert,Schaffarcz,22d (#4,Beruf Bauer)
+Weypersdorf,28.5.,Rosalia,Johann,Heyl,2y3m (#144,Beruf Häusler)
+Jamnay,4.6.,Johann,-,Bauchal,45 (#33,Beruf Häusler)
+Jamnay,4.6.,Philipp,Joseph,Hansliczek,1 (#7)
+Waltersdorf,4.6.,Rosalia,Paul,Wondra,1 (#34,Beruf Häusler)
+
+DP 139
+
+Jablona,5.6.,Catharina,Anton,Koczel,2y3m (#34,Beruf Bauer)
+Waltersdorf,6.6.,Joseph,Karl,Anderle,9d (#86,Beruf Häusler)
+Waltersdorf,8.6.,Catharina,Paul,Pauk,4m (#109,Beruf Inwohner)
+Jablona,8.6.,Carolina,Anton,Kubelka,1m6d (#7,Beruf Faber)
+Jablona,9.6.,Franz,-,Skaliczky,67 (#87)
+Weypersdorf,9.6.,Anton,Johann,Morawetz,2 (#177,Beruf Häusler)
+Jamnay,12.6.,Johann,-,Schüller,74 (#2,Beruf Häusler)(Schüller==Schüll?)
+Weypersdorf,20.6.,Juliana,Anton,Prokopecz,4d (#135,Beruf Häusler)
+Jamnay,27.6.,Wenceslaus,-,Steyskal,60 (#89,Beruf Inwohner)
+Jamnay,6.8.,Margaretha,Wenceslaus,Doleczal,3d (#38,Beruf Häusler)
+Lubnik,27.8.,Catharina,Anton,Petzik#,7d (#1,Beruf Müller)
+Jamnay,7.9.,Johann,Johann,Schimek,4m14d (#101,Beruf Inwohner)
+Weypersdorf,11.9.,Johann,Joseph,Benesch,21d (#83,Beruf Häusler)
+Jamnay,3.10.,Franz,Johann,Prokopecz,14d (#94)
+Jamnay,11.10.,Anna,Johann,Spaczek,1d (#97,Beruf Bauer)
+Jamnay,20.10.,Mathias,-,Steyskal,70 (#99,Beruf Bauer)
+Waltersdorf,21.10.,Anna,Joseph Wenceslaus,Wurscht,42 (Ehefrau,#186,Beruf Bauer)
+
+DP 140
+
+Waltersdorf,25.10.,Catharina,Wenceslaus,Ba#ok#,3d (#45)
+Waltersdorf,28.10.,Catharina,Johann,Mrazek,2d (#165)
+Jablona,2.12.,Franz,Anton,Kubelka,5y6m (#7)
+Jamnay,9.12.,Judith,-,Chladek,60 (Witwe,#105)(Vorname des verstorbenen Ehemanns wird nicht genannt)
+Jamnay,13.12.,Anna,Sebastian,Chladek,8m20d (#104,Beruf Inwohner)
+Weypersdorf,16.12.,Johann,-,Chladek,73 (#81,Beruf E#pr#dianus)
+Weypersdorf,17.12.,Johanna,Johann,Skaliczky,28 (Ehefrau,#25,Beruf Bauer)
+Weypersdorf,26.12.,Franz,Johann,Skaliczky,9#d (#25,Beruf Bauer)
+Waltersdorf,31.12.,Paul,Georg,Killar,1 (#72,Beruf Bauer)
+
+1780
+
+Weypersdorf,6.1.,Paul,-,Marek,38 (#43,Beruf Bauer)
+Jablona,16.1.,Dorothea,Joseph,Wottawa,3d (#15,Beruf Weber)
+Waltersdorf,31.1.,Catharina,Johann,Wachezka#,50 (#28)
+Waltersdorf,2.2.,Rosalia,Georg,Teykl,14d (#7,Beruf Bauer)
+Waltersdorf,3.2.,Catharina,Jacob,Spiczak,36 (Ehefrau,#8,Beruf Inwohner)
+Jablona,10.2.,Joseph,Franz,Bechaczek,1m14d (#39,Beruf Schneider)
+Jamnay,14.2.,Rosalia,Paul,Kubelka,1m14d (#136,Beruf Müller)
+
+DP 141
+
+Waltersdorf,15.2.,Paul,-,Hrdina,70 (#26,Beruf Häusler)
+Weypersdorf,20.2.,Marina,Wenceslaus,Chladek,60 (Witwe,#105,Beruf Häusler)
+Jablona,22.2.,Maria,Franz,Heyl,1m21d (#65,Beruf Arcularius)
+Waltersdorf,26.2.,Paul,Paul,Kristek,7d (#23,Beruf Bauer)
+Weypersdorf,1.3.,Johann,Johann,Kubesch,14d (#102,Beruf Häusler)
+Jamnay,2.3.,Adalbert,Adalbert,Philipp,8d (#16,Beruf Häusler)
+Jamnay,3.3.,Franz,Johann,Czernohaus,2m (#67,Beruf Häusler)
+Lubnik,9.3.,Johann,Joseph,Kopeczky,1m17d (#9,Beruf Bettler)
+Waltersdorf,9.3.,Catharina,Paul,Wondra,- (#34,Beruf Häusler)(0.5 Tage)
+Jamnay,10.3.,Dominik,Dominik,Steyskal,1m7d (#71,Beruf Häusler)
+Weypersdorf,21.3.,Paul,-,Faltus,70 (#148,Beruf Häusler)
+Waltersdorf,2.4.,Franz,Johann,Hotorez#,1 (#75,Beruf Häusler)(Ist Franz oder Johann der Sohn?)
+Waltersdorf,5.4.,Catharina,Jacob,Charvat,63# (Witwe,#185)
+Waltersdorf,7.4.,Joseph,Joseph,Krcziwohlawek,2d (#122,Beruf Bauer)
+Jamnay,7.4.,Anton,Paul,Charvat,1y2m (#116,Beruf Inwohner)
+Weypersdorf,21.4.,Magdalena,Martin,Faltus,90 (#167,Beruf Häusler)(Nicht genannt, ob Martin Vorehemann oder Vater)
+Weypersdorf,23.4.,Franz,Karl,Hablina#,6m (#57,Beruf Häusler)
+Jablona,28.4.,Dorothea,Franz,Sedlarz,96 (Witwe,#73)
+Weypersdorf,12.5.,Anna,Johann#,Burian,4m (#172,Beruf Bauer)
+
+DP 142
+
+Waltersdorf,13.5.,Catharina,Georg,Teykl,42 (Ehefrau,#7,Beruf Bauer)
+Waltersdorf,15.5.,Rosalia,Georg,Ptaczek,18 (#11,Beruf Häusler)
+Weypersdorf,15.5.,Theresia,Johann,Schembera,14d (#104,Beruf Inwohner)
+Jamnay,16.5.,Anna,Johann,Giru#,40 (Witwe,#88)
+Jamnay,19.5.,Judith,Mathias,Steyskal,63 (Ehefrau,#71,Beruf Häusler)
+Jamnay,2.6.,Anton,-,Prokopecz,60 (#64,Beruf Bauer)
+Jablona,8.6.,Christian,-,Jansa,51 (#31,Beruf Weber)
+Waltersdorf,11.6.,Johann,Martin,Lischka,4m14d (#178,Beruf Häusler)
+Jamnay,25.6.,Joseph,-,Doleczal,50 (#67,Beruf Inwohner und Bettler)
+Waltersdorf,5.7.,Johann,Paul,Uher,9m (#60,Beruf Inwohner)
+Waltersdorf,15.7.,Johann,Georg,Pauk,1m12d (#57#,Beruf Bauer)
+Jablona,22.7.,Johann,Bartholomäus,Grus,2m (#77,Beruf Schuhmacher)
+Waltersdorf,24.7.,Dorothea,Joseph,Kratky,16d (#41,Beruf Häusler)
+Waltersdorf,25.7.,Johanna,Paul,Teykl,10m (#119,Beruf Häusler)
+Jamnay,25.7.,Johann,Joseph,Steyskal,2 (#36,Beruf Mil. Gre#)
+
+DP 143
+
+Jamnay,15.8.,Catharina,-,Czernohaus,35 (Witwe,#57)
+Waltersdorf,13.9.,Johanna,Adalbert,Kaschka,- (#118,Beruf Häusler)
+Jamnay,14.9.,Rosalia,Johann,Waschiczek,- (#122,Beruf Häusler)
+Jamnay,21.9.,Veronica,Johann,Trampota,48 (Ehefrau,#81,Beruf Häusler)
+Jablona,9.10.,Marianna,Paul,Grus,80 (Witwe,#67)
+Waltersdorf,13.10.,Johann,Johann,Teykl,2m (#285#,Beruf Bauer)
+Waltersdorf,27.10.,Joseph,Paul,Kulhanek,2m8d (#51,Beruf Häusler)
+Waltersdorf,5.11.,Catharina,Johann,Machaczek,15 (#11,Beruf Häusler)
+Waltersdorf,11.11.,Theresia,Georg,Hrdina,1y3m (#169,Beruf Häusler)
+Jablona,15.11.,#,Bernhard,Wottawa#,- (#29)
+Jamnay,25.11.,Catharina,Paul,Hansliczek,1m14d (#134,Beruf Häusler)
+Jablona,2.12.,Johann,Bernhard,Schevel,13 (#55,Beruf Schneider)(Schevel == Scheibl?)
+
+DP 144
+
+Waltersdorf,#.12.,Joseph,Paul,Czernohaus,20d (#143,Beruf Häusler)
+Jablona,20.12.,Johann Nepomuck,D. Johann,Pauk,22d (#14#,Beruf Chirurg#)(D. Johann Pauk == Dr.Johann Pauk ?)
+
+1781
+
+Jablona,11.1.,Anna,Joseph,Neschkudla,7m (#37,Beruf Schneider)
+Jamnay,16.1.,Rosalia,Johann,Prokopecz,5d (#94,Beruf Häusler)
+Jamnay,16.1.,Anton,Anton,Schlesinger,2m (#-,Beruf Faber)
+Jamnay,19.1.,-,Johann,Czernohaus,- (#67)
+Lubnik,27.1.,Benedikt,-,-,5d (#2)(Schwer lesbar, heißt das Kind von Rosalia, des Wenceslaus Kuthaniana? Also unehelich?)
+Jamnay,29.1.,Joseph,Joseph,Kobliczek,21d (#112,Beruf Häusler)
+Jamnay,11.2.,Wenceslaus,Peregrin,Czernohaus,11d (#39)
+Jablona,16.2.,Karl,-,Merta,75 (#86,Beruf Schuhmacher)
+Waltersdorf,6.3.,-,Joseph,Krcziwohlawek,- (#122)
+Waltersdorf,9.3.,Joseph,-,Mister,43 (#141,Beruf Inwohner)
+Waltersdorf,12.3.,Catharina,-,Mister#,48 (Witwe,#141)(Meister == Mister? Der Vorname des verstorbenen Ehemanns wurde nicht genannt)
+
+DP 145
+
+Waltersdorf,14.3.,-,Joseph,#aschka,- (#138,Beruf Inwohner)
+Jamnay,16.3.,Anna Maria,Johann,Krejczy,9d (#54#,Beruf Häusler)(#34 oder #54?)
+Jablona,20.3.,David,-,Merta,67 (#90)
+Waltersdorf,28.3.,Catharina,Joseph,Bednarz,52 (Witwe,#134,Beruf Inwohner#)
+Jablona,31.3.,Anna,-,Wottawa,50 (#84)
+Waltersdorf,3.4.,Anna,Joseph,Killar,1y3m  (#40,Beruf Inwohner)
+Jamnay,#.4.,Sebastian,-,Philipp,67 (#4,Beruf Exprodiarius#)(Sebastian Philipp oder Philipp Sebastian?)
+Waltersdorf,23.4.,Georg,Martin,Lischka,3d (#178,Beruf Häusler)
+Waltersdorf,23.4.,Anton,Joseph,Teykl,1y3m (#187,Beruf Inwohner)
+Jamnay,23.4.,Augustin,Tobias,Philipp,14d (#123,Beruf Bauer)
+Lubnik,28.4.,Joseph,Anton,Mi#lischka#,1m14d (#6)
+Jamnay,10.5.,Johann,-,Gironcz,50 (#6,Beruf Bauer)
+Jamnay,10.5.,Theresia,-,-,8d (#17)(Unehelich) U: Kind von Catharina Gironcz
+Waltersdorf,13.5.,Joseph,Paul,Kubu,1 (#88,Beruf Inwohner)
+Jamnay,13.5.,Veronica,-,-,11d (#17)(Unehelich) U: Kind von Catharina Gironcz
+Waltersdorf,18.5.,Magdalena,Joseph,Kratky,42 (Ehefrau,#71,Beruf Häusler)
+Waltersdorf,21.5.,Joseph,Wenceslaus,Waschiczek,3y6m (#77)
+
+DP 146
+
+Waltersdorf,20.6.,Rosalia,Wenceslaus,Hrdina,2m (#136,Beruf Bauer)
+Jablona,13.7.,Ignatz,-,Kupka,77 (#32,Beruf Lehrer)
+Jamnay,22.7.,Wenceslaus,Wenceslaus,Doleczal,8d (#38,Beruf Casarius Ruralis)
+Waltersdorf,23#.7.,Joseph,Johann,Jukel#,3y6m (#91,Beruf Inwohner)
+Waltersdorf,29.7.,Johann,Johann,Mister,3 (#142,Beruf Häusler)
+Waltersdorf,6.8.,Catharina,Anton,Jansa,9m (#101,Beruf Häusler)
+Waltersdorf,7.8.,Joseph,Joseph,Wondra,6m (#90,Beruf Bauer)
+Waltersdorf,8.8.,Wenceslaus,Paul,Kratky,5 (#170,Beruf Inwohner)
+Waltersdorf,8.8.,Adalbert,Adalbert,Teykl,10 (#172,Beruf Bauer)
+Waltersdorf,25.8.,Anna,-,-,2 (#76) U: Kind von Theresia Wasch#
+Waltersdorf,30.8.,Joseph,Joseph,Schimek,2 (#73,Beruf Häusler)
+Waltersdorf,13.9.,Juliana,Johann,Schüller,9m (#114,Beruf Inwohner)(Schüllar == Schüll?)
+Waltersdorf,14.9.,Veronica,Joseph,Czernohorsky,1y6m (#-,Beruf Häusler)
+Jamnay,15.9.,Judith,-,Kobliczek#,65 (#80)(Was bedeutet "Calicz. mortua apud Paul Prokopecz"?)
+Waltersdorf,15.9.,Anna,Georg,Machaczek,2y6m (#61,Beruf Häusler)
+Waltersdorf,19.9.,Johann,Paul,Charvat,2 (#74,Beruf Häusler)
+
+DP 147
+
+Jablona,2.10.,Karl,-,Grus,50 (#23)
+Waltersdorf,2.10.,Judith,Paul,Seidlmann,62 (#162,Beruf Häusler)
+Waltersdorf,7.10.,Anna,Paul,Kyrall,5d (#126,Beruf Häusler)
+Waltersdorf,7.10.,Wenceslaus,Wenceslaus,Waschiczek,1d (#9)
+Jamnay,8.10.,Anton,Wenceslaus,Krejczy,3d (#47,Beruf Häusler)
+Jamnay,23.10.,Catharina,Karl,Kobliczek,13d (#120,Beruf Inwohner#)
+Waltersdorf,25.10.,Paul,-,Matiegka,90 (#113,Beruf Bauer)
+Waltersdorf,29.10.,Joseph,Joseph,Mrazek,2y1m (#-,Beruf Häusler)
+Jamnay,6.11.,Wenceslaus,-,Bauchal,60 (#40,Beruf Bettler)
+Waltersdorf,7.11.,Karl,Paul,Pauk,3d (#109,Beruf Inwohner)
+Jamnay,8.11.,Anna,Johann,Steyskal,25 (Ehefrau,#135,Beruf Häusler)
+Bistrcze#,11.11.,Adalbert,Ignatz,Pauk,2 (#130,Beruf Inwohner)
+Waltersdorf,13.11.,Anna,Joseph,Krystek,1 (#17,Beruf Casarius Ruralis)
+Jablona,14.11.,Franz,Anton,Jansa,1m14d (#48,Beruf Weber)
+Waltersdorf,16.11.,Karl,-,Urban,40 (#2,Beruf Häusler)
+Jablona,25.11.,Wenceslaus,Ignatz,Neschkudla,19# (#2)
+Jamnay,27.11.,Veronica,Adalbert,Philipp,10y2m (#16,Beruf Häusler)
+Jablona,28.11.,Anna Maria,Bernhard,Neschkudla,1m (#79,Beruf Schneider)
+Waltersdorf,9.12.,Johann,Paul,Pauk,6m (#45,Beruf Inwohner)
+Waltersdorf,10.12.,Judith,-,Krcziwohlawek,80 (Witwe,#131)
+Waltersdorf,11.12.,Wenceslaus,Johann,Schillar#,12 (#114,Beruf Häusler)(Schillar# == Schüll?)
+
+DP 148
+
+Waltersdorf,13.12.,Rosalia,Wenceslaus,Pauk,4m14d (#45,Beruf Bauer)
+Waltersdorf,15.12.,Anna,Paul,Kristek,6m (#23,Beruf Bauer)
+Jamnay,17.12.,Johann,-,Czernohaus,30 (#21,Beruf Häusler)
+Waltersdorf,19.12.,Paul,-,Kulhin#,47 (#78,Beruf Inwohner)(Kulhin == Kulhanek?)
+Jamnay,24.12.,Catharina,Joseph,Rösler,15d (#61,Beruf Inwohner)
+Jamnay,29.12.,Paul,-,Waczek,85 (#27,Beruf Häusler)
+
+1782
+
+Jamnay.2.1.,Anton,Joseph,Czernohorsky,5 (#28,Beruf Inwohner)
+Jamnay,5.1.,Wenceslaus,-,Prokopecz,92 (#94,Beruf Häusler)
+Jamnay,11.1.,Anna,Johann,Krejczy,9m (#142,Beruf Häusler)
+Jamnay,17.1.,Jacobina,Georg,Beran,16 (#36,Beruf Jäger#)
+Jamnay,20.1.,Wenceslaus,Johann,Baltzar,1m14d (#124,Beruf Casarius Ruralis)
+Jamnay,25.1.,Rosalia,Paul,Hansliczek,2m14d (#134,Beruf Häusler)
+Waltersdorf,8.2.,Marianna,Georg,Pauk,70 (Witwe,#57)
+Waltersdorf,13.2.,Anton,Paul,Kyrall,2y6m (#-,Beruf Häusler)
+Jamnay,16.2.,Johann,Johann,Steyskal,1y4d (#89,Beruf Bauer)
+Jamnay,16.2.,Anna,Johann,Wondra,1y3m (#128,Beruf Bauer)
+Jablona,17.2.,Franz,Anton,Wottawa,5 (#42,Beruf Schuhmacher)
+Jablona,18.2.,Theresia,Anton,Kubelka,5 (#7)
+Waltersdorf,22.2.,Wenceslaus,-,Kobliczek,70 (#4)
+Waltersdorf,23.2.,Peregrin,Franz,Hrdina,1y9m (#136,Beruf Inwohner)
+
+DP 149
+
+Jablona,26.2.,Anton,Anton,Kubelka,1y2m (#7)
+Waltersdorf,9.3.,Catharina,Wenceslaus,Prokopecz,6 (#102,Beruf Gärtner)
+Jablona,14.3.,Anna,Franz,Waczek,4 (#13)
+Jablona,17.3.,Anton,Joseph,Neschkudla,2 (#40,Beruf Schneider)
+Jablona,18.3.,Carolina,Johann,Czerny,2y1m14d (#43)
+Lubnik,18.3.,Johann,Martin,Metelinus#,6y6m (#2)
+Jablona,19.3.,Joseph,Joseph,Philipp,4 (#11#,Beruf Molitor Dominicalis)(Beruf Fürstlicher Müller oder so etwas in der Art?)
+Waltersdorf,20.3.,Elisabeth,Wenceslaus,Hrdina,60 (#137,Beruf Expradianus#)
+Jamnay,20.3.,Dorothea,Mathias,Philipp,6 (#51,Beruf Casarius Ruralis)
+Jamnay,20.3.,Franz,Wenceslaus,Czernohaus,3m (#42,Beruf Bauer#)
+Jamnay,21.3.,Joseph,Paul,Prokopecz,8 (#2,Beruf Casarius Ruralis)
+Jablona,26.3.,Franz,-,Kobliczek,84 (#85,Beruf Schuhmacher)
+Waltersdorf,31.3.,Anton,Joseph,Kaschka,8m (#138,Beruf Inwohner)
+Waltersdorf,1.4.,Wenceslaus,-,Hrdina,80 (#137,Beruf Expradianus#)
+Waltersdorf,8.4.,Wenceslaus,Joseph,Ptaczek,6m14d (#160#)
+Waltersdorf,15.4.,Veronica,Joseph,Schimek,1m14d (#83,Beruf Inwohner)
+Jamnay,17.4.,Juliana,Anton,Philipp,1y6m (#108,Beruf Häusler)
+Jamnay,26.4.,Anna,Joseph,Chladek,3 (#95,Beruf Häusler)
+Jamnay,26.4.,Dominik,Johann,Schimek,1y6m (#100)
+Waltersdorf,29.4.,Joseph,-,Hrdina,33 (#43)(Was heißt das nach "ex Waltersdorf"?)
+Waltersdorf,13.5.,Joseph,-,Schimek,60 (#83,Beruf Häusler)
+
+DP 150
+
+Jablona,14.5.,Anna,Bartholomäus,Grus,4y6m (#77,Beruf Schuhmacher)
+Jablona,25.5.,Wenceslaus,Georg,Waczek,21 (#27)
+Jamnay,26.5.,Paul,-,Bednarz,72
+Jamnay,29.5.,Anna,Peregrin,Czernohaus,9#m (#39,Beruf Casarius Ruralis)
+Jablona,15.5.,Wenceslaus,-,Zaslawski#,70 (#15)
+Jablona,5.6.,Anna,Bernhard,Wottawa,40 (Ehefrau,#29)
+Waltersdorf,15.6.,Franz,-,Killar,70 (#71,Beruf Exprediarius#)
+Waltersdorf,17.6.,Franz,Martin,Lischka,7d (#178,Beruf Häusler)
+Waltersdorf,29.6.,Johann,-,Thraczek#,65 (#165,Beruf Inwohner)
+Waltersdorf,4.7.,Theresia,Paul,Kobliczek,10d (#151)
+Waltersdorf,2.8.,Ignatz,-,Pauk,4m6d (#130,Beruf Inwohner)
+Jamnay,8.8.,Theresia,Joseph,Kobliczek,14d (#112,Beruf Häusler)
+Waltersdorf,9.8.,Joseph,Johann,Jukel,19d (#91,Beruf Inwohner)
+Waltersdorf,20.8.,Catharina,Paul,Petr,1y2m (#120,Beruf Häusler)
+Waltersdorf,31.8.,Adalbert,Joseph,Teykl,14d (#184,Beruf Inwohner)
+Jamnay,9.9.,Rosalia,Paul,Prokopecz,2m8d (#69,Beruf Casarius Ruralis)
+Jamnay,18.9.,Catharina,Augustin,Killar,75 (Witwe,#55,Beruf Häusler)
+Waltersdorf,26.9.,Johann,-,-,6m (#25)(Unehelich) U: Kind von Anna Krejczy
+
+DP 151
+
+Waltersdorf,14.10.,Joseph,Paul,Krcziwohlawek,3d (#46,Beruf Inwohner)
+Waltersdorf,17.10.,Rosalia,Joseph,Ptaczek,4 (#160#,Beruf Häusler)
+Jamnay,23.10.,Joseph,Johann,Czernohaus,1d (#67,Beruf Häusler)
+Waltersdorf,23.10.,Theresia,Martin,Waschiczek,1y6m (#163,Beruf Inwohner)
+Jablona,27.10.,Rosalia,Florian,Scheibl#,15d (#33#,Beruf Schneider)(Schewl == Scheibl? #33 oder #83?)
+Jamnay,29.10.,Johann,Joseph,Philipp,1y6m (Beruf Inwohner#)
+Waltersdorf,3.11.,Joseph,Paul,Kobliczek,1y6m (#153)
+Waltersdorf,8.11.,Paul,Anton,Jansa,3m (#101,Beruf Inwohner)
+Jablona,9.11.,Anton,-,Adolph,80 (#16,Beruf Schneider)
+Waltersdorf,24.11.,Theresia,Paul,Hablina#,10m (#80,Beruf Häusler)(Hablina# == Hawlena?)
+Jablona,5.12.,Bartholomäus,Joseph,Lischka,9m (#68)
+Jamnay,9.12.,Catharina,Johann,Krejczy#,33# (#54,Beruf Häusler)(33, 83 oder 93?)
+Jamnay,13.12.,Johann,Johann,Krejczy#,- (#54,Beruf Häusler)
+Jamnay,20.12.,Catharina,Paul,Hansliczek,2d (#134,Beruf Häusler)
+Jamnay,20.12.,Anna,Adalbert,Waczek,1#d (#23,Beruf Häusler)
+Waltersdorf,20.12.,Marianna,-,Neschkudla#,76 (Witwe,#84)(Gelesen: Nescudlova, ist dies korrekt?)
+
+DP 152
+
+1783
+
+Jablona,1.1.,Rosalia,Sebastian,Merta,80 (Witwe,#28)
+Waltersdorf,2.1.,Anna,Wenceslaus,Kobliczek,76 (Witwe,#4,Beruf Häusler)
+Jamnay,8.1.,Johanna,Wenceslaus,Morawetz,4m14d (#105,Beruf Häusler)
+Waltersdorf,19.1.,Theresia,Joseph,Killar,4m (#40,Beruf Inwohner)
+Jablona,7.2.,Rosalia,Joseph,Kostron,6m (#56)
+Lubnik,10.2.,Marianna,-,Urlich#,80 (Witwe,#8)
+Jablona,11.2.,Ignatz,-,Kupka,74 (#5,Beruf Schuhmacher)
+Waltersdorf,23.2.,Mathias,Wenceslaus,Charvat,1m (#87,Beruf Inwohner)
+Waltersdorf,25.2.,Johann,Joseph,Teykl,2m7d (#152,Beruf Inwohner)
+Waltersdorf,1.3.,Johanna,Joseph,Krcziwohlawek,1m10d (#122)
+Jamnay,1.3.,Johann,-,Kobliczek,48 (#58,Beruf Häusler)
+Waltersdorf,2.3.,Theresia,Georg,Waniczek,9d (#62,Beruf Bauer)
+Waltersdorf,13.3.,Apollonia,Joseph,Schimek,14d (#83,Beruf Häusler)
+Jamnay,19.3.,Franz,Johann,Balka#,20d (#124,Beruf Bauer)
+Jablona,28.3.,Catharina,Johann,Wottawa,46 (#64,Beruf Weber)
+Waltersdorf,1.4.,Maria# Rosalia,Wenceslaus,Seidlmann,- (#66)("M. Rosalia" Name des Kindes? Also "Maria Rosalia"?)
+Jamnay,5.4.,Catharina,-,Waczek#,62 (Witwe,#23)(Gelesen: Waczkiana)
+Jablona,8.4.,Johanna,-,Khullankova#,70 (#65)(Nachname schwer zu lesen, unsicher)
+
+DP 153
+
+Waltersdorf,12.4.,Johann,Paul,Krcziwohlawek,3d (#16,Beruf Inwohner)
+Jablona,15.4.,Anton,Karl,Se#l,5m (#82)
+Waltersdorf,23.4.,Catharina,Wenceslaus,Waczek,6m (#159,Beruf Schneider)
+Bistrcze#,30.4.,Johann,Paul,Krcziwohlawek,3m (#53)
+Bystrcze,2.5.,Theresia,Johann,Matiegka,9m (#132,Beruf Inwohner)
+Jamnay,10.5.,Joseph,Johann,Janku,1m14d (#140,Beruf Inwohner)
+Waltersdorf,14.5.,Johann,-,Machaczek,62 (#11,Beruf Häusler)
+Bistrcze,8.6.,Joseph,Joseph,Morawetz,6m (#61,Beruf Bauer)
+Jamnay,10.6.,Wenceslaus,Anton,Doleczal Junior,6d (#63,Beruf Häusler)
+Waltersdorf,5.7.,Anna,Paul,Kubin,- (#78,Beruf Inwohner)
+Jamnay,6.7.,Anna,Paul,Gironcz,45 (Ehefrau,#9,Beruf Häusler)
+Waltersdorf,9.7.,Catharina,-,Chladek,80 (Witwe,#154)
+Waltersdorf,9.7.,Karl,Karl,Anderle,9d (#86,Beruf Häusler)
+Waltersdorf,10.7.,Adalbert,Joseph,Matiegka,9m (#140,Beruf Bauer)
+Waltersdorf,11.7.,Joseph,Georg,Kobliczek,10 (#4,Beruf Bauer)
+Bistrcze,16.7.,Joseph,Wenceslaus,Killar,4m7d (#90,Beruf Bauer)
+Jamnay,3.9.,Joseph,-,Gironcz,43 (#8)
+Jamnay,7.9.,Rosalia,Paul,Worlitschka,2y6m (#132,Beruf Häusler)
+
+DP 154
+
+Jamnay,14.9.,Anna,Wenceslaus,Czernohaus,10m (#21)
+Waltersdorf,15.9.,Joseph,Johann,Kaschka,1m14d (#147,Beruf Bauer)
+Waltersdorf,4.10.,Joseph,Joseph,Kristek,10m (#17,Beruf #)
+Jamnay,7.10.,-,Joseph,Philipp,- (#14,Beruf Soldat)
+Lubnik,20.10.,Theresia,Anton,Petriczek,6m (#1#,Beruf Müller)
+Jablona,24.10.,Vinzenz,Johann,Worlitschka,8m (#50)
+Jamnay,28.10.,-,Wenceslaus,Morawetz,- (#104,Beruf Häusler)(0.5 Tage)
+Waltersdorf,1.11.,Catharina,Paul,Kratky,1y2m (#170,Beruf Inwohner)
+Waltersdorf,2.11.,Barbara,Georg,Podh#ky,17 (#22)(Georg ist aus Czermna#)
+Jamnay,10.11.,Anton,-,Doleczal,60 (#63,Beruf Häusler)
+Waltersdorf,10.11.,Catharina,Joseph,Maslaczek#,3m (#22,Beruf Bauer)
+Waltersdorf,1.12.,Ignatz,Joseph,Mrazek,6m (#165,Beruf Häusler)
+Waltersdorf,6.12.,Catharina,Paul,Killar,1y2m (#126,Beruf Häusler)(Paul ist aus Czermna#)
+Waltersdorf,15.12.,Johann,Martin,Jansa,2y6m (#108,Beruf Bauer)
+Jamnay,16.12.,Johann,Johann,Kratky,8m (#17,Beruf Inwohner)
+
+DP 155
+
+Waltersdorf,16.12.,Johann,Joseph,Kobliczek,20d (#36,Beruf Häusler)
+Waltersdorf,23.12.,Rosalia,Paul,Pauk,5m14d (#45,Beruf Inwohner)
+Waltersdorf,29.12.,Anna,Wenceslaus,Seidlmann,1d (#66,Beruf Bauer)
+
+1784
+
+Jamnay,4.1.,Johann,-,Steyskal,33 (#135,Beruf Häusler)
+Waltersdorf,6.1.,Anna,Georg,Kobliczek,6 (#4,Beruf Häusler)
+Waltersdorf,16.1.,Joseph,Georg,Mariczek#,6y3m (#13,Beruf Häusler)
+Waltersdorf,2.2.,Maria,-,Matiegka#,53 (Witwe,#17,Beruf Inwohnerin)
+Waltersdorf,9.2.,Johann,Johann,Krcziwohlawek,15 (#44)
+Waltersdorf,15.2.,Anton,Paul,Kratky,1y1m (#170,Beruf Bauer)
+Waltersdorf,23.2.,Johann,-,Uher,80  (#60,Beruf Expredianus#)
+Jablona,1.3.,Anna,Franz,Waczek,1d (#13)
+Waltersdorf,1.3.,Franz,Wenceslaus,Waczek,2d (#159,Beruf Schneider und# Häusler#)
+Waltersdorf,3.3.,Ignatz,Johann,Waschiczek,- (#164,Beruf Häusler)
+Waltersdorf,5.3.,Joseph,Georg,Machaczek,3 (#61,Beruf Schuhmacher und# Häusler#)
+Waltersdorf,12.3.,Johann,Joseph,Wurscht,1m14d (#35)
+Lubnik,15.3.,Catharina,Joseph,Christoph,84 (Witwe,#3)
+
+DP 156
+
+Waltersdorf,21.3.,Joseph,Joseph,Krcziwohlawek,1d (#122,Beruf Bauer#)
+Jablona,22.3.,Anna,Franz,Bechaczek,3 (#39,Beruf Schneider)
+Waltersdorf,28.3.,Rosalia,-,-,3d (#165)(Unehelich, Nachname der Mutter schwer lesbar, unsicher) U: Kind von Catharina Zetz#iana
+Waltersdorf,5.4.,Anton,-,Krcziwohlawek,50 (#24,Beruf Inwohner)
+Jablona,11.4.,Johann,Joseph,Adolph,1y6m (#52,Beruf Schuhmacher)
+Waltersdorf,14.4.,Karl,Joseph,Schimek,6d (#83,Beruf Häusler und Schneider)
+Jamnay,19.4.,Bernhard,Joseph,Kyrall,5m (#11,Beruf Casarius Ruralis)
+Jamnay,28.4.,Dorothea,Wenceslaus,Steyskal,62 (#93)
+
+DP 179
+
+1780
+
+Weypersdorf,24.7.,Ignatz,Paul,Smeykal,2m (#159, Beruf Bauer)
+Weypersdorf,26.7.,Wenceslaus,-,Kubelka,64 (#7,Beruf Faber)
+Weypersdorf,26.7.,Anna,Ignatz,Resler,9d (#64,Beruf Bauer)
+Weypersdorf,20.9.,Theresia,Adam,Chladek,1y1m (#98,Beruf Bauer)
+Weypersdorf,26.10.,Wenceslaus,-,Marek,67 /#16#,Beruf Inwohner)
+
+DP 180
+
+Weypersdorf,9.12.,Anna,Wenceslaus,Ptaczek,3y2m (#154,Beruf Häusler)
+Weypersdorf,12.12.,Catharina,Wenceslaus,Janku,8 (#72,Beruf Häusler)
+Weypersdorf,22.12.,Veronica,Paul,Skaliczky,70 (Witwe,#75)
+
+1781
+
+Weypersdorf,9.2.,Rosalia,Anton,Steyskal,8m (#96,Beruf Inwohner)
+Weypersdorf,3.3.,Anna,Mathias,Chladek,13d (#73,Beruf Häusler)
+Weypersdorf,19.3.,Marina,Wenceslaus,Zalmann,50 (Witwe,#161)
+Weypersdorf,25.3.,Rosalia,Martin,Skaliczky,1m21d (#26,Beruf Häusler)
+Weypersdorf,28.3.,Johann,-,Niderle,55 (#117,Beruf Fleischer)
+Weypersdorf,11.4.,Rosalia,Anton,Schembera,9m (#153,Beruf Häusler)
+Weypersdorf,13.4.,Marina,Joseph,Wottawa,2y6m (#174,Beruf Häusler)
+Weypersdorf,13.4.,Franz,-,Mrazek,55 (#77,Beruf Flüchtiger Soldat)
+Weypersdorf,25.4.,Franz,Johann,Kubesch,3m (#102,Beruf Schneider)
+Weypersdorf,28.4.,Genoveffa,Anton,Czernohorsky,1y2m (#61,Beruf Schneider und Inwohner)
+Weypersdorf,28.4.,Joachim,Ferdinand,Darczilek,1m4d (#4,Beruf Weber)
+
+DP 181
+
+Weypersdorf,10.5.,Marina,Paul,Skaliczky,50 (#39)
+Weypersdorf,19.5.,Franz,Johann,Wottawa,4m (#166,Beruf Häusler)
+Weypersdorf,11.6.,Eva,Martin,Skaliczky,70 (Witwe,#26)
+Weypersdorf,14.8.,Georg,-,Kubesch,72 (#3,Beruf Inwohner)
+Weypersdorf,27.10.,Veronica,Georg,Haw#k,60 (Witwe,#14)
+Weypersdorf,29.10.,Franz,-,Marek,40 (#8,Beruf Häusler)
+Weypersdorf,17.11.,Paul,-,Bechaczek,60 (#130,Beruf Bauer)
+Weypersdorf,5.12.,Joseph,Anton,Prokopecz,11m7d (#135,Beruf Häusler)
+Weypersdorf,9.12.,Anton,Paul,Skaliczky,1y9m (#140,Beruf Bauer)
+Weypersdorf,23.12.,Anton,Johann,Wottawa,3y11m20d (#166,Beruf Häusler)
+Weypersdorf,25.12.,Marianna,Wenceslaus,Smeykal,3y3m (#77,Beruf Häusler)
+Weypersdorf,30.12.,Marina,Anton,Marek,2y6m (#29)
+
+DP 182
+
+1782
+
+Weypersdorf,2.1.,Rosalia,Wenceslaus,Rösler,3y11m (#69,Beruf Häusler)
+Weypersdorf,4.1.,Marina,Johann,Chladek,3y6m20d (#81,Beruf Häusler)
+Weypersdorf,6.1.,Peregrin,Anton,Kobliczek,- (#128,Beruf Lehrer)
+Weypersdorf,10.1.,Catharina,Johann,Buczek#,9m (#34,Beruf Häusler)
+Weypersdorf,12.1.,Franz,Johann,Hawlena,12d (#149,Beruf Häusler)
+Weypersdorf,24.1.,Paul,-,Kubesch#,70 (#13#,Beruf Inwohner)
+Weypersdorf,8.2.,Theresia,Johann,Skaliczky,6m (#25,Beruf Bauer)
+Weypersdorf,23.2.,Johann,Anton,Marek,2y10m24d (#121,Beruf Inwohner)
+Weypersdorf,9.3.,Anna,Franz,Skaliczky,45 (Ehefrau,#44,Beruf Inwohner)
+Weypersdorf,2.4.,Judith,Paul,Janku,78 (Witwe,#72)
+Weypersdorf,2.4.,Philipp Jacob,Amadeus,Chladek,5d (#98,Beruf Bauer)
+Weypersdorf,3.4.,Rosina,Johann,Buczek,70 (Witwe,#28,Beruf Exemplaria#)
+Weypersdorf,25.4.,Judith,Paul,Urban,59 (Ehefrau,#91,Beruf Bauer)
+Weypersdorf,3.5.,Jacob,-,Chladek,60 (#80,Beruf Inwohner)
+
+DP 183
+
+Weypersdorf,5.5.,Rosalia,Paul,Hawlena,60 (Witwe,#57,Beruf Häusler)
+Weypersdorf,13.5.,Johann,Anton,Wondra,11m8d (#134,Beruf Inwohner)
+Weypersdorf,1.6.,Marina,Mathias,Rösler,62 (Witwe,#81,Beruf Inwohner)
+Weypersdorf,17.6.,Johann,-,Sedlarz,70 (Witwer,#15)
+Weypersdorf,5.7.,Paul,-,Hawlena,60 (#93,Beruf Häusler)
+Weypersdorf,7.7.,Ignatz,Anton,Wondra,1m9d (#138,Beruf Häusler)
+Weypersdorf,15.7.,Rosalia,Paul,Chalaupka,14d (#120,Beruf Bauer)
+Weypersdorf,24.7.,Marina,Johann#,Skaliczky,6m (#113,Beruf Häusler#)
+Weypersdorf,2.8.,Franz,Martin,Wottawa,11m8d (#68,Beruf Häusler)
+Weypersdorf,23.8.,Joseph,Johann,Janisch,2y6m (#97,Beruf Häusler)
+Weypersdorf,30.8.,Rosalia,Ignatz,Rösler,10#m (#64,Beruf Inwohner)
+Weypersdorf,23.9.,Franz,Franz,Chladek,9m (#100,Beruf Häusler)
+Weypersdorf,3.10.,Nicolaus,-,Janku,70 (#67,Beruf Häusler)
+Weypersdorf,14.12.,Barbara,Paul,Bily,70 (#10,Beruf Bettlerin)
+
+DP 184
+
+Weypersdorf,16.12.,Magdalena,Martin,Marek,70 (#106#,Beruf Bauer)
+Weypersdorf,16.12.,Joseph,Jacob,Skaliczky,4m10d (#106,Beruf Bauer)
+Weypersdorf,28.12.,Judith,Wenceslaus,Morawetz,60 (Witwe,#158,Beruf Bauer)(Judith war Bettlerin)
+
+1783
+
+Weypersdorf,13.1.,Dorothea,Paul,Czernohorsky,50 (Witwe,#41,Beruf Häusler)
+Weypersdorf,28.1.,Anna,Wenceslaus,Maczak,3m (#16,Beruf Häusler)
+Weypersdorf,1.2.,Marina,Johann,Skaliczky,70 (#45,Beruf Häusler)
+Weypersdorf,8.2.,Anna,Joseph,Burian,13d (#181,Beruf Häusler)
+Weypersdorf,16.2.,Rosalia,Johann,Chladek,2y9m14d (#116,Beruf Häusler)
+Weypersdorf,19.2.,Anton,-,Heisler,51 (#96)
+Weypersdorf,24.3.,Anna,Franz,Heyl,40 (#80,Beruf Häusler)
+Weypersdorf,20.4.,Wenceslaus,-,Heyl,70 (#152,Beruf Inwohner)
+Weypersdorf,3.6.,Marina,Wenceslaus,Heyl,50 (Witwe,#63,Beruf Inwohner)
+Weypersdorf,22.6.,Ignatz,Johann,Chladek,- (#67,Beruf Häusler)
+
+DP 185
+
+Weypersdorf,26.6.,Rosalia,Johann,Skaliczky,48 (Ehefrau,#52,Beruf Bauer)
+Weypersdorf,13.7.,Theresia,Franz,Hawlena,22d (#2,Beruf Inwohner)
+Weypersdorf,16.7.,Rosalia,Franz,Hawlena,25d (#2,Beruf Inwohner)
+Weypersdorf,19.7.,Anton,Paul,Smeykal,9d (#159,Beruf Bauer)
+Weypersdorf,26.7.,Theresia,Johann,Chladek,9d (#81,Beruf Häusler)
+Weypersdorf,1.9.,Joseph,Joseph,Martinek,11d (#43,Beruf Bauer)
+Weypersdorf,3.9.,Franz,-,Brochaschka,40 (#51,Beruf Faber Muraris)
+Weypersdorf,17.9.,Judith,Johann,Wondra,60 (Witwe,#134,Beruf Inwohner)
+Weypersdorf,17.10.,Joseph,Wenceslaus,Janek#,11d (#28,Beruf Inwohner)
+Weypersdorf,26.10.,Martin,Johann,Heyl#,1y11m12d (#152,Beruf Häusler)
+Weypersdorf,10.11.,Johann,Johann,Beran,20 (#160,Beruf Bauer#)
+Weypersdorf,30.11.,Theresia,Ludwig,Hluchy,3y7m (#101,Beruf Häusler)
+Weypersdorf,6.12.,Johann,-,Hawlena,75 (#78,Beruf Häusler)
+Weypersdorf,25.12.,Johann,Georg,Rösler,30 (#55)
+Weypersdorf,31.12.,Johann,Georg,Heyl,56 (#59,Beruf Häusler)
+
+DP 186
+
+1784
+
+Weypersdorf,4.1.,Martin,Anton,Schembera,3 (#153,Beruf Häusler)
+Weypersdorf,5.1.,Rosalia,Franz,Marek,13 (#8,Beruf Häusler)
+Weypersdorf,10.1.,Johann,-,Langer,57 (#107,Beruf Inwohner)
+Weypersdorf,12.1.,Anton,Ferdinand,Sarlek#,1y7m (#4,Beruf Weber)(Nachname schwer zu lesen, unsicher)
+Weypersdorf,14.1.,Franz,Martin,Morawetz,2y28d (#156,Beruf Häusler)
