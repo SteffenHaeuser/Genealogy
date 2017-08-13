@@ -1,0 +1,908 @@
+Sterbe
+Böhmen
+Tschechien
+Kirchenmatrik r.k
+Tschenkowitz
+Cenkovice
+rk
+1768-1777
+DP 142
+
+1768
+
+Worlitschka,1.1.,Johanna,Franz,Heisler,6m
+Neudorf,1.1.,Anton,Anton,Wiesner,1
+Worlitschka,6.1.,Eleonora,Johann,Czastek,11w
+Tschenkowitz,14.1.,Maria Elisabeth,Johann,Stöhr,3m
+Worlitschka,14.1.,-,Franz,Krögler,6w
+Worlitschka,17.1.,Peregrin,Andreas,Weinlich,9w
+Tschenkowitz,18.1.,Maria Elisabeth,Johann,Egydi,23 (Ehefrau)
+Tschenkowitz,23.1.,Elisabeth,Mathias,Feltzmann,70 (Witwe)
+Worlitschka,31.1.,Franz,Joseph Gottfried,Schlesinger,2
+
+DP 143
+
+Worlitschka,1.2.,Leopold,Gottfried,Schlesinger,10m
+Tschenkowitz,4.2.,Elisabeth,Amadeus,Nentvich,18m
+Tschenkowitz,4.2.,Theresia,Wenceslaus,Heisler,9m
+Worlitschka,16.2.,Jacob,-,Czernohorsky,64
+Neudorf,21.2.,Anna,Wenceslaus,Roller#,60 (Witwe)(Koller oder Roller)
+Tschenkowitz,7.3.,Anna Maria,Georg,Heisler,55 (Ehefrau des)
+Worlitschka,18.3.,Peregrin,Amadeus,Chladek,11m
+Tschenkowitz,27.3.,-,Augustin,Polak,28 (#)(Vorname der Verstorbenen nicht genannt)
+Worlitschka,30.3.,-,Wenceslaus,Schlesinger,1 (#)(Vorname der Tochter nicht genannt)
+Neudorf,1.4.,Catharina,Paul,Lier,85 (Ehefrau des)
+Tschenkowitz,11.4.,Catharina,Joseph,Seidlmann,12
+Worlitschka,13.4.,Apollonia,Gottfried,Heisler,6w
+Worlitschka,13.4.,Johanna,Heinrich,Schlesinger,7d
+Tschenkowitz,18.4.,Johann,Johann,Weinlich,15
+Worlitschka,19.4.,Theresia,Anton,Czernohorsky,6m
+Tschenkowitz,24.4.,Martin,-,Hedina,60
+Tschenkowitz,23.4.,Franz,Johann,Nehyba,2
+Tschenkowitz,26.4.,Eleonora,Franz,Wagner,1
+
+DP 144
+
+Neudorf,28.4.,Peregrin,Johann,Veith,6m
+Tschenkowitz,30.4.,Johann Ignatz,Johann Wenceslaus,Weinlich,5w
+Worlitschka,11.5.,Rosalia,Franz,Krögler,20m
+Worlitschka,17.5.,Sebastian,Anton,Wagner,23d
+Tschenkowitz,26.5.,Veronica,Wenceslaus,Egydi,2#
+Worlitschka,26.5.,Anton,Wenceslaus,Krögler,4
+Tschenkowitz,31.5.,Anna Rosina,Franz,Heisler,27 (Ehefrau)
+Tschenkowitz,9.6.,Anton,-,Seidlmann,65
+Tschenkowitz,10.6.,Cäcilia,Franz,Weinlich,11#w
+Worlitschka,11.6.,Susanna,Anton,Polak,75 (Witwe des)
+Worlitschka,13.6.,Anna Cäcilia,Dominik,Knoll,35w
+Worlitschka,20.6.,Anna Maria,Anton,Schlesinger,45
+Tschenkowitz,26.6.,Anna Maria,Amadeus,Waschiczek,47# (Ehefrau)(unklar, ob das 47 oder 77 heißt)
+Neudorf,27.6.,Juliana,Johann,Lier,8m
+Worlitschka,5.7.,Maria Elisabeth,Franz,Schlesinger,4w
+Tschenkowitz,23.7.,Maria Josepha,Georg,Krögler,8m
+Worlitschka,23.7.,Heinrich,-,Schlesinger,60
+
+DP 145
+
+Worlitschka,16.8.,Elisabeth,Johann Georg,Schlesinger,1
+Worlitschka,13.9.,Anton,-,Chladek,62
+Neudorf,20.10.,Severin,Elias,Bün,1
+Tschenkowitz,20.10.,-,Johann,Weinlich,11d
+Tschenkowitz,27.10.,Joseph,Heinrich,Wagner,3m
+Worlitschka,27.10.,Genoveffa,Andreas,Neugebauer,12d
+Tschenkowitz,31.10.,Catharina,Paul,Meister,4w
+Worlitschka,2.11.,-,Heinrich,Heisler,11#w
+Worlitschka,4.11.,Maria Victoria,Gotthard,Krögler,3
+Worlitschka,7.11.,Heinrich,Wenceslaus,Krögler,13d
+Neudorf,9.11.,-,Anton,Feltzmann,2
+Neudorf,10.11.,Juliana,Anton,Feltzmann,4
+Neudorf,18.11.,Peregrin,Wenceslaus,Koczin,9m
+Tschenkowitz,19.11.,-,Franz,Hentzl,2
+Tschenkowitz,21.11.,-,Anton,Polak,13w
+Worlitschka,24.11.,Elisabeth,Johann,Neugebauer,80 (Ehefrau)
+
+DP 146
+
+Worlitschka,21.12.,Isidor,Gottfried,Schlesinger,6m
+Tschenkowitz,24.12.,Johann,-,Ströker,60
+Tschenkowitz,27.12.,Genoveffa,Johann Wenceslaus,Kobliczek,20w
+Tschenkowitz,29.12.,Leopold,Franz,Heisler,9m (#)("3/4 annorum")
+
+1769
+
+Worlitschka,11.1.,Andreas,-,Czernohorsky,80
+Worlitschka,25.1.,-,Christian,Wagner,75 (Ehefrau)(Vorname nicht genannt)
+Worlitschka,2.2.,Elisabeth,Augustin,Krögler,84 (Ehefrau)
+Neudorf,2.2.,Genoveffa,Christoph,Bün,5w
+Worlitschka,4.2.,Johanna,Heinrich,Krögler,6w
+Worlitschka,13.2.,Franz,Anton,Heyl,8w
+Neudorf,16.2.,Christian,-,Müller,80
+Neudorf,20.2.,Engelbert,Anton,Feltzmann,3d
+Tschenkowitz,9.3.,Judith,Augustin,Seidlmann,4
+Tschenkowitz,9.3.,Elisabeth,Paul,Kobliczek,3
+Worlitschka,13.3.,Johann Heinrich,-,Schlesinger,30
+
+DP 147
+
+Worlitschka,1.4.,Anton,Franz,Schlesinger,12w
+Neudorf,12.4.,Peregrin,Johann,Lier,7d
+Tschenkowitz,15.4.,Johann,Ignatz,Hentzl,2
+Worlitschka,25.4.,Johann,-,Heisler,74
+Worlitschka,26.4.,Theresia,Joseph,Neugebauer,16m
+Worlitschka,28.4.,Peregrin,Anton,Wagner,28d
+Tschenkowitz,13.5.,Gotthard,-,Egydi,24w
+Neudorf,19.5.,Anna Maria,Georg,Schüll,6w
+Worlitschka,22.5.,-,Wenceslaus,Daubrava,0 (#)("von der Hebamme getauft" ???)
+Neudorf,26.5.,-,Franz,Brokesch,4
+Worlitschka,27.5.,-,Gotthard,Schlesinger,35 (Ehefrau)(Vorname nicht genannt)
+Neudorf,8.6.,Anna Maria,Johann,Pfeifer,30
+Neudorf,17.6.,Anna Maria,Joseph,Kos,20w
+Neudorf,26.6.,Veronica,Franz,Brokesch,2
+Worlitschka,2.7.,Juliana,Heinrich,Schlesinger,14d
+Tschenkowitz,2.7.,Leopold,Johann Wenceslaus,Weinlich,5w
+Worlitschka,9.7.,Franz,Joseph Franz,Müller,5d
+Tschenkowitz,9.7.,Peregrin,Dominik,Knoll,10w
+
+DP 148
+
+Neudorf,17.7.,Judith,Joseph,Kos,3
+Neudorf,29.7.,Johann,-,Pfertner,62
+Tschenkowitz,9.8.,Augustin,-,Heisler,74
+Worlitschka,31.8.,Maria# Anna,Franz,Krögler,70 (Witwe)(heißt das Maria?)
+Tschenkowitz,1.9.,Susanna,Mathias,Sonntag,76 (Witwe)
+Worlitschka,18.9.,Johann,Wenceslaus,Duchaczek,9d
+Tschenkowitz,24.9.,Johann Wenceslaus,Wenceslaus,Feltzmann,27
+Tschenkowitz,25.9.,Maria Josepha,Johann Wenceslaus,Bier,4d
+Worlitschka,30.9.,Rosalia,Heinrich,Kholler,17
+Neudorf,10.10.,Johann,Christoph,Bün,2# (#)(heißt das "duorum"?)
+Worlitschka,17.10.,Gotthard,Anton,Wagner,2m
+Worlitschka,30.10.,Veronica,Andreas,Weinlichb,55 (#)(heißt definitiv "filia", auch wenn ungewöhnlich, dass mit 55 "im Haus ihres Vaters verstorben")
+Worlitschka,2.11.,Franz,Joseph,Schlesinger,# (#)(Alter unklar? Als Kind verstorben?)
+Worlitschka,2.11.,Franz,Joseph,Schlesinger,10m
+Tschenkowitz,4.11.,Benedikt,Johann,Weinlich,14d
+Tschenkowitz,16.11.,Ignatz Vinzenz,Ignatz,Weyperth,3w
+Tschenkowitz,19.11.,Anna Maria,Wenceslaus,Polak,61 (Ehefrau des)
+Tschenkowitz,29.11.,Franz Joseph,Joseph,Seidlmann,15d
+
+DP 149
+
+Tschenkowitz,29.11.,Victoria,Theresia,Heisler,13#d (Tochter der)
+Tschenkowitz,2.12.,Joseph,Augustin,Kobliczek,21
+Neudorf,2.12.,Franz Karl,Anton,Wiesner,1
+Worlitschka,3.12.,Veronica,Christian,Neugebauer,80 (Witwe des)
+Tschenkowitz,13.12.,Johann Wenceslaus,Martin,Seidlmann,23d
+Worlitschka,13.12.,Anna Maria,Wenceslaus,Krögler,70# (#)(heißt definitiv "filia" und "im Haus ihres Vaters", trotz der angegebenen 70 Jahre! Oder ist das eine 10?)
+Tschenkowitz,22.12.,Paul,-,Langhammer,60
+Tschenkowitz,25.12.,Caspar,-,Bier,58
+
+1770
+
+Tschenkowitz,8.1.,Anna Maria,Matthäus,Heisler,86 (#)(heißt "filia", trotz 86 Jahre! "In casa Johannes Heisler")
+Tschenkowitz,8.1.,Maria Theresia,Johann,Krögler,17d
+Tschenkowitz,9.1.,Peregrin,Heinrich,Wagner,15#d
+Worlitschka,14.1.,Johanna,Heinrich,Bartusch,22
+Worlitschka,18.1.,-,Wenceslaus,Hauk,71 (Ehefrau des)(Vorname nicht genannt)
+Worlitschka,30.1.,Elisabeth,Franz,Heyl,3w
+Neudorf,30.1.,Susanna,Augustin,Heisler,80 (Witwe des)
+Neudorf,30.1.,Veronica,Franz,Heisler,8
+
+DP 150
+
+Worlitschka,30.1.,Johann,-,Neugebauer,90
+Tschenkowitz,31.1.,Anna Maria,Caspar,Weinlich,70 (Witwe des)
+Worlitschka,1.2.,Eleonora,Franz,Weinlich,14d
+Worlitschka,3.2.,Johanna,Wenceslaus,Krögler,14d
+Niederjohnsdorf,3.2.,Mathias,-,Jira#,23
+Tschenkowitz,5.2.,Anna Maria,Joseph,Merta,2d
+Worlitschka,10.2.,Johanna,Jacob,Czernohorsky,16
+Tschenkowitz,10.2.,-,Augustin,Feltzmann,42 (Ehefrau des)
+Tschenkowitz,15.2.,Elisabeth,Wenceslaus,Kobliczek,41 (Ehefrau des)
+Worlitschka,17.2.,Angelina,Franz,Weinlich,3w
+Worlitschka,20.2.,Rosalia,Josephj,Schlesinger,3w
+Tschenkowitz,25.2.,Franz Joseph,Johann Georg,Krögler,11#w
+Tschenkowitz,5.3.,Franz Karl,Ignatz,Hentzl,20w
+Tschenkowitz,8.3.,Anton,Johann,Kobliczek,15
+Tschenkowitz,21.3.,Elisabeth,Joseph,Weinlich,50 (Ehefrau des)
+Worlitschka,30.3.,Johanna,Heinrich,Krögler,12d
+
+DP 151
+
+Worlitschka,1.4.,Wenceslaus,-,Langer,64
+Neudorf,9.4.,Theresia,Johann,Veith,15w
+Worlitschka,20.4.,Johann,Franz,Chladek,13w
+Worlitschka,22.4.,Veronica,Heinrich,Krögler,5w
+Tschenkowitz,14.5.,Franz,Anton,Seidlmann,20
+Neudorf,16.5.,Anna,Paul,Lyer,40 (Ehefrau des)
+Tschenkowitz,4.6.,Franz,Augustin,Weinlich,1
+Worlitschka,15.6.,Theresia,Franz,Weinlich,9d
+Tschenkowitz,22.6.,Thecla,Ferdinand,Bier,29w
+Tschenkowitz,14.7.,Wenceslaus,Anton,Chladek,8w
+Tschenkowitz,24.7.,Johann,Martin,Römer#,9m
+Worlitschka,25.7.,Franz Anton,Gotthard,Schlesinger,4d
+Worlitschka,28.7.,Eleonora,Gotthard,Schlesinger,11m
+Tschenkowitz,28.7.,Victoria,Franz,Nentvich,26w
+Tschenkowitz,2.8.,Wenceslaus,Wenceslaus,Czernohorsky,3
+Tschenkowitz,4.8.,Theresia,Anton,Krögler,3
+Tschenkowitz,12.8.,Genoveffa,Joseph,Heisler,1
+Tschenkowitz,15.8.,Johann,Johann,Hartl,1
+
+DP 152
+
+Tschenkowitz,16.8.,Franz Joseph,Franz,Weinlich,34w
+Tschenkowitz,17.8.,Franz Karl,Johann,Heyl,6m
+Tschenkowitz,17.8.,Juliana,Johann Wenceslaus,Bier,3m
+Tschenkowitz,21.8.,Theresia,Florian,Fischer,1y3m
+Worlitschka,22.8.,Juliana,Wenceslaus,Heisler,4d
+Tschenkowitz,23.8.,Elisabeth,Augustin,Polak,66# (Ehefrau von)
+Neudorf,30.8.,Catharina,Paul,Stephan,75 (#)("filia familias")
+Tschenkowitz,3.9.,Theresia,Karl,Heisler,28 (Ehefrau von)
+Tschenkowitz,4.9.,Genoveffa,Joseph,Heisler,2
+Tschenkowitz,8.9.,Anton,Paul,Heisler,3
+Tschenkowitz,12.9.,Maria Elisabeth,Joseph,Heisler,2w
+Worlitschka,17.9.,Veronica,Andreas,Gabler,14d
+Tschenkowitz,21.9.,Maria Elisabeth,Franz,Illchman#,2
+Tschenkowitz,27.9.,Anna Maria,Franz,Egydi,9m
+Worlitschka,7.10.,Genoveffa,Johann Wenceslaus,Schüll,9m
+Tschenkowitz,11.10.,Anna Maria,Wenceslaus,Bün,2y6m
+Worlitschka,12.10.,Anton,-,Weinlich,60
+Tschenkowitz,13.10.,Franz,Andreas,Langer,6m
+
+DP 153
+
+Neudorf,23.10.,Franz,Franz,Lyr,8m
+Tschenkowitz,25.10.,Rosalia,Wenceslaus,Langhammer,8m
+Worlitschka,26.10.,Thaddeus#,Anton,Chladek,34w
+Tschenkowitz,31.10.,Helena,Franz,Nentvich,40w
+Tschenkowitz,1.11.,Amadeus,Joseph,Weinlich,15
+Worlitschka,1.11.,Anton,Heinrich,Kholler,7
+Tschenkowitz,4.11.,Maria Elisabeth,Paul,Charvat,40w
+Worlitschka,12.11.,Theresia,Heinrich,Koller,4
+Worlitschka,19.11.,Josepha,Gotthard,Heisler,4w
+Worlitschka,19.11.,Veronica,Heinrich,Kregler,40 (Ehefrau des)
+Worlitschka,22.11.,Andreas,-,Kregler,75
+
+DP 154
+
+Worlitschka,6.12.,Peter Karl,Karl,Merta,5m (Handwerker)
+Worlitschka,7.12.,Veronica,Johann,Kregler,4 (Handwerker)
+Worlitschka,9.12.,Elisabeth,Andreas,Neugebauer,4 (Handwerker)
+Worlitschka,14.12.,Franz Joseph,Johann Wenceslaus,Heisler,1 (Handwerker)
+Tschenkowitz,14.12.,Maria Anna,Paul,Zaubele,70 (Witwe des,Bettler)
+Tschenkowitz,28.12.,Genoveffa,Joseph,Meister,5m (Häusler)
+
+1771
+
+Tschenkowitz,17.1.,Judith,Joseph,Merta,17d (Müller#)(Schwer lesbar)
+Tschenkowitz,25.1.,Susanna,Augustin,Horaczek,60 (vidua,Beruf Häusler)
+Tschenkowitz,26.1.,Rosalia,Paul,Mister,12d (Beruf Häusler)
+Worlitschka,28.1.,Johann Wenceslaus,Heinrich,Wagner,1#d (Beruf Häusler)
+Tschenkowitz,30.1.,Anton,-,Schembera,58 (Beruf Häusler)
+Tschenkowitz,10.2.,Gotthard,-,Egydi,60 (Beruf Häusler)
+Tschenkowitz,16.2.,Susanna,Johann,Wahsiczek (vidua post defunctem, Beruf Häusler)
+Worlitschka,16.2.,Anna Maria,Franz,Heyl,10d (Beruf Häusler)
+Worlitschka,28.2.,Apollonia,Gotthard,Wagner,56 (Ehefrau des,Beruf Häusler)
+Tschenkowitz,2.3.,Johann,-,Hoffmann,72 (Beruf Bettler)
+Worlitschka,25.3.,Franz Anton,Johann,Weinlich,1 (Beruf Häusler)
+Tschenkowitz,27.3.,Eleonora,Franz,Krögler,1 (Beruf Bauer in Worlitschka)(Ort "Tschenkowitz" durchgestrichen und mit Bleistift Worlitschka hingeschrieben)
+Tschenkowitz,1.4.,Barbara,Anton,Weinlich,3 (Beruf Häusler)
+
+DP 155
+
+Tschenkowitz,4.4.,Judith,Wenceslaus,Koller,73 (Ehefrau des, Häusler)
+Worlitschka,12.4.,Genoveffa,Anton,Schlesinger,19# (Tochter des, Häusler)
+Worlitschka,15.4.,Theresia,Johann Wenceslaus,Krögler,35 (Ehefrau des,Häusler)
+Tschenkowitz,16.4.,Maria,Anton,Schüll,71 (Ehefrau des,Häusler)
+Tschenkowitz,21.4.,Ignatz,Hentzl,40 (#81, Häusler)
+Worlitschka,28.4.,Franz Joseph,Gottfried,Schlesinger,4 (#93, Häusler)
+Neudorf,6.5.,Johanna,Johann,Weinlich,60 (#23, Witwe des, Häusler)
+Worlitschka,7.5.,Anton,Anton,Koller,1 (#110, Häusler)
+Neudorf,8.5.,Amadeus,Ströker,42 (#14, Häusler)
+Worlitschka,15.5.,Leopold,Franz,Chladek,20d (#101, Häusler)
+Worlitschka,18.5.,Rosina,Franz,Langer,60 (Witwe des,#116,Häusler)
+Worlitschka,19.5.,Johanna,Anton,Krögler,11d# (#7, Häusler)
+Tschenkowitz,20.5.,Anna Maria,Franz,Langhammer,8m (#100, Häusler)
+Worlitschka,25.5.,Elisabeth,Wenceslaus,Heisler,40 (Ehefrau des,#78, Häusler)
+Worlitschka,25.5.,Wenceslaus,Hauk,85 (#111, Häusler)
+Worlitschka,25.5.,Heinrich,Gotthard,Schlesinger,6d (#34, Häusler)
+Worlitschka,25.5.,Judith,Wenceslaus,Schlesinger,56 (#35, Häusler)
+Neudorf,2.6.,Genoveffa,Franz,Lyer,4 (#45, Häusler)
+Worlitschka,2.6.,Veronica,Augustin,Wagner,76 (Ehefrau des,#99,Häusler)
+
+DP 156
+
+Worlitschka,9.6.,Leopold,Johann Wenceslaus,Krögler,3m14d (#92, Häusler)
+Worlitschka,13.6.,Elisabeth,Anton,Ditttrich,57 (#127, Häusler)
+Worlitschka,14.6.,Veronica,Anton,Feltzmann,2d (#69, Häusler)
+Worlitschka,19.6.,Theresia,Gotthard,Polak,14 (#2,Häusler)
+Neudorf,19.6.,Johann,Bün,103 (#73, Häusler)
+Neudorf,20.6.,Theresia,Johann,Zaubele,25d (#31, Häusler)
+Tschenkowitz,21.6.,Leopold,Anton,Krögler,14d (#70, Kaufmann/negotiatoris)
+Worlitschka,21.6.,Theresia,Anton,Wagner,32 (Ehefrau des,#99, Häusler)
+Tschenkowitz,4.7.,Augustin,Joseph,Weinlich,4m (#121#, Häusler)
+Worlitschka,10.7.,Margaritha,Augustin,Chladek,50 (Ehefrau des, #101, Handwerker)
+Tschenkowitz,17.7.,Theresia,Amadeus,Nentvich,3 (#19, Sutoris == Schuhmacher)
+Tschenkowitz,20.7.,Helena,Johann Wenceslaus,Weinlich,2m (#127, Müller)
+Tschenkowitz,24.7.,Anton,Weinlich,64 (#125, Häusler)
+Tschenkowitz,30.7.,Johann,Matiegka,45 (#58, Häusler)
+Tschenkowitz,1.8.,Franz,Joseph,Horaczek,3 (#142, Häusler)
+Worlitschka,4.8.,Johann Friedrich,Wagner,55 (#132, Häusler)
+Tschenkowitz,8.8.,Veronica,Joseph,Nehyba,20 (Tochter des,#67,Häusler)
+Neudorf,8.8.,Anna Barbara,Anton,Wiesner#,10# (#38,Häusler)
+Tschenkowitz,12.8.,Rosina,Caspar,Feltzmann,68 (#38, Häusler)
+
+DP 157
+
+Neudorf,15.8.,Catharina,Anton,Kubesch,56 (Witwe des, #30, Müller)
+Tschenkowitz,16.8.,Franz,Johann,Weinlich,34 (#127, Müller)
+Tschenkowitz,18.8.,Leopold,Ignatz,Hentzl,3m (#81, Häusler)(posthumus)
+Worlitschka,19.8.,Franz,-,Schlesinger,65 (#108, Häusler)
+Worlitschka,21.8.,Franz,-,Chladek,37 (#137, Häusler)
+Tschenkowitz,30.8.,Anna,Martin,Langer,30 (Tochter des,#124, Häusler von Jonsdorf)
+Worlitschka,2.9.,Rosalia,Gotthard,Gabler,5d (#54, Handwerker)
+Neudorf,10.9.,Catharina,Wenceslaus,Kubesch,53 (Ehefrau des,#36,Häusler)
+Tschenkowitz,24.9.,Leopold,Johann,Weinlich,9d (#87,Häusler)
+Worlitschka,4.10.,Leopold,Johann Georg,Ohener#,1m (#129, Häusler)
+Tschenkowitz,6.10.,Maria,Georg,Schlesinger,64 (vidua,#122,Häusler)
+Worlitschka,14.10.,Gotthard,Andreas,Gritzbauch,8d (#77, Häusler)
+Tschenkowitz,21.10.,Genoveffa,Joseph,Heisler,5m (#14#,Häusler)
+Neudorf,26.10.,Maria Elisabeth,Franz,Brokesch,40 (Ehefrau des,#5, Häusler)
+Neudorf,29.10.,Wenceslaus,-,Schmid,69 (#67, Häusler)
+Worlitschka,30.10.,Leopold,Anton,Krögler,6 (#6,Häusler)
+Worlitschka,5.11.,Judith,Michael,Heisler,71 (vidua,#137,Häusler)
+Tschenkowitz,5.11.,Marianna,Johann,Krögler,24d (#86, Häusler)
+
+DP 158
+
+Tschenkowitz,7#.11.,Franz,Johann,Matiegka,2 (#58, Häusler)
+Tschenkowitz,15#.11.,Gotthard,Georg,Schlesinger,30 (#122,Häusler)
+Tschenkowitz,17.11.,Franz Karl,Franz,Weinlich,6d (#134, Häusler)
+Worlitschka,4.12.,Paul,-,Hauk,81 (#113, Häusler)
+Tschenkowitz,5.12.,Michael,-,Langhammer,61# (#11#, Häusler)
+Tschenkowitz,11.12.,Anna,Joseph,Weinlich,37 (Ehefrau des, #22, Häusler)
+Worlitschka,18.12.,Veronica,Andreas,Gabler,60 (vidua, #43, Häusler)
+Tschenkowitz,18.12.,Rosalia,Anton,Weinlich,1y6m (#137, Häusler)
+Neudorf,22.12.,Christian,-,Hanisch,61 (#8, Häusler)
+
+1772
+
+Tschenkowitz,4.1.,Catharina,Paul,Kubelka,61 (Ehefrau des, #115, Häusler)
+Tschenkowitz,6.1.,Paul,-,Kubelka,61 (#115,Häusler)
+Worlitschka,8.1.,Andreas,Andreas,Gritzbauch,7 (#77, Häusler)
+Tschenkowitz,10.1.,Anna,Wenceslaus,Blaschke,48 (#52, Häusler)
+Tschenkowitz,11.1.,Agatha,Johann Wenceslaus,Heisler,15#d (#74, Häusler)
+Tschenkowitz,17.1.,Wenceslaus,-,Weinlich,56 (#31, Häusler)
+Worlitschka,21.1.,Dorothea,Anton,Schlesinger,71 (#83, Häusler)
+Worlitschka,23.1.,Franz,-,Krögler,75 (#73, Häusler)
+Tschenkowitz,29.1.,Augustin,-,Bier,60 (#108, Häusler)
+
+DP 159
+
+Worlitschka,7.2.,Franz Joseph,Wenceslaus,Krögler,15d (#126, Häusler)
+Worlitschka,7.2.,Johann,-,Schlesinger,71 (#16,Häusler)
+Neudorf,15.2.,Maria,Christoph,Ridl,53 (vidua,#17, Häusler)
+Worlitschka,17.2.,Anna Maria,Florian,Ströker,3 (#79, Häusler)
+Tschenkowitz,18.2.,Veronica,Wenceslaus,Weinlich,41 (Ehefrau des, #90, Häusler)
+Tschenkowitz,20.2.,Wenceslaus,-,Weinlich,51 (#90, Häusler)
+Worlitschka,24.2.,Wenceslaus,-,Chladek,85 (#105, Häusler)
+Worlitschka,24.2.,Anton,-,Illchmann,51 (#102,Bettler)
+Tschenkowitz,24.2.,Johann,Steiner,78 (#154, Häusler)
+Worlitschka,26.2.,Judith,Wenceslaus,Chladek,50 (#105, Häusler)
+Worlitschka,27.2.,Elisabeth,Karl,Czernohorsky,25 (Ehefrau des, #137, Häusler)
+Neudorf,3.3.,Agnes,Johann,Stör#,16m (#53, Häusler von Tschenkowitz)
+Neudorf,3.3.,Johann,-,Schüke#,61 (#60, Häusler)
+Tschenkowitz,4.3.,Rosalia,Amadeus,Nentvich,1y11m (#19, Häusler)
+Tschenkowitz,5.3.,Franz,-,Wagner,36 (#115, Häusler)
+Worlitschka,7.3.,Judith,Georg,-,60 (#24,Inwohner)(Nachname nicht genannt)
+Tschenkowitz,11.3.,Amadeus,Franz,Egydi,4y9m (#18#, Häusler)
+Neudorf,11.3.,Franz,-,Brokesch,65 (#16, Häusler)
+Neudorf,12.3.,Rosalia,Amadeus,Ströker,4 (#14, Häusler)
+Worlitschka,13.3.,Anna Maria,Anton,Duschek,41 (Ehefrau des,#52,Häusler)
+Tschenkowitz,15#.3.,Johann,-,Koblischke,67# (#15,Häusler)
+Tschenkowitz,15.3.,Anna Maria,Joseph,Weinlich,4 (#121, Häusler)
+
+DP 160
+
+Tschenkowitz,22.3.,Franz,-,Illchmann,41 (#151,Müller)
+Tschenkowitz,22.3.,Karl,Joseph,Heisler,11# (#121,Häusler)(Vater verstorben)
+Neudorf,23.3.,Veronica,Joseph,Seidlmann#,4y5m (#27,Häusler)
+Tschenkowitz,24.3.,Veronica,Friedrich,Koblischke,38 (Tochter des,#121,Häusler)
+Tschenkowitz,25.3.,Ludmilla,Augustin,Polak,63 (Ehefrau des,#16,Häusler)
+Worlitschka,26.3.,Veronica,Anton,Weinlich,41 (Ehefrau des,#33,Häusler)
+Worlitschka,26.3.,Wenceslaus,-,Chladek,46 (#104,Bettler)
+Neudorf,1.4.,Juliana,Wenceslaus,Schmidt,6y10m (#67,Häusler)(Vater verstorben)
+Tschenkowitz,4.4.,Anna Maria,Wenceslaus,Schüll,50 (Ehefrau des,#44,Inwohner)
+Tschenkowitz,4.4.,Joseph,Anton,Weinlich,7 (#137, Inwohner)
+Neudorf,5.4.,Severin,Elias,Bün,2d (#52,Häusler)
+Neudorf,5.4.,Theresia,Johann,Schüll,2m (#55, Häusler)
+Worlitschka,6.4.,Ludmilla,Johann,Heisler,72 (vidua,#31, Inwohner)
+Tschenkowitz,7.4.,Veronica,Anton,Feltzmann,33 (Ehefrau des,#38,Häusler)
+Worlitschka,8.4.,Peregrin,Johann,Weinlich,18d (#116,Häusler)
+Tschenkowitz,10.4.,Theresia,Amadeus,Sonntag,40 (Ehefrau,#20,Häusler)
+Worlitschka,10.4.,Anna Maria,Anton,Illchmann,52 (vidua,#102,Inwohner)
+Worlitschka,11.4.,Juliana,Franz,Heisler,3m (#42, Häusler)
+Worlitschka,11.4.,Elisabeth,Andreas,Schüll,62 (#34,Häusler)
+Tschenkowitz,11.4.,Elisabeth,Johann,Schüll,17 (#43, Inwohner)
+Tschenkowitz,12.4.,Elisabeth,Johann,Schlesinger,70 (vidua,#4, Inwohner)
+Tschenkowitz,14.4.,Anna Maria,Paul,Kobliczek,40 (vidua,#122,Inwohner)
+Tschenkowitz,14.4.,Florian,Caspar,Fischer,2y7m (#62,Inwohner)
+
+DP 161
+
+Tschenkowitz,15.4.,Johann,-,Geczek,57 (#148,Inwohner)
+Tschenkowitz,17.4.,Susanna,Michael,Fischer,81 (#61, Inwohner)
+Worlitschka,18.4.,Elisabeth,-,Zacher,75 (#138, Bettlerin)
+Worlitschka,18.4.,Franz Anton,Johann Heinrich,Dittrich,1y2m (#97,Häusler)
+Worlitschka,19.4.,Veronica,Johann,Krögler,70 (Ehefrau,#50,Häusler)
+Tschenkowitz,21.4.,Anna Maria,Wenceslaus,Heisler,59 (Ehefrau,#12,Inwohner)
+Worlitschka,22.4.,Elisabeth,Franz,Miller,1y2m (#113,Häusler)
+Neudorf,23.4.,Marianna,Johann,Veith#,10m (#37#,Häusler)
+Worlitschka,23.4.,Elisabeth,Augustin,Schüll,32# (Tochter,#125,Inwohner)
+Tschenkowitz,24.4.,Elisabeth,Christoph,Brix#,72 (vidua,#87,Häusler)
+Worlitschka,25.4.,Joseph,-,Weinlich,28 (#48,Inwohner)
+Neudorf,26.4.,Franz Karl,Joseph,Schmiedt,16 (#40,Häusler)
+Tschenkowitz,28.4.,Rosina,Laurenz,Hämmerle,60 (vidua,#106,Inwohner)
+Worlitschka,29.4.,Judith,Paul,Hauk,76 (#113,Inwohner)
+Tschenkowitz,30.4.,Judith,Wenceslaus,Noschke,71 (#83, Inwohner)
+Tschenkowitz,1.5.,Anton,-,Weinlich,51# (#137#,Häusler)
+Worlitschka,2.5.,Anna Maria,Gotthard,Schlesinger,28 (Ehefrau,#34,Häusler)
+Worlitschka,2.5.,Juliana,Gotthard,Schlesinger,17d (#34,Häusler)
+Worlitschka,4.5.,Ferdinand,-,Czernohorsky,61 (#115#,Handwerker)
+Worlitschka,4.5.,Elisabeth,Florian,Ströker,45 (#79, Häusler)
+Worlitschka,5.5.,Elisabeth,Georg,Schimek#,46 (vidua,#129,Häusler)
+Worlitschka,5.5.,Franz,-,Schüll,26 (#17,Häusler)
+Tschenkowitz,6.5.,Anna Maria,Gotthard,Heisler,6y6m (#136,Häusler)
+Neudorf,6.5.,Paul,-,Lyer,51 (#42, Häusler)
+Worlitschka,6.5.,Franz,-,Heyl,80 (#19, Häusler)
+Tschenkowitz,10.5.,Maria Theresia,Florian,Fischer,10m18d (#66,Häusler)
+Tschenkowitz,13.5.,Maria Barbara,Wenceslaus,Kobliczke,77 (vidua,#72,Häusler)
+Worlitschka,24.5.,Ignatz,Franz,Krögler,40 (#76#, Häusler)
+
+DP 162
+
+Worlitschka,24.5.,Thaddäus,Franz,Weinlich,1y1m1d (#17,Häusler)
+Tschenkowitz,28.5.,Johann,Anton,Krögler,15d (#70,Häusler)
+Tschenkowitz,29.5.,Catharina,Franz,Illchmann,20d (#151#,Müller)
+Worlitschka,31.5.,Veronica,Heinrich,Koller,57# (Ehefrau,#90,Häusler)
+Worlitschka,1.6.,Franz,-,Krögler,61 (#94,Häusler)
+Tschenkowitz,1.6.,Catharina,Franz,Weinlich,4d (#115,Häusler)
+Tschenkowitz,3.6.,Judith,Wenceslaus,Weinlich,44 (Tochter,#124,Häusler)(Vater ist verstorben)
+Tschenkowitz,4.6.,Marianna,Bartholomäus,Schlesinger,9m19d (#28,Häusler)
+Tschenkowitz,8.6.,Marina,Caspar,Heisler,61 (vidua,#112,Häusler)
+Tschenkowitz,13.6.,Veronica,Wenceslaus,Weinlich,56 (#124,Häusler)
+Tschenkowitz,16.6.,Eleonora,Johann Wenceslaus,Feltzmann,5m10d (#101,Häusler)
+Worlitschka,22.6.,Franz Anton,Franz,Heyl,7d (#30,Häusler)
+Tschenkowitz,25.6.,Catharina,Christian,Polak,51 (vidua,#2,Inwohner)
+Neudorf,25.6.,Franz,-,Krczen#,84 (#54,Inwohner)
+Neudorf,27.6.,Juliana,Franz,Brokesch,2y2m20d (#2,Häusler)
+Tschenkowitz,1.7.,Marianna,Wenceslaus,Weinlich,56 (Tochter,#124,Häusler)
+Worlitschka,2.7.,Anna Maria,Johann,Duschek,61 (Ehefrau,#45,Häusler)
+Tschenkowitz,7.7.,Maria Elisabeth,Johann,Heisler,23d (#189#,Inwohner)
+Worlitschka,9.7.,Wenceslaus,-,Pfertner,56 (#48,Häusler)
+Tschenkowitz,17.7.,Veronica,Franz,Stoltz,97 (vidua,#161, Häusler)
+Worlitschka,19.7.,Elisabeth,Johann,Koller,45 (Tochter,#90,Inwohner)
+Worlitschka,20.7.,Heinrich,-,Schlesinger,29 (#33, Häusler)
+Tschenkowitz,23.7.,Veronica,Johann,Hoffmann,46 (vidua,#31,Bettlerin)
+Tschenkowitz,28.7.,Wenceslaus,-,Heisler,57 (#118, Häusler)
+Tschenkowitz,2.8.,Rosalia,Christian,Weinlich,55 (vidua,#133,Inwohner)
+Tschenkowitz,3.8.,Wenceslaus,-,Schüll,52 (#44,Inwohner)
+
+DP 163
+
+Worlitschka,4.8.,Johann,-,Duschek,62 (#45,Häusler)
+Worlitschka,20.8.,Anna,Franz,Schlesinger,27 (Ehefrau,#24, Häusler)
+Neudorf,24.8.,Anna Maria,Wenceslaus,Schmiedt,40 (vidua,#67,Inwohner)
+Neudorf,25.8.,Victoria,Franz Karl,Bün,11m (#69,Häusler)
+26.8.,Catharina,Amadeus,Streker,41 (vidua,#14,Häusler)
+Tschenkowitz,31.8.,Franz Karl,Johann,Fischer,5 (#83,Häusler)
+Worlitschka,31.8.,Judith,Andreas,Gabler,30 (Ehefrau, #14,Inwohner)
+Tschenkowitz,1.9.,Fabian,-,Kratky,72 (#128,Häusler)
+Neudorf,2.9.,Catharina,Paul,Kos#,70 (Ehefrau,#7,Häusler)
+Worlitschka,9.9.,Augustin,-,Chladek,56 (#101,Häusler)
+Neudorf,15#.9.,Anna,Johann,Bün,48 (vidua,#73,Häusler)
+Tschenkowitz,24.9.,Augustin,-,Weinlich,52 (#96, Häusler)
+Worlitschka,24.9.,Maria Elisabeth,Michael,Koblischke#,28 (Tochter,#17,Häusler)
+Neudorf,25.9.,Susanna,Paul,Sabler#,62 (Vidua,#8,Häusler)
+Tschenkowitz,27.9.,Anna Maria,Joseph,Heisler,11m21d (#84,Häusler)
+Tschenkowitz,28.9.,Susanna,Christoph,Feltzmann,87 (vidua,#59,Glaser/Vitiarius)
+Worlitschka,8.10.,Anna Maria,Gotthard,Blaschke,50 (Ehefrau, #51, Häusler)
+Worlitschka,12.10.,Judith,Jacob,Czernohorsky,67 (vidua,#117, Handwerker)
+Tschenkowitz,13.10.,Judith,Wenceslaus,Heisler,46 (Ehefrau,#95,Inwohner)
+Tschenkowitz,14.10.,Judith,Christian,Horaczek,42 (Ehefrau,#138,Inwohner)
+Tschenkowitz,18.10.,Joseph,Joseph,Heisler,8 (#112,Inwohner)
+Tschenkowitz,19.10.,Ferdinand,-,Bier,66 (#105,Häusler)
+Worlitschka,20.10.,Johann,-,Krögler,71 (#135, Häusler)
+Worlitschka,20.10.,Veronica,Michael,Moser#,62 (Tochter,#92,Häusler)
+Tschenkowitz,29.10.,Johann,-,Nehyba,53 (#43, Inwohner)
+
+DP 164
+
+Tschenkowitz,1.11.,Anton,Wenceslaus,Bün,15 (#42,Häusler)
+Neudorf,1.11.,Veronica,Franz,Heisler,40 (Ehefrau,#9,Häusler)
+Neudorf,1.11.,Veronica,Franz,Heisler,1y9m (Tochter,#9,Häusler)
+Neudorf,2.11.,Anna,Wenceslaus,Noschke,67 (vidua,#37,Inwohner)
+Neudorf,3.11.,Veronica,Georg,Schüll,6 (#12,Inwohner)
+Neudorf,7.11.,Judith,Georg,Schüll,35 (#12,Inwohner)
+Worlitschka,7.11.,Leopold,Anton,Czernohorsky,3y6m (#46,Häusler)
+Worlitschka,11.11.,Franz,Anton,Czernohorsky,10 (#46,Häusler)
+Worlitschka,11.11.,Johanna,Anton,Czernohorsky,9 (#46,Häusler)
+Worlitschka,13.11.,Judith,Wenceslaus,Koblischke,52 (Ehefrau,#2,Häusler)
+Neudorf,16.11.,Theresia,Anton,Chalaupka,8y8m (#25,Häusler)
+Worlitschka,19.11.,Johann Wenceslaus,Anton,Czernohorsky,11y6m (#46,Häusler)
+Tschenkowitz,20.11.,Johann,Franz,Heisler#,1y3m (#92#,Inwohner)
+Tschenkowitz,20.11.,Anna,Johann,Langhammer,71 (Ehefrau,#113,Häusler)
+Neudorf,24.11.,Joseph,Joseph,Zalmann,1y6m (#27,Inwohner)
+Tschenkowitz,27.11.,Theresia,Fabian,Kratky,2y11m (#128,Inwohner)
+Neudorf,2.12.,Johann Wenceslaus,Georg,Schüll,1y9m (#12,Inwohner)
+Neudorf,3.12.,Rosalia,Joseph,Steffan,40 (Ehefrau,#39,Häusler)
+Tschenkowitz,3.12.,Johann,Augustin,Horaczek,28 (#142,Inwohner)
+Worlitschka,3.12.,Leopold,Florian,Wagner,20d (75#,Inwohner)
+Neudorf,4.12.,Michael,Joseph,Steffan,8y6m (#39,Häusler)
+Tschenkowitz,5.12.,Rosina,Franz,Kuczera,60 (Ehefrau,#21,Inwohner)
+Worlitschka,6.12.,Genoveffa,Franz,Wagner,12d (#14,Häusler)
+Neudorf,6.12.,Anna,Anton,Ströker,48 (vidua,#2,Inwohner)(Uxor defunctis == vidua)
+Worlitschka,6.12.,Franz,-,Schlesinger,29 (#35,Häusler)
+Worlitschka,7.12.,Johann#,Friedrich#,Schlesinger,43 (#62,Inwohner) (Johann Name des Sohnes und Friedrich des Vaters oder umgekehrt? Oder zwei Namen einer Person?)
+Tschenkowitz,9.12.,Anna Maria,Paul,Fischer,44 (#48,Inwohner)
+
+DP 165
+
+Neudorf,12.12.,Wenceslaus,Joseph,Steffan,16 (#39,Häusler)
+Neudorf,12.12.,Florian,Joseph,Steffan,17y8m (#39,Häusler)
+Tschenkowitz,12.12.,Marianna,Johann Wenceslaus,Weinlich,2m18d (#99,Inwohner)
+Tschenkowitz,13.12.,Genoveffa,Wenceslaus,Schembera,1y3m26d (#149,Häusler)
+Tschenkowitz,14.12.,Elisabeth,Johann,Heyl,36 (Ehefrau,#33, Vagabund#)
+Tschenkowitz,15.12.,Johann Wenceslaus,Johann,Heyl,7 (#33, Vagabund#)
+Tschenkowitz,15.12.,Marianna,Paul,Langhammer,19# (Tochter,#13, Gärtner)
+Tschenkowitz,17.12.,Anton,Wenceslaus,Heisler,1y3m1d (#49,Inwohner)
+Tschenkowitz,17.12.,Anna Maria,Johann,Fischer,40 (#48,Inwohner)
+Neudorf,18.12.,Theresia,Joseph,Steffan,3y6m (#39,Häusler)
+Tschenkowitz,20.12.,Joseph,Fabian,Kratky,6y7m (#128,Inwohner)
+Neudorf,23.12.,Wenceslaus,-,Lyer,89 (#32,Inwohner)
+Tschenkowitz,24.12.,Susanna,Johann,Langer,54 (#86,Inwohner)
+Tschenkowitz,25.12.,Wenceslaus,-,Polak,62 (#120, Bettler)
+Tschenkowitz,25.12.,Johann,Wenceslaus,Langhammer,8m28d (#2,Handwerker)
+Tschenkowitz,26.12.,Marianna,Joseph,Schlesinger,4 (#128,Häusler)
+Worlitschka,30.12.,Franz,Leopold,Bartusch,8 (#98,Müller)
+Worlitschka,18#.12.,Gotthard,Heinrich,Schlesinger,2d (#11,Richter von Worlitschka)
+Worlitschka,18.12.,Theresia,Heinrich,Schlesinger,2d (#11,Richter von Worlitschka)(offensichtlich sind hier Zwillinge verstorben)
+
+1773
+
+Tschenkowitz,2.1.,Johann Wenceslaus,Wenceslaus,Egydi,3 (#152,Inwohner)
+Worlitschka,4.1.,Andreas,-,Neugebauer,80 (#29,Häusler)
+Tschenkowitz,7.1.,Johann Georg,Johann Georg,Krögler,9d (#93,Häusler)
+Tschenkowitz,7.1.,Johann,Johann Wenceslaus,Feltzmann,2y1m10d (#101,Inwohner)
+Neudorf,9.1.,Judith,Michael,Feltzmann,50 (vidua,#62,Inwohner)
+Worlitschka,14.1.,Johanna,Franz,Krögler,3y6m (#73,Häusler)
+Worlitschka,15.1.,Theresia,Anton,Krögler,24 (Ehefrau,#7,Schuhmacher)
+Tschenkowitz,17.1.,Ignatz,Wenceslaus,Langhammer,1y8m27d (#158,Weber)
+Tschenkowitz,20.1.,Genoveffa,Franz,Brix,1y2m2d (#26,Häusler)
+Tschenkowitz,21.1.,Theresia,Wenceslaus,Schmid,3 (#67,Inwohner von Neudorf,der Vater war verstorben)
+
+DP 166
+
+Worlitschka,22.1.,Anna Maria,Johann,Schlesinger,45# (#100,Häusler)
+Tschenkowitz,29.1.,Veronica,Andreas,Krögler,42 (vidua,#8,Inwohner)
+Tschenkowitz,2.2.,Johann,Mathias,Müller,7m18d (#127,Inwohner)
+Tschenkowitz,6.2.,Genoveffa,Johann Wenceslaus,Langhammer,1y11m16d (#4,Häusler)
+Tschenkowitz,9.2.,Johann Wenceslaus,Wenceslaus,Stör,2y1m14d (#39,Inwohner)
+Tschenkowitz,10.2.,Anna Maria,Franz,Schlesinger,2y6m (#58,Inwohner)
+Tschenkowitz,11.2.,Joseph,Wenceslaus,Langhammer,7 (#158,Häusler)
+Neudorf,11.2.,Anna Maria,Georg,Pfertner,57 (#62,Inwohner)
+Worlitschka,12.2.,Franz Anton,Wenceslaus,Neugebauer,3 (#27,Häusler)
+Tschenkowitz,20.2.,Anna Maria,Johann,Egydi,70 (vidua,#107,Inwohner)
+Tschenkowitz,20.2.,Theresia,Wenceslaus,Langhammer,3y9m17d (#158,Häusler)
+Neudorf,21.2.,Paul,-,Kos,82 (#7,Inwohner)
+Tschenkowitz,26.2.,Michael,-,Hentzl,66 (#164,Inwohner)
+Tschenkowitz,27.2.,Judith,Augustin,Polak,32 (Tochter,#134,Inwohner)
+Worlitschka,28.2.,Catharina,Paul,Heisler,60 (#14,Häusler)
+Tschenkowitz,2.3.,Theresia,Johann Wenceslaus,Schüll,10m (#166,Inwohner)
+Worlitschka,4.3.,Elisabeth,Karl,Czernohorsky,2 (#137,Häusler)
+Tschenkowitz,6.3.,Anna Maria,Fabian,Kratky,8 (#128,Inwohner)
+Tschenkowitz,6.3.,Theresia,Johann Wenceslaus,Langhammer,4y1m (#74,Inwohner)
+Worlitschka,6.3.,Gotthard,-,Blaschke,68 (#37,Inwohner)
+Tschenkowitz,7.3.,Elisabeth,Franz,Weinlich,42 (vidua,#134,Inwohner)
+Worlitschka,13.3.,Franz,Anton,Duschke,7y11m (#52,Inwohner)
+Worlitschka,14.3.,Anton,-,Duschke,50 (#52,Inwohner)
+
+DP 167
+
+Tschenkowitz,17.3.,Maria Elisabeth,Karl,Langhammer,22 (Ehefrau,#13,Häusler)
+Tschenkowitz,18.3.,Franz Joseph,Johann,Egydi,1d (#88,Häusler)
+Tschenkowitz,28.3.,Franz Karl,Karl,Langhammer,1m5d (#13,Häusler)
+Neudorf,2.4.,Anton,Johann,Pfertner,13 (#62,Inwohner)
+Tschenkowitz,5.4.,Joseph,-,Weinlich,42 (#121,Inwohner)
+Tschenkowitz,6.4.,Judith,Paul,Heisler,95 (vidua,#33,Inwohner)
+Worlitschka,8.4.,Ludmilla,Gotthard,Heisler,5m28d (#31,Häusler)
+Worlitschka,12.4.,Augustin,-,Wagner,80 (#99,Inwohner)
+Worlitschka,13.4.,Maria,Anton,Czernohorsky,9d (#117,Faber)
+Tschenkowitz,18.4.,Franz,Joseph,Weinlich,9 (#121,Inwohner)
+Tschenkowitz,28.4.,Anna Maria,Franz,Weinlich,60 (vidua,#110,Inwohner)
+Tschenkowitz,1.5.,Theresia,Joseph,Weinlich,9 (#121,Inwohner)
+Tschenkowitz,4.5.,Rosalia,Joseph,Kratky,1y7m (#147,Häusler)
+Worlitschka,14.5.,Catharina,Anton,Krögler,70 (Ehefrau,#7,Inwohner)
+Worlitschka,16.5.,Wenceslaus,-,Heyl,72 (#138,Inwohner)
+Worlitschka,17.5.,Anna Maria,Wenceslaus,Heyl,79 (Ehefrau,#138,Inwohner)
+Neudorf,18.5.,Johann,-,Victorin,82 (#18,Häusler)
+Neudorf,28.5.,Elisabeth,Johann,Schüke,60 (vidua,#60,Inwohner)
+Tschenkowitz,13.6.,Juliana,Johann,Wenceslaus,8m (#11,Häusler)
+Tschenkowitz,16.6.,Franz Karl,Anton,Krögler,11d (#70,Negotiatoris/Händler)
+Tschenkowitz,16.6.,Johann,-,Sonntag,58 (#40,Häusler)
+Tschenkowitz,17.6.,Peregrin,Paul,Meister,8d (#22,Häusler)
+
+DP 168
+
+Worlitschka,19.6.,Leopold,Andreas,Krögler,2y2m (#50,Häusler)
+Tschenkowitz,24.6.,Elisabeth,Johann,Hartl,1y4m (#98,Lanconis#)
+Neudorf,24.6.,Dorothea,Franz,Krczen,72 (#71,Bettler)
+Neudorf,25.6.,Paul,-,Koller,22 (#59,Häusler)
+Tschenkowitz,4.7.,Marianna,Gotthard,Egidy,13y9m (#6,Häusler)
+Tschenkowitz,7.7.,Anna Maria,Franz,Czernohorsky,9m26d (#63,Inwohner)
+Tschenkowitz,8.7.,Anna Maria,Johann,Nehyba,16 (Tochter,#16,Inwohner)
+Neudorf,9.7.,Anna,Tobias,Kulhanek,28 (Tochter,#14,aus Oberhermanitz)
+Tschenkowitz,14.7.,Johann Wenceslaus,-,Kobliczek,49 (#95,Häusler)
+Worlitschka,21.7.,Benedict,Anton,Krögler,11m14d (#7,Schuhmacher)
+Neudorf,22.7.,Apollonia,Ludwig,Weinlich,5m (#14,Inwohner)
+Tschenkowitz,29.7.,Sibilla,Johann,Blaczek,72 (vidua,#95,Bettlerin#)
+Worlitschka,30.7.,Marianna,Anton,Köller,1y2m (#110,Häusler)
+Tschenkowitz,10.8.,Johann Wenceslaus,Mathias,Schlesinger,7# (#20,Inwohner)
+Tschenkowitz,14.8.,Gottlieb,Mathias,Schlesinger,4 (#20,Inwohner)
+Worlitschka,26.8.,Gotthard,Schlesinger,61 (#1,Häusler)
+Worlitschka,10.9.,Theresia,Anton,Gabler,8d (#44,Häusler)
+Tschenkowitz,24.9.,Gotthard,Johann,Czernohorsky,17 (#63,Häusler)
+Tschenkowitz,13.10.,Johann,Johann,Heisler,4y5m (#50,Inwohner)
+Worlitschka,15.10.,Simon Thaddeus,Heinrich,Koller,18d (#90,Häusler)
+Worlitschka,29.10.,Gottfried,Gottfried,Schlesinger,4 (#132,Häusler)
+
+DP 169
+
+Worlitschka,18.12.,Anna Maria,Wenceslaus,Daubrava,2y7m23d (#133,Inwohner)
+Worlitschka,23.12.,Rosalia,Johann,Chladek,31 (Tochter,#100,Häusler)(Vater war verstorben)
+Worlitschka,26.12.,Peregrin,Florian,Wagner,14y2m (#119,Arculary/Tischler)
+
+1774
+
+Tschenkowitz,1.1.,Peregrin,Johann Wenceslaus,Feltzmann,1m14d (#78, hortul./Gärtner)
+Worlitschka,4.1.,Rosalia,Franz,Schlesinger,3y11m (#92#, Häusler#)
+Neudorf,6.1.,Judith,Johann,Zaubele,55 (Ehefrau,#19,Häusler)
+Worlitschka,6.1.,Joseph,Joseph,Schlesinger,11# (#106#,Inwohner)
+Worlitschka,10.1.,Johanna,Anton,Schlesinger,6d (#107,Gärtner)
+Worlitschka,19.1.,Franz Joseph,Gottfried,Schlesinger,1y10m7d (#132,Häusler)
+Worlitschka,24.1.,Franz Joseph,Wenceslaus,Schlesinger,26d (#17,Häusler)
+Worlitschka,26.1.,Franz Anton,Franz,Wagner,9d (#14,Häusler)
+Tschenkowitz,30.1.,Johann Georg,-,Matig,64 (#134,Inwohner von Tschenkowitz, aus Herautz)
+Tschenkowitz,1.2.,Joseph,-,Fischer,51 (-,Inwohner)
+Tschenkowitz,11.2.,Rosina,Johann,Weinlich,64 (vidua,#127,Müller)
+Tschenkowitz,14.2.,Judith,Johann,Stoltz,76 (Tochter,#155,Inwohner) (Tochter und 76 Jahre == unverheiratete alte Frau?)
+Worlitschka,9.3.,Susanna,Johann,Koller,72 (Tochter,#139,Bettlerin) (Tochter und 72 Jahre == unverheiratete alte Frau?)
+Tschenkowitz,10.3.,Johann,-,Hartl,46 (#95, Fleischer)
+Worlitschka,11.3.,Genoveffa,Johann Wenceslaus,Heisler,14d (#74,Häusler)
+Worlitschka,14.3.,Heinrich,-,Schlesinger,40 (#11,Richter von Worlitschka)
+Worlitschka,17.3.,Veronica,-,Heisler,76 (vidua,#21,Inwohnerin) (Name des Ehemanns nicht genannt)
+Worlitschka,21.3.,Franz Joseph,Johann,CZastek#,14d (#109,Häusler)
+Tschenkowitz,25.3.,Franz Anton,Franz,Langhammer,11m25d (#97,Häusler)
+
+DP 170
+
+Tschenkowitz,1.4.,Johann,-,Weinlich,59# (#139, Inwohner)
+Worlitschka,3.4.,Liborius,Gotthard,Schlesinger,1m22d (#1,Häusler)
+Tschenkowitz,7.4.,Johann Wenceslaus,Johann Wenceslaus,Wottawa,2y10m (#64,Häusler)
+Worlitschka,8.4.,Johann Georg,Johann Georg,Schlesinger,1y9m28d (#32,Inwohner)
+Worlitschka,11.4.,Juliana,Gottfried,Heisler,2y7m (#122,Häusler)
+Worlitschka,11.4.,Anna Catharina,Anton,Wagner,20d (#99,Häusler)
+Worlitschka,12.4.,Juliana,Karl,Czernohorsky,2d (#66,Häusler)
+Tschenkowitz,12.4.,Eleonora,Ambrosius#,Heisler,2m17d (#115,Inwohner)
+Tschenkowitz,19.4.,Franz Karl,Philipp,Langer,3m23d (#111,Häusler)
+Tschenkowitz,30.4.,Elisabeth,Michael,Heisler,78# (Ehefrau,#150,Häusler)
+Tschenkowitz,6.5.,Anna Maria,Johann,Wondra,53 (Tochter,#88,Bettler)
+Tschenkowitz,10.5.,Joseph,-,Czernohorshy,49 (#62, Inwohner/Bettler)
+Tschenkowitz,11.5.,Johann,-,Fischer,71 (#83,Häusler)
+Tschenkowitz,17.5.,Johann Wenceslaus,Johann Georg,Krögler,11#d (#93,Häusler)
+Worlitschka,22.5.,Catharina,Franz,Krögler,68 (vidua,#94,Häusler)
+Worlitschka,22.5.,Gotthard,Gotthard,Dittrich,5d (#135,Häusler)
+Tschenkowiwtz,26.5.,Franz Karl,Franz,Heisler,1m8d (#157,Inwohner)
+Tschenkowitz,16.6.,Johann Wenceslaus,Joseph,Zeidlmann,6m18d (#142,Häusler)
+Tschenkowitz,21.6.,Anton,Anton,Weinlich,7d (#109,Häusler)
+Worlitschka,25.6.,Elisabeth,Wenceslaus,Daubrava,27 (Ehefrau,#133,Häusler)
+Worlitschka,24.7.,Benedict,Anton,Krögler,2m3d (#7,Schuhmacher)
+Worlitschka,1.9.,Leopold,Andreas,Gritzbauch,5m8d (#77,Häusler)(Tschenkowitz durchgestrichen, Worlitschka hingeschrieben)
+Tschenkowitz,7.9.,Franz und Anna,Martin,Seidlmann,12d (#145)(aus Hamaczek)
+
+DP 171
+
+Neudorf,7.9.,Franz Joseph,Joseph,Polak,3m18d (#11#,Häusler)
+Worlitschka,7.10.,Judith,Gotthard,Schlesinger,25 (Ehefrau,#62,Häusler)
+Tschenkowitz,20.10.,Heinrich,-,Wagner,51 (#161,Häusler)
+Worlitschka,8.11.,Eleonora,Andreas,Krögler,2m1d (#50,Häusler)
+Worlitschka,8.11.,Judith,Michael,Schlesinger,86 (#83,Häusler)
+Neudorf,9.11.,Peregrin,Thomas,Zaubele,1y3m18d (#17,Häusler)
+Tschenkowitz,9.11.,Dorothea,Wenceslaus,Koblischke,70 (#36,Häusler)
+Tschenkowitz,12.11.,Franz Anton,Anton,Krögler,5y9m (#75,Häusler)
+Tschenkowitz,11.12.,Johann,-,Langhammer,84 (#113,Inwohner)
+
+1775
+
+Tschenkowitz,7.1.,Juliana,Wenceslaus,Heisler,28d (#102,Inwohner)
+Worlitschka,13.1.,Peregrin,Johann Wenceslaus,Krögler,1d (#92,Häusler)
+Worlitschka,15.1.,Heinrich,-,Schlesinger,75 (#61,Häusler)
+Tschenkowitz,16.1.,Ignatz,Johann Wenceslaus,Heisler,3m20d (#132,Inwohner)
+Tschenkowitz,31.1.,Caspar,-,Feltzmann,79 (#38,Häusler)
+Tschenkowitz,1.2.,Ferdinand,Ferdinand,Koblischke,4y3m (#120,Häusler)
+Tschenkowitz,18.2.,Maria,Johann,Weinlich,80 (Ehefrau,#116,Inwohner)
+Worlitschka,21.2.,Franz Joseph,Joseph,Weinlich,23d (#105,Inwohner)
+Tschenkowitz,27.2.,Veronica,Georg,Nentvich,79 (vidua,#19,Häusler)
+Neudorf,9.3.,Franz Anton,Wenceslaus,Roczen,2m24d (#33,Inwohner)
+Worlitschka,23.3.,Leopold,Franz,Heisler,3m7d (#42,Häusler)
+Tschenkowitz,27.3.,Elisabeth,Anton,Weinlich,64 (vidua,#125,Inwohner)
+Tschenkowitz,31.3.,Anna,Wenceslaus,Ruprecht#,60 (Ehefrau,#159,Beruf #)(telonary möglicherweise Telonarius == Zöllner???)
+
+DP 172
+
+Tschenkowitz,11.4.,Genoveffa,Joseph,Heisler,5y10m (#44,Häusler)
+Worlitschka,14.4.,Johann Wenceslaus,Johann Wenceslaus,Wagner,2m16d (#52,Häusler)
+Tschenkowitz,19.4.,Maria Elisabeth,Johann,Kaschka,1y6m (#123,Häusler)
+Worlitschka,21.4.,Johann Wenceslaus,Wenceslaus,Schlesinger,8 (#71#,Häusler)
+Tschenkowitz,28.4.,Johann Wenceslaus,Georg,Schüll,8m13d (#112,Häusler)
+Worlitschka,5.5.,Juliana,Joseph,Schlesinger,6m16d (#106,Inwohner)
+Worlitschka,8.5.,Elisabeth,Anton,Heyl,4y3m (#69,Inwohner)
+Worlitschka,15.5.,Gottfried,-,Heisler,50 (#122,Häusler)
+Tschenkowitz,17.5.,Johann Wenceslaus,Anton,Feltzmann,5m22d (#100,Häusler)
+Hermanitz,20.5.,Vitus,-,Bechaczek,50 (#40,Bettler)
+Worlitschka,22.5.,Juliana,Anton,Chladek,3y6m (#100,Häusler)
+Worlitschka,22.5.,Johann Heinrich,Heinrich,Koller,15d (#90,Häusler)
+Tschenkowitz,23.5.,Johann,Wenceslaus,Waschiczek,9m (#110,Inwohner)
+Worlitschka,29.5.,Johann Thaddeus,Andreas,Winlich,2y12d (#82,Häusler)
+Tschenkowitz,30.5.,Catharina,Wenceslaus,Schembera,1y8m (#149,Häusler)
+Tschenkowitz,3.6.,Franz Anton,Mathias,Müller,1y4m24d (#127,Müller)
+Neudorf,4.6.,Elisabeth,Caspar,Büm,30 (Tochter,#52,Inwohner)
+Worlitschka,7.6.,Florian,Wenceslaus,Chladek,17 (#105,Häusler)(Vater ist bereits verstorben)
+Worlitschka,16.7.,Franz Xaver,Leopold,Weinlich,4m9d (#103,Müller)
+Worlitschka,25.8.,Anna Maria,Heinrich,Wagner,24 (Tochter,#119,Arcularius/Tischler)
+Worlitschka,27.8.,Leopold,Anton,Krögler,5m20d (#9,Inwohner)
+Tschenkowitz,28.8.,Genoveffa,Veronica,-,7m22d (#97)(Veronica ist Tochter des Inwohners Wenceslaus Michalek aus Tschenkowitz)
+Tschenkowitz,3.9.,Anton,Johann Georg,Krögler,21d (#93,Häusler)
+Tschenkowitz,10.9.,Johanna,Johann Wenceslaus,Feltzmann,1y2m17d (#101,Häusler)
+
+DP 173
+
+Tschenkowitz,11.9.,Juliana,Johann Wenceslaus,Bier,2m23d (#11#,Inwohner)
+Tschenkowitz,13.9.,Theresia,Paul,Charvat,13y6m (#89,Häusler)
+Worlitschka,13.9.,Franz Anton,Andreas,Feltzmann,12d (#65,Inwohner)
+Tschenkowitz,17.9.,Veronica,Johann Wenceslaus,Langhammer,1y7m25d (#4,Häusler)
+Tschenkowitz,19.9.,Franz Joseph,Johann,Krögler,8 (#86,Häusler)
+Worlitschka,26.9.,Peregrin,Wenceslaus,Chladek,10 (#90#,Inwohner) (#30 oder #90?)
+Worlitschka,1.10.,Victoria,Johann Georg,Schlesinger,5m4d (#32,Inwohner)
+Worlitschka,3.10.,Elisabeth,Johann Georg,Schlesinger,35 (#32,Inwohner)
+Worlitschka,4.10.,Elisabeth,Johann,Mosner#,75 (vidua,#17,Inwohner)
+Worlitschka,11.10.,Theresia,Franz,Krögler,4y6m (#73,Häusler)
+Tschenkowitz,13.10.,Franz Anton,Joseph,Zeidlmann,5m18d (#142,Häusler)
+Worlitschka,15.10.,Anna Maria,Gottfried,Schlesinger,50 (vidua,#64,Inwohner)
+Worlitschka,19.10.,Judith Rosalia,Anton,Katik#,1y2m5d (#65,Inwohner)
+Worlitschka,22.10.,Leopold,Gottfried,Schlesinger,6m22d (#132,Häusler)
+Worlitschka,26.10.,Franz Joseph,Leopold,Bartusch,2m12d (#98,Müller)
+Tschenkowitz,3.11.,Joseph,Wenceslaus,Langhammer,1m18d (#158,#) (Beruf schwer lesbar)
+Worlitschka,8.11.,Genoveffa,Franz Joseph,Schlesinger,11m (#118,Häusler)
+Worlitschka,11.11.,Gotthard,Franz Joseph,Schlesinger,3 (#118,Häusler)
+Worlitschka,13.11.,Theresia,Franz Joseph,Schlesinger,5 (#118,Häusler)
+Tschenkowitz,1.12.,Rosina,Amadeus,Nentvich,70 (Ehefrau,#33,Schuhmacher)
+Worlitschka,7.12.,Judith,Florian,Ströker,40 (Ehefrau,#38,Inwohner)
+
+1776
+
+Tschenkowitz,6.1.,Apollonia,Georg,Krögler,81 (vidua,#93,Häusler)
+Neudorf,8.1.,Marina#,-,-,68 (#64)(aus Weypersdorf, Nachname unbekannt, Maria oder Marina?)
+Worlitschka,9.1.,Gotthard,Wenceslaus,Langhammer,30 (#80,Häusler)
+Worlitschka,20.1.,Judith,Johann Georg,Schlesinger,60 (#32,Inwohner)
+Tschenkowitz,23.1.,Peregrin,Johann Wenceslaus,Heisler,2d (#132,Inwohner)
+Worlitschka,26.1.,Elisabeth,Anton,Heisler#,65 (vidua,#42,Häusler)
+Worlitschka,28.1.,Juliana,Anton,Krögler,8d (#56,Häusler)
+Worlitschka,29.1.,Franz Anton,Anton,Schlesinger,- (#107,Häusler)
+
+DP 174
+
+Neudorf,6.2.,Judith,Christian,Hanisch,60 (vidua,#8,Häusler)
+Tschenkowitz,8.2.,Theresia,Wenceslaus,Langhammer,4d (#4,Häusler)
+Worlitschka,13.2.,Gotthard,Anton,Krögler,9m (#6,Häusler)
+Tschenkowitz,18.2.,Rosalia,Joseph,Zeidlmann,20 (Tochter,#144,Häusler)
+Neudorf,28.2.,Liborius,Amadeus,Bock,3y7m5d (#49,Schuhmacher)
+Tschenkowitz,3.3.,Juliana,Franz,Brix,9d (#26,Häusler)
+Tschenkowitz,4.3.,Catharina,Franz,Koblischke,46 (Ehefrau,#129,Häusler)
+Neudorf,12.3.,Thaddäus,Ferdinand,Bok,11d (#1,Schuhmacher)
+Tschenkowitz,17.3.,Theresia,Joseph,Horaczek,30 (Ehefrau,#138,Inwohner)
+Tschenkowitz,18.3.,Veronica,Paul,Heisler,42 (Ehefrau,#9,Häusler)
+Tschenkowitz,21.3.,Johann,Johann,Kaschka,13d (#123,Häusler)
+Tschenkowitz,22.3.,Genoveffa,Wenceslaus,Egydi,13d (#103,Inwohner)
+Neudorf,7.4.,Anna Maria,Ferdinand,Koriger#,5y11m (#5,Häusler)
+Tschenkowitz,20.4.,Gotthard,-,Brix,46 (#27,Häusler)
+Neudorf,15.5.,Maria Anna,Johann,Schüll,7 (#55,Beruf nicht lesbar)
+Tschenkowitz,16.5.,Joseph,Anton,Krehl,21 (#93,Weber)(Anton Krehl aus Grulich)
+Tschenkowitz,16.5.,Franz,Amadeus,Langhammer,1m7d (#7,Inwohner)
+Worlitschka,18.5.,Magdalena,Augustin,Polak,78 (Ehefrau,#138,Inwohner)
+Tschenkowitz,19.5.,Veronica,Joseph,Czernohorsky,11# (#36,Inwohner)
+Tschenkowitz,25.5.,Veronica,Johann,Hentzl#,60 (vidua,#89,Inwohner)
+Tschenkowitz,1.6.,Johann,Johann,Feltzmann,9m (#101,Häusler)
+Neudorf,11.6.,Marianna,Thomas,Zobele#,2m14d (#17,Häusler)
+Tschenkowitz,17.6.,Theresia,-,-,1m2d (#116)(Vater und Mutter unbekannt, unehelich)
+Worlitschka,25.6.,Elisabeth,Franz,Krögler,76 (vidua,#73,Häusler)
+Neudorf,3.7.,Joseph,Wenceslaus,Sottler#,2m (#13,Häusler)
+
+DP 175
+
+Neudorf,5.7.,Anna Josepha,Florian,Bün,1y5m (#71,Häusler)
+Tschenkowitz,7.7.,Marianna,-,-,1y6m (#99) U:unehelich von Elisabeth Bien# aus Tschenkowitz
+Worlitschka,8.7.,Genoveffa,Wenceslaus,Schlesinger,3 (#61,Häusler)
+Worlitschka,9.7.,Juliana,Heinrich,Wagner,5 (#60,Häusler)
+Worlitschka,11.7.,Franz,Anton,Schlesinger,9m (#41,Inwohner)
+Tschenkowitz,13.7.,Franz,Anton,Krögler,1y6m (#75,Häusler)
+Tschenkowitz,16.7.,Juliana,Franz,Czernohorsky,1y6m (#74,Häusler)
+Tschenkowitz,19.7.,Franz,Amadeus,Nentvich,1 (#7,Inwohner)
+Neudorf,19.7.,Theresia,Joseph,Schmid,5 (#40,Häusler)
+Tschenkowitz,20.7.,Anton,Anton,Hensel,10m (#169#,Häusler)
+Worlitschka,25.7.,Anton,Gotthard,Krögler,9m (#134#,Häusler)
+Worlitschka,27.7.,Franz Joseph,Wenceslaus,Schlesinger,4m14d (#71,Häusler)
+Tschenkowitz,29.7.,Johann,Wenceslaus,Schüll,1y5m (#166,Häusler)
+Worlitschka,2.8.,Anna Maria,Wenceslaus,Pfertner,60 (vidua,#48,Häusler)
+Tschenkowitz,2.8.,Juliana,Johann,Feltzmann,3y5m12d (#101,Häusler)
+Tschenkowitz,5.8.,Marianna,Franz,Langhammer,3y7m (#115,Inwohner)
+Neudorf,8.8.,Judith,Johann,Hauenschild,48 (#28,Häusler)(nicht genannt ob Tochter, Ehefrau oder Witwe)
+Tschenkowitz,9.8.,Johann,Wenceslaus,Schembera,8m14d (#149,Häusler)
+Worlitschka,10.8.,Leopold,Leopold,Weinlich,5 (#103#,Müller)
+Worlitschka,12.8.,Johann,Anton,Krögler,1y3m (#7,Häusler)
+Tschenkowitz,13.8.,Mathias,Mathias,Müller,6y9m (#127,Müller)
+Tschenkowitz,13.8.,Johann Wenceslaus,Johann Wenceslaus,Weinlich,1y6m (#157,Häusler)
+Tschenkowitz,14.8.,Franz,Johann,Häusler,1y6m (#116,Inwohner)
+Tschenkowitz,16.8.,Elisabeth,Franz,Heisler,5m7d (#20,Häusler)
+Tschenkowitz,17.8.,Rosalia,Joseph,Heisler,3 (#84,Inwohner)
+Tschenkowitz,17.8.,Theresia,Philipp#,Langhammer,1y6m (#111,Häusler)
+Tschenkowitz,17.8.,Johann Wenceslaus,Franz,Brix,2y2m (#26,Häusler)
+Tschenkowitz,18.8.,Joseph,Franz,Heisler,2y3m (#20,Häusler)
+Tschenkowitz,19.8.,Franz Karl,Paul,Karbath#,4y7m (#90,Häusler)
+Tschenkowitz,21.8.,Maria Elisabeth,Caspar,Weinlich,2y4m (#132#,Häusler)
+Tschenkowitz,21.8.,Franz,Ferdinand,Kobliczke,2y6m (#120#,Häusler)
+
+DP 176
+
+Tschenkowitz,24.8.,Johann,Franz,Weinlich,2y6m (#91,Häusler)
+Worlitschka,27.8.,Elisabeth,Anton,Czernohorsky,9m (#117,Häusler)
+Tschenkowitz,29.8.,Catharina,Wenceslaus,Procop,1y10m (#119,Häusler)
+Worlitschka,31.8.,Johann,Johann,Spiczak,8m (#136,Inwohner)
+Worlitschka,1.9.,Johann,Franz,Weinlich,11#m (#93,Inwohner)
+Tschenkowitz,1.9.,Anna Maria,Franz,Czernohorsky,9m (#74,Häusler)
+Worlitschka,2.9.,Anna,Anton,Chladek,8m (#100,Häusler)
+Tschenkowitz,5.9.,Paul,-,Heisler,70 (#8,Inwohner)
+Tschenkowitz,8.9.,Maria Anna,Wenceslaus,Koblischke,3 (#133,Häusler)
+Worlitschka,11.9.,Johann,Anton,Köller,7d (#110,Häusler)
+WOrlitschka,12.9.,Elias,Anton,Weinlich,2y10m (#87,Häusler)
+Neudorf,24.9.,Joseph,Franz,Kubesch,14d (#30,Müller)
+Tschenkowitz,1.10.,Paul,Martin,Seidlmann,4y9m (#145,Häusler)
+Neudorf,24.10.,Johann Wenceslaus,Johann,Victorin,12 (#53,Häusler)
+Worlitschka,12.11.,Marianna,Johann,Polak,3y2m (#36#,Inwohner)
+Tschenkowitz,8.12.,Ferdinand,-,Bier,73# (#96,Inwohner)
+Tschenkowitz,19.12.,Anna Maria,Wenceslaus,Weinlich,62 (Ehefrau,#134,Häusler)
+
+1777
+
+Worlitschka,5.1.,Wenceslaus,-,Schlesinger,60 (#35,Inwohner)
+Worlitschka,6.1.,Paul,-,Heisler,70 (#14,Inwohner)
+Worlitschka,15.1.,Johann,-,Kholer,80 (#90,Inwohner)
+Worlitschka,18.1.,Johanna,Franz,Müller,1y3m (#113,Häusler)
+Worlitschka,19.2.,Wenceslaus,-,Müller,82 (#70,Inwohner)
+Worlitschka,20.2.,Theresia,Joseph,Seidlmann,1m3d (#142,Häusler)
+Worlitschka,27.2.,Franz,-,Pfertner,60 (#64,Häusler)
+Worlitschka,14#.3.,Elisabeth,Augustin,Polak,60 (Tochter,#159,Inwohner)(60 Jahre und "Tochter" -> unverheiratete alte Frau???)
+Worlitschka,6.4.,Leopold,Franz,Krögler,7m21d (#95#,Häusler)
+Tschenkowitz,7.4.,Anton,Johann,Heisler,9d (#23,Inwohner)
+
+DP 177
+
+Neudorf,8.4.,Anna Maria,Franz,Schmid,24 (Ehefrau,#48,Häusler)
+Worlitschka,13.4.,Anton,-,Krögler,72 (#134,Inwohner)
+Tschenkowitz,26.4.,Leopold,Karl,Heisler,2y1m1d (#9,Häusler)
+Worlitschka,29.4.,Juliana,Anton,Wagner,1y3m (#55#,Häusler)
+Tschenkowitz,1.5.,Johann Joseph,Joseph,Steiner,1#d (#154,Häusler)
+Tschenkowitz,2.5.,Catharina,Andreas,Langer,5y8m (#117#,Häusler)
+Tschenkowitz,6.5.,Peregrin,Anton,Krögler,23d (#75,Häusler)
+Tschenkowitz,12.5.,Anna Barbara,Ferdinand,Bier,4m12d (#96,Inwohner)
+Tschenkowitz,16.5.,Christian,-,Wottawa,64 (#65,Häusler)
+Tschenkowitz,18.5.,Franz Karl,Wenceslaus,Procop,1m17#d (#119,Häusler)
+Worlitschka,26.5.,Anna,Georg,Schlesinger,61 (Ehefrau,#29,Inwohner)
+Worlitschka,2.6.,Paul,-,Polak,73 (#96,Inwohner)
+Tschenkowitz,1.7.,Johann Wenceslaus,Wenceslaus,Stoltz,1d (#155,Häusler)
+Neudorf,20.7.,Maria Anna,Franz Karl,Schmid,3m2d (#48,Häusler)
+Tschenkowitz,9.8.,Paulina,Caspar,Feltzmann,60 (#60,Häusler)
+Tschenkowitz,18.8.,Rosalia,Amadeus,Nentvich,1y2#m (#19,Häusler)
+Tschenkowitz,21.8.,Catharina,Wenceslaus,Koblischke,7m6d (#133,Häusler)
+Tschenkowitz,1.9.,Theresia,Joseph,Horaczek,7d (#138,Häusler)
+Tschenkowitz,3.9.,Theresia,Augustin,Langhammer,8d (#108,Häusler)
+Worlitschka,6.9.,Johann Heinrich,Anton,Gabler,14d (#44,Häusler)
+Tschenkowitz,28.9.,Anton,Anton,Sonntag,14d (#45,Inwohner)
+Tschenkowitz,29.9.,Anton,Anton,Weinlich,8d (#109,Inwohner)
+Worlitschka,30.9.,Elisabeth,Andreas,Neugebauer,26 (Tochter,#53,Häusler)
+Tschenkowitz,10.10.,Anna Maria,Karl,Langhammer,1m (#30,Häusler)
+Tschenkowitz,30.10.,Elisabeth,Paul,Kharbath#,40 (Ehefrau,#89,Häusler)
+Worlitschka,3.11.,Johanna,Gotthard,Schlesinger,11d (#1,Häusler)
+Tschenkowitz,10.11.,Veronica,Caspar,Feltzmann,56 (vidua,#22,Inwohner)
+
+DP 178
+
+Worlitschka,13.12.,Elisabeth,Franz,Schlesinger,17d (#117#,Inwohner)
+Neudorf,30.12.,Anton,Johann,Schüll,1 (#55,Häusler)
