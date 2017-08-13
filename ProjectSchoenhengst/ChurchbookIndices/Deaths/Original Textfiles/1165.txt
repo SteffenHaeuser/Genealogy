@@ -1,0 +1,1392 @@
+Sterbe
+Böhmen
+Tschechien
+Kirchenmatrik r.k
+Worlitschka
+Orlicky
+rk
+1812-1866
+
+
+DP 1
+
+1812
+
+4.2.,Theresia,Benedikt,Weinlich,3m1d (#108,Beruf #gerber)
+#,19.2.,Josepha,-,-,11d (#8)(Ort schwer lesbar, Schmeil, möglicherweise?) U: Kind von Veronika Nowak 
+23.2.,Viktoria,Fabian,Koblischke,8m22d (#156,Beruf Häusler)
+24.2.,Josepha,-,-,2 (#160)(Juliana war Inwohnerin) U: Kind von Juliana Schlesinger
+6.3.,Florian,Benedikt,H#l,24d (#45,Beruf Häusler)
+8.3.,Andreas,-,Feltzmann,88 (#81,Beruf Inwohner)
+18.4.,Anton,-,-,8d (#133)(Marianna war Inwohnerin) U: Kind von Marianna Kern
+3.5.,Josepha,Gotthard,S#mann,5y5m (#62,Beruf Feldgärtner#)
+20.5.,Gottlieb,Franz,Polak,3d (#135,Beruf Glaser)
+8.6.,Johann,Joseph,Krögler,7m (#33,Beruf Häusler)
+24.6.,Aloys,Franz,Schlesinger,6d (#172,Beruf Häusler)
+29.6.,Paulina,Benedikt,Weinlich,2y6m4d (#108,Beruf #gerber)
+
+DP 3
+
+Worlitschka,9.7.,Johann,Philipp,Wagner,4y3m10d (#99,Beruf Häusler)
+Worlitschka,17.7.,Cäcilia,Franz,Schlesinger,1.5 (#96,Beruf Häusler)
+Worlitschka,18.7.,Genoveffa,Philipp,Wagner,1y4m19d (#99,Beruf Häusler)
+Worlitschka,20.7.,Fabian,-,Koblischke,65 (#156,Beruf Häusler)
+Jamnay,24.7.,Vinzenz,Joseph,S#yskal,5y1m5d (#24,Beruf Feldgärtner)
+Worlitschka,2.8.,Josepha,Franz,Schlesinger,5y4m6d (#96,Beruf Häusler)
+Worlitschka,4.8.,Johann,Johann,P#tner,4y6m (#64,Beruf Schuhmacher)
+Worlitschka,5.8.,Viktoria,Leopold,Schlesinger,10y4m6d (#146,Beruf Häusler)
+Worlitschka,7.8.,Gotthard,-,Chladek,50 (#8,Beruf Häusler)
+Worlitschka,11.8.,Gotthard,Leopold,Schlesinger,9d (#35,Beruf Häusler)
+Worlitschka,21.11.,Apollonia,Andreas,Feltzmann,62 (Witwe,#81,Beruf Inwohner)
+Worlitschka,28.11.,Benedikt,Georg,Sedeyk#,- (#80,Beruf Häusler)
+Worlitschka,3.12.,Anna Maria,Georg,Sedeyk#,38 (Ehefrau,#80,Beruf Häusler)
+Worlitschka,4.12.,Anton,-,Wagner#,82 (#99,Beruf Tischler)
+Worlitschka,10.12.,Theresia,Heinrich,Neugebauer,59 (Ehefrau,#53,Beruf Feldgärtner)
+
+1813
+
+Worlitschka,2.1.,Heinrich,-,Schlesinger,68 (#143,Beruf Häusler)
+Worlitschka,10.1.,Benedikt,Gotthard,Schüll,- (#134,Beruf Inwohner)
+Worlitschka,15.1.,Johanna,Gotthard,Schüll,36 (#134,Beruf Inwohner)
+Worlitschka,17.1.,Franz Xaver,Thaddäus,Dittrich,9d (Ehefrau,#97,Beruf #meister)
+Worlitschka,4.2.,Elisabeth,Anton,Wagner,72 (Witwe,#40,Beruf Feldgärtner)
+Worlitschka,14.2.,Gotthard,-,Krögler,81 (#128,Beruf Inwohner)
+Worlitschka,1.3.,Cäcilia,Heinrich,Wagner,7 (#60,Beruf Häusler)
+Worlitschka,17.3.,Anna Maria,Johann Wenceslaus,Wagner,70 (Witwe,#52,Beruf Häusler)
+Worlitschka,29.3.,Philipp,Gottlieb,Schüll Junior#,12d (#123,Beruf Feldgärtner#)
+Worlitschka,7.4.,Josepha,Gottfried,Philipp,8y7m (#161,Beruf #)(Irgendwas in einem Infanterieregiment)
+Worlitschka,13.4.,Theresia,Joseph#,Schlesinger,4m14d (#9,Beruf Händler#)
+
+DP 5
+
+Worlitschka,22.4.,Johann Nepomuck,Johann,Heisler,30d (#65,Beruf Häusler)
+Worlitschka,26.4.,Franz,Franz,Bier,4m7d (#114,Beruf Häusler)
+Worlitschka,2.5.,Judith,Johann,Weinlich,60 (Ehefrau,#93,Beruf Inwohner)
+Worlitschka,3.5.,Josepha,Anton,Schlesinger,7m9d (#148,Beruf Inwohner)
+Worlitschka,8.5.,Vinzenz,Joseph,Schlesinger,6y2m14d (#118,Beruf Feldgärtner)
+Worlitschka,20.5.,Agnes,Franz Anton,Krögler,1y1m6d (#159,Beruf Häusler)
+Worlitschka,26.5.,Philipp,Ignatz,Czastek,33d (#112,Beruf Häusler)
+Worlitschka,29.5.,Franziska,Franz,Krögler,3m19d (#130,Beruf Häusler)
+Worlitschka,31.5.,Leopold,Heinrich,Neugebauer,26y4m4d (#53,Beruf Feldgärtner)
+Worlitschka,8.6.,Josepha,Johann,Krögler,1.5 (#137,Beruf Häusler)
+Worlitschka,11.6.,Johann Nepomuck,Leopold,Schüll#,10d (#88,Beruf Häusler)
+Worlitschka,26.6.,Aloys,Joseph,Wagner,1.5 (#39,Beruf Häusler)
+Worlitschka,27.6.,Gottfried#,-,Schlesinger,84 (#132,Beruf Ausgedinger)
+Worlitschka,5.7.,Thaddäus,Franz Anton,Dittrich,2m10d (#127,Beruf Häusler)
+Worlitschka,8.8.,Theresia,Franz,Krögler,28 (#38,Beruf Häusler)
+Worlitschka,8.9.,Franz Joseph,-,Krögler,35 (#95,Beruf Feldgärtner)
+Worlitschka,3.10.,Elisabeth,Anton,Czernohorsky,68 (Witwe,#117,Beruf Feldgärtner)
+Worlitschka,2.11.,Johanna,Franz,H#l,65 (Ehefrau,#127,Beruf Häuslerausgedinger#)
+Worlitschka,23.11.,Johann,Johann,P#tner,4m (#64,Beruf Schuhmacher)
+Worlitschka,14.12.,Heinrich,-,Wagner Senior,75 (#60,Beruf Häusler)
+Worlitschka,15.12.,Gottlieb,-,Schlesinger Junior,33 (#168,Beruf Häusler)
+Worlitschka,31.12.,Franziska,Thaddäus,Krögler,26 (Ehefrau,#6,Beruf Inwohner)
+
+1814
+
+Worlitschka,13.1.,Genoveffa#,Heinrich,Krögler,52 (Ehefrau,#92,Beruf Häusler)
+Worlitschka,15.1.,Josepha,Franz Anton,Krögler,56 (Ehefrau,#159,Beruf Häusler)
+Worlitschka,29.1.,Theresia,Gottlieb,-,Schlesinger Senior,56 (Ehefrau,#140,Beruf Häusler)
+Worlitschka,6.2.,Franz,Leopold,Gabler,2m24d (#43,Beruf Häusler)
+
+DP 7
+
+Worlitschka,8.2.,Brigitta,Anton,Krögler,54# (Witwe,#159,Beruf Häusler)
+Worlitschka,11.2.,Anton,-,H#l,55 (#66,Beruf Häusler)
+Worlitschka,25.2.,Gottlieb,-,Schüll#,61 (#123,Beruf Feldgärtner)
+Worlitschka,28.2.,Barbara,Johann,Wirth#,75 (Witwe,#80)(Johann war Bürger in Mährisch-Neustadt)
+Worlitschka,1.3.,Genoveffa,Franz,Czernohorsky,37 (Ehefrau,#104,Beruf Schuhmacher)
+Worlitschka,23.3.,Viktoria,Anton,Knoll,1y18d (#128,Beruf Häusler)
+Worlitschka,31.3.,Viktoria,Johann,Krögler,1m18d (#137,Beruf Häusler)
+Worlitschka,12.4.,Franziska,Joseph,Schlesinger#,18d (#9,Beruf Händler)
+Worlitschka,17.4.,Genoveffa,Franz,Wagner#,23d (#16,Beruf Häusler)(Nachname schwer lesbar, unsicher)
+Worlitschka,13.5.,Viktoria,Heinrich,Wagner,8m7d (#60,Beruf Häusler)
+Worlitschka,24#.5.,Franz,-,Wondra,45# (#4,Beruf Häusler)
+Worlitschka,10.6.,Viktoria,Peregrin,Weinlich,25 (#1,Beruf Fleischhauer und Altgeschworener#)
+Worlitschka,21.6.,Leopold,-,Krögler,64 (#107,Beruf #ausgedinger)
+Worlitschka,6.8.,Johann,Thaddäus,Langer,9m (#107,Beruf Häusler)
+Worlitschka,19.8.,Cäcilia#,Leopold,Heisler,9m (#42,Beruf Häusler)
+Worlitschka,26.8.,Aloys,Johann,Czernohorsky,3# (#52,Beruf Häusler)
+Worlitschka,1.9.,Joseph,Georg,Schmid#,2#m (#126,Beruf Maurer)
+Worlitschka,16.9.,Benedikt,Heinrich,Neugebauer,3 (#54,Beruf Häusler)
+Worlitschka,17.9.,Cäcilia,Franz,Gabler,4 (#44,Beruf Feldgärtner)
+Worlitschka,10.10.,Veronika,Anton,Krögler,63 (Witwe,#7,Beruf Schuhmacher)(Heißt das "Witwe"?)
+Worlitschka,21.11.,Johanna,Joseph,Pfertner,50 (Witwe,#53,Beruf Inwohner)
+Worlitschka,26.11.,Magdalena,Anton,Frank,65 (Witwe,#70,Beruf Häusler)(Anton Frank war aus Schönau, Eisenberger Herrschaft)
+Worlitschka,15.12.,Johanna,Anton,Knoll,87 (#138,Beruf Inwohner)
+Worlitschka,16.12.,Franz,-,Krögler,86 (#95,Beruf Bauerausgedinger#)
+Worlitschka,18.12.,Joseph,Franz,Schlesinger,9m14d (#154,Beruf Häusler)
+Worlitschka,26.12.,Franz,Anton,Heyl,9m (#18,Beruf Häusler)(lateinischer Satz darunter, was bedeutet er?)
+
+DP 9
+
+1815
+
+Worlitschka,1.1.,Karl,-,Czernohorsky,62 (#41,Beruf Inwohner)
+Worlitschka,1.1.1,-,Joseph,Gabler,- (#51,Beruf Häusler)(Eine Tochter)
+Worlitschka,2.1.,Joseph,Franz,Gl#,3m (#100,Beruf Häusler)
+Worlitschka,2.2.,Benedikt,Benedikt,Henl,5 (#45,Beruf Häusler)
+Worlitschka,14.2.,Franziska,Franz,Czernohorsky,6d (#49,Beruf Feldgärtner)
+Worlitschka,16.2.,Joseph,-,Schlesinger,51 (#118,Beruf Feldgärtner)
+Worlitschka,10.3.,Franziska,Heinrich,Czernohorsky,1y4m12d (#6,Beruf Häusler)
+Worlitschka,18.3.,Theresia,Gotthard,Schlesinger,67 (#78,Beruf Häusler)
+Worlitschka,22.3.,Josepha,Peregrin,Weinlich,19d (#103,Beruf Müllermeister)
+Worlitschka,22.3.,Viktoria,Peregrin,Weinlich,19d (#103,Beruf Müllermeister)
+Worlitschka,8.4.,Polexina,Karl,Schlesinger,48 (Ehefrau,#71,Beruf Feldgärtner)
+Worlitschka,11.4.,Viktoria,Franz,Bier#,8m (#148,Beruf Häusler)
+Worlitschka,16.4.,Anna,Gotthard,Krögler,4m (#134,Beruf Feldgärtner)
+Worlitschka,17.5.,Elisabeth,Franz,Schlesinger,78 (Ehefrau,#149,Beruf Häusler)
+Worlitschka,7.6.,Josepha,Franz,Henl,14d (#68,Beruf Feldgärtner)
+Worlitschka,7.6.,Franz,Ludwig,Czernohorsky,28 (#75,Beruf Häusler)
+Worlitschka,22.6.,Franz Karl,Franz,Czernohorsky,8d (#164,Beruf Schuhmacher)
+Worlitschka,15.8.,Johann,-,Henl,23 (#66,Beruf Schneidermeister#)
+Worlitschka,11.9.,Marianna,Gotthard,Schlesinger,2m14d (#34,Beruf Feldgärtner)
+Worlitschka,16.9.,Benedikt#,Franz,Gabler,1d (#44,Beruf Feldgärtner)
+Tschenkowitz,20.9.,Rosalia,Augustin,Bien,46 (#150,Beruf Häusler)
+Worlitschka,21.9.,Stephan,Franz Anton,Dittrich,1y14d (#127,Beruf Häusler)
+Worlitschka,5.10.,Franz,Franz,P#bez#ty,6m14d (#134,Beruf Schuhmacher)
+Worlitschka,7.10.,Viktoria,Franz,Czernohorsky,5y3m21d (#164,Beruf Schuhmacher)
+
+DP 11
+
+9.11.,Philipp,Joseph,Schlesinger,4m (#9,Beruf K#mann)
+8.11.,Johann,Florian,Hub#,9m (#133,Beruf Inwohner)
+8.11.,Cäcilia,Leopold,Schlesinger,10m (#146,Beruf Häusler)
+14.11.,Vinzenz,Heinrich,Czernohorsky,10m14d (#6,Beruf K#mann)
+20.11.,Cäcilia,Franz,Pfertner,1y4m (#13,Beruf Häusler)
+
+1816
+
+7.1.,Johanna,Franz,Neugebauer,55 (Witwe,#110,Beruf Häusler)
+3.2.,Viktoria,Franz,Schlesinger,8m (#39#,Beruf Häusler)
+21.2.,Johann,-,Neugebauer,21 (#54,Beruf Fuhrwagenknecht)
+6.3.,Josepha,Johann,Heisler,2m14d (#65,Beruf Häusler)
+8.3.,Franz,Benedikt,Schlesinger,6m (#168,Beruf Häusler)
+17.3.,Aloys,Joseph,Wagner,12d (#39,Beruf Häusler)
+17.4.,Theresia,Leopold,Weinlich,5 (#113,Beruf Häusler)
+30.4.,Joseph,-,Weypert#,67 (#83,Beruf Inwohner)
+8.7.,Franz Anton,Franz Anton,Krögler,7m (#159,Beruf Häusler)
+9.7.,Juliana,Joseph,Gabler,6m (#51,Beruf Häusler)
+31.7.,Heinrich,-,Krögler,65 (#71)(War Invalide)
+4.8.,Cäcilia,Johann,Schlesinger,1m (#162,Beruf Häusler)
+6.8.,Franz,Johann,Schlesinger,2 (#25,Beruf Feldgärtner)
+30.10.,Franz,-,Henl,80 (#13,Beruf Häuslerausgedinger)
+18.10.,Franz,Franz,Czernohorsky,6m (#49,Beruf Bauer)
+25.10.,Viktoria,Benedikt,Schlesinger,31 (Ehefrau,#59,Beruf Feldgärtner)
+
+DP 13
+
+1.11.,Cäcilia,Franz,Henl,14d (#68,Beruf Feldgärtner)
+11.11.,Vinzenz,Franz Anton,Pfertner#,2m (#77,Beruf Feldgärtner)
+
+1817
+
+8.1.,Benedikt,Wenceslaus,Schlesinger,2y2m (#157,Beruf Häusler)
+21.1.,Florian,-,Wagner,75 (#147,Beruf Häusler)
+28.1.,Johann,Franz,Schlesinger,2m7d (#172,Beruf Häusler)
+31.1.,Joseph,Franz,Gabler,6m (#44,Beruf Feldgärtner)
+3.2.,Juliana,Gotthard,Schlesinger,60 (Ehefrau,#58,Beruf Feldgärtnerausgedinger)
+27.2.,Vinzenz,Anton,Czernohorsky,3y4m1d (#117,Beruf Feldgärtner)
+15.3.,Franz,-,Heisler,43 (#144,Beruf Inwohner)
+16.3.,Florian,-,Schlesinger,43 (#2,Beruf Häusler)
+7.4.,Franz,Heinrich,Czernohorsky,1 (#6,Beruf K#mann)
+8.4.,Angelina,Franz,Heisler,43 (Witwe,#144,Beruf Inwohner)
+24.5.,Juliana,Wenceslaus,Schlesinger,43 (Witwe,#42,Beruf Inwohner)
+24.5.,Veronika,Anton,Ripl#,65 (Ehefrau,#117,Beruf Inwohner)(Nachname ist schwer zu lesen, unsicher)
+8.6.,Josepha,Gottfried#,Philipp,5m (#152,Beruf Häusler)
+20.8.,Franz,Johann,Pfertner,2y2m (#64,Beruf Schuhmacher)
+16.10.,Juliana,Karl,Bien,60 (Ehefrau,#148,Beruf Häuslerausgedinger)
+18.10.,Franz,Anton,Henl,29 (#66,Beruf Häusler)
+2.11.,Genoveffa,Franz Anton,Krögler,27 (Ehefrau,#159,Beruf Häusler)
+6.11.,Theresia,Johann,#,47 (Ehefrau,#4,Beruf Inwohner)(Nachname kaum lesbar)
+29.10.,Peregrin,-,Hrdina,57 (#70,Beruf Häusler)(Darüber steht ein Text, der schwer lesbar ist)
+6.12.,Vinzenz,Heinrich,Czernohorsky,2m (#6,Beruf K#mann)
+13.12.,Anna Maria,Florian,Wagner,76 (Witwe,#147,Beruf Häusler)
+
+DP 15
+
+1818
+
+2.1.,Joseph,Johann,Schlesinger,14d (#29,Beruf Häusler)
+11.1.,Viktoria,Johann,Heisler,14d (#65,Beruf Häusler)
+16.1.,Leopold,Florian,Schlesinger,6d (#22,Beruf Häusler)
+19.1.,Marianna,Benedikt,Henl,38 (Ehefrau,#45,Beruf Häusler)
+21.1.,-,Franz,Gabler,- (#44,Beruf Feldgärtner)("von der Hebam getauft und gestorben", war eine Tochter)
+7.2.,Vinzenz,Benedikt,Henl,26d (#45,Beruf Häusler)
+3.3.,Johann,Heinrich,Neugebauer,11 (#54,Beruf Häusler)
+7.3.,Leopold,-,Wagner,41 (#40,Beruf Feldgärtner)
+27.3.,Abraham,-,Heisler,87 (#15,Beruf Häuslerausgedinger)
+29.3.,Viktoria,Gotthard,Krögler,18# (#134,Beruf Feldgärtner)
+7.4.,Cäcilia,Thaddäus,Dittrich,5m (#97,Beruf Bäckermeister#)
+7.4.,Josepha,Franz Anton,Krögler,11m (#159#,Beruf Häusler)
+8.4.,Viktoria,Leopold,Weinlich,1y8m (#113,Beruf Häusler)
+12.4.,Elisabeth,Heinrich,Czernohorsky,70 (Ehefrau,#101,Beruf Häusler)
+20.4.,Agnes,-,-,- (#) U: Kind von Agnes Heisler
+29.4.,Johanna,Gottfried#,Schlesinger,84 (Ehefrau,#132,Beruf Häusler)(Gotthard oder Gottfried?)
+8.5.,Johanna,Thaddäus,Krögler,34 (Ehefrau,#6,Beruf Inwohner)
+11.5.,Josepha,Thaddäus,Krögler,14d (#6,Beruf Inwohner)
+14.5.,Johann,Gotthard,Schlesinger,10 (#34,Beruf Feldgärtner)
+23.5.,Josepha,Franz Karl,Heisler,10y2m4d (#30)
+27.5.,Viktoria,Florian,Schlesinger,3y5m (#28,Beruf Feldgärtner)
+29.5.,Franz,Heinrich,Krögler,2y5m (#30,Beruf Häusler)
+29.5.,Anna,Johann,Schlesinger,3y10#m (#29,Beruf Häusler)
+30.5.,Viktoria,Wenceslaus,Neugebauer,13y2m (#150,Beruf Häusler)
+1.6.,Josepha,Thaddäus,Langer,5m5d (#107,Beruf Gärtner)("Feld" von Feldgärtner ist durchgestrichen)
+6.6.,Benedikt,Johann,Czernohorsky,1y3m (#46,Beruf Häusler)
+8.6.,Joseph,Peregrin,Hrdina,4y3m (#70,Beruf Häusler)
+12.6.,Franz,Florian,Schlesinger,4y9m (#28,Beruf Gärtner)("Feld" von Feldgärtner ist durchgestrichen)
+13.6.,Franziska,Gotthard,Schüll,5 (#72,Beruf Inwohner)
+
+DP 17
+
+17.6.,Joseph,Franz,Pr#z,3d (#113,Beruf Häusler)
+30.6.,Aloys,Franz,Krögler,1y27d (#96,Beruf Häusler)
+8.7.,Johann,Johann,Krögler,4d (#149,Beruf Häusler)
+8.7.,Josepha,Anton,Schlesinger,5y3m (#23,Beruf Häusler)
+4.8.,Franziska,Benedikt,Henl,2.5 (#45,Beruf Häusler)
+1.10.,Viktoria,Peregrin,Chladek,1.5 (#148,Beruf Häusler)
+20.10.,Johanna,Ignatz,Heisler,50 (Ehefrau,#29,Beruf Inwohner)
+9.11.,Juliana,Leopold,Schüll,31 (Ehefrau,#88,Beruf Häusler)
+12.11.,Franz,-,-,12d (#83)(Eigentlich Maria Anna, nur in einem Wort geschrieben, damit der Excel-Konverter damit klarkommt, muss von Hand korrigiert werden in "Maria Anna") U: Kind von Marianna Helin
+27.11.,Marianna,Wenceslaus,Pauk,60 (Ehefrau,#84,Beruf Häusler)
+
+1819
+
+3.1.,Aloys,Johann,Heisler,4d (#65,Beruf Häusler)
+10.1.,Johann,-,Weinlich,83 (#116,Beruf Häuslerausgedinger)
+4.2.,Franz,-,Henl,44 (#68,Beruf Feldgärtner)
+6.2.,-,Benedikt,Wagner,- (#160,Beruf Häusler)("notgetauft und gestorben")
+6.2.,Florian,-,Schlesinger,53 (#28)
+22.10.,Rosalia,Franz,Heisler,67 (Witwe,#10,Beruf Häusler)
+2.3.,Theresia,Franz,Illichman,25 (#98,Beruf Müllermeister)
+2.3.,Theresia,Johann,Schlesinger,7 (#25,Beruf Feldgärtner)
+4.3.,Joseph,-,-,1y8m (#129) U: Kind von Rosalia #um#
+9.3.,Philipp,Joseph,Czernohorsky,3 (#119,Beruf Schmid)
+17.3.,Cäcilia,Georg,Schmid#,1y14d (#126,Beruf Häusler)
+18.3.,Franz,Franz,Chladek,1y2m (#100,Beruf Häusler)
+18.3.,Franz,Franz,Schlesinger,1y5m (#130,Beruf Häusler)
+26.3.,Theresia,Gotthard,Heisler,15y5m (#125,Beruf Häusler)(Gotthard war bereits verstorben)
+29.3.,Joseph,Florian,Schlesinger,11d (#22,Beruf Häusler)
+
+DP 19
+
+Worlitschka,3.4.,Leopold,Benedikt,Schlesinger,17d (#168,Beruf Häusler)
+Worlitschka,13.4.,Anton,-,Schlesinger,78 (#148,Beruf Häuslerausgedinger)
+Worlitschka,23.4.,Aloys,Joseph,Wagner,5#m (#39,Beruf Häusler)
+Worlitschka,28.4.,Joseph,Ignatz,Czastek,14d (#112,Beruf Häusler)
+Worlitschka,6.5.,Anna,Gotthard,Heisler,12y4m (#125,Beruf Häusler)
+Worlitschka,6.5.,Anna,Joseph,Krögler,2m (#33,Beruf Häusler)
+Worlitschka,15.5.,Johann Nepomuck,Florian#,Hubulek#,1m (#132,Beruf Inwohner)
+Worlitschka,29.5.,Peregrin,Peregrin,Weinlich,26#d (#103,Beruf Müller)
+Worlitschka,1.7.,Joseph,Franz,Bien,9m (#114,Beruf Häusler)
+Worlitschka,4.7.,Franz,Gotthard,Krögler,3m (#134,Beruf Feldgärtner)
+Worlitschka,4.8.,Anna Maria,Franz,Krögler,74 (Ehefrau,#89,Beruf Häusler)
+Worlitschka,13.8.,Wenceslaus,-,Pfertner,60 (#47,Beruf Inwohner)
+Worlitschka,15.8.,-,Leopold,Weinlich,- (#113,Beruf Häusler)("In der Geburt" verstorben)
+Worlitschka,2.9.,Anton,-,Czernohorsky,53 (#117,Beruf Feldgärtner)
+Worlitschka,13.9.,Franz,Aloys,Weinlich,3m (#108)
+Worlitschka,4.10.,Viktoria,Johann,Krögler,4m (#149,Beruf Häusler)
+Worlitschka,26.11.,Johann,Johann,Krögler,22d (#137,Beruf Häusler)
+Worlitschka,24.12.,Heinrich,-,Neugebauer,70 (#53,Beruf Feldgärtner)
+Worlitschka,25.12.,Genoveffa#,Johann,Schlesinger,35 (Ehefrau,#162,Beruf Häusler)(Vorname schwer zu lesen, unsicher)
+
+1820
+
+Worlitschka,21.1.,Viktoria,Franz,Pfertner#,9d (#13,Beruf Häusler)
+Worlitschka,26.1.,Veronika,Franz,M#,62 (Ehefrau,#145,Beruf Häusler)(Nachname schwer zu lesen, unsicher)
+Worlitschka,30.1.,Theresia,Georg,Pfertner,20d (#13,Beruf Häusler)
+Worlitschka,31.1.,Polexina,Johann,Heisler,2d (#65,Beruf Häusler)
+Worlitschka,4.2.,-,-,-,- (#83)(Mutter eigentlich Maria Anna, muss nach Excel-Konvertierung von Hand Marianna->Maria Anna korrigiert werden) U: Kind von Marianna H#
+Worlitschka,14.3.,Viktoria,Georg,Sed#,2m (#126,Beruf Häusler)
+Worlitschka,2.4.,-,Franz,Czernohorsky,11d (#49,Beruf Feldgärtner)
+
+DP 21
+
+Worlitschka,21.4.,Joseph,Wenceslaus,Langer,6m8d (#10,Beruf Häusler)
+Worlitschka,11.5.,Elisabeth,Heinrich,Wagner,56 (Beruf Häusler)(Hausnummer kaum lesbar)
+Worlitschka,10.5.,-,Benedikt,Schüll,- (#15,Beruf Inwohner)
+Worlitschka,3.8.,Theresia,Franz,Illichman,1y4m (#98,Beruf Müller#)
+Worlitschka,4.8.,Viktoria,Florian,Hubulek,2m8d (#132,Beruf Inwohner)
+Worlitschka,17.8.,Philipp,Joseph,Schlesinger,3m (#9,Beruf K#mann)
+Worlitschka,18.8.,Karl,-,Czastek,63# (#109,Beruf Schneidermeister)
+Worlitschka,8.9.,-,Andreas,Krögler,- (#50,Beruf Häusler)("notgetauft und verstorben")
+Worlitschka,15.9.,Anna,Franz,Schlesinger,4m (#130,Beruf Häusler)
+Worlitschka,27.9.,Theresia,Abraham,Heisler,89 (Witwe,#85,Beruf Ausgedinger)(unklar, ob Ehefrau, Tochter oder Witwe, was steht nach "Ausgedinger"? Da alte Frau, Witwe am wahrscheinlichsten?)
+Worlitschka,8.10.,Johann,Johann,Ignatz,Lub#,14y7m (#94,Beruf Feldgärtner)
+Worlitschka,16.10.,Johann,Heinrich,Czernohorsky,6m16d (#6,Beruf K#mann)
+Worlitschka,20.10.,Johann,Gottlieb,Schüll,16 (#124,Beruf Feldgärtner)
+Worlitschka,1.11.,Johann,Benedikt,W#,4m (#28,Beruf Häusler)
+Worlitschka,7.11.,Joseph,Johann,Pfertner,21d (#86,Beruf Häusler)
+Worlitschka,8.11.,Johann,Johann,Krögler,1#m11d (#149,Beruf Häusler)
+Worlitschka,13.11.,Anna,Heinrich,Czernohorsky,1y10m (#6,Beruf K#mann)
+Worlitschka,4.12.,Johann,Johann,Illichman,18d (#98,Beruf Müller)
+Worlitschka,7.12.,Elisabeth,Anton,Gabler,92 (Witwe,#44,Beruf Feldgärtner)
+Worlitschka,9.12.,Elisabeth,Leopold,Schlesinger,50 (Ehefrau,#35,Beruf Häusler)(Vermutung: Das am Ende heißt "Ehb." für Eheweib)
+Worlitschka,13.12.,Franz,-,Czernohorsky,44# (#133#,Beruf Häusler)
+Worlitschka,16.12.,Joseph,Johann,Schlesinger,1m (#31,Beruf Häusler)
+
+1821
+
+Worlitschka,6.1.,Elisabeth,Anton,Köhler,85 (Witwe,#110,Beruf Häusler)
+Worlitschka,1.2.,Cäcilia,Johann,Pfertner#,1m (#64,Beruf Häusler)
+Worlitschka,3.2.,Anna,Gotthard,Schlesinger,2m (#59)
+
+DP 23
+
+Worlitschka,9.2.,Benedikt,Philipp #,Wagner,10d (#99,Beruf Häusler)
+Worlitschka,17.2.,Judith,Augustin,Nehyba,74 (Ehefrau,#69,Beruf Häusler)
+Worlitschka,20.2.,Benedikt,Thaddäus,Dittrich,2m8d (#97,Beruf Bäckermeister)
+Worlitschka,26.2.,Joseph,Joseph,Weinlich,9d (#104,Beruf Bauer)
+Worlitschka,2.3.,Johanna,Franz,Krögler,79 (Ehefrau,#95,Beruf Bauersausgedinger#)
+Worlitschka,9.3.,Josepha,Leopold,Krögler,4m14d (#134,Beruf Feldgärtner)
+Worlitschka,7.4.,Stephan,Leopold,Gabler,7#y5m (#43,Beruf Häusler)(1 oder 7 Jahre?)
+Worlitschka,15.4.,Rosalia,Franz,Schlesinger,85 (Witwe,#32,Beruf Häusler)
+Worlitschka,16.4.,Marianna,Gotthard,Schlesinger,38 (Ehefrau,#34,Beruf Bauer)
+Worlitschka,2.5.,Marianna,Johann,Krögler,32y4m (Ehefrau,#137,Beruf Häusler)
+Worlitschka,3.5.,Gotthard,-,Heisler,55 (#29,Beruf Häusler)
+Worlitschka,4.5.,Josepha,Leopold,Schlesinger,23 (#35,Beruf Häusler)
+Worlitschka,5.6.,Marianna,Gottfried,Philipp,1y14d (#152,Beruf Häusler)
+Worlitschka,6.6.,Marianna,-,-,21y13d (#143)(Theresia ist die Tochter von Karl Heisler, der Häusler ist) U: Kind von Theresia Heisler
+Worlitschka,12.6.,Juliana,Franz,Weinlich,52 (Ehefrau,#37,Beruf Häusler)
+Worlitschka,19.6.,-,Franz,Krögler,- (#89,Beruf Häusler)
+Worlitschka,17.7.,Agnes,Florian,Schlesinger,1y3m (#162,Beruf Häusler)
+Worlitschka,20.7.,Anna Maria,Wenceslaus,Krögler,60 (#126,Beruf Häusler)
+Worlitschka,22.7.,Josepha,Franz,Krögler,6m (#111,Beruf Häusler)
+Worlitschka,26.7.,Cäcilia,Leopold,Weinlich,10m (#113,Beruf Häusler)
+Worlitschka,18.8.,Anna,Johann,Weinlich,7m8d (#161,Beruf #)
+23.8.,Johann,-,Polak,84 (#11)("von Worlitschka gebürtig, über 40 Jahre in der Welt herumvagiert#")
+Worlitschka,25.12.,Philipp,Johann,Schlesinger,12d (#31,Beruf Häusler)
+Worlitschka,27.12.,Joseph,Gotthard,Kern#,2y9m (#78#,Beruf Inwohner)
+
+DP 25
+
+1822
+
+Worlitschka,2.1.,Anna Maria,Gotthard,Gabler,82 (Witwe,#51,Beruf Häusler)
+Worlitschka,22.1.,Johann,Johann,Heisler,8 (#65,Beruf Häusler)
+Worlitschka,2.2.,Franz,Franz Joseph,Pfertner,4d (#2,Beruf Schuhmacher)
+Worlitschka,17.2.,Josepha,Leopold,Krögler,9m (#131,Beruf Häusler)
+Worlitschka,22.2.,Franz,-,-,7m (#110) U: Kind von Theresia Schüll
+Worlitschka,27.2.,Anna,Peregrin,Chladek,9m (#148,Beruf Häusler)
+Worlitschka,7.3.,Aloys,Anton,Gritzbauch,19y5#m (#77,Beruf Bauer)(Anton war bereits verstorben)
+Worlitschka,10.3.,Theresia,Gotthard,Schlesinger,65 (Ehefrau,#62,Beruf Bauer)
+Worlitschka,15.3.,Franz,Johann,Czernohorsky,6 (#55,Beruf Inwohner)
+Worlitschka,2.4.,Aloys,Gottlieb,Wagner,2y9m (#52,Beruf Häusler)
+Worlitschka,8.4.,Viktoria,Johann,Pfertner,8y5m (#86,Beruf Häusler)
+Worlitschka,10.4.,Genoveffa,Joseph,#,11m (#81,Beruf Inwohner)(Nachname kaum lesbar)
+Worlitschka,18.4.,Theresia,Peregrin,Heisler,11d (#122,Beruf Häusler)
+Worlitschka,20.4.,Veronika#,Heinrich,Neugebauer,70 (Ehefrau,#81,Beruf Inwohner)
+Worlitschka,25.4.,-,Gotthard,Schlesinger,- (#59,Beruf Feldgärtner)
+Worlitschka,2.5.,Anna,Benedikt,Dittrich,1y1m (#147,Beruf Inwohner)
+Worlitschka,6.5.,Cäcilia,Leopold,Schlesinger,5y1m (#61,Beruf Häusler)
+Worlitschka,11.5.,Franz,-,M#,62 (#145,Beruf Häusler)
+Worlitschka,13.5.,Joseph,Wenceslaus,Wagner,2y1m (#14,Beruf Häusler)
+Worlitschka,17.5.,Leopold,-,Trampota,62 (#129,Beruf Häusler)
+Worlitschka,23.5.,Viktoria,Gottlieb,Schüll,3y5m (#123,Beruf Bauer)
+Worlitschka,25.5.,Johann,Franz,Gabler,20d (#44,Beruf Feldgärtner)
+Worlitschka,5.6.,Josepha,Franz,Wagner,2m20d (#16,Beruf Häusler)
+Worlitschka,27.6.,Viktoria,Benedikt,Wagner,1y4m (#160,Beruf Häusler)
+Worlitschka,30.6.,Anna Maria,Andreas,Neugebauer,60 (#34,Beruf Inwohner)
+Worlitschka,5.7.,Viktoria,Gotthard,Kern,10m (#78,Beruf Inwohner)
+
+DP 27
+
+Worlitschka,8.10.,Gotthard,-,Schüll,66 (#19,Beruf Inwohner)
+Worlitschka,31.10.,Franz,-,Schmid,59 (#17,Beruf Häusler)
+Worlitschka,16.12.,Anna,Peregrin,Langhammer,1m (#60,Beruf Häusler)
+
+1823
+
+Worlitschka,2.1.,Genoveffa,Gottlieb,Schlesinger,51 (Ehefrau,#24,Beruf Häusler)
+Worlitschka,3.1.,Philipp,Heinrich,Wagner,8d (#110,Beruf Häusler)
+Worlitschka,5.1.,Heinrich,-,Pfertner,76 (#64,Beruf Häusler)
+Worlitschka,12.2.,-,Joseph,Czernohorsky,- (#32,Beruf Häusler)("In der Geburt" verstorben)
+Worlitschka,2.3.,Anna,Joseph,Steyskal,2 (#98,Beruf Inwohner)
+Worlitschka,5.3.,Anna,Johann,Schlesinger,1m10d (#31,Beruf Häusler)
+Worlitschka,6.3.,Josepha,Leopold,Krögler,11m (#99,Beruf Häusler)
+Worlitschka,13.3.,Elisabeth,Franz,Henl,55 (Ehefrau,#19,Beruf Häusler)
+Worlitschka,19.3.,Philipp,Franz,Czernohorsky,# (#49,Beruf Feldgärtner)
+Worlitschka,20.3.,Theresia,-,Neugebauer,60 (#6,Inwohnerin)
+Worlitschka,30.3.,Theresia,Anton,Czernohorsky,84 (#94,Beruf Häusler)
+Worlitschka,9.4.,Philipp,Franz,Schlesinger,5d (#56,Beruf Häusler)
+Worlitschka,13.5.,Anna,Thaddäus,Dittrich,1y3m (#97,Beruf Häusler)
+Worlitschka,18.5.,Katharina,Franz,Krögler,67 (Ehefrau,#2,Beruf Inwohner)
+Worlitschka,2.6.,Johann,Leopold,Krögler,1y13d (#58,Beruf #)
+Worlitschka,7.6.,Franz,Leopold,Weinlich,4y1m24d (#95,Beruf Bauer#)
+Worlitschka,18.6.,-,Franz,Krögler,- (#137)("totgeborenes Mädchen")
+Worlitschka,19.6.,Josepha,Franz,Krögler,40 (#137,Beruf Häusler)
+Worlitschka,19.6.,Rosalia,Franz,Greg#,58 (Ehefrau,#136,Beruf Bäckermeister)
+Worlitschka,22.7.,Johann,Joseph,Schlesinger,24 (#9,Beruf Händler)
+Worlitschka,26.7.,Johann,-,Schlesinger,41 (#166,Beruf Häusler)
+Worlitschka,25.7.,Franz,Johann,Czernohorsky,9d (#46,Beruf Häusler)
+
+DP 29
+
+Worlitschka,7.9.,Anton,Peregrin,Weinlich,8m8d (#103,Beruf Müllermeister)
+Worlitschka,3.10.,Josepha,Heinrich,Czernohorsky,2m (#6,Beruf Krämer)
+Worlitschka,3.10.,Johann,Benedikt,Krögler,1y4d (#125,Beruf Häusler)
+Worlitschka,22.10.,Eva#,Franz,Schlesinger,41 (Ehefrau,#172,Beruf Häusler)
+Worlitschka,1.11.,Johann,Johann,Illichman,3m14d (#98,Beruf Häusler)
+Worlitschka,3.11.,Johanna,Franz,Heisler,52y5m10d (#4,Beruf Inwohner)
+Worlitschka,#,7.11.,Josepha,Aloys,Gregor,36 (#135,Beruf Häusler und Invalide#)
+Worlitschka,25.11.,-,Gotthard,Schlesinger,- (#59,Bauerausgedinger#)("in der Geburt" verstorben)
+Worlitschka,10.12.,Wenceslaus,Franz,Illichman,2 (#98,Beruf Müllermeister)
+Worlitschka,17.12.,Elisabeth,Wenceslaus,Schlesinger,85y7m9d (Ehefrau,#61,Beruf Häuslerausgedinger)
+Worlitschka,17.12.,Gotthard,-,Schüll,71 (#74,Beruf Häuslerausgedinger)
+Worlitschka,19.12.,Josepha,Wenceslaus,Pfertner,31y2m11d (#62,Beruf Inwohnerin)
+Worlitschka,20.12.,Benedikt,Anton,Czernohorsky,5y11m11d (#117,Beruf Feldgärtner)(Anton war bereits verstorben)
+Worlitschka,20.12.,Franz,-,Heisler,81 (#42,Beruf Inwohner)
+
+1824
+
+Worlitschka,8.2.,Victoria,Franz,Schlesinger,64 (Ehefrau,#11,Beruf #)(Sie wird als "Frau" bezeichnet, die Formulierung deutet auf einen einflussreichen Mann hin - der Beruf ist schwer lesbar, möglicherweise Erbrichter???)
+Worlitschka,20.2.,Aloys,Franz,Schlesinger,9d (#130,Beruf Häusler)
+Worlitschka,28.2.,Josepha,Johann,Krögler,18d (#89,Beruf Häusler)
+Worlitschka,10.3.,Vinzenz,Peregrin,Chladek,8m26d (#148,Beruf Häusler)
+Worlitschka,11.3.,Franz,-,M#,37 (#145,Beruf Häusler)
+Worlitschka,3.4.,Josepha,Thaddäus,Dittrich,1m2d (#97,Beruf Bäckermeister)
+Worlitschka,18.4.,Anna,Heinrich,Heisler,1 (#155,Beruf Häusler)
+Worlitschka,26.4.,Anna Maria,Bartholomäus,Schlesinger,87 (Witwe,#4,Beruf Bettlerin)
+Worlitschka,27.6.,Peter,Valentin,Frodl#,1d (#142,Beruf Schullehrer)
+Worlitschka,13.7.,Angelina,Benedikt,Schüll,38 (Ehefrau,#32,Beruf Seiler# und Inwohner)
+Worlitschka,30.7.,Elisabeth,Heinrich,Schlesinger,75 (Witwe,#143,Beruf Häusler)
+Worlitschka,2.8.,Johann,Franz Anton,Krögler,4m (#159,Beruf Häusler)
+Worlitschka,3.8.,Wenceslaus,Franz,Illichman,8d (#98,Beruf Müllermeister)
+Worlitschka,28.8.,Vinzenz,Johann,Schlesinger,1m8d (#25,Beruf Bauer)
+Worlitschka,29.8.,Ferdinand,-,Koblischke,84 (#38,Beruf Häusler)
+Worlitschka,14.9.,Franziska,Florian,Hubalek,2m4d (#134,Beruf Inwohner)
+
+DP 31
+
+Worlitschka,7.11.,Anna Karolina,Gottlieb,Schiel,4d (#123,Beruf Feldgärtner)
+Worlitschka,27.11.,Franziska,Gottlieb,Schiel,39 (Ehefrau,#123,Beruf Händler)
+Worlitschka,3.12.,Benedikt,Peregrin,Wagner,1y6m6d (#153,Beruf Tischlermeister)
+Worlitschka,11.12.,Joseph Gregor,Johann,Schlesinger,23d (#59,Beruf Feldgärtner)
+Worlitschka,13.12.,Viktoria,Joseph,Wagner,4y9m (#39,Beruf Häusler)
+Worlitschka,13.12.,Thaddäus Nicolaus,Franz,Heisler,8d (#94,Beruf Inwohner)
+Worlitschka,24.12.,Genoveffa,Johann,Czernohorsky,5y9m12d (#46,Beruf Häusler)
+
+1825
+
+Worlitschka,1.1.,Aloys,Aloys,Schlesinger,2m17d (#171,Beruf Häusler)
+Worlitschka,7.1.,Johann Stephan,Engelbert,Weinlich,12d (#74,Beruf Häusler)
+Worlitschka,8.1.,Johann,Johann,Schlesinger,2y13d (#166,Beruf Häusler)
+Worlitschka,13.1.,Josepha,Anton,Krögler,39 (#159,Beruf Häusler)
+Worlitschka,17.1.,Theresia,Johann,Schlesinger,4y20d (#166,Beruf Häusler)
+Worlitschka,5.2.,Gotthard,-,Pfertner,80 (#48,Beruf Dorfgärtner und Ausgedinger)
+Worlitschka,11.2.,Anton,-,Schlesinger,50 (#83,Beruf Feldgärtner)
+Worlitschka,13.2.,Philipp#,Leopold,Schiel,6m23d (#88,Beruf Händler)
+Worlitschka,24.2.,Anna,Anton,Schlesinger,21y4m3d (#83,Beruf Feldgärtner)
+Worlitschka,6.3.,Wenceslaus,-,Schlesinger,87 (#61,Beruf Häuslerausgedinger)
+Worlitschka,23.3.,Josepha,Leomund#,Wagner,2m6d (#73,Beruf Tischlermeister)
+Worlitschka,17.4.,Franziska,Johann,Schlesinger,17d (#35,Beruf Häusler)
+Worlitschka,25.4.,Franz#,Johann,Weinlich,24d (#161,Beruf Wagnermeister)(Was bedeutet "de Paula" hinter dem Vornamen?)
+Worlitschka,30.4.,Maria Anna,Gotthard,Schlesinger,74 (Witwe,#34)
+Worlitschka,8.5.,Joseph,Thaddäus,Dittrich,2m (#97,Beruf Bäckermeister#)
+-,9.5.,Marianna,-,Chladek,31 (#6,Beruf Dienstmagd bei Heinrich Czernohorsky, gebürtig aus Jamnay)
+Worlitschka,12.5.,Juliana,Franz,Schlesinger,48 (#48,Beruf Häusler)(ledig)
+Worlitschka,4.6.,Elisabeth,Wenceslaus,Hehl#,76 (Ehefrau,#158,Beruf Häuslerausgedinger)
+Worlitschka,18.7.,Philipp,Benedikt,Schiel,1y7m21d (#74,Beruf Vagabund)
+Worlitschka,30.8.,Theresia,Joseph,Wagner,1y4m15d (#39,Beruf Häusler)
+Worlitschka,7.9.,Theresia,Joseph,Gabler,1y4m28d (#51,Beruf Häusler)
+Worlitschka,17.9.,Juliana,Wenceslaus,Neugebauer,56 (#150,Beruf Häusler)
+
+DP 33
+
+Worlitschka,24.9.,Agnes,Gotthard,Schlesinger,10m (#34,Beruf Feldgärtner)
+Worlitschka,2.10.,Johann,Leomund#,Feltzmann,8y11m20d (#79,Beruf Häusler)
+Worlitschka,5.10.,Cäcilia,Leopold,Schlesinger,1y6m6d (#61,Beruf Häusler)
+Worlitschka,6.10.,Philipp,Heinrich,Krögler,3y23d (#30,Beruf Häusler)
+Worlitschka,6.10.,Leopold,Weinlich,59 (#87,Beruf Händler)
+Worlitschka,13.10.,Apollonia,Anton,Krögler,85 (Witwe,#17,Beruf Inwohner)
+Worlitschka,15.10.,Karolina,Anton,P#,3y6m (#158,Beruf Ausgedienter Soldat)(Nachname schwer zu lesen)
+Worlitschka,7.11.,Anna,Franz,Schlesinger,25y11m17d (#26)
+Worlitschka,9.11.,Johann,Leopold,Heisler,18y7m9d (#42,Beruf Inwohner)
+Worlitschka,16.11.,Cäcilia,Florian,Schlesinger,4y8m6d (#22,Beruf Häusler)
+Worlitschka,21.11.,Wenceslaus,-,Heisler,31 (#65,Beruf Corporal)
+Worlitschka,1.12.,Viktoria,Ferdinand,#iesner,27y6m (#90,Beruf Häusler)
+Worlitschka,9.12.,Angelina,Leopold,Neugebauer,20y9m7d (#9,Beruf Häusler)
+Worlitschka,15.12.,Johann,Johann,Schlesinger,2 (#71,Beruf Feldgärtner)
+Worlitschka,21.12.,Anna Maria,Gottlieb,Schiel,68 (Witwe,#123,Beruf Feldgärtner)
+Worlitschka,24.12.,Franz,-,Schlesinger,27 (#26)
+Worlitschka,25.12.,Theresia,Karl,Michalek#,66 (Witwe,#79,Beruf Häusler)
+
+1826
+
+Worlitschka,15.1.,Vinzenz,Franz,Krögler,1d (#96,Beruf Häusler und Händler)
+Worlitschka,19.1.,-,Engelbert,Weinlich,- (#74,Beruf Häusler)("in der Geburt, mit der Nottaufe")
+Worlitschka,23.1.,Cäcilia,Franz,Monse#,2y9m24d (#145,Beruf Häusler)(Nachname schwer lesbar, unsicher)
+Worlitschka,28.1.,Johanna,Engelbert,Weinlich,36 (#74,Beruf Häusler)
+Worlitschka,20.2.,Karl,-,Bier,75 (#151,Beruf Häusler)
+Worlitschka,26.2.,Wenceslaus,-,Hehl#,85 (#158,Beruf Häuslerausgedinger)
+Worlitschka,21.3.,Theresia,Benedikt,Schlesinger,10m8d (#118,Beruf Feldgärtner)
+Worlitschka,26.3.,Angelina,Karl,Pfertner,58 (#86,Beruf Schuhmachermeister)
+Worlitschka,1.4.,-,Benedikt,Wagner,- (#160,Beruf Häusler)("mit der Nottaufe")
+Worlitschka,2.4.,Genoveffa,Franz,Monse#,38 (Witwe,#145,Beruf Häusler)
+Worlitschka,2.4.,Cäcilia,Leopold,Schlesinger,1y1m15d (#168)(Text dahinter schwer lesbar)
+Worlitschka,27.4.,Johann,Engelbert,Weinlich,3m9d (#74,Beruf Häusler)
+Worlitschka,1.5.,Polexina,Ferdinand,Czernohorsky,70 (#115,Beruf Inwohnerin)(ledig)
+Worlitschka,2.5.,Judith,-,Krögler,76 (#7,Beruf Bettlerin)(Text danach schwer lesbar)
+Worlitschka,3.5.,Elisabeth,Leopold,Trampota,61 (#129,Beruf Häusler)(Wort vor Häusler schwer lesbar)
+Worlitschka,5.5.,Benedikt,Heinrich,Czernohorsky,3m (#6,Beruf Krämer)
+Worlitschka,8.5.,Franz,Florian,Hubalek,1m15d (#134,Beruf Inwohner)
+
+DP 35
+
+Worlitschka,9.5.,Josepha,Florian,Schlesinger,38 (Ehefrau,#22,Beruf Häusler)
+Worlitschka,16.6.,Genoveffa,Ignatz,Czastek,52 (Ehefrau,#112,Beruf Schneidermeister)
+Worlitschka,23.8.,Joseph,-,-,3m (#29)(Die Kindsmutte ist Tochter von Gotthard Heisler, Häusler in Worlitschka #29, Joseph ist unehelich) U: Kind von Cäcilia Heisler
+Worlitschka,11.9.,Josepha,Benedikt,Heisler,1y5m18d (#66,Beruf Häusler)
+Worlitschka,5.10.,Monika,Franz Anton,Dittrich,60 (Ehefrau,#91,Beruf Häuslerausgedinger)
+Worlitschka,8.10.,Rosalia,Leopold,Krögler,75 (Witwe,#107,Beruf Ausgedinger)
+Worlitschka,1.12.,Genoveffa,Franz,Schlesinger,56 (Ehefrau,#11,Beruf emeritierter Erbrichter#)
+Worlitschka,15.12.,Marianna,Franz,Chladek,12 (#100,Beruf Häusler)
+Worlitschka,16.12.,Johann,Aloys,Schlesinger,1y6m26d (#151,Beruf Häusler)
+Worlitschka,19.12.,Franz Xaver,Amandus#,Krögler,11d (#80,Beruf Häusler)(Vorname des Vaters schwer lesbar, unsicher)
+
+1827
+
+Worlitschka,13.1.,Cäcilia,Johann,Gritzbauch,19d (#77,Beruf Feldgärtner)
+Worlitschka,14.1.,Vinzenz,-,Bayer,28 (Beruf Weber#)(Text danach schwer lesbar)
+Worlitschka,2.2.,Anna,Peregrin,Neugebauer,10m12d (#54,Beruf Häusler)
+Worlitschka,15.2.,Anna Maria,Wenceslaus,Krögler,61 (#131,Beruf Häuslerausgedinger)
+Worlitschka,15.2.,Aloys,Leopold,Krögler,12d (#131,Beruf Häusler)
+Worlitschka,18.2.,Aloys,Franz,Bien,16d (#114,Beruf Häusler)
+Worlitschka,2.3.,Cäcilia,Gotthard,Schlesinger,1y10m12d (#63,Beruf Häusl#)
+Worlitschka,8.3.,Anton,-,Czernohorsky,86 (#133,Beruf Häuslerausgedinger)
+Worlitschka,12.3.,Theresia,Gotthard,Chladek,66y6m (Ehefrau,#105,Beruf Häusler)
+Worlitschka,3.4.,Franz Xaver,-,Schlesinger,66y4m26d (#11,Beruf emeritierter Erbrichter#)
+Worlitschka,22.4.,Magdalena,-,Scholtz,59 (#11,Beruf Köchin)("... des Herrn Richter")
+Jamnay,23.4.,Rosalia,Ferdinand,Schlesinger,74 (Ehefrau,#144,Beruf Häuslerausgedinger)
+Worlitschka,5.5.,Genoveffa,Franz,Krögler,64 (Ehefrau,#4,Beruf Inwohner)
+Jamnay,10.5.,Ferdinand,-,Schlesinger,76 (#144,Beruf Häuslerausgedinger)
+Worlitschka,22.5.,Elisabeth,Heinrich,Neugebauer,46 (#53,Beruf Feldgärtnerausgedinger)
+Worlitschka,5.6.,Cäcilia,Florian,Schlesinger,18 (#166)
+Worlitschka,5.6.,Wenceslaus,-,Wagner,48 (#14,Beruf Häusler)
+Worlitschka,3.7.,Anna,-,-,2y3m23d (#59)(Die Kindsmutter ist Tochter von Franz Schlesinger, der Feldgärtner war) U: Kind von Josepha Schlesinger
+Worlitschka,29.7.,Angelina,Franz Anton,Pfertner,55y8m (Ehefrau,#7,Beruf Feldgärtnerausgedingerin)
+
+DP 37
+
+Worlitschka,4.8.,Viktoria Angelina,Franz,Krögler,20d (#111,Beruf Häusl#)
+Worlitschka,19.8.,Joseph,-,Hehl#,25y4m19d (#68,Beruf Feldgärtner)
+Worlitschka,9.9.,Franz,Franz,Czernohorsky,12 (#101,Beruf Schuhmachermeister)
+Worlitschka,14.9.,Theresia,Franz,Hehl,20 (#68,Beruf Feldgärtner)
+Worlitschka,19.9.,Theresia,Franz,Hehl,50 (Witwe,#68,Beruf Feldgärtner)
+Worlitschka,24.9.,Vinzenz,-,Pauk,29y7m8d (#84,Beruf Häusler)
+Worlitschka,7.10.,Philipp,Gotthard,Heisler,3y4m28d (#146,Beruf Häusler)
+Worlitschka,7.10.,-,Aloys,Schlesinger,- (#171,Beruf Häusler)(Nachfolgender Text schwer lesbar,Sohn)
+Worlitschka,25.10.,-,-,-,- (#111)(Die Kindsmutter ist Tochter des Anton Krögler aus #111, Kind war ein Sohn) U: Kind von Elisabeth Krögler
+Worlitschka,9.11.,Franziska,Franz Anton,Krögler,7y8m14d (#159,Beruf Häusler und #)(Text nach "Krögler" schwer lesbar)
+Worlitschka,12.12.,Rosalia,Heinrich,Wagner,81 (Witwe,#153,Beruf Tischlermeister)
+Blumenau,10.12.,Franz,-,Krögler,64 (#4,Beruf Inwohner und Hausierer#)
+
+1828
+
+Worlitschka,24.1.,Joseph,Joseph,Weinlich,6m24d (#104,Beruf Feldgärtner)
+Worlitschka,14.2.,Johann,Franz,Czernohorsky,11d (#101,Beruf Schuhmachermeister)
+Worlitschka,26.2.,Helena,Franz,Schlesinger,52 (Ehefrau,#72,Beruf Inwohner)
+Worlitschka,5.3.,Anna,Engelbert,Weinlich,6m8d (#74,Beruf Schuhmacher)
+Worlitschka,7.3.,Anna,Johann,Weinlich,1y5m21d (#161,Beruf Wagnermeister#)
+Worlitschka,11.3.,Joseph,Leopold,Czernohorsky,1d (#115,Beruf Gärtner)
+Worlitschka,12.3.,Johann,Anton,Hehl,21d (#18,Beruf Häusler)
+Worlitschka,13.3.,Aloys,Benedikt,Gabler,7m15d (#75,Beruf Schuhmachermeister und #)
+Worlitschka,18.3.,Cäcilia,Leomund#,Feltzmann,1y10m1d (#79,Beruf Häusler)
+Worlitschka,25.3.,Johanna,Gotthard,Krögler,70 (Witwe,#134,Beruf Feldgärtnerausgedinger)
+Worlitschka,15.4.,Aloys,Gotthard,Krögler,11y9m12d (#134,Beruf # und Handelsmann und Feldgärtner)
+Worlitschka,20.5.,Leopold,-,Czernohorsky,70 (#115,Beruf Invalide nach 32jährigem Kriegsdienst)
+Worlitschka,25.5.,.Aloys,Benedikt,Krögler,1y5m15d (#125,Beruf Häusler und Hausierer)
+Worlitschka,5.6.,Johann,-,-,19d (#91)(Die Kindsmutter ist Tochter des Franz Anton Dittrich) U: Kind von Genoveffa Dittrich
+Worlitschka,20.7.,Aloys,Vinzenz,Pauk,1y21d (#84,Beruf Häusler)
+Worlitschka,20.7.,Benedikt,Benedikt,Dittrich,1y6m26d (#91,Beruf Häusler)
+
+DP 39
+
+Worlitschka,20.7.,Franz,Leopold,Heisler,10y10m19d (#42,Beruf Inwohner)
+Worlitschka,22.7.,Anna,Franz,Bier,4m16d (#114,Beruf Häusler)
+Worlitschka,22.7.,Ignatz,-,Heisler,66 (#145,Beruf Ausgedienter # und Inwohner)
+Worlitschka,25.7.,Johann,-,-,11m11d (#151)(Die Kindsmutter ist Tochter von Johann Schlesinger, der Häusler war) U: Kind von Viktoria Schlesinger
+Worlitschka,4.8.,Franziska,Gotthard,Heisler,2m20d (#146,Beruf Häusler)
+#,13.8.,Anton,-,Dittrich,83 (#123,Beruf #)
+Worlitschka,20.8.,Franz,-,-,9m26d (#116)(Die Kindsmutter ist Tochter eines Häuslers mit Namen Weinlich und war ledig) U: Kind von Cäcilia Weinlich
+Worlitschka,25.8.,Viktoria,Gottlieb,Schiel,5y4m5d (#123,Beruf Feldgärtner)
+Worlitschka,9.9.,Karl,-,Pfertner,72 (#86)
+Worlitschka,16.9.,Aloys,Aloys,Heisler,10d (#155,Beruf Hausbesitzer und Händler)
+Worlitschka,3.10.,Maria Josepha,Peregrin,Langhammer,3m11d (#60,Beruf Häusler)
+Worlitschka,13.10.,Vinzenz,Anton,P#,1y9m13d (#158,Beruf Inwohner)
+Worlitschka,17.10.,Josepha,Franz,Schlesinger,7m16d (#67,Beruf Häusler)
+Worlitschka,1.11.,Maria Theresia,Aloys,Weinlich,1y14d (#23,Beruf Händler)
+Worlitschka,1.11.,Vinzenz,Franz,Weinlich,1y1m4d (#48,Beruf Händler)
+Worlitschka,10.11.,Genoveffa,Joseph,Wagner,33y8m3d (Ehefrau,#38,Beruf Häusler)
+Worlitschka,12.11.,Viktoria,Stephan,Heisler,5m24d (#143,Beruf Häusler)
+Worlitschka,26.11.,Franz,Benedikt,Gabler,2y7m10d (#75,Beruf Schuhmachermeister und Kirchvater#)
+Worlitschka,3.12.,Anna,Anton,Chladek,3y1m10d (#105,Beruf Dorfgärtner)
+Worlitschka,6.12.,Joseph,Franz,Schlesinger,8m11d (#130,Beruf Häusler)
+Jamnay,13.12.,Franziska,Se#,Bechaczek,1y4m3d (#91)
+
+1829
+
+Worlitschka,10.1.,Johann,Benedikt,Schlesinger,2m16d (#129,Beruf Häusler)
+Worlitschka,11.1.,Dorothea,Karl,Czastek,63 (Witwe,#109,Beruf Schneidermeisterin)(Ist der Beruf so gemeint, dass sie selbst ihn ausübte, oder dass sie die Witwe des Schneidermeisters war?)
+Worlitschka,12.1.,Karolina,Johann,Schlesinger,1m12d (#71,Beruf #)
+Worlitschka,18.1.,Anton,-,Schlesinger,61 (#106,Beruf Inwohner)
+Worlitschka,25.1.,Cäcilia,Johann,Heisler,8m21d (#85,Beruf Händler)
+Worlitschka,25.1.,-,Benedikt,Schlesinger,- (#61,Beruf Händler)("genottauft")
+Worlitschka,13.2.,Anna Maria,Peregrin,Weinlich,62 (Ehefrau,#1,Beruf Altgeschworener und Fleischhauer und Baugrundbesitzer)
+Worlitschka,13.2.,Theresia,Joseph,Wagner,56 (Ehefrau,#39,Beruf Häusler)
+Worlitschka,15.2.,Maria Josepha,Johann,Heisler,27d (#65,Beruf Häusler)
+Worlitschka,25.2.,Aloys,Peregrin,Wagner,2m9d (#153,Beruf Tischlermeister)
+Worlitschka,2.3.,Josepha,Peregrin,Langhammer,28y3m17d (#60,Beruf Häusler)
+
+DP 41
+
+Worlitschka,11.3.,Cäcilia,Johann,Krögler,11m3d (#92,Beruf Hausbesitzer und Händler)
+Worlitschka,16.3.,-,-,-,1d (#154)(Die Kindsmutter ist Tochter des Franz Schlesinger, eines Häuslers aus Worlitschka, das verstorbene Kind war weiblich) U: Kind von Cäcilia Schlesinger
+Worlitschka,15.4.,Theresia,Johann,Weinlich,74 (Ehefrau,#93,Beruf Inwohner und #)
+Worlitschka,25.4.,Viktoria,Peregrin,Pfertner,10m15d (#144,Beruf Häusler)
+Worlitschka,2.5.,Johanna,Joachim,Chladek,23y2m26d (#138,Beruf Häusler)
+Worlitschka,4.5.,Viktoria,Franz Karl,Schlesinger,22y2m9d (#63,Beruf Häusler)
+Worlitschka,22.5.,Leopold,Gotthard,Schlesinger,7m4d (#34,Beruf Feldgärtner)
+Worlitschka,24.6.,Aloys,Florian,Schlesinger,14 (#82,Beruf Inwohner #)(Text danach schwer lesbar)
+Worlitschka,26.6.,Joseph,Wenceslaus,Neugebauer,2m7d (#150,Beruf Häusler)
+Worlitschka,1.7.,Josepha,Leopold,6m (#94,Beruf Häusler)
+Worlitschka,12.9.,Josepha,-,Heisler,28 (#93)(Beruf Dienstmagd aus dem Wirtshause zu # nächst Grulich, gebürtig und aufgezogen in Worlitschka, hinterlässt ihr 23 Tage altes Kind #)
+Worlitschka,17.9.,Leopold,-,Gabler,54y6m (#43,Beruf Häusler)
+Worlitschka,17.9.,Johann,Johann,Krögler,3y2m22d (#30,Handelsmann und Häusler)
+Jamnay,7.10.,Katharina,Anton,Prokopecz,56 (#85)
+Worlitschka,14.10.,Wenceslaus,-,Schlesinger,55 (#98,Beruf Inwohner)
+Worlitschka,24.10.,Joseph,Johann,Krögler,1d (#143,Beruf Inwohner)
+Worlitschka,13.11.,Paulina,Benedikt,Weinlich,59 (Ehefrau,#23,Beruf #gerbermeister und Inwohner)
+Worlitschka,21.11.,Maria Theresia,Johann,Schlesinger,3y6m7d (#25,Beruf Feldgärtner)
+Jamnay,29.11.,Theresia,-,Schlesinger,30 (#144,Beruf # und Inwohnerin)(ledig)
+Worlitschka,30.11.,Theresia,Gotthard,Heisler,56 (Witwe,#29,Beruf Häusler)
+Worlitschka,8.12.,Apollonia,Johann Wenceslaus,Heisler,72 (Ehefrau,#65,Häuslerausgedinger)(Text danach schwer lesbar)
+
+DP 43
+
+Worlitschka,28.12.,Johann,Benedikt,Pfertner,12d (#28,Beruf Häusler)
+Worlitschka,13.12.,Franz,-,Schlesinger,48 (#130,Beruf Häusler und #)
+Worlitschka,23.12.,Johann,-,Pfertner,47 (#64,Beruf Häusler und Schuhmachermeister)(Text danach schwer lesbar)
+Worlitschka,30.12.,Theresia,Aloys,Schlesinger,27 (Ehefrau,#35,Beruf Händler und Hausbesitzer)
+
+1830
+
+Worlitschka,16.1.,Franz,-,Schlesinger,65 (#172,Beruf Häusler und Händler)
+Worlitschka,16.2.,Theresia,Anton,Hehl,66 (#66,Beruf Häusler und Händler)
+Worlitschka,15.3.,Theresia,Franz,Koller,66 (Witwe,#172,Beruf #)
+Worlitschka,20.3.,Anna Maria,Franz,Krögler,73 (Ehefrau,#163,Beruf Häuslerausgedinger)
+Worlitschka,25.3.,Karl,-,Schlesinger,66 (#72,Beruf #ausgedinger)
+Worlitschka,2.4.,Franz,-,Krögler,68 (#137,Beruf Häusler)
+Worlitschka,8.4.,Johann,Benedikt,Schlesinger,5m3d (#61,Beruf Häusler)
+Worlitschka,12.4.,Josepha,Peregrin,Wagner,3m16d (#153,Beruf Tischlermeister)
+Worlitschka,23.5.,Joseph,Joseph,Bauchal,4m12d (#93,Beruf Schuhmachermeister und Inwohner)
+Worlitschka,2.6.,Franz,Joseph,Pfertner,3m11d (#69,Beruf Häusler)
+Worlitschka,10.7.,Apollonia,Franz,Polak,60 (Ehefrau,#11,Beruf Glasermeister und Inwohner)
+Worlitschka,25.7.,Cäcilia,Joseph,Wagner,1m25d (#38,Beruf Häusler)
+Worlitschka,27.8.,Anna,Gotthard,Dittrich,77 (Witwe,#127,Beruf Häusler #)
+Worlitschka,29.8.,Genoveffa,Gotthard,Schiel,67 (Witwe,#74,Beruf Häusler #)
+Worlitschka,3.10.,Johann,Johann,Gritzbauch,5m9d (#77,Beruf Bauer)
+Worlitschka,6.10.,Franz,Gottlieb,Schlesinger,5y2m9d (#24,Beruf Häusler)
+Worlitschka,15.11.,Franz,Johann,Czernohorsky,4d (#164,Beruf Schuhmacher und Häusler)
+Worlitschka,2.12.,Johann Wenceslaus,-,Heisler,82 (#65)(Was bedeutet "jubilierter Ehmann"? Goldene Hochzeit etc?)
+Jamnay,10.12.,Aloys,Anton,Prokopecz,20 (#85,Beruf Tischlergesell)(ledig)
+
+DP 45
+
+Worlitschka,10.12.,Gotthard,-,Chladek,71 (#105,Beruf Feldgärtnerausgedinger)
+Worlitschka,16.12.,Juliana,Ferdinand,Wiesner,65 (#90,Beruf Häuslerausgedinger)
+Worlitschka,18.12.,Franz,-,Krögler,53 (#11#,Beruf Dienstknecht und gewesen Feldwebel bei der #)(längere schwer lesbare Textpassage)
+Worlitschka,20.12.,Katharina,Sigmund,Neugebauer,70 (#27,Beruf Häusler)
+Worlitschka,24.12.,Johann,Karl,Weinlich,2y1m10d (#156,Beruf Schneidermeister#)(Schneidermeister oder Schmiedemeister?)
+
+1831
+
+Worlitschka,31.1.,Cäcilia,Benedikt,Gabler,16d (#75,Beruf Kirchvater und Schuhmachermeister)
+Worlitschka,6.2.,Cäcilia,Wenceslaus,Czernohorsky,77 (Witwe,#49,Beruf Ausgedinger#)
+Worlitschka,9.2.,Cäcilia,Franz,Krögler,24y3m3d (Ehefrau,#96,Beruf Händler und Hausbesitzer)
+Worlitschka,5.3.,Johanna,Anton,Schlesinger,52 (Witwe,#148,Beruf # und Inwohnerin)
+Worlitschka,28.3.,Anna,Aloys,Gregor,2y8m (#136,Beruf Bäckermeister)
+Worlitschka,29.3.,Maximilian,Wenceslaus,Schlesinger,1y5m17d (#20,Beruf Häusler)
+Worlitschka,29.3.,Elisabeth,Anton,P#,10m17d (#34,Beruf Inwohner und abgedienter# Landwehrfeldwebel)
+Worlitschka,31.3.,Cäcilia,Franz,Krögler Junior,2m (#96,Beruf Händler und Hausbesitzer)
+Worlitschka,1.4.,Joseph,Franz,Sed#ik,1m16d (#126,Beruf Häusler)
+Worlitschka,6.4.,Paulina,Gotthard,Czastek,1y5m13d (#109,Beruf Schneidermeister#)(Schneidermeister oder Schmiedemeister?)
+Worlitschka,3.6.,Anton,-,Knoll,68 (#128,Beruf Häusler)
+Worlitschka,28.6.,Benedikt,Franz,Gabler,2m13d (#57,Beruf # und Hausbesitzer)
+Worlitschka,24.7.,Genoveffa,Joseph,Gabler,24y7m (#51,Beruf Häusler)
+Worlitschka,25.7.,Angelina,Leopold,Weinlich,54y9m18d (Ehefrau,#95,Beruf Baugrundbesitzer)
+Worlitschka,12.8.,Franz,-,Heisler,50 (#94,Beruf Inwohner)
+Worlitschka,29.8.,Benedikt,Benedikt,Heisler,4m (#66,Beruf Händler und Hausbesitzer)
+Worlitschka,16.9.,Johann,Franz,Dittrich,5m (#127,Beruf Händler und Hausbesitzer)
+
+DP 47
+
+Worlitschka,26.9.,Aloys,Georg,Sednik,5d (#126,Beruf Maurergesell)
+Worlitschka,10.10.,Franz,Johann,Czernohorsky,1y19d (#110,Beruf Weber und Inwohner)
+Worlitschka,11.10.,Johann,-,-,10d (#4)(Die Kindsmutter war ledige Dienstmagd, Tochter von Franz Wondra, Hausbesitzer in #4) U: Kind von Marianna Wondra
+Worlitschka,14.10.,Mathilde,-,-,8m6d (#154)(Die Kindsmutter war Dienstmagd und Tochter des Franz Schlesinger, Häusler in Worlitschka) U: Kind von Josepha Schlesinger
+Worlitschka,20.10.,Johann,Johann,Chladek,12d (#8,Beruf Hausbesitzer)
+Worlitschka,2.11.,Vinzenz,Franz,Gabler Junior,3d (#44,Beruf Baugrundbesitzer)
+Worlitschka,5.11.,Benedikt,Benedikt,Schlesinger Junior,1y4m22d (#166,Beruf Inwohner)
+Worlitschka,13.11.,Franz,-,Weinlich,67y4m28d (#104,#ausgedinger)(nachfolgender Text schwer lesbar)
+Worlitschka,25.12.,Philipp,Ignatz,Czastek,15 (#112,Beruf Schneidermeister)
+
+1832
+
+Worlitschka,#,24.1.,Theodor,-,Knoll,67 (#25,Beruf Schneider und Inwohner)
+Worlitschka,26.1.,Elisabeth,-,Weis#,72# (Witwe,#16,Beruf Häuslerausgedingerin)
+Worlitschka,29.1.,Johann,Johann,Krögler,9d (#17,Beruf Hausbesitzer)
+Worlitschka,10.2.,Aloys,Aloys,Heisler,6d (#155,Beruf Händler und Hausbesitzer)
+Worlitschka,21.2.,Franz,-,-,3y7m21d (#111)(Die Kindsmutter ist Tochter des Heinrich Krögler, der Inwohner war) U: Kind von Viktoria Krögler
+Worlitschka,6.3.,Veronika,-,Koblischke,73 (Witwe,#38,Beruf Häuslerausgedingerin)
+Worlitschka,7.3.,Viktoria,Franz Karl,Schlesinger,49 (Ehefrau,#63,Beruf Häusler)
+Worlitschka,21.3.,Juliana,Wenceslaus,Feltzmann,67 (Ehefrau,#167,Beruf Häusler)
+Worlitschka,25.3.,Joseph,-,Wagner Junior,36y1m9d  (#38,Beruf Händler und Hausbesitzer)
+Worlitschka,26.3.,Anna,Joseph,Bauchal,6m15d (#93,Beruf Schuhmachermeister und Inwohner)
+Worlitschka,3.4.,Theresia,Johann,Dittrich,1y2m23d (#21,Beruf Händler und Hausbesitzer)
+Worlitschka,16.4.,Theresia,Franz Anton,Schlesinger,79y6m (Witwe,#25,Beruf Baugrundbesitzer)
+Worlitschka,23.4.,Elisabeth,Ignatz,H#e,66 (Ehefrau,#4,Beruf Inwohner)
+Worlitschka,30.4.,Johann,Anton,Hehl Junior,4m17d (#18,Beruf Häusler)
+Worlitschka,3#.5.,Gotthard,-,Weinlich,66 (#12,Beruf Händler und Ausschußmann und Hausbesitzer)
+
+DP 49
+
+Worlitschka,9.5.,Viktoria,Johann,Krögler,2y2m16d (#17,Beruf Händler und Hausbesitzer)
+Worlitschka,12.5.,Barbara,Wenceslaus,Hehl,55 (Ehefrau,#165,Beruf Häuslerausgedinger)
+Worlitschka,18.5.,Philipp,Stephan,Heisler,6m16d (#143,Beruf Hausbesitzer)
+Worlitschka,19.5.,Marianna,Franz,Illichman,42 (Ehefrau,#98,Beruf Müllermeister)
+Worlitschka,21.5.,Rosalia,Anton,Hehl,52 (Ehefrau,#18,Beruf Inwohner)
+Worlitschka,22.5.,Franziska,Franz,Czastek,9d (#109,Beruf Feldgärtner)
+Worlitschka,23.5.,Joseph,Franz,Illichman,7d (#98,Beruf Müllermeister)
+Worlitschka,16.7.,Viktoria,Johann,Weinlich,6m4d (#37,Beruf Händler und Hausbesitzer)
+#,17.7.,Franz,Peregrin,Hrdina,24y3m (#28)(Peregrin Hrdina war Händler und Hausbesitzer in #70)
+Worlitschka,15.8.,Ignatz,-,Krögler,23d (#89)(Ignatz war unehelicher Sohn von Marianna, Tochter des Johann Krögler, Hausbesitzer in Worlitschka) U: Kind von Marianna Krögler
+Worlitschka,29.8.,Josepha,Benedikt,Schlesinger,6m23d (#61,Beruf Händler und Hausbesitzer)
+#,29.8.,Franz,-,Wagner,25y1m24d (#15,Beruf Händler und Hausbesitzer)(Text danach schwer lesbar)
+Worlitschka,14.9.,Johann,Karl,Weinlich,12d (#156,Beruf Schmidmeister# und Hausbesitzer)
+Worlitschka,16.9.,Aloys,Karl,Weinlich,14d (#156,Schmidmeister# und Hausbesitzer)
+Worlitschka,1.10.,Benedikt,Ferdinand,Koblischke,31 (#38,Beruf # und Bettler)
+Worlitschka,2.10.,Leopold,-,Schlesinger,64 (#56,Beruf Häuslerausgedinger und Garnhändler)
+Worlitschka,24.11.,Johanna,Wenceslaus,Schlesinger,71y4m4d (Witwe,#20,Beruf Fleischhauer und Hausbesitzer)
+Worlitschka,27.11.,Cäcilia,Benedikt,Heisler,3y8m6d (#66,Beruf Händler und Hausbesitzer)
+Worlitschka,29.11.,Gottlieb,-,Schlesinger,79y22d (#166,Beruf Häuslerausgedinger und #)
+Worlitschka,2.12.,Joseph,Franz,Czernohorsky,13d (#117,Beruf Feldgärtner)
+Worlitschka,5.12.,Angelina,Leopold,Schlesinger,36y9m23d (Ehefrau,#168,Beruf Hausbesitzer und ausgedienter Infanterist)
+Worlitschka,9.12.,Franziska,Aloys,Schlesinger,13d (#105,Beruf Händler und Gärtner)
+Worlitschka,16.12.,Franz,Johann,Krögler,12 (#92,Beruf Händler und Hausbesitzer)
+
+DP 51
+
+1833
+
+Worlitschka,27.1.,Johann,-,Weinlich,80 (#93,Beruf Inwohner und #)
+Worlitschka,15.2.,Juliana,Wenceslaus,Schlesinger,65 (Witwe,#19,Beruf Häusler)
+Worlitschka,17.2.,Heinrich,-,Wagner,73 (#60,Beruf Ausgedinger)
+Worlitschka,20.2.,Franz,-,Weinlich,70 (#37,Beruf Ausgedinger)
+Worlitschka,1.3.,Anna,Peregrin,Neugebauer,5 (#54,Beruf Häusler)
+Worlitschka,25.3.,Theresia,Ludwig,Czernohorsky,74 (Ehefrau,#115,Beruf Ausgedinger)
+Worlitschka,26.3.,Cäcilia,Georg,Sed#ik,20d (#126,Beruf Hausbesitzer)
+Worlitschka,27.3.,Elisabeth,-,Sedlaczek,80 (#19)(Nachfolgender Text schwer zu lesen)
+Worlitschka,15.4.,Vinzenz,Peregrin,Neugebauer,5d (#54,Beruf Hausbesitzer)
+Worlitschka,28.4.,Anna,Leopold,Weis,24d (#13,Beruf Hausbesitzer)
+Worlitschka,13.5.,Theresia,Johann,Krögler,10d (#17,Beruf Hausbesitzer)
+Worlitschka,13.5.,Ludwig,-,Czernohorsky,84 (#115,Beruf Ausgedinger)
+Worlitschka,17.5.,Viktoria,Aloys,Czastek,28 (Ehefrau,#137,Beruf Inwohner)
+Worlitschka,16.6.,Franz,Leopold,Weis,2y6m (#13,Beruf Hausbesitzer)
+Worlitschka,20.6.,Cäcilia,Benedikt,Gabler,10m21d (#75,Beruf Hausbesitzer)
+Worlitschka,20.7.,Johann,-,-,8d (#159)(Die Kindsmutter ist Tochter von Franz Krögler in Worlitschka #159, sie ist ledig) U: Kind von Cäcilia Krögler
+Worlitschka,27.8.,Beata#,-,Knoll,53y2m10d (Witwe,#4,Beruf Inwohnerin)
+Worlitschka,16.9.,Cäcilia,Peregrin,Pfertner,3y8d (#144,Beruf Hausbesitzer)
+Worlitschka,8.10.,Genoveffa,Franz# Joseph,Pfertner#,36y7m22d (Ehefrau,#69,Beruf Häusler)
+Worlitschka,4.11.,Aloys,Franz Joseph,Pfertner#,1m26d (#69,Beruf Häusler)
+Worlitschka,23.9.,Franz,Wenceslaus,Katzer#,7d (#2,Beruf Häusler)(Nachname schwer zu lesen, unsicher)
+Worlitschka,17.11.,Mathilde,Joseph,Weinlich,6m (#104,Beruf Feldgärtner)
+Worlitschka,30.11.,Ferdinand,-,W#,68y1m25d (#90,Beruf Hausbesitzer)(Nachname schwer zu lesen)
+
+DP 53
+
+Worlitschka,2.12.,Franz,-,Krögler,75y2m25d (#163,Beruf Häuslerausgedinger)
+Worlitschka,5.12.,Theresia,-,Weinlich,61y6m10d (#104,Beruf Bauerausgedinger#)
+
+1834
+
+Worlitschka,1.1.,Elisabeth,-,Schmid,61y3m12d (#17,Beruf Inwohnerin)
+Worlitschka,6.1.,Josepha,Franz#,Schlesinger,54y9m1d (Ehefrau,#154,Beruf Häuslerausgedinger)
+Worlitschka,12.1.,Franz,-,Schlesinger,40y9m18d (#67,Beruf Hausbesitzer und Händler)
+Worlitschka,14.1.,Wenceslaus,-,Feltzmann,69 (#167,Beruf Häuslerausgedinger)
+Worlitschka,15.1.,Franz,Karl,Schlesinger,15d (#90,Beruf Inwohner)
+Worlitschka,27.1.,Peregrin,-,Weinlich,69y22d (#1,Beruf Fleischhauer und Alt#)
+Worlitschka,13.2.,-,Johann,Weinlich,- (#1,Beruf Bauer#)("Notgetauft von der Hebam")
+Worlitschka,14.2.,Cäcilia,Franz,Czastek,5d (#109,Beruf Dorfgärtner)
+Worlitschka,22.2.,Viktoria,Johann,Weinlich,38y3m (#1,Beruf Bauer)
+Worlitschka,24.2.,Philipp,Gotthard,Heisler,1d (#146,Beruf Hausbesitzer)
+Worlitschka,25.2.,Johann,Johann,Weinlich,11d (#1,Beruf Bauer)
+Worlitschka,27.2.,Vinzenz,Leopold,Czernohorsky,6d (#115,Beruf Feldgärtner)
+Worlitschka,28.2.,Cäcilia,Heinrich,Steyskal,10m (#146)
+Worlitschka,1.3.,Sigmund,-,Neugebauer,70 (#27,Beruf Häuslerausgedinger)
+Worlitschka,21.3.,Josepha,Johann,Heisler,1d (#122,Beruf Hausbesitzer)
+Worlitschka,21.3.,Maria,Johann,Heisler,1d (#122,Beruf Hausbesitzer)
+Worlitschka,27.3.,Josepha,Johann,Illichman,1d (#98,Beruf Müllermeister #)
+Worlitschka,8.4.,Viktoria,Peregrin,Pfertner#,3m16d (#144,Beruf Hausbesitzer)
+
+DP 55
+
+Jamnay,11.4.,Viktoria#,Peregrin,Prokopecz,8d (#85)
+Worlitschka,16.4.,Benedikt,Wagner#,66y1m12d (#73,Beruf Tischlermeister)
+Worlitschka,18.4.,Johann,-,Weinlich,37y3m14d (#161,Beruf Wagnermeister)
+Worlitschka,1.5.,Theresia,Franz,Wagner,76y7m (Witwe,#75,Beruf #)
+Worlitschka,1.8.,Franz,Gotthard,K#,22y3m5d (#78,Beruf Häusler)(Nachname schwer lesbar)
+Worlitschka,28.8.,Wenceslaus,-,Katzer,34y7m19d (#2,Beruf Hausbesitzer und Müllergeselle)
+Worlitschka,30.9.,Johann#,L#,Schlesinger,19y4m1d (#36#,Beruf Inwohner)
+Worlitschka,2.10.,Franziska,Benedikt,Schlesinger,1y2m1d (#61,Beruf Hausbesitzer und Händler)
+Worlitschka,20.10.,Viktoria,Wenceslaus,Katzer,7d (#2,Beruf Hausbesitzer)(Der am 2.8.1834 verstorbene Wenceslaus Katzer ist der Vater)
+Worlitschka,27.10.,Elisabeth,Joseph,Pfertner,39y4m15d (#163#,Beruf Inwohner)(Joseph lebte in #135)
+Worlitschka,27.10.,Joseph,Joseph,Bauchal,1y3m9d (#93,Beruf Inwohner)
+Worlitschka,17.11.,Leopold,-,Neugebauer,41y8m1d (#27,Beruf Hausbesitzer und Händler)
+Worlitschka,22.11.,Viktoria,Leopold,Schlesinger,21y5m20d (#56,Beruf Inwohner)
+Worlitschka,28.11.,Anna,Franz,Schlesinger,2m18d (#67,Beruf Hausbesitzer)(Franz Schlesinger starb am 12.1.1834 in Worlitschka)
+Worlitschka,30.11.,Karolina,Aloys,Schlesinger,1y2m2d (#151,Beruf Hausbesitzer)
+Worlitschka,22.12.,Johann,Wenceslaus,Krögler,74y1m3d (#131,Beruf Häuslerausgedinger)
+
+DP 57
+
+Worlitschka,14.1.,Johann,Johann,Gritzbauch,7m14d (#77,Beruf Bauer)(Mutter von Johann und Ehefrau von Johann sen. war Cäcilia, geb. Kuczilek, ihr Vater war Bauer in #134)
+Worlitschka,22.1.,Marianna,Florian,Schlesinger,35y3m29d (Ehefrau,#22,Beruf Häusler)
+Worlitschka,31.1.,Joseph Franz,-,-,11d (#34)(Cäcilia ist Tochter von Anton P#, der Inwohner in #34 war) U: Kind von Cäcilia P# 
+Worlitschka,1.2.,Heinrich,-,Krögler,71y7m1d (#30,Beruf Häusler)
+Worlitschka,8.3.,Franz,Leopold,Gabler,2m2d (#38,Beruf Häusler)(Mutter von Franz war Viktoria, geb. Neugebauer, Ehefrau von Leopold)
+Worlitschka,9.3.,Viktoria,Johann,Krögler,1m12d (#89,Beruf Häusler)(Mutter von Viktoria und Ehefrau von Johann war Marianna, geb. Schlesinger)
+Worlitschka,17.3.,Elisabeth,Johann,Weigl#,74y2m5d (Witwe,#27,Beruf Inwohner)(Die Verstorbene war geb. Gritzbauch)
+Jamnay#,19.3.,Mathilde,Peregrin,Prokopecz,1m5d (#85)(Mutter von Mathilde und Ehefrau von Peregrin war Josepha, geb. Gabler, ihr Vater war Häusler in Worlitschka #43)
+Worlitschka,26.3.,Joseph,Aloys,Weinlich,8d (#9,Beruf Fleischhauermeister)(Mutter von Joseph und Ehefrau von Aloys war Cäcilia, geb. Hehl, Tochter des Benedikt Hehl, Häusler aus #36)
+Worlitschka,30.3.,Wenceslaus,-,Hehl,60y17d (#165,Beruf Häuslerausgedinger)
+Worlitschka,14.4.,Franz,Benedikt,Krögler,1y1m2d (#125,Beruf Häusler)(Mutter von Franz und Ehefrau von Benedikt war Josepha, geb. Heisler, deren Vater Häusler in #125 war)
+Worlitschka,29.4.,Anna,Johann,Gritzbauch,3y3m16d (#77,Beruf Bauer)(Mutter von Anna und Ehefrau von Johann war Cäcilia, geb. Krögler, deren Vater Bauer und Händler in #134 war)
+Worlitschka,12.5.,Anna,Franz,Czastek,8d (#109,Beruf Dorfgärtner)(Mutter von Anna und Ehefrau von Franz war Paulina, geb. Weinlich, Tochter des Franz Weinlich, Bauer in #104)
+Worlitschka,18.5.,Hubert,Johann,Schlesinger,1y5m28d (#11,Beruf Erbrichter)(Mutter von Hubert und Ehefrau von Johann war Theresia, geb. Kubitschek, deren Vater Bauer in #7 in Ho# in Mähren Herrschaft Ehrenberg war)
+Worlitschka,20.5.,Leopold,-,Wagner,36y8m4d (#90,Beruf Häusler und Händler)
+Worlitschka,22.5.,Wenceslaus,-,Pauk,78y5m (#84,Beruf Häuslerausgedinger)
+Worlitschka,25.5.,Joseph,-,Weinlich,40y4m12d (#104,Beruf Bauer und Händler)
+
+DP 59
+
+Worlitschka,27.6.,Josepha,Franz,Gritzbauch,1d (#12,Beruf Häusler)(Mutter von Josepha und Ehefrau von Frank war Josepha, geb. Weinlich, aus #77)
+Worlitschka,27.6.,Franz,Franz,Gritzbauch,1d (#12,Beruf Häusler)(Mutter von Josepha und Ehefrau von Frank war Josepha, geb. Weinlich, aus #77)
+Worlitschka,4.7.,Franz,Franz,Schmid,30y3m1d (#17,Beruf #geselle)(Mutter von Franz und Ehefrau von Franz sen. war Elisabeth, geb. Krögler, deren Vater Häusler in #48 war)
+Worlitschka,7.7.,Johann,Aloys,Heisler,12d (#155,Beruf Häusler)(Mutter von Johann und Ehefrau von Aloys war Anna, geb. Steyskal, deren Vater Feldgärtner in #146 war)
+Worlitschka,1.8.,Ignatz,Ignatz,Weinlich,21d (#123,Beruf Inwohner)(Mutter von Ignatz und Ehefrau von Ignatz sen. war Franziska, geb. Pauk, deren Vater Häusler in #84 war)
+Worlitschka,3.8.,Cäcilia,Benedikt,Gabler,1d (#75,Beruf Kirchdiener#)(Mutter von Cäcilia und Ehefrau von Benedikt war Genoveffa, geb. Czernohorsky, deren Vater Häusler in #115 war)
+Worlitschka,5.9.,Franz,Johann,Czernohorsky,13d (#49,Beruf Bauer)(Mutter von Franz und Ehefrau von Johann war Franziska, geb. Schiel#, deren Vater Bauer in #123 war)
+Worlitschka,20.9.,Vinzenz,Franz,Weinlich,3y8m25d (#48,Beruf Dorfgärtner)(Mutter von Vinzenz und Ehefrau von Franz war Juliana, geb. Pfertner#, deren Vater Feldgärtner in #48 war)
+Worlitschka,27.9.,Josepha,Franz,Weinlich,1y9m11d (#48,Beruf Dorfgärtner)(Mutter von Josepha und Ehefrau von Franz war Juliana, geb. Pfertner, deren Vater Feldgärtner in #48 war)
+Worlitschka,3.10.,Karolina,Franz,Schlesinger,4m (#53,Beruf Feldgärtner)(Mutter von Karolina und Ehefrau von Franz war Polexina, geb. Schlesinger, deren Vater Bauer in #71 war)
+Worlitschka,14.10.,Cäcilia,-,-,1y11m6d (#139)(Mutter von Cäcilia war Franziska, geb. Krögler, Tochter des Thaddäus Krögler, der Inwohner in #139 war)
+Worlitschka,31.10.,Cäcilia,Johann,Czernohorsky,6y9m2d (#110,Beruf Inwohner und Webermeister)(Mutter von Cäcilia und Ehefrau von Johann war Genoveffa, geb. Koblischke, deren Vater Häusler in #28 war)
+Worlitschka,6.11.,Franz,Philipp,Schlesinger,2y7m (#81,Beruf Bauer)(Mutter von Franz und Ehefrau von Philipp war Johanna, geb. Weinlich, deren Vater Bauer in #1 war)
+Worlitschka,2.12.,Franz,Franz,Krögler,5y4m7d (#111,Beruf Häusler und Webermeister)(Mutter von Franz und Ehefrau von Franz sen. war Josepha, geb. Krögler, Tochter des Anton Krögler, der Häusler in #111 war)
+Worlitschka,3.12.,Eleonora,Wenceslaus,Heisler,65y10d (Ehefrau,#85,Beruf Schneidermeister# und Häuslerausgedinger)(Die Verstorbene war geb. Merta, ihr Vater war Häusler in #23, Schneidermeister oder Schmiedemeister?)
+Worlitschka,8.12.,Eleonora,Karl,Gabler,67y8m (Ehefrau,#57,Beruf Häuslerausgedinger)(Die Verstorbene war geb. Schlesinger, ihr Vater war Erbrichter in #11)
+
+DP 61
+
+Jamnay#,18.12.,Anna Maria,Joseph,Steyskal,65y2m3d (Ehefrau,#146,Beruf Ausgedienter)(Die Verstorbene war geb. Czernohaus, ihr Vater war Häusler in Jamnay #21#)
+Worlitschka,27.12.,Josepha,Karl,Weinlich,2m9d (#156,Beruf Schmiedemeister#)(Mutter von Josepha und Ehefrau von Karl war Marianna, geb. Byn#, deren Vater Häusler in Tschenkowitz #105 war)
+Worlitschka,27.12.,Anna,Aloys,Czastek,10m1d (#166,Beruf #meister und Inwohner)(Mutter von Anna und Ehefrau von Aloys war Franziska, geb. Rotter, deren Vater Inwohner in Tschenkowitz #67 war)
+Worlitschka,30.12.,Franz,-,Gregor,73y3m3d (#135,Beruf Häuslerausgedinger)(war Bäckermeister in Worlitschka gewesen)
+
+1836
+
+Worlitschka,1.1.,Joseph,Johann,Illichman,16d (#98,Beruf Müllermeister)(Mutter von Joseph und Ehefrau von Johann war Anna, geb. Dittrich, deren Vater Bauer in Neu# #14 Herschafft Grulich war)
+Worlitschka,6.1.,Franz Anton,-,Dittrich,75y1m1d (#91,Beruf Häuslerausgedinger)
+Worlitschka,14.1.,Elisabeth,Joseph,Dittrich,67y2m9d (Ehefrau,#102,Beruf Häuslerausgedinger)(Die Verstorbene war geb. Krögler)
+Worlitschka,26.1.,Johann Nepomuck,Johann,Schlesinger,16d (#26,Beruf Feldgärtner)(Mutter von Johann Nepomuck und Ehefrau von Johann sen. war Johanna, geb. Michalek)
+Worlitschka,21.3.,Vinzenz,Leopold,Czernohorsky,9d (#115,Beruf Feldgärtner)(Mutter von Vinzenz und Ehefrau von Leopold war Cäcilia, geb. Gritzbauch, deren Vater Bauer in #77 war)
+Worlitschka,28.3.,Franz,Franz,Schlesinger,6m27d (#62,Beruf Feldgärtner)(Mutter von Franz und Ehefrau von Franz sen. war Cäcilia, geb. Weinlich, deren Vater Müllermeister in #103 war)
+Worlitschka,2.4.,Franz,Franz,Gabler,10y4m5d (#57,Beruf Häusler)(Mutter von Franz und Ehefrau von Franz sen. war Agnes, geb. Heisler, deren Vater Hausbesitzer in #65 war)
+Worlitschka,5.4.,Joseph,Franz,Schlesinger,3y2m1d (#55,Beruf Häusler)(Mutter von Joseph und Ehefrau von Franz war Marianna, geb. Schlesinger, deren Vater Häusler in #157 war)
+Jamnay,22.4.,Joseph,Anton,Prokopecz,22y5m29d (#85,Beruf #)(Mutter von Joseph und Ehefrau von Anton war Katharina, geb. Steyskal, aus Jamnay #93)
+Worlitschka,22.4.,Franz,Gottlieb,Schlesinger,2y7m6d (#24,Beruf Häusler)(Mutter von Franz und Ehefrau von Gottlieb war Theresia, geb. Wiesner#, deren Vater Häusler in #90 war)
+Worlitschka,22.4.,Cäcilia,Johann,Schlesinger,3m21d (#26,Beruf Feldgärtner)(Mutter von Cäcilia und Ehefrau von Johann war Johanna, geb. Michalek, deren Vater Häusler in #79 war)
+
+DP 63
+
+Worlitschka,1.5.,Josepha,Franz,Schlesinger,5y21d (#55,Beruf Häusler)(Mutter von Josepha und Ehefrau von Franz war Marianna, geb. Schlesinger, deren Vater Häusler in #157 war)
+Worlitschka,1.5.,Stephan,Franz,Schlesinger,1y5m5d (#55,Beruf Häusler)(Mutter von Stephan und Ehefrau von Franz war Marianna, geb. Schlesinger, deren Vater Häusler in #157 war)
+Worlitschka,9.5.,Marianna,Franz,Hehl,38y2m12d (#19,Beruf #)(Mutter von Marianna und Ehefrau von Franz war Elisabeth, geb. Fi#, deren Vater Häusler in Ra#dorf #81 war)
+Worlitschka,6.6.,Anna#,Aloys,Schlesinger,8m6d (#151,Beruf Häusler)(Mutter von Anna# und Ehefrau von Aloys war Johanna, geb. Schlesinger, deren Vater Bauer# in #83 war, Name des Kindes Anna oder Maria?)
+Worlitschka,8.6.,Viktoria,Heinrich,Heisler,54y113d (Ehefrau,#145,Beruf Inwohner)(Die Verstorbene war geb. Schlesinger, ihr Vater war Bauer in #4#)
+Worlitschka,17.6.,Johann,Peregrin,Prokopecz,24d (#85)(Mutter von Johann und Ehefrau von Peregrin war Josepha, geb. Gabler#, deren Vater Häusler in #43 war)
+Worlitschka,1.7.,Vinzenz,Franz,Brix,5y2m1d (#114,Beruf Häusler)(Mutter von Vinzenz und Ehefrau von Franz war Viktoria, geb. Krögler, deren Vater Häusler in #30 war)
+Worlitschka,22.7.,Cäcilia,Aloys,Schlesinger,2y8m3d (#3,Beruf Häusler)(Mutter von Cäcilia und Ehefrau von Aloys war Viktoria, geb. Weinlich, deren Vater Häusler in #87 war)
+Worlitschka,31.7.,Theresia,B#,Feltzmann,3y7m1d (#79,Beruf Häusler)(Mutter von Theresia und Ehefrau ihres Vaters war Cäcilia, geb. Michalek, deren Vater Häusler in #79 war)
+Worlitschka,9.8.,Franziska,Aloys,Weinlich,1m2d (#9,Beruf Fleischhauermeister)(Mutter von Franziska und Ehefrau von Aloys war Cäcilia, geb. Hehl, deren Vater Häusler in #36 war)
+Worlitschka,26.8.,Viktoria,Aloys,Gregor,1y4m10d (#136,Beruf Bäckermeister)(Mutter von Viktoria und Ehefrau von Aloys war Marianna, geb. Wagner#, deren Vater Häusler in #15 war)
+Worlitschka,30.8.,Franz,Johann,Weinlich,3y8m28d (#1,Beruf Bauer#)(Mutter von Franz und Ehefrau von Johann war Viktoria, geb. Weinlich, deren Vater Bauer# in #82 war)
+Worlitschka,22.9.,Anna,Ignatz,Weinlich,1m25d (#108,Beruf Inwohner)(Mutter von Anna und Ehefrau von Ignatz war Franziska, geb. Pauk, deren Vater Häusler in #84 war)
+Worlitschka,17.11.,Josepha,Leopold,Krögler,42y4m3d (Ehefrau,#111,Beruf Inwohner)(Die Verstorbene war geb. Schlesinger, ihr Vater war Häusler in #62)
+
+DP 65
+
+#,17.11.,Viktoria,Aloys,Heisler,6y6m (#155,Beruf Häusler)(Mutter von Viktoria und Ehefrau von Aloys war Marianna, geb. Steyskal, deren Vater in #146 wohnte, Ortschaft schwer lesbar)
+Worlitschka,10.12.,Franz,-,Gabler,66y2m10d (#44,Beruf Bauerausgedinger#)
+
+1837
+
+Worlitschka,3.1.,Franz Johann,Leopold,Gabler,7m8d (#38,Beruf Häusler)(Mutter von Franz Johann und Ehefrau von Leopold war Viktoria, geb. Neugebauer, deren Vater Häusler in #54 war)
+Worlitschka,20.1.,Anna Maria,Franz,Wagner#,53 (Ehefrau,#76,Beruf Häusler)(Die Verstorbene war geb. Schiel)
+Worlitschka,28.1.,Franz,Franz Karl,Schlesinger,22d (#85,Beruf Inwohner)(Mutter von Franz und Ehefrau von Franz Karl war Joseph, geb. Wiesner#, deren Vater Häusler in #90 war)
+Worlitschka,9.2.,Karolina,Johann,Illichman,3d (#98,Beruf Müllermeister)(Mutter von Karolina und Ehefrau von Johann war Anna, geb. Dittrich, die aus Neudorf in Grulicher Herrschaft #18 kam)
+Worlitschka,14.2.,Johann,-,Czastek,33y5m21d (#112,Beruf Schneidermeister#)(Schneidermeister oder Schmiedemeister?)
+Worlitschka,27.2.,Marianna,Wenceslaus,Schlesinger,64y7m13d (#157,Beruf Häusler)(Die Verstorbene war geb. Schlesinger)
+Worlitschka,2.3.,Anna Maria,Thaddäus,Weinlich,60y12d (Ehefrau,#116,Beruf Häusler)(Die Verstorbene war geb. Czernohorsky)
+Worlitschka,8.3.,Theresia,Johann,Krögler,20y4m1d (#92,Beruf Häusler)(Mutter von Theresia und Ehefrau von Johann war Theresia, geb. Bier#, deren Vater Häusler von Tschenkowitz #108 war)
+Worlitschka,16.3.,Franziska,Benedikt,Pfertner#,17d (#28,Beruf Häusler)(Mutter von Franziska und Ehefrau von Benedikt war Marianna, geb. Weinlich, deren Vater Häusler in #37 war)
+Worlitschka,23.3.,Karolina,Franz,Czastek,23d (#109,Beruf Feldgärtner)(Mutter von Karolina und Ehefrau von Franz war Paulina, geb. Weinlich, deren Vater Bauer in #104 war)
+Worlitschka,1.4.,Anton,-,Chladek,49y6m12d (#60,Beruf Häusler)
+Worlitschka,12.4.,Johann,Johann,Schlesinger,7m27d (#71,Beruf Bauer)(Mutter von Johann und Ehefrau von Johann sen. war Josepha, geb. Schlesinger, deren Vater Häusler in #147 war)
+
+DP 67
+
+Worlitschka,17.4.,Cäcilia,Aloys,Weinlich,7m2d (#68,Beruf Bauer)(Mutter von Cäcilia und Ehefrau von Aloys war Josepha, geb. Weinlich, deren Vater Bauer in #1 war)
+Worlitschka,21.4.,Aloys,Gottlieb,Schiel#,8m7d (#123,Beruf Bauerausgedinger#)(Mutter von Aloys und Ehefrau von Gottlieb war Cäcilia, geb. Pauk, deren Vater Häusler in #84 war)
+Worlitschka,8.5.,Benedikt,Gotthard,Schlesinger,5m4d (#34,Beruf Bauer)(Mutter von Benedikt und Ehefrau von Gotthard war Genoveffa, geb. Weis#, deren Vater Häusler in #16 war)
+Worlitschka,19.5.,Franz,Johann,Schlesinger,6d (#26,Beruf Feldgärtner)(Mutter von Franz und Ehefrau von Johann war Johanna, geb. Michalek, deren Vater Inwohner in #106 war)
+Worlitschka,26.5.,Joseph,Benedikt,Schlesinger,11m20d (#61,Beruf Häusler)(Mutter von Joseph und Ehefrau von Benedikt war Marianna, geb. Schlesinger, deren Vater Häuslerausgedinger in #147 war)
+Worlitschka,23.7.,Annamaria,Johann Wenceslaus,Schiel#,77y16d (Witwe,#88,Beruf Häuslerausgedinger)
+Worlitschka,1.8.,Josepha,Johann,Krögler,49y5m10d (Ehefrau,#143,Beruf Inwohner)
+Worlitschka,4.9.,Eleonore,Andreas,Krögler,57y5m12d (#129,Beruf Häusler)(Mutter von Eleonore und Ehefrau von Andreas war Genoveffa, geb. Schiel#, deren Vater Häusler in #88 war, Eleonore war ledig)
+Worlitschka,29.9.,Johann,Johann,Weinlich,1y1m11d (#37,Beruf Häusler und Händler)(Mutter von Johann und Ehefrau von Johann sen. war Viktoria, geb. Schlesinger, aus #61#)
+Worlitschka,8.10.,Gotthard,-,Schlesinger,63y10d (#42,Beruf Häusler)
+Worlitschka,8.10.,Genoveffa,-,-,- (#138)(Franziska war Tochter von Joachim Gladek#, der Häusler in #138 war, Kind lebte 2 Minuten#) U: Kind von Franziska Gladik#
+Worlitschka,11.10.,-,Johann#,Krögler,- (#117#,Beruf Feldgärtner)(Mutter von - und Ehefrau von Johann# war Viktoria, geb. #g#, deren Vater aus #16 war, das verstorbene Kind war weiblich)
+
+DP 69
+
+Worlitschka,11.10.,Johann,-,-,2d (#138)(Franziska war Tochter von Joachim Gladek#, der Häusler in #138 war) U: Kind von Franziska Gladek
+Worlitschka,23.10.,Thaddäus,-,Langer#,50y19d (#107,Beruf Dorfgärtner)(Nachname schwer lesbar, unsicher)
+Worlitschka,24.10.,Karolina,Leopold,Krögler,4m (#94,Beruf Häusler)(Mutter von Karolina und Ehefrau von Leopold war Viktoria, geb. Schlesinger, deren Vater aus #118# war)
+Worlitschka,25.10.,Elisabeth,Heinrich,Pfertner,75y2m20d (Ehefrau,#64,Beruf Häusler)
+Worlitschka,26.10.,Antonia,Aloys,Weinlich,10d (#9,Beruf Fleischhauer)(Mutter von Antonia und Ehefrau von Aloys war Cäcilia, geb. Hehl#, deren Vater aus #36 war)
+Worlitschka,4.12#.,Cäcilia,Heinrich#,Wagner#,26y7m25d (#60,Beruf Häusler)(Mutter von Cäcilia und Ehefrau von Heinrich# war Theresia, geb. Gladek, deren Vater aus #21# war)
+
+1838
+
+Worlitschka,5.2.,Franz,Johann,Chladek,8d (#8,Beruf Häusler)(Mutter von Franz und Ehefrau von Johann war Josepha, geb. Wagner, deren Vater Häusler aus #99 war)
+Worlitschka,14.2.,Franz,Benedikt,Krögler,1d (#125,Beruf Häusler)(Mutter von Franz und Ehefrau von Benedikt war Josepha, geb. Heisler, deren Vater Häusler aus #125 war)
+Worlitschka,15.2.,Karolina,Johann,Illichman,4d (#98,Beruf Müllermeister)(Mutter von Karolina und Ehefrau von Johann war Anna, geb. Dittrich#, deren Vater Bauer aus Neu# in der Grulicher Herrschaft aus #18 war)
+Worlitschka,16.2.,Theresia,Florian,Hubalek,53y1m12d (Ehefrau,#168,Beruf Inwohner)(Die Verstorbene war geb. Kern#, deren Vater Häusler aus #78 war)
+Worlitschka,24.2.,Josepha,Benedikt,Krögler,39y10m14d (Ehefrau,#125,Beruf Häusler)(Die Verstorbene war geb. Heisler, deren Vater Häusler aus #125 war)
+
+DP 71
+
+Worlitschka,21.3.,Marianna,Aloys,Gregor,35y5m12d (Ehefrau,#136,Beruf Häusler)(Die Verstorbene war geb. Wagner, deren Vater Häusler in #15 war)
+Worlitschka,3.7.,Benedikt,Benedikt,Michalek,11m1d (#154,Beruf Inwohner)(Mutter von Benedikt und Ehefrau von Benedikt sen. war Cäcilia, geb. Schlesinger, deren Vater Häuslerausgedinger in #154 war)
+Worlitschka,29.7.,Annamaria,Franz,Schlesinger,67y8m14d (Witwe,#58,Beruf Häuslerausgedinger)(Die Verstorbene war geb. Seidlmann, deren Vater aus Tschenkowitz #9 war)
+Worlitschka,21.8.,Josepha,Franz,Krögler,24y5m1d (#96,Beruf Häusler)(Mutter von Josepha und Ehefrau von Franz war Josepha, geb. Schlesinger, deren Vater Feldgärtner aus #59 war, die Verstorbene war ledig)
+Worlitschka,24.8.,Philipp,Franz,Schlesinger,1y1m8d (#53,Beruf Feldgärtner)(Mutter von Philipp und Ehefrau von Franz war Polexina, geb. Schlesinger, deren Vater Bauer aus #71 war)
+Worlitschka,31.8.,Benedikt,-,Wagner#,63y2m17d (#99,Beruf Dorfgärtner)
+Worlitschka,1.9.,Adalbert,Johann,Schlesinger,1y1m8d (#149,Beruf Häusler)(Mutter von Adalbert und Ehefrau von Johann war Marianna, geb. Heisler, deren Vater Häusler in #122 war)
+Worlitschka,7.9.,Benedikt,Leopold,Czernohorsky,18y8m25d (#115,Beruf Feldgärtner)(Mutter von Benedikt und Ehefrau von Leopold war Cäcilia, geb. Gritzbauch, deren Vater Bauer aus #77 war)
+Worlitschka,8.9.,Franz,Philipp,Schlesinger,11m29d (#81,Beruf Bauer)(Mutter von Franz und Ehefrau von Philipp war Johanna, geb. Weinlich, deren Vater Bauer aus #1 war)
+Worlitschka,18.9.,Johann Nepomuck,Johann,Kregczy,1y4m3d (#63,Beruf Inwohner)(Mutter von Johann Nepomuck und Ehefrau von Johann war Josepha, geb. Czernohorsky, deren Vater Häusler aus #46 war)
+Worlitschka,5.10.,Johann,Anton,Knoll,14d (#72,Beruf Inwohner)(Mutter von Johann und Ehefrau von Anton war Josepha, geb. Chladek, deren Vater Häusler aus #8 war)
+Worlitschka,15.10.,Ivan,-,Dohanek#,43 (#63,Beruf Inwohner)
+Worlitschka,19.10.,Katharina,Karl,Heisler,78y11m3d (Witwe,#143,Beruf Häusler)
+
+DP 73
+
+Worlitschka,23.10.,Genoveffa,Gotthard,Pfertner#,85y3m8d (Witwe,#48,Beruf Feldgärtner)
+Worlitschka,24.10.,Anna,Franz,Philipp,1y2m19d (#140,Beruf Häusler)(Mutter von Anna und Ehefrau von Franz war Josepha, geb. Schlesinger, deren Vater Häusler in #140 war)
+Worlitschka,27.10.,Franziska,Leopold,Schlesinger,7m22d (#85,Beruf Häusler)(Mutter von Franziska und Ehefrau von Leopold war Rosalia, geb. Katzer, deren Vater Häusler in #36 war)
+Worlitschka,17.11.,Theresia,-,-,1y6m15d (#34,Beruf Inwohnerin) U: Kind von Cäcilia Pl#
+Worlitschka,3.12.,Viktoria,Johann,Philipp,1y6m8d (#152,Beruf Häusler)
+Worlitschka,27.12.,Thaddäus,-,Dittrich,58y6m26d (#97,Beruf Bäckermeister)(laut Bleistift-Notiz geb. 5.6.1780, aber nicht Teil des Original-Matrikels)
+
+1839
+
+Worlitschka,16.1.,Angelina,Benedikt,Schlesinger,39y2m3d (Ehefrau,#129,Beruf Häusler)(Die Verstorbene war geb. Trampota)
+Worlitschka,27.1.,Adalbert,Benedikt,Schlesinger,1y3#m (#61,Beruf Häusler)
+Worlitschka,21.2.,Theresia,Aloys,Weinlich,49 (Ehefrau,#168,Beruf #)
+Worlitschka,1.4.,Genoveffa#,Franz,Czernohorsky,57# (Ehefrau,#49,Beruf Feldgärtner)(Die Verstorbene war geb. Schiel, deren Vater aus #38 war)
+Worlitschka,6.4.,Genoveffa,Joseph,#,57 (Ehefrau,#51,Beruf Häusler)(Die Verstorbene war geb. Feltzmann, deren Vater aus Tschenkowitz #30 war)
+Worlitschka,9.4.,Viktoria,Aloys,Weinlich,1 (#68,Beruf Bauer#)
+
+DP 75
+
+Worlitschka,30.4.,Anna,Peregrin,Weinlich,8d (#100,Beruf Häusler)
+Worlitschka,3.5.,Mathilde,Johann,Krögler#,1m2#d (#117,Beruf Feldgärtner)(Unsicher, ob dies Krögler heißt)
+Worlitschka,8.5.,Johann,Bernhard#,Czastek#,3d (#172,Beruf Häusler)(Namen schwer lesbar, unsicher)
+Worlitschka,15.5.,Cäcilia,-,-,3d (#149)(Mutter des Kindes war Viktoria, Tochter des Franz Schlesinger, Inwohner aus #149) U: Kind von Viktoria Schlesinger
+Worlitschka,4.6.,Cäcilia,Franz,#,35 (Ehefrau,#63,Beruf Häusler)(Die Verstorbene war geb. Schlesinger, Tochter von Franz# Paul# Schlesinger aus #63)
+Worlitschka,6.6.,Viktoria,Stephan,Heisler,53# (Ehefrau,#143,Beruf Häusler)(Die Verstorbene war geb. Krögler, deren Vater aus #12 war, steht dort 53 oder 33? Und steht dort Häusler oder Häuslerin?)
+Worlitschka,11.6.,Anna,Aloys,Heisler,46y3m3d (Ehefrau,#20,Beruf Häusler)(Die Verstorbene war geb. Steyskal)
+Worlitschka,29.6.,.Anton,Stephan,Wagner#,2y7m (#98,Beruf Mühl#)
+Worlitschka,2.7.,Anna,Johann,Weinlich,4y10m1d (#37,Beruf Häusler)
+Worlitschka,3.7.,Johann,Johann,Schlesinger,11m2d (#71,Beruf Bauer)
+Worlitschka,5.7.,Leopold,-,Krögler,39y4m3d (#59,Beruf Inwohner)
+
+DP 77
+
+Worlitschka,9.7.,Aloys,Aloys,Schlesinger,2y11m5d (#69,Beruf Pächter#)
+Worlitschka,10.7.,Joseph,Aloys,Gregor,6y5m4d (#136,Beruf Häusler)
+Worlitschka,11#.7.,Johann,Vinzenz,Schlesinger,1y11m5d (#147,Beruf Häusler)
+Worlitschka,15.7.,Josepha,Franz,Gritzbauch,2y4m3d (#12,Beruf Häusler)
+Worlitschka,17.7.,Joseph,Aloys,Schlesinger,1y6m14d (#69,Beruf Pächter)
+Worlitschka,25.7.,Gotthard,-,Schlesinger,80y10m20d (#58,Beruf Ausgedinger)
+Worlitschka,26.7.,Johann,Anton,Hehl#,1y6m18d (#139,Beruf Häusler)
+Worlitschka,22.8.,Aloys,Johann,Schlesinger,3y8m (#115,Beruf Inwohner)
+Worlitschka,18.9.,Josepha,Joseph,Schlesinger,61y6m3d (Ehefrau,#147,Beruf Ausgedinger)(Die Verstorbene war geb. Krögler, deren Vater von #9 war)
+Worlitschka,25.9.,-,Aloys,Schlesinger,- (#151,Beruf Häusler)(Mutter von - und Ehefrau von Aloys war Johanna, geb. -, sind hier alle Namen korrekt zugeordnet???)
+Worlitschka,21#.10.,Johann Wenceslaus,-,Langer,63y8m (#10,Beruf Ausgedinger)
+
+DP 79
+
+Worlitschka,29#.10.,Vinzenz,Bernhard#,Wagner,1y2m (#73,Beruf #)
+Worlitschka,2.11.,Franz,Franz,Langer,6m (#10,Beruf Häusler)
+Worlitschka,3#.11.,Franz,Franz,Wagner,1y20d (#16,Beruf Häusler)
+Worlitschka,29.11.,Juliana,Peregrin#,Lihr,21y8m (#83,Dienstmagd in #83)(Ihr Vater ist Tagelöhner aus Neudorf #44)
+Worlitschka,1.12.,Anton,-,Schlesinger,67y13d (#76,Beruf Häusler)
+Worlitschka,25.12.,Juliana,Franz,Weinlich,47y2m25d (Ehefrau,#48,Beruf Feldgärtner)(Die Verstorbene war geb. Pfertner#, Tochter des Gotthard Pfertner#, deren Vater Dorfgärtner in #48 war)
+
+1840
+
+Worlitschka,1.1.,Anna,Anton,Knoll,7y6m (#74,Beruf Inwohner)
+Worlitschka,22#.1.,Johann,Benedikt,Schlesinger,14y7m (#5,Beruf Inwohner)
+Worlitschka,9.2.,Johann,-,-,4m20d (#154)(Die Kindsmutter war Tochter des Franz Schlesinger, Häuslerausgedinger in #154) U: Kind von Josepha Schlesinger
+
+DP 81
+
+Worlitschka,14.2.,Anna,Johann,Schiel,1y5m5d (#123,Beruf Bauer)
+Worlitschka,16.2.,Franziska,Benedikt,Krögler,8d (#125,Beruf Häusler)
+Worlitschka,22.2.,Maria Anna,Wenceslaus,Kehl,29y1m (#165,Beruf Häusler)
+Worlitschka,10.3.,Franz,Franz,Czastek,13d (#109,Beruf Feldgärtner)
+Worlitschka,14.3.,Franz,-,Hehl,78y5#m (#19,Beruf Bettl# und #)
+Worlitschka,14.3.,Marianna,Benedikt,Schlesinger,56 (Ehefrau,#5,Beruf Inwohner)(hinter #5 steht "geboren", also auch ihr Geburtshaus?)
+Worlitschka,19.3.,Franziska,Johann,Weinlich,1y6m (#37#,Beruf Häusler)
+Worlitschka,24.3.,Regina,Leopold,Schlesinger,72y6m (Witwe,#56,Beruf Häusler)(Die Verstorbene war geb. #ühn, von Roth# in Mähren)
+Worlitschka,27.3.,Philipp,Karl,Weinlich,6m18d (#156,Beruf Schneidermeister#)(Schneidermeister oder Schmiedemeister?)
+
+DP 83
+
+Worlitschka,5.4.,Marianna,Franz,Schlesinger,79.5 (Witwe,#120,Beruf Feldgärtner)(Die Verstorbene war geb. Kohler#)
+Worlitschka,5.5.,Mathilde,Franz,Wagner,1m14d (#14,Beruf Häusler)
+Worlitschka,7.5.,Johann,-,-,13d (#5)(Die Kindsmutter ist Tochter von Benedikt Schlesinger, ein Inwohner, der in #5 wohnte) U: Kind von Juliana Schlesinger
+Worlitschka,1.6.,Johann,-,Chladek,21d (#138)(Die Kindsmutter ist Tochter von Joachim Chladek, ein Häusler, der in #138 wohnte) U: Kind von Franziska Chladek
+Worlitschka,23.6.,Johann,Franz,Czernohorsky,12d (#129,Beruf Häusler)
+Worlitschka,13.11.,Viktoria,Franz,Schlesinger,1y7m (#62,Beruf Feldgärtner)
+Jamnay#,30.11.,Joseph,Johann,Trampota,1m (#91)
+Jamnay#,30.11.,Johann,Peregrin,Prokopecz,16d (#85)
+Worlitschka,1.12.,#,Johann#,Schlesinger#,- (#25,Beruf Händler)(Ganzer Eintrag sehr schwer zu entziffern, unsicher)
+Worlitschka,16.12.,#ikl,-,Weinlich,72y9m8d (#11,Beruf #)(Vorname und Berufe schwer lesbar)
+Worlitschka,19.12.,Juliana,Gotthard,Schiel,69y8m (Witwe,#139,Beruf Häusler)(Die Verstorbene war geb. Feltzmann, aus Worlitschka, Gotthard war aus #160#)
+
+DP 85
+
+Worlitschka,23.12.,Johann,Peregrin,Weinlich,8m14d (#100,Beruf Häusler)
+
+1841
+
+Worlitschka,6.1.,Genoveffa,Gotthard,Chladek,71y1m (Witwe,#8,Beruf Häusler)(Die Verstorbene war geb. Gabler)
+Worlitschka,9.1.,Magdalena,Anton,Knoll,69y2m (Witwe,#128,Beruf Häusler)(Die Verstorbene war geb. Krögler)
+Worlitschka,11.1.,Franz,-,Polak,69y9m (#114,Beruf Glasermeister)
+Worlitschka,4.2.,Johann,-,Wagner,8m (#110)(Josepha ist Tochter von Heinrich Wagner, Gärtner# aus #100#) U: Kind von Josepha Wagner
+Worlitschka,11.2.,Franziska,Aloys,Weinlich,25d (#9,Beruf Fleischhauer)
+Worlitschka,15.3.,Genoveffa,Leopold,Weinlich,62 (Ehefrau,#113,Beruf Häusler)(Die Verstorbene war geb. Weinlich, aus Tschenkowitz)
+Worlitschka,20.3.,Marianna,Anton,Kippel,77 (Ehefrau,#171,Beruf # und Inwohner)(Die Verstorbene war geb. Krögler, "des seit 12 Jahren unbekannten Anton Kippel" - er ist verschwunden?)
+
+DP 87
+
+Worlitschka,26.3.,Aloys,Benedikt,Gabler,10y2m (#75,Beruf Häusler)
+Worlitschka,1.4.,Maria,Johann,Schlesinger,1y10m (#11,Beruf Erbrichter)
+Worlitschka,6.4.,Ignatz,Johann,Krögler,1m16d (#89,Beruf Häusler)
+Worlitschka,7.5.,Albert,Franz,Dittrich,1m (#127,Beruf Händler#)
+Worlitschka,11.5.,Franz,-,Czernohorsky,62y1m (#49,Beruf Ausgedinger)
+Worlitschka,14.5.,Aloys,Heinrich,Krögler,22y4m (#30,Beruf Häusler)(Heinrich war bereits verstorben)
+Worlitschka,18.5.,Joseph,Karl,Weinlich,2d (#156,Beruf Schmidmeister#)
+Worlitschka,15.7.,Josepha,Aloys,Weinlich,17y10m10d (#68,Beruf Feldgärtner)
+
+DP 89
+
+Worlitschka,17.7.,Johann,Franz,Schlesinger,1y2m (#143,Beruf Inwohner)
+Worlitschka,4.9.,Leopold,Leopold,Weinlich,5y9m (#87,Beruf #)
+Worlitschka,8.9.,Josepha,#el,Schlesinger,46y9m (Ehefrau,#85,Beruf Häusler)(Die Verstorbene war geb. Heisler)
+Worlitschka,17.9.,Anna,Franz,Schlesinger,69y6m (Ehefrau,#173,Beruf Ausgedinger)(Die Verstorbene war geb. #, von Schildberg# in Mähren)
+Worlitschka,22.9.,Adalbert,Leopold,Weinlich,2y9m17d (#87,Beruf Häusler)
+Worlitschka,6.10.,Franziska,Franz,Langer,9d (#10,Beruf Häusler)
+Worlitschka,15.10.,Franziska,Karl,Wenzel,1 (#36,Beruf Pächter)
+Worlitschka,17.10.,Anna,Gottlieb,Schlesinger,18d (#24,Beruf Häusler)
+
+DP 91
+
+Worlitschka,18.10.,Ignatz,-,Hause#,83 (#26,Beruf Inwohner)(gebürtig von Klein-#dorf)
+Worlitschka,10.11.,Johann,Johann,Krögler,18y11m9d (#89,Beruf Häusler)
+Worlitschka,16.11.,Johann,Anton,Chladek,21y11m12d (#60,Beruf Häusler)(was steht vor "Anton Chladek"?)
+Worlitschka,6.12.,Vinzenz,Vinzenz#,Schlesinger,8d (#173,Beruf Inwohner)
+Worlitschka,9.12.,Anna,Vinzenz#,Schlesinger,14d (#173,Beruf # und Inwohner)
+Worlitschka,26.12.,Theresia,Gottlieb,Schlesinger,60y10m9d (#140,Beruf Häusler)(Die Verstorbene war geb. Schlesinger)
+
+1842
+
+Worlitschka,14.1.,Wilhelm,Anton,Pla#hner,18y20d (#34,Beruf Inwohner)
+Worlitschka,18.1.,Theresia,Thaddäus,Dittrich,12y7m (#97,Beruf Bäckermeister)(Was steht vor Thaddäus?)
+
+DP 93
+
+Worlitschka,25.1.,Franz,-,Schlesinger,72 (Witwer,#11,Beruf Inwohner#)
+Worlitschka,8.2.,-,Johann,Weinlich,- (#82,Beruf Feldgärtner)(Weiblich, Zwillinge)
+Worlitschka,13.2.,Johann,Gotthard,Czastek,9m2d (#79,Beruf Inwohner)
+Worlitschka,9.3.,Aloys,Franz,Hehl,1 (#165,Beruf Häusler)
+Worlitschka,10.3.,Josepha,Johann,Schlesinger,2m20d (#25,Beruf Feldgärtner)
+Worlitschka,25.3.,Elisabeth,Franz,Czernohorsky,59y1m (Witwe,#133,Beruf Häusler)(Die Verstorbene war geb. Schiel#, von Tschenkowitz)
+Worlitschka,28.3.,Josepha,-,-,9m6d (#59)(Viktoria war Tochter des Johann Schlesinger, der Feldgärtnerausgedinger aus #59 war) U: Kind von Viktoria Schlesinger
+
+DP 95
+
+Worlitschka,29.3.,Aloys,Benedikt,Michalek,1y2d (#154,Beruf Inwohner)
+Worlitschka,23.4.,Adalbert,Franz,Schlesinger,1y2m (#55,Beruf Häusler)
+Worlitschka,3.5.,Marianna,Franz,Wondra,73y7m6d (Witwe,#4,Beruf Häusler)(Die Verstorbene war geb. Dittrich#)
+Worlitschka,2.5.,Theresia,Johann,Krögler,5d (#117,Beruf Feldgärtner)
+Worlitschka,7.5.,Joseph,Aloys,Gregor,24d (#136,Beruf Bäckermeister#)
+Worlitschka,7.5.,Franz,-,Dittrich,66 (#127,Beruf Ausgedinger)
+Worlitschka,9.5.,Johann,Johann,Schlesinger,6m20d (#22,Beruf Häusler)
+Worlitschka,22.5.,Joseph,-,Weiser#,30y10m (#172,Beruf Häusler)
+
+DP 97
+
+Worlitschka,27.5.,-,-,-,70 (#110,Beruf Bettler)("Unbekannter Bettler")
+Worlitschka,27.5.,Elisabeth,Leopold,Weinlich,72y1m (Witwe,#104,Beruf Häusler)(Die Verstorbene war geb. Schlesinger, Leopold war aus #87)
+Worlitschka,5.6.,Theresia,Franz,Czernohorsky,58y8m (Ehefrau,#164,Beruf Schuhmacher#)(Die Verstorbene war geb. Scholtz, von Tschenkowitz)
+Worlitschka,17.6.,Josepha,Ignatz,Heisler,42y6m2d (#145,Beruf Häusler)(Ignatz war von #155)
+Gaab#,24.6.,Karolina,Johann,Schlesinger,4m21d (#114,Beruf Häusler)
+Worlitschka,29.6.,Johann,-,Schlesinger,56y3m20d (#25,Beruf Feldgärtner und Alt#)(Altgeschworener?)
+Worlitschka,7.7.,Johann,Johann,Heisler,19y13d (#65,Beruf Häusler)
+
+DP 99
+
+Worlitschka,19.7.,Adalbert,Peregrin,Wagner,2m (#93,Beruf Häusler)
+Worlitschka,18.8.,Johann,-,-,1y4m17d (#154) U: Kind von Josepha Schlesinger
+Worlitschka,18.8.,Maria,Benedikt,Schlesinger,21d (#35,Beruf Häusler)
+Worlitschka,1.9.,Franz,-,Schlesinger,73y6m (#173,Beruf Ausgedinger)
+Worlitschka,7.9.,Johann,Johann,Schlesinger,7y8m (#34,Beruf Inwohner)
+Worlitschka,24.9.,Viktoria,Stephan,Heisler,6m (#143,Beruf Häusler)
+Worlitschka,9.10.,Josepha,Aloys,Weinlich,- (#68,Beruf Feldgärtner)("Eine halbe Stunde")
+Worlitschka,23.10.,Theresia,Peregrin,Weinlich,58y7m25d (Ehefrau,#103,Beruf Müllermeister)(Die Verstorbene war geb. Wagner, aus Tschenkowitz)
+
+DP 101
+
+Worlitschka,23.10.,Leopold,-,Schlesinger,58y9m20d (#158,Beruf Inwohner)
+Worlitschka,26.10.,Theresia,Leopold,Weinlich,75 (Ehefrau,#82,Beruf Ausgedinger)(Die Verstorbene war geb. Krögler)
+Worlitschka,9.11.,Theresia,Gotthard,Krögler,66y6m (Ehefrau,#134,Beruf Feldgärtner)(Die Verstorbene war geb. Neugebauer)
+Worlitschka,8.12.,Josepha,Franz,Krögler,55y11m12d (Ehefrau,#111,Beruf Häusler)(Die Verstorbene war geb. Krögler, Tochter des Anton Krögler)
+Worlitschka,9.12.,Josepha,Wenceslaus,Pauk#,55y8m (#84,Beruf Häusler)
+Worlitschka,24.12.,Christina,Anton,Weinlich,5d (#17,Beruf Häusler)
+
+DP 103
+
+1843
+
+Worlitschka,5.1.,Theresia,-,-,1d (#157)(Die Kindsmutter ist die Tochter des Wenceslaus Schlesinger, Häuslerausgedinger aus #157) U: Kind von Agnes Schlesinger
+Worlitschka,23.1.,Vinzenz,S#z,P#,1y1m20d (#117#,Beruf Inwohner)(Peregrin???)
+Worlitschka,4.2.,Victoria,Andreas,Krögler,24y5m2d (#80,Beruf Häusler)
+Worlitschka,22.2.,#,Joseph,Weinlich,72 (#110,Beruf Inwohnerin, der verstorbene Joseph war Inwohner aus #105)
+Worlitschka,1.3.,Maria,Johann,Czernohorsky,18d (#49,Beruf Feldgärtner)
+Worlitschka,4.3.,Wenceslaus,-,Neugebauer,76y4m10d (#39,Beruf Ausgedinger)
+
+DP 105
+
+Worlitschka,29.3.,Joseph,-,Schlesinger,76y8m2d (#72,Beruf Inwohner)
+Worlitschka,2.4.,Johann,Thaddäus,Langer,21y3m (#107,Beruf Häusler)
+#,27#.4.,Theresia,Anton,Schlesinger,72y3m2d (Witwe,#114,Beruf Häusler)(Die Verstorbene war geb. Heisler, von Tschenkowitz, Anton war aus Worlitschka #106, heißt das Jablona beim Ort der Witwe?)
+Worlitschka,1.5.,Anton,Anton,Hehl,- (#18,Beruf Häusler)("2 Stunden")
+Worlitschka,1.5.,Vinzenz,Franz,Schlesinger,3m20d (#62,Beruf Feldgärtner)
+Worlitschka,8.5.,Genoveffa,Gottfried,Philipp,65y3m8d (Ehefrau,#140,Beruf Ausgedinger)(Die Verstorbene war geb. Wagner)
+Worlitschka,15.5.,Johann,-,Schlesinger,55y3m2d (#149,Beruf Häusler)
+Worlitschka,21.5.,Theresia,Franz,Sednik#,39y7m9d (Ehefrau,#126,Beruf Häusler)(Die Verstorbene war geb. Czernohorsky)
+
+DP 107
+
+Worlitschka,27.5.,.Johann,-,Heisler,53y5m (#65,Beruf Häusler)
+Worlitschka,29.5.,Juliana,Johann,Schlesinger,59y4m2d (Ehefrau,#59,Beruf Feldgärtner)(Die Verstorbene war geb. Schlesinger#)
+Worlitschka,20.6.,-,Johann,Gritzbauch,- (#77,Beruf Feldgärtner)(Mutter von - und Ehefrau von Johann war Cäcilia, geb. -, das Kind war weiblich)
+Worlitschka,24.6.,-,-,-,- (#149)(Viktoria war Tochter des Franz Schlesinger, Häusler aus #130) U: Kind von Viktoria Schlesinger
+Worlitschka,2.10.,Leopold,-,Weinlich,66y4m (#113,Beruf Häusler)
+Worlitschka,18.10.,Josepha,-,-,4m19d (#59)(Die Kindsmutter war Tochter des Johann Schlesinger, der Feldgärtner in #59 war, das Kind war unehelich, das Kind war weiblich) U: Kind von Viktoria# Schlesinger
+Worlitschka,19.10.,Johann,Anton,Hehl,6m16d (#139,Beruf Häusler)
+Worlitschka,23.10.,Theresia,Joseph,Heisler,1y6m (#135,Beruf Inwohner)
+
+DP 109
+
+Worlitschka,23.10.,Albert,Franz,Philipp,1y24d (#140,Beruf Häusler)
+Worlitschka,5.11.,Franz,-,Gabler,50y7m (#57,Beruf Häusler)
+Worlitschka,15.11.,Genoveffa,Wenceslaus,Langer,29y7m20d (#10,Beruf Häusler)
+Worlitschka,21.11.,Joseph,Anton,Prokopecz,11m19d (#72,Beruf Inwohner)
+Worlitschka,23.11.,Anna,Johann,Hrdina,1y18d (#70,Beruf Häusler)
+#,29.11.,Franziska,Johann,Schlesinger,8m15d (#116,Beruf Häusler)(Jablona?)
+Worlitschka,28.12.,Thaddäus,-,Weinlich,70y1m5d (#116,Beruf Häusler)
+Worlitschka,28.12.,Johann,Johann,Czastek,8d (#109,Beruf Feldgärtner)
+
+DP 111
+
+1844
+
+Worlitschka,4.1.,Franz,Franz,Pfertner,40y6m (#71,Beruf Inwohner)(Franz jun. war Taglöhner und Inwohner, sein Vater war aus #13)
+Worlitschka,13.1.,Victoria,Heinrich,Krögler,45y6m20d (#171,Beruf Inwohnerin)(Heinrich war Inwohner aus #26)
+Worlitschka,15.1.,Rudolph,Johann,Schlesinger,13y10m (#11,Beruf Erbrichter)
+Worlitschka,21.1.,Josepha,Ignatz#,Czastek,1y4m3d (#152,Beruf Häusler)
+#,25.1.,Johann,-,Hehl,41y8m6d (#113,Beruf Häusler)(Jablona?)
+Worlitschka,25.1.,Marianna,Leopold,Schlesinger,65y10m22d (Ehefrau,#4,Beruf Inwohner)(Die Verstorbene war geb. #istl, aus Allersdorf)
+Jamnay,18.2.,Vinzenz,Peregrin,Prokopecz,2m14d (#85)
+
+DP 113
+
+Worlitschka,13.2.,Johann,Peregrin,Weinlich,5m2d (#100,Beruf Häusler)
+Worlitschka,26.3.,Josepha,Aloys,Illichman,2y10m (#114,Beruf Inwohner)
+Worlitschka,1.4.,Franz,-,Krögler,58y8m2d (#111,Beruf Häusler)
+Worlitschka,2.4.,Anna,Joachim,Schiehsler#,- (#42,Beruf Schneidermeister)("Eine halbe Stunde")
+Worlitschka,13.4.,Anna,Johann,Hrdina,- (#70,Beruf Häusler)("Eine halbe Stunde")
+Worlitschka,19.4.,Vinzenz,Vinzenz,Pauk,18y8m9d (#84,Beruf Häusler)
+Worlitschka,20.4.,Maria,Philipp,Heisler,- (#122,Beruf Häusler)("Eine Viertelstunde")
+Worlitschka,23.4.,Leopold,-,Czernohorsky,56y3m20d (#115,Beruf Feldgärtner)
+
+DP 115
+
+Worlitschka,5.6.,Hubert,Benedikt,Pfertner,13d (#28,Beruf Häusler)
+Worlitschka,20.6.,Johann,Karl,Wenzel,1m4d (#36,Beruf Inwohner)
+Worlitschka,12.7.,Franz,Franz,Langer,1m1d (#10,Beruf Häusler)
+Worlitschka,28.8.,Johann,Johann,Schlesinger,5m8d (#145,Beruf Inwohner)
+Worlitschka,15.9.,Johann,Anton,Czernohorsky,33y7m4d (#117,Beruf Ausgedinger)
+Worlitschka,15.9.,Anton,Johann,Wing#,19d (#39,Beruf Häusler)
+Worlitschka,30.9.,Marianna,Franz,Gabler,68y5m2d (Witwe,#44,Beruf Feldgärtner)(Die Verstorbene war geb. Weinlich)
+Worlitschka,9.10.,Franz,-,Krögler,62y9m12d (#41,Beruf Inwohner)
+
+DP 117
+
+Worlitschka,13.10.,Anna,Johann,Weinlich,2y2m (#48,Beruf Häusler)
+Worlitschka,15.10.,Franz,-,Illichman,83y7d (#98,Beruf Ausgedinger)
+Worlitschka,3.11.,-,Johann,Schlesinger,- (#154,Beruf Häusler)(Mutter von - und Ehefrau von Johann war Anna, geb. -)
+Worlitschka,21.11.,Victoria,Johann,Krögler,2y5m2d (#89,Beruf Häusler)
+Worlitschka,7.12.,Viktoria,Johann,Krögler,26y1m24d (#92,Beruf Häusler)
+Worlitschka,12.12.,Franziska,Ignatz,Koblischke,1y8m9d (#2)
+Worlitschka,15.12.,Joseph,Joseph,Czernohorsky,8d (#33,Beruf Händler und Inwohner)
+Worlitschka,17.12.,Joseph,Aloys,Weinlich,1m9d (#9,Beruf Fleischhauermeister)
+
+DP 119
+
+Worlitschka,19.12.,Rosalia,Joseph,Czernohorsky,69y3m19d (Ehefrau,#119,Beruf Schmidmeister)(Die Verstorbene war geb. Koblischke)
+Worlitschka,25.12.,Genoveffa,Aloys,Heisler,45y10m18d (Ehefrau,#108,Beruf Ausgedinger)(Die Verstorbene war  geb. Weinlich)
+Worlitschka,26.12.,Adalbert,Johann,Krögler,6y7m10d (#89,Beruf Häusler)
+
+1845
+
+Worlitschka,13.1.,Josepha,Franz,Schlesinger,4m13d (#62,Beruf Feldgärtner)
+Worlitschka,1.2.,Josepha,Johann,Krögler,31y3m10d (#92,Beruf Häusler)
+Worlitschka,18.2.,Karl,-,#rauk,44.5 (#63,Beruf Inwohner)
+Worlitschka,12.3.,Juliana,Franz,Wagner,32y1m23d (Ehefrau,#14,Beruf Häusler)(Die Verstorbene war geb. Feltzmann#)
+
+DP 121
+
+Worlitschka,29.3.,Gotthard,-,Schlesinger,98#y7m8d (#62,Beruf Ausgedinger)
+Worlitschka,14.4.,Victoria,Gotthard,Schlesinger,54y11m13d (Witwe,#58,Beruf Ausgedinger)(Die Verstorbene war geb. Feltzmann)
+Worlitschka,15.4.,Mathilde,Benedikt,Michalek,2y4m2d (#154,Beruf Inwohner)
+Worlitschka,14.5.,Emilian,-,-,4m4d (#2,Beruf Inwohnerin)(Die Kindsmutter ist Elisabeth, die Witwe des Joseph N#toliczky, Gastwirt in R#,N#toliczky durchgestrichen, #i# - schwer lesbar - hingeschrieben, nicht gleiche Schrift, das Kind war unehelich) U: Kind von Elisabeth N#toliczky
+Worlitschka,16.6.,Victoria,Peregrin,Wagner,50y8m10d (Ehefrau,#93,Beruf Tischlermeister)(Die Verstorbene war geb. Dittrich#)
+Worlitschka,14.7.,Johann,-,-,10d (#75#)(Mutter von Johann war Viktoria, die Tochter von Benedikt Gabler, der Häusler in #75 war, das Kind war unehelich) U: Kind von Victoria Gabler
+Worlitschka,18.8.,Genoveffa,Andreas,Krögler,61y6m8d (Ehefrau,#50,Beruf Ausgedinger#)(Die Verstorbene war geb. Schiel#)
+Worlitschka,5.9.,Anna,-,-,2m25d (#71,Beruf Inwohnerin#)(Mutter von Anna war Viktoria, geb. Schlesinger, Tochter des Franz Schlesinger, Inwohner in #149) U: Kind von Viktoria Schlesinger
+
+DP 123
+
+Worlitschka,7.9.,Peregrin,-,Neugebauer,52y5m20d (#54,Beruf Häusler#)
+#,10.9.,Anna,Johann,Schlesinger,5y8m7d (#114,Beruf Häusler)(Jablona?)
+Worlitschka,12.9.,Maria,Benedikt,Schlesinger,6m2d (#174,Beruf Feldgärtner)
+Worlitschka,14.9.,Maria,Karl,Jung,1y9m2d (#28,Beruf Schuhmacher)
+Worlitschka,30.9.,Franz,Benedikt,Dittrich,22y7m27d (#91,Beruf Ausgedinger)
+Worlitschka,8.10.,Cäcilia,Leopold,Schiel,29y28d (#160,Beruf Häusler)
+Worlitschka,21.10.,Wilhelmine,Benedikt,Schlesinger,1y2m20d (#35,Beruf Häusler)
+Worlitschka,26.10.,Maria,Johann,Schlesinger,4d (#83,Beruf Feldgärtner)
+
+DP 125
+
+Worlitschka,1.11.,Juliana,Joseph,L#,63#y7m8d (Ehefrau,#83,Beruf Inwohner)(Die Verstorbene war geb. Neugebauer)
+Worlitschka,26.11.,Adalbert,Franz,Schlesinger,6m9d (#55,Beruf Häusler)
+Worlitschka,7.12.,Franz,Franz,Schlesinger,2y9m28d (#55,Beruf Häusler)
+Worlitschka,12.12.,Joseph,Franz,Weinlich,6m7d (#82,Beruf Händler und Inwohner)
+Worlitschka,19.12.,Josepha,Johann,Czernohorsky,- (#119,Beruf Häusler)("Eine halbe Stunde")
+Worlitschka,25.12.,Cäcilia,Johann,Czernohorsky,30y1m8d (Ehefrau,#119,Beruf Häusler)
+
+1846
+
+Worlitschka,23.1.,Philomena,Aloys,Schlesinger,12d (#151,Beruf Häusler)
+Worlitschka,25.1.,Cäcilia,S#,Bechaczek,2m10d (#171,Beruf Inwohner)(Vorname des Vaters kaum lesbar, erster Buchstabe vermutlich ein "S")
+
+DP 127
+
+Worlitschka,6.2.,Victoria,Leopold,Schlesinger,54y6m18d (Witwe,#158,Beruf Inwohner)(Die Verstorbene war geb. Schlesinger)
+Worlitschka,13.2.,Rosalia,Joseph,Schlesinger,83y2m5d (Witwe,#118,Beruf Ausgedienter)(Die Verstorbene war geb. Gritzbauch)
+Worlitschka,14.2.,Anna,Benedikt,Krögler,16y11m8d (#135,Beruf Häusler)
+Worlitschka,17.2.,Franziska,Leopold,Heisler,27y10m9d (Ehefrau,#155,Beruf Häusler)(Die Verstorbene war geb. Czernohorsky)
+Worlitschka,23.2.,Marianna,Franz,Wagner,75y6m28d (Ehefrau,#15,Beruf Ausgedinger)(Die Verstorbene war geb. Schlesinger)
+Worlitschka,3.3.,Genoveffa,Florian,Schlesinger,30y9m8d (#22,Beruf Ausgedinger)
+Worlitschka,6.3.,Juliana,Gotthard,Heisler,73y11m9d (Witwe,#135,Beruf Häusler)(Die Verstorbene war geb. Schlesinger)
+Worlitschka,19.3.,Joseph,-,Dittrich,81y6m4d (#131,Beruf Ausgedinger)("aus Worlitschka #102")
+
+DP 129
+
+Worlitschka,20.3.,Franziska,Leopold,Heisler,1m11d (#155,Beruf Häusler)
+Worlitschka,5.4.,Franz,-,-,- (#98,Beruf Inwohnerin)(Die Kindsmutter ist Marianna, Tochter von Franz Illichmann, Ausgedinger in #98, das Kind starb nach einer Viertelstunde) U: Kind von Marianna Illichmann
+Worlitschka,7.4.,Johann,Franz,Gabler,- (#44,Beruf Feldgärtner)("Eine Stunde#")
+Worlitschka,22.4.,Philomena,Aloys,Weinlich,16d (#9,Beruf Fleischhauer)
+Worlitschka,30.4.,Aloys,-,Gregor,58y8m (#136,Beruf # und Häusler)
+Worlitschka,1.5.,-,-,-,- (#51)(Die Kindsmutter ist Tochter des Joseph Gabler, Häusler aus #51, Das Kind war weiblich) U: Kind von Cäcilia Gabler
+Worlitschka,14.5.,Anna,Franz,Neugebauer,1y5m5d (#38,Beruf Inwohner)
+Worlitschka,26.5.,Johann,Ignatz,Czastek,1y20d (#152,Beruf Häusler)
+
+DP 131
+
+Worlitschka,7.7.,Mathilde,Johann,Weinlich,16d (#48,Beruf Feldgärtner)
+Worlitschka,10.7.,Johann,Philipp,Krögler,5m1d (#95,Beruf Feldgärtner)
+Worlitschka,1.9.,Victoria,Anton,Schlesinger,46y11m19d (#76,Beruf Häusler)
+Worlitschka,1.10.,Josepha,#,Wagner,63y4m15d (Witwe,#99,Beruf Feldgärtner)(Die Verstorbene war geb. Weinlich, von Tschenkowitz, Vorname des verstorbenen Ehemanns beginnt mit L oder B, schwer lesbar)
+Worlitschka,29.10.,Johann,Franz,Schlesinger,1m26d (#143,Beruf Inwohner)(Was heisst das nach Franz?)
+Worlitschka,1.12.,Philomena,Benedikt,Schlesinger,7m4d (#35,Beruf Häusler)
+Worlitschka,30.12.,Joseph,-,Wagner,81y11m26d (#150,Beruf Ausgedinger)
+
+DP 133
+
+1847
+
+Worlitschka,18.1.,Franz,-,Feltzmann,41y5m2d (#167,Beruf Häusler)
+Worlitschka,3.2.,Genoveffa,Johann,Czernohorsky,53y10m27d (Ehefrau,#11ß,Beruf Inwohner)(Die Verstorbene war geb. Koblischke)
+Worlitschka,15.2.,Aloys,-,Heisler,46y2d (#20,Beruf Häusler)
+Worlitschka,18.2.,Marianna,Aloys,Hehl,59y2d (Ehefrau,#170,Beruf Schneidermeister)(Die Verstorbene war geb. Gabler)
+Worlitschka,19.2.,Cäcilia,Karl,Jung,- (#28,Beruf Inwohner)("Eine Viertelstunde")
+Worlitschka,27.2.,Marianna,Anton,Plachner#,62y1m20d (Ehefrau,#145,Beruf Inwohner)(Die Verstorbene war geb. Hehl)
+Worlitschka,15.3.,Johanna,Benedikt,Schlesinger,43y2m2d (Ehefrau,#135,Beruf Inwohner)(Die Verstorbene war geb. Kolb)
+Worlitschka,25.3.,Franz,Johann,Schlesinger,2m23d (#83,Beruf Feldgärtner)
+
+DP 135
+
+Worlitschka,26.3.,Theresia,Ferdinand,Effenberger,58y2m3d (Witwe,#140,Beruf Feldgärtner)(Die Verstorbene war geb. Egydi#)
+Worlitschka,28.3.,Barbara,Heinrich#,Neugebauer,53y7m9d (#77,Beruf Inwohnerin)(Heinrich# war Inwohner aus #93)
+Worlitschka,6.5.,Johanna,Johann,Pfertner,60y2m1d (Ehefrau,#86,Beruf Ausgedinger)(Die Verstorbene war geb. Schlesinger)
+Worlitschka,7.5.,Cäcilia,Johann,Dittrich,27y11m19d (Ehefrau,#91,Beruf Häusler)(Die Verstorbene war geb. Dittrich)
+Worlitschka,10.5.,Josepha,Johann,Schlesinger,36y6m9d (Ehefrau,#34,Beruf Inwohner)(Die Verstorbene war geb. Czernohorsky)
+Worlitschka,1.6.,Anton,-,Hehl,51y2m4d (#18,Beruf Häusler)
+
+DP 137
+
+Worlitschka,28.6.,Johann,Johann,Dittrich,1m28d (#91,Beruf Häusler)
+Worlitschka,1.7.,Maria,Ignatz,Czastek,2m14d (#152,Beruf Häusler)
+Worlitschka,4.7.,Josepha,Aloys,Schlesinger,4m8d (#140,Beruf Inwohner)
+Worlitschka,27.7.,Gotthard,-,Schlesinger,72y6m1d (#34,Beruf Feldgärtner)
+Worlitschka,27.10.,Franz,-,Chladek,73y10m19d (#100,Beruf Ausgedinger)
+Worlitschka,9.11.,Georg,-,Sednik,73y2m2d (#126,Beruf Ausgedinger)
+Worlitschka,15.11.,Leopold,-,Heisler,69y9m10d (#155,Beruf Ausgedinger)
+Worlitschka,13.12.,Johann,Franz,Czernohorsky,2m26d (#56)
+
+DP 139
+
+16.12.,Stephan,Thaddäus,Langer,18y6m15d (#107,Beruf Häusler)
+16.12.,Johann,Franz,Schlesinger,1m22d (#67,Beruf Häusler)
+17.12.,Johann,Franz,Gritzbauch,1y3m21d (#23,Beruf Häusler)
+21.12.,Anton,-,Hehl,85y8m4d (#18,Beruf Bettelvogt)
