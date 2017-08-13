@@ -1,0 +1,1198 @@
+Sterbe
+Böhmen
+Tschechien
+Kirchenmatrik r.k
+Worlitschka
+Orlicky
+rk
+1784-1812
+DP 114
+
+1784
+
+Worlitschka,2.5.,Anton,-,Czernohorsky,- (#56)
+Worlitschka,9.5.,Josepha,-,Häusler,1 (#126)
+Worlitschka,17.5.,Gottlieb,-,Weiblich,5d (#57)
+Worlitschka,5.6.,Franz Karl,-,Neugebauer,9m (#53)
+Worlitschka,6.6.,Johann,-,Dittrich,1m5d (#127)
+Worlitschka,7.6.,Maria Anna,-,Dittrich,4m (#91)
+Worlitschka,9.6.,Maria Anna,-,Schlesinger,2m (#41)
+Worlitschka,17.6.,Anna Maria,-,Schlesinger,79 (#25)
+Worlitschka,20.7.,Ignatz,-,Häusler,6d (#79#)
+Worlitschka,8.8.,Genoveffa,-,Koblischke,6d (#79#)
+Worlitschka,16.8.,Theresia,-,Grögler,38 (#94)
+Worlitschka,1.9.,Angelina#,-,Wagner,2 (#99)
+
+DP 115
+
+Worlitschka,24.9.,Juliana,-,Trampota,28 (#117)
+Worlitschka,4.11.,Josepha,-,Neugebauer,10m14d (#53)
+Worlitschka,11.11.,Theresia,-,Czernohorsky,1y3m (#120)
+Worlitschka,12.11.,Theresia,-,Czernohorsky,2y14d (#117)
+Worlitschka,14.11.,-,-,Pfertner,- (#64)
+Worlitschka,16.11.,Anna,Joseph#,Weinlich,4m (#57)(Anna des Joseph Weinlich oder Anna Josepha?)
+Worlitschka,12.12.,Wenceslaus,-,Grögler,59 (#126)
+Worlitschka,12.12.,Victoria,-,Heisler,7y3m (#17)
+Worlitschka,22.12.,Franz Karl,-,Schüll,2d (#67)
+Worlitschka,31.12.,Juliana,-,Czernohorsky,3w (#117)
+
+1785
+
+Worlitschka,6.1.,Anna Maria,-,Czernohorsky#,1m14d (#6)
+Worlitschka,8.2.,Heinrich,-,Koller,64 (#90)
+Worlitschka,25.3.,Florian,-,Schlesinger,17 (#11)
+Worlitschka,10.4.,Franz,-,Heisler,60 (#114)
+Worlitschka,11.4.,Johann,-,Pfertner,9m (#48)
+
+DP 116
+
+Worlitschka,13.5.,Leopold,-,Schlesinger,3d (#21)
+Worlitschka,2.6.,Anna Maria,-,Trampota,9m (#129)
+Worlitschka,2.6.,Franz,-,Schlesinger,14 (#35)
+Worlitschka,4.6.,Johann,-,Wagner,1m (#14)
+Worlitschka,28.6.,Leopold,-,He#l,20 (#66)
+Worlitschka,11.9.,Josepha,-,Schlesinger,1 (#96)
+Worlitschka,24.9.,Josepha,-,B#sch#,9 (#98)
+Worlitschka,2.10.,Johanna,-,Koblischke,10 (#79)
+Worlitschka,2.12.,Rosalia,-,Heisler,1
+Worlitschka,28.12.,Leopold,-,Heisler,- (#93#)
+
+1786
+
+-,21.1.,Franz Karl,-,Weinlich,4m (#103)
+-,9.2.,Franz,-,Gregor,1 (#137)
+-,16.2.,#ntia,-,Heisler,3 (#17)
+-,1.3.,Anton,-,Krögler,46 (#9)
+-,16.4.,Elisabeth,-,Polak,66 (#135)
+-,22.4.,Anna Maria,-,Trampota,2m (#91)
+-,28.4.,Leopold,-,Chladek,1 (#100)
+-,2.5.,Viktoria,-,Pauk,1m (#84)
+-,7.5.,Viktoria,-,Krögler,1 (#7)
+-,7.5.,Viktoria,-,Dittrich,4 (#97)
+-,10.5.,Theresia,-,Krögler,1 (#70)
+-,20.5.,Gottfried,-,Polak,5 (#135)
+-,22.5.,Franz,-,Krögler,1 (#65)
+
+DP 117
+
+-,24.5.,Viktoria,-,Polak,1 (#135)
+-,27.5.,Bernard,-,Bartosch,1 (#98)
+-,28.5.,Gotthard,-,Schlesinger,14d (#72)
+-,29.5.,Anton,-,Krögler,82 (#9)
+-,31.5.,Leopold,-,Wagner,1 (#75)
+-,4.6.,Leopold,-,Krögler,1 (#89)
+-,4.6.,Johann,-,Wagner,3 (#75)
+-,6.6.,Peregrin,-,He#l#,3 (#36)
+-,7.6.,Franz Karl,-,Schüll#,1 (#21)
+-,10.6.,Leopold,-,Weinlich,3 (#103)
+-,14.6.,Franz Karl,-,Czernohorsky,4 (#79)
+-,3.7.,Franz Karl,-,Neugebauer,1 (#53)
+-,4.7.,Viktoria,-,Czernohorsky,1 (#49)
+-,7.7.,Johann,-,Czernohorsky,2 (#101)
+-,5.8.,Johann,-,Schlesinger,21d (#11)
+-,7.8.,Benedikt,-,Höll,21d (#30)
+-,14.9.,Maria Anna,-,Weinlich,14d (#130)
+-,3.10.,Anna Maria,-,Heisler,17 (#139)
+-,10.12.,Johanna,-,Chladek,55 (#8)
+-,17.12.,Gottfried,-,Neugebauer,12d (#53)
+-,20.12.,Johann Georg,-,Schlesinger,53 (#9)
+
+1787
+
+-,2.3.,Joseph,-,Weinlich,65 (#105)
+-,3.3.,Angelina#,-,Dittrich,1 (#91)
+-,4.3.,Heinrich,-,Wagner,34 (#55)
+-,10.3.,Genoveffa,-,Wagner,2 (#75)
+-,30.3.,Franz,-,Neugebauer,3m (#27)
+-,2.4.,Franz Karl,-,Michalek,21d (#106)
+
+DP 118
+
+-,11.5.,Katharina,-,Heisler,63 (#28)
+-,18.5.,Maria Anna,-,Weinlich,17d (#72)
+-,24.5.,Juliana,-,He#l,3# (#30)(3 oder 8?)
+-,28.5.,Josepha,-,Wagner,6m (#55)
+-,3.6.,Genoveffa,-,Koblischke,1 (#29)
+-,5.6.,Josepha,-,Gabler#,1 (#57)(Gääbler?)
+-,6.6.,Johann,-,Gregor,1 (#137)
+-,6.6.,Anna Maria,-,Neugebauer,2 (#53)
+-,11.6.,Maria Anna,-,Krögler,1 (#95)
+-,25.6.,Alexander,-,Kern#,1m (#102)
+-,29.6.,Franz,-,Schlesinger,1 (#144)
+-,4.7.,Anna Maria,-,Ripl#,5 (#5)
+-,11.7.,Karl,-,Wagner,1 (#55)
+-,17.7.,Marianna,-,Krögler,3w (#70)
+-,25.7.,Johanna,-,Wagner,2 (#18#)
+-,4.8.,Veronika,-,Gritzbauch,50 (#77)
+-,19.9.,Gotthard,-,Schlesinger,1y9m (#85)
+-,3.10.,Johann,-,Krögler,14d (#94)
+-,10.10.,Joseph,-,Heisler,5m4d (#13)
+-,5.11.,Anna Maria,-,Schlesinger,40 (#121)
+-,13.11.,Franz,-,Heisler,27 (#139)
+-,8.12.,Franz,-,Neugebauer,20w (#93#)
+-,10.12.,Judith,-,Wagner,75 (#40)
+
+DP 119
+
+-,29.12.,Gotthard,-,#antusch#,72 (#4)
+
+1788
+
+-,15.1.,Gottfried#,-,Schlesinger,71 (#130)
+-,1.2.,Johann,-,Hanl#,11d (#30)
+-,28.2.,Leopold,-,Langer,10 (#10)
+-,3.3.,Vinzenz,-,Weinlich,6d (#1)
+-,11.3.,Anna Maria,-,Schlesinger,80 (#31)
+-,14.4.,Johann,-,Schlesinger,7m14d (#11)
+-,18.4.,Maria Victoria,-,Dittrich,7w (#91)
+-,24.4.,Elisabeth,-,Schlesinger,28 (#72)
+-,30.4.,Franz,-,Blaschke,80 (#91)
+-,2.5.,Franz Anton,-,Feltzmann,10w
+-,2.5.,Johanna,-,Wagner,5 (#52)
+-,7.5.,Theresia,-,Wagner,3 (#52)
+-,10.5.,Genoveffa,-,Wagner,3 (#52)
+-,12.5.,Leopold,-,Krögler,1y4w (#64)
+-,14.5.,Bernhard,-,Neugebauer,# (#135)(Altersangabe schwer lesbar)
+-,18.5.,Benedikt,-,Weinlich,1y3m (#103)
+
+DP 120
+
+-,20.5.,Johann Joseph,-,Schlesinger,4y4m (#25)
+-,20.5.,Theresia,-,Wagner,5d (#70)
+-,26.5.,Benedikt,-,Weinlich,1 (#103)
+-,10.6.,Maria Elisabeth,-,Heisler,5y6m (#42)
+-,20.6.,Johanna,-,Gladtkin#,11#d (#8)
+-,13.8.,Genoveffa,-,Schlesinger,2.5 (#21)
+-,21.8.,Anna Maria,-,Koblischke,88 (#76)
+-,22.8.,Genoveffa,-,Schlesinger,8m (#72#)
+-,22.8.,Judith,-,Schlesinger,60 (#58)
+-,7.10.,Marianna,-,Czernohorsky,2y7w (#101)
+-,12.10.,Rosalia#,-,Krögler,4y6m (#126)
+-,13.10.,Genoveffa,-,Krögler,1y1m (#131)
+-,30.10.,Benedikt,-,Dittrich,6w (#127)
+-,12.11.,Franz Karl,-,Schlesinger,4 (#118)
+
+DP 121
+
+-,14.11.,Dorothea,-,Schlesinger,70 (#102)
+-,18.11.,Franz Karl,-,Koblischke,17w (#38)
+-,19.11.,Josepha,Heinrich#,Wagner,4 (#119,Beruf Tischlermeister)
+-,4.12.,Josepha,Anton,Wagner,3 (#99,Beruf Häusler)
+-,12.12.,Franz,Fabian,Koblischke,- (#76,Beruf Häusler)
+-,24.12.,Anna Maria,-,Heisler,62 (#14)
+
+1789
+
+-,7.2.,Anton,-,Höhl,88 (#68,Beruf Bauer und Ausgedinger)
+-,17.2.,Viktoria,Florian,Schlesinger,28 (Ehefrau,#23,Beruf Häusler)
+
+DP 122
+
+-,11.3.,Angelina,Franz,Heisler,6m (#13,Beruf Häusler)
+-,13.3.,Marianna,Wenceslaus,Krögler,7w (#126,Beruf Häusler)
+-,21.3.,Johann,Franz,Krögler,16w (#95,Beruf Feldgärtner)
+25.3.,Wenceslaus,-,Czernohorsky,77 (#49,Beruf Ausgedinger)
+2.4.,Theresia,Heinrich,Wagner,26 (Ehefrau,#70,Beruf #)("im Ausgeding des Heinrich Wagner Eheweib" - was ergibt das für einen Sinn???)
+10.4.,Johanna,Franz,Neugebauer,9w (#110)
+18.4.,Johann,-,Czastek#,65 (#109)
+20.4.,Franz Anton,Franz,Krögler,9w (#70,Beruf Inwohner)
+12.5.,Monika,Fabian,Koblischke,2y9m (#76,Beruf Heisler)
+24.5.,Thaddäus#,Franz,Schlesinger,16w (#72,Beruf Inwohner)
+25.5.,-,Gottlieb,Chladek,- (#8,Beruf Häusler)("von der Hebam notgetauft, Alter einige Minuten)
+28.5.,Benedikt,Karl,Pfertner,6w (#86,Beruf Häusler)
+17.6.,Johann,Franz,Schlesinger,13d (#35,Beruf Häusler)
+
+DP 123
+
+26.9.,Viktoria,Wenceslaus,Krögler,35w (#126,Beruf Häusler)
+26.9.,Leopold,Leopold,Dittrich,6w (#97,Beruf Kaufmann)
+6.10.,Anna Maria,Heinrich,Neugebauer,4 (#93#,Beruf Inwohner)
+25.10.,Juliana,Heinrich,Bartusch,40 (#75,Beruf Bauer)
+3.12.,-,Franz,Krögler,- (#7,Beruf Inwohner)("von der Hebam Notgetauft", lebte einige Minuten)
+18.12.,Joseph,Joseph,Katzer,4 (#109,Beruf Inwohner)
+19.12.,Peregrin,Gottlieb,Schüll,2 (#56,Beruf Häusler)
+29.12.,Franz Karl,Franz,Krögler,18d (#7,Beruf Inwohner)
+31.12.,Vinzenz,Johann Wenceslaus,Höll#,1 (#376,Beruf Häusler)
+
+1790
+
+14.1.,Johann,Ludwig,Czernohorsky,14d (#115,Beruf Häusler)
+16.1.,Judith,Heinrich,Heisler,50 (Ehefrau,#29,Beruf Inwohner)
+
+DP 124
+
+14.2.,Johann,Joseph,Koblischke,12d (#29,Beruf Häusler)
+18.2.,Josepha,Franz,Koller,7 (#90,Beruf Häusler)
+18.2.,Johanna,Franz,Krögler,8w (#8,Beruf Inwohner)
+22.2.,Veronika,Anton,Feltzmann,60 (#2,Beruf Häusler)
+22.2.,Veronica,Anton,Czernohorsky,30 (#46,Beruf Häusler)
+3.3.,Genoveffa,Franz,Schlesinger,2m (#59,Beruf #)
+12.3.,Leopold,#,Neugebauer,14d (#53,Beruf Inwohner)(Vorname des Vaters schwer lesbar)
+13.3.,Johann,Gotthard,Wagner,1# (#75,Beruf Häusler)
+20.3.,Viktoria,Gotthard,Schlesinger,1y2m (#59,Beruf Häusler)
+23.3.,Thaddäus,Franz,Heisler,1y1m (#42)
+13.4.,Vinzenz,Franz,Gregor,12w (#136,Beruf Häusler)
+1.5.,Gotthard,-,Schüll,90 (#56,Beruf Inwohner)
+22.8.,Theresia,Joseph,Weipert#,3d (#83,Beruf Inwohner)(Nachname schwer lesbar, unsicher)
+2.10.,Joseph Thaddäus,Leopold,Dittrich,12d (#97,Beruf Bauer)
+2.10.,Marianna,Heinrich,Czernohorsky,26d (#101,Beruf Häusler)
+
+DP 125
+
+11#.10.,Johann,Franz,Weiß,5w (#55,Beruf Häusler)
+9.11.,Genoveffa,Franz,Heisler,3m (#13,Beruf Inwohner)
+19.11.,Johanna,Karl,Czastek#,3 (#109,Beruf Schneider)(Nachname kaum lesbar, unsicher,Tschastek == Czastek?)
+4.12.,Johanna,Anton,Krögler,20 (#6,Beruf Häusler)
+5.12.,Theresia,Karl,Czastek#,38 (Ehefrau,#109,Beruf Schneider)(Tschastek == Czastek?)
+
+1791
+
+4.1.,Franz,Franz,Neugebauer,17d (#111,Beruf Häusler)
+11.1.,Florian,Franz,Schlesinger,10#d (#35,Beruf Häusler)
+12.2.,Elisabeth,Gotthard,Bartusch,82 (Witwe,#4,Beruf Bäckermeister#)
+18.3.,Anna Maria,Joseph,Pfertner,49 (Ehefrau,#83,Beruf Inwohner)
+23.3.,Juliana,Heinrich,Gabler,11# (#57,Beruf Häusler)
+15.4.,Anna Maria,Anton,Weinlich,81 (Witwe,#108,Beruf Bauer)(Ehefrau des verstorbenen == Witwe)
+25.4.,Johanna,Andreas,Neugebauer,73 (Ehefrau,#54,Beruf Inwohner)
+29.4.,Andreas,-,Neugebauer,63 (Witwer,#54,Beruf Inwohner)
+18.5.,Elisabeth,Wenceslaus,Pauk,2 (#84,Beruf Häusler)
+25.5.,Benedikt,Gottlieb#,Chladek,3d (#8,Beruf Häusler)
+
+DP 126
+
+28.5.,Anton,-,Dittrich,56 (#91,Beruf Häusler)
+29.5.,Benedikt,Franz,Gregor,15w (#136,Beruf Bäckermeister#)
+2.6.,-,Franz Karl,Czernohorsky,- (#45)("von der Hebam notgetauft", einige Minuten am Leben)
+9.6.,Anton,-,Schlesinger,80 (#83,Beruf Bauer)
+13.6.,Franz Anton,Franz,Czernohorsky,1 (#137#,Beruf Häusler)
+14.6.,Elisabeth,Wenceslaus,Krögler,65 (Witwe,#4,Beruf Inwohner)(Es steht nur "nach dem", unklar, ob Vater oder verstorbener Ehemann)
+6.7.,Judith,Anton,Höll,92 (Witwe,#69,Beruf Häusler)(Es steht nur "nach dem", nicht ob Vater oder verstorbener Ehemann, da eine sehr alte Frau vermutlich verstorbener Ehemann)
+14.7.,Josepha,Leopold,Krögler,25w (#107,Beruf Häusler)
+15.7.,Agnes,Franz,Krögler,9m (#95,Beruf Bauer#)
+15.7.,Theresia,Gotthard,Pfertner,3 (#48,Beruf Bauer)
+15.7.,Juliana,Gotthard,Pfertner,1y3m (#48)
+16.7.,Judith,Anton,Krögler,65 (Witwe,#107,Beruf Häusler)
+18.7.,Agnes,Anton,Krögler,2 (#7,Beruf Häusler)
+
+DP 127
+
+20.7.,Johanna,Peregrin,Weinlich,24w (#1,Beruf #)
+21.7.,Elisabeth,Franz,Schlesinger,1 (#95,Beruf Inwohner)
+22.7.,Josepha,Gotthard,Dittrich,14w (#127,Beruf Häusler)
+23.7.,Marianna,Karl,Schlesinger,27w (#72,Beruf Inwohner)
+23.7.,Leopold,Anton,Dittrich,6m (#54,Beruf Inwohner)
+28.7.,Franz Anton,Anton,Schlesinger,1.5 (#15,Beruf Inwohner)
+29.7.,Cäcilia,Gotthard,Schlesinger,9m (#85,Beruf Inwohner)
+31.7.,Theresia,Anton,Höhl,9m (#66,Beruf Häusler)
+31.7.,Theresia,Heinrich,Pfertner,10m (#64,Beruf Häusler)
+31.7.,Anton,Augustin,Nehyba,2 (#69,Beruf Häusler)
+1.8.,Aloys,Ignatz,Hau#,9m (#81,Beruf Soldat)
+
+DP 128
+
+5.8.,Johann Heinrich,Franz,Schlesinger,- (#59)
+12.8.,Franz,Augustin,Nehyba,4 (#69,Beruf Häusler)
+17.8.,Florian,Anton,Neugebauer,- (#5)
+17.8.,Theresia,Johann,Trampota,70 (Ehefrau,#129,Beruf Häusler)
+8.9.,Johann,Wenceslaus,Langer,14 (#81,Beruf Bauer)
+9.9.,Johanna,Andreas,Gabler,25 (#14)
+25.9.,Johann,Heinrich,Neugebauer,- (#93)
+12.10.,Anna Maria,-,Krögler,71 (#7)
+31.10.,Maria Josepha,Franz,Weis,- (#55)
+5.11.,Florian,Florian,Schlesinger,- (#23)
+
+DP 129
+
+25.11.,Heinrich,-,Höhl,91 (#36,Beruf Ausgedinger)
+Neudörfl,5.12.,Anna Maria,-,Köhler#,70 (#129)(#129 in Neudörfl oder in Worlitschka?)
+17.12.,Johann,Benedikt,Wagner,- (#119,Tischlermeister)
+20.12.,Leopold,Joseph,Koblischke,1 (#29)
+
+1792
+
+5.1.,Leopold,Andreas,Neugebauer,- (#49)
+16.1.,Elisabeth,Franz,Köhler,- (#90)
+13.2.,Wenceslaus,-,Wagner,80 (#40,Beruf Ausgedinger)
+9.3.,Franz Karl,Gotthard,Schlesinger,6 (#34)
+30.3.,Johann Karl,Karl,Czast#,# (#109)(Alter einstellig)
+24.4.,Anna Maria,-,Schüll#,77 (#89)
+
+DP 130
+
+18.5.,Maria Josepha,Wenceslaus,Feltzmann,1 (#83)
+25.5.,Susanna,-,Schlesinger,70 (#22)
+26.5.,Johann Nepomuk,Gottlieb,Chladek,- (#8)
+3.6.,Franz Karl,Johann Wenceslaus,Krögler,- (#131)
+4.6.,Anton,-,Krögler,44 (#67,Beruf Häusler)
+14.6.,Anastasia,Karl,Bien#,5 (#114)
+1#.7.,Joseph,-,Bernhard,45 (#141)(sehr schwer zu lesen, unsicher - ist hier der Pfarrer verstorben? "wohlerwürdiger Herr","Kirchdiener")
+2.7.,Ferdinand,-,Wagner,82 (Beruf Inwohner)
+10.7.,Joseph,Franz,Gregor,1 (#136,Beruf Bäcker)
+9.8.,Thaddäus,Franz,Heisler,1.5 (#42)
+16.8.,Cäcilia,Franz,Schlesinger,21d (#95,Beruf Inwohner)
+
+DP 131
+
+29.8.,Peregrin,Heinrich,Gabler,9 (#57)
+1.9.,Johann Florian,Anton,Schlesinger,1y3m (#15)
+7.9.,Genoveffa,Gottlieb,Schüll,6m (#56)
+11.9.,Elisabeth,Anton,Dittrich,12 (#91)
+11.9.,Johann,Leopold,Schlesinger,4d (#59)
+12.9.,Eleonora,Franz,Weinlich,1 (#104)
+13.9.,Josepha,Leopold,Trampota,5 (#29)
+17.9.,Thecla,Franz,Dittrich,24 (#102)
+18.9.,Anna Maria,Johann,Schlesinger,66 (#16#)
+20.9.,Aloys,Heinrich,Klögler#,9m (#92)(Klögler == Krögler?)
+21.9.,Clara,-,Czernohorsky,52 (#137,Beruf Inwohnerin)
+22.9.,Johanna,Anton,Dittrich,28 (Ehefrau,#54,Beruf Inwohner)
+22.9.,Josepha,Anton,Dittrich,4 (#54,Beruf Inwohner)
+25.9.,Thaddäus,-,-,-,1.5 (#90)(Johanna war Tochter des Karl Schüll, Inwohner) U: Kind von Johanna #
+27.9.,Anna Maria,Franz,Weinlich,52 (#81,Beruf Inwohner#)
+
+DP 132
+
+10.10.,Theresia,Johann,Weinlich,4y3m (#130,Beruf Häusler)
+13.10.,Heinrich,-,Czernohorsky,45 (#101,Beruf Häusler)
+14.10.,Franz,-,Schlesinger,60 (#32,Beruf Häusler)
+23.10..,Johanna,-,-,- (#138)("Tochter Gloglerin#","Notgetauft von der Hebam")
+28.10.,Barbara,Anton,Schlesinger,16 (#83,Beruf Bauer)
+6.11.,Aloys,Leopold,Dittrich,1 (#97,Beruf Bauer)
+9.11.,Joseph,Ferdinand,Schlesinger,2 (#140,Beruf Häusler)
+11.11.,Anna Maria,Karl,Pfertner#,32 (Ehefrau,#86,Beruf Häusler)
+18.11.,Aloys,Benedikt,Wagner,2w (#119,Beruf Tischler)
+25.11.,Veronica,-,Wagner,60 (#75)(Ledig)
+18.12.,Johann Wenceslaus,Johann Wenceslaus,Schüll#,9m (#88,Beruf Häusler)
+21.12.,Franziska,Leopold,Weinlich,6w (#103,Beruf #)(Müller?)
+28.12.,Gottfried,-,Schlesinger,70 (#22,Beruf Inwohner)
+
+1793
+
+5.1.,Rosalia,Franz,Heisler,- (#13,Beruf Häusler)("notgetauft von der Hebam")
+
+DP 133
+
+20.1.,Andreas,-,Gritzbauch,78 (#77)
+25.2.,Joseph,Joseph,Pfertner,8d (#135,Beruf Inwohner)
+26.2.,Gregor,Johann,Chromy,14d (#17,Beruf Inwohner)
+15.3.,Angelina,Anton,Klegler#,2m (#3,Beruf Häusler)(Klegler == Krögler?)
+8.4.,Anna Maria,Karl,Heisler,- (#143,Beruf Inwohner)
+13.4.,Johann,Gotthard,Weinlich,2d (#21,Beruf Häusler)
+30.4.,Anna Maria,Karl,Heisler,40 (Ehefrau,#143,Beruf Häusler)
+1.6.,Juliana,Joseph,Koblischke,- (#29,Beruf Häusler)
+2.6.,Viktoria,Andreas,Pfertner,14d (#117,Beruf Inwohner)
+15.6.,Eleonora,Andreas,Neugebauer,8d (#54,Beruf Inwohner)
+16.6.,Wenceslaus,-,S#linek,78 (#7)("von Linsdorf gebürtig, hier gestorben")
+29.6.,Johanna,Johann Wenceslaus,Glegler#,2 (#135,Beruf Häusler)(Glegler == Grögler?)
+1.8.,Johann,-,Langer,68 (#12,Beruf Häusler)
+8.8.,Anton,-,Czernohorsky,64 (#117,Beruf Schmied)
+29.8.,Judith,Wenceslaus,Schlesinger,80 (#20,Beruf #)
+15.11.,Laurenz,-,Schlesinger,70 (#121,Beruf Häusler)
+
+DP 134
+
+17.12.,Wenceslaus,-,Köhler,83 (#87,Beruf Inwohner)
+25.12.,Victoria,Gottlieb,Schüll,25d (#123,Beruf Feldgärtner)
+30.12.,Franz,Benedikt,Wagner,18d (#119,Beruf Tischler)
+30.12.,Viktoria,Johann Wenceslaus,Krögler,4m (#131,Beruf Häusler)
+
+1794
+
+24.2.,Franz Karl,Franz,Chladek#,4d (#38)(Nachname schwer lesbar)
+24.2.,Elisabeth,Wenceslaus,Langer,62 (Ehefrau,#81,Beruf Feldgärtner)
+21.3.,Johann,Joseph,Dittrich,1 (#139,Beruf Häusler)
+25.3.,Victoria,Wenceslaus,Pauk,1m (#84,Beruf Häusler)
+26.3.,Marianna,Franz,Schlesinger,20 (Ehefrau,#121)
+30.3.,Wenceslaus,-,Krögler,68 (#131,Beruf Inwohner)
+3.4.,Veronica,Gotthard#,Heisler,78 (Ehefrau,#39,Beruf Häusler)
+21.4.,Benedikt,Karl,Heisler,1m (#143,Beruf Häusler)
+30.4.,Rosalia,Joseph,Wagner,24 (Ehefrau,#128,Beruf Inwohner)
+16.5.,Heinrich,-,Neugebauer,41 (#93,Beruf Inwohner)
+13.7.,Johann,Tobias,#enberger,1 (#4,Beruf Fleischhacker)
+28.7.,#sius,Karl,Bien,6m (#114)
+6.8.,Elisabeth,Anton,Krögler,1.5 (#149)
+8.9.,Anna Maria,-,Köhler,75 (#79,Beruf Inwohnerin)
+16.9.,Karl,Karl,Czastek#,- (#109)
+
+DP 135
+
+6.10.,Juliana,Joseph,Koblischke,- (#29,Beruf Häusler)
+17.11,Johann,Franz,Czernohorsky,1 (#137,Beruf Häusler)
+23.11.,Anna Maria,Franz,Krögler,1 (#138,Beruf Häusler)
+3.12.,Johanna,Franz,Czernohorsky,3 (#137,Beruf Häusler)
+13.12.,Agnes,Gottlieb,Schlesinger,3.5# (#140,Beruf Häusler)
+25.12.,Johann,-,-,1m (#28)(Juliana ist Tochter von Andreas Feltzmann) U: Kind von Juliana Feltzmann
+31.12.,Agnes,Anton,Kregler#,3y3m (#7,Beruf Häusler)
+
+1795
+
+4.1.,Judith,-,Schlesinger,80 (#55)
+5.1.,Elisabeth,Anton,Schlesinger,- (#7,Beruf Inwohner)
+11.1.,Johann WEnceslaus,Wenceslaus,Schlesinger,- (#20,Beruf Häusler)
+19.1.,Josepha,Laurentz#,Wagner,9d (#119,Beruf Tischlermeister)(Vorname des Vaters schwer lesbar, unsicher)
+23.1.,Franz,Heinrich,Wagner,1 (#70,Beruf Inwohner)
+24.1.,Josepha,Heinrich,Wagner,3 (#70,Beruf Inwohner)
+24.2.,Susanna,-,Schüll,78 (Witwe,#123)
+3.3.,Franz,Gotthard,Schlesinger,1m (#62,Beruf Feldgärtner)
+6.3.,Theresia,Karl,Lier#,4 (#114,Beruf Häusler)
+
+DP 136
+
+16.3.,Dorothea,Franz,Neugebauer,2m (#111,Beruf Inwohner)
+16.3.,Franziska,#,Schlesinger,1m (#106,Beruf Inwohner)
+4.4.,Bernhard#,Heinrich#,Neugebauer,12d (#53,Beruf Feldgärtner)
+11.4.,Anna,Wenceslaus,Koblischke,45# (Ehefrau,#79,Beruf Häusler)
+25.4.,Elisabeth,Heinrich,Köhler,67 (#74,Beruf Häusler)
+14.5.,Aloys,Leopold,Dittrich,9m (#97,Beruf Feldgärtner)
+20.5.,Aloys,Anton,Heyl,1m (#66,Beruf Häusler)
+6.6.,Peregrin,-,Krögler,45 (#11)(ledig)
+13.6.,Johann,Ludwig,Czernohorsky,1m (#115,Beruf Häusler)
+24.6.,Johann,Wenceslaus,Pfertner#,2m (#48,Beruf #)
+24.6.,Joseph,Franz,Czernohorsky,1m (#137,Beruf Häusler)
+8.7.,Aloys,Joseph,Egydi,1m (#74,Beruf Inwohner)
+29.7.,Johanna,-,Heisler,62 (#114)
+30.7.,Johanna,Benedikt,Wagner,28 (Ehefrau,#119,Beruf Tischlermeister)
+31.7.,Paulina,Benedikt,Weinlich,1 (#108,Beruf #gerbermeister)
+22.8.,Josepha,Heinrich,#,1 (#60,Beruf Häusler)(Nachname kaum lesbar, beginnt vermutlich mit M oder W)
+11.9.,Thaddäus,Franz,Chladek,9d (#61,Beruf Häusler)
+17.9.,Anton,-,Koller,63 (#110,Beruf #)(Beruf möglicherweise Wagnermr == Wagnermeister ?)
+12.10.,Joseph,-,Schlesinger,65 (#106,Beruf Inwohner)
+14.10.,Anton,-,Weinlich,60 (#69,Beruf Inwohner)
+15.10.,Gotthard,-,Heisler,64 (#31,Beruf Häusler)
+
+DP 137
+
+7.11.,Theresia,Wenceslaus,Heisler,9m (#86,Beruf Inwohner)
+13.11.,Genoveffa#,Franz,Heisler,1 (#13,Beruf Inwohner)(Unsicher beim Vornamen, schwer zu lesen)
+24.11.,Elisabeth,Wenceslaus,#uch#tsch#,46 (Ehefrau,#132,Beruf Häusler)
+26.11.,Josepha,Karl,Pfertner,1 (#86,Beruf Häusler)
+7.12.,Aloys,Ferdinand,#iß#,9m (#90,Beruf Häusler)
+
+1796
+
+3.2.,Johanna,Johann,#zer,1m (#92,Beruf Inwohner)
+8.2.,Johann,Joseph,Koblischke,1m (#29)
+10.2.,Marianna,Gottlieb,Schüll,1m (#123,Beruf Feldgärtner)
+12.2.,Heinrich,Heinrich,Krögler,1m (#92,Beruf Häusler)
+28.2.,Anna Maria,-,Gladtkin,55 (#61)
+10.3.,Johann,Gotthard,Gladek#,1 (#105,Beruf Häusler)
+17.3.,Helena,Gotthard,Krögler,1 (#53,Beruf Inwohner)
+31.3.,Anton,Anton,Knoll,2 (#134,Beruf Inwohner)
+7.4.,Marianna,Johann Wenceslaus,Schüll,1m (#88,Beruf Häusler)
+9.4.,Peregrin,Johann Wenceslaus,Krögler,3m (#135,Beruf Häusler)
+22.4.,Bernhard#,Karl,Bier,6#m (#114,Beruf Häusler)
+30.4.,Anton,-,Dittrich,87 (#96,Beruf Inwohner)
+30.4.,Genoveffa,Ferdinand,Koblischke,1 (#38,Beruf Häusler)
+
+DP 138
+
+10.5.,Sebastian,-,Schlesinger,36 (#11)(ledig)
+13.5.,Viktoria,Wenceslaus,Pfertner,5d (#48,Beruf Inwohner)
+30.5.,Theresia,Ignatz,Heisler,6w (#9,Beruf Inwohner#)
+30.6.,Aloys,Anton,Dittrich,1 (#59,Beruf Inwohner#)
+4.7.,Benedikt,Leopold,Schlesinger,6m (#36,Beruf Häusler)
+11.7.,Johann#,Gotthard,Heisler,- (#125)
+3.8.,Veronika,Joseph,Weinlich,56 (Witwe,#91)
+13.8.,Elisabeth,Joseph,Dittrich,5d (#139)
+15.8.,Peregrin,Anton,Krögler,1 (#149,Beruf Häusler)
+9.9.,Andreas,-,Gabler,56 (#43,Beruf Inwohner)
+14.9.,Anton,-,Czernohorsky,42 (#24,Beruf Inwohner)
+23.11.,Johann,Karl,Heisler,1 (#143,Beruf #)
+27.11.,Juliana,Gotthard,Heisler,2 (#125)
+8.12.,Genoveffa#,Florian,Wagner,15 (#76,Beruf Inwohner)
+11.12.,Johanna,Franz,Schmid,1 (#17,Beruf Häusler)
+17.12.,Leopold,Christoph,Horni#,3m (#43,Beruf Inwohner)
+21.12.,Eleonora,Johann,Neugebauer,12d (#27,Beruf Häusler)
+25.12.,Theresia,Augustin,Nehyba,2 (#69,Beruf Häusler)
+
+1797
+
+10.1.,Johann Wenceslaus,Wenceslaus,Pauk,3d (#84,Beruf Häusler)
+13.1.,Johann,Heinrich,Krögler#,4 (#26,Beruf Inwohner#)("In#" == Inwohner?)
+17.1.,Franz,Peregrin,Weinlich,2 (#1,Beruf Fleischhacker)
+21.1.,Thaddäus,Heinrich,Wagner,1 (#60,Beruf Häusler)
+28.1.,Aloys,Heinrich,Krögler,3 (#92,Beruf Häusler)
+
+DP 139
+
+28.1.,Viktoria,Franz,Schlesinger,2 (#11,Beruf Erbrichter)
+28.1.,Vinzenz,Heinrich,Pfertner,3#m (#64,Beruf #)
+31.1.,Anna Maria,Anton,Neugebauer,1y3#m (#65,Beruf Inwohner)
+2.2.,Benedikt,Heinrich,Krögler,7 (#92,Beruf Häusler)
+3.2.,Victoria,Karl,Schlesinger,3m (#62,Beruf Feldgärtner)
+7.2.,Victoria,Leopold,Trampota,1y6#m (#129,Beruf Häusler)
+8.2.,Bernhard,Franz,Schlesinger,2# (#11,Beruf Erbrichter)
+13.2.,Vinzenz,Andreas,Gritzbauch,- (#78,Beruf Ausgedinger)(Andreas war bereits verstorben)
+14.2.,Franz,Karl,Michalek,2 (#106,Beruf Häusler)
+14.2.,Josepha,Joseph,Koblisch#,9 (#29,Beruf Häusler)
+19.2.,Anna Maria,Anton,Schlesinger,3d (#83)
+20.2.,Anna,Andreas,Pfertner,46 (Ehefrau,#121,Beruf Inwohner)
+21.2.,Genoveffa#,Anton,Krögler,5m (#111,Beruf Häusler)
+3.3.,Juliana,Leopold,Neugebauer,1 (#3)
+19.3.,Leopold,-,Schlesinger,14d (#35)
+21.3.,Agnes,Gottlieb,Schüll#,10d (#123#)
+4.4.,Johann,Gotthard,Heisler,- (#125,Beruf #)
+7.4.,Josepha,Franz,Dittrich,2 (#91,Beruf Häusler#)
+8.4.,Gotthard,-,Heisler,76 (#12,Beruf Inwohner)
+18.4.,Franz,Benedikt,Weinlich,2m (#108,Beruf #gerber)
+20.4.,Aloys,Andreas,Gritzbauch,8 (#78,Beruf Ausgedinger)(Andreas war bereits verstorben)
+23.4.,Viktoria,Franz,Dittrich,3m (#91,Beruf Häusler)
+30.4.,Anton,-,Gl#,69 (#105,Beruf Inwohner)
+
+DP 140
+
+#,1.5.,Helena,Joseph,Steyskal,2m (#146)(heißt das "von Jamnay"?)
+4.5.,Leopold,Wenceslaus,Krögler,7 (#131,Beruf Häusler)
+5.5.,Victoria,Wenceslaus,Krögler,2 (#131,Beruf Häusler)
+6.5.,Augustin,Franz,Czernohorsky,5m (#131,Beruf Häusler)
+21.5.,Franz,Anton,Knoll,1 (#97,Beruf Inwohner)
+27.5.,Thaddäus,Joseph,Koblischke,1m (#29,Beruf Häusler)
+4.6.,Franz,Joseph,K#h#,4 (#134,Beruf Häusler)(Nachname kaum lesbar)
+5.6.,Thaddäus,Franz,Gregor,1.5 (#136,Beruf Häusler)
+9.6.,Agnes,Franz,Neugebauer,14d (#110,Beruf Häusler)
+14.6.,Anna Maria,Johann Wenceslaus,Neugebauer,56 (Ehefrau,#27,Beruf Häusler)
+13.7.,Theresia,Gotthard,Krögler,6m (#134,Beruf Feldgärtner)
+6.8.,Anton,-,Czernohorsky,77 (#46,Beruf Häusler)
+16.8.,Benedikt,Franz Anton,Schlesinger,2 (#26#,Beruf Feldgärtner)
+1.9.,Franz,-,Dittrich,73 (#102,Beruf Webermeister)
+19.9.,Johann,Gotthard,Weinlich,2 (#21,Beruf Häusler)
+22.9.,Genoveffa#,Franz,Krögler,1 (#138,Beruf Häusler)
+24.9.,Franz,Heinrich,Kohler,1 (#74,Beruf Häusler)
+2.10.,Benedikt,Ferdinand,Wiesner#,1 (#90,Beruf Häusler#)
+9.12.,Veronica,Ferdinand,Czernohorsky,89 (Witwe,#115)
+
+1798
+
+5.1.,Viktoria,Leopold,Neugebauer,6w (#3,Beruf Häusler)
+14.1.,Johann,Ludwig,Czernohorsky,4d (#115,Beruf Häusler)
+3.2.,Juliana,Johann,Wagner,4d (#6)
+11.3.,Johann,Johann,Wagner,6w (#6,Beruf Inwohner)
+22.3.,Theresia,Anton,Krögler,33 (Ehefrau,#117#,Beruf Häusler#)(H# == Häusler?)
+23.3.,Gotthard,Gotthard,Weinlich,- (#21,Beruf Häusler)
+14.4.,Theresia,Gotthard,Heisler,14d (#31,Beruf Häusler)
+28.4.,End#,Benedikt,Weinlich,9d (#108,Beruf #gerber)(Vorname des verstorbenen Kindes ist schwer zu lesen)
+
+DP 141
+
+23.5.,Gotthard,-,Heisler,80 (#109,Beruf Inwohner)
+25.5.,Josepha,Johann Wenceslaus,Krögler#,2m (#126,Beruf Häusler)(Nachname schwer zu lesen,unsicher)
+30.5.,Elisabeth,Johann,Spit#,41 (Ehefrau,#75,Beruf Inwohner)
+6.6.,Anton,-,Weinlich,75 (#87,Beruf Häusler)
+7.6.,Anton,-,Krögler,73 (#6,Beruf Häusler)
+24#.6.,Theresia,Johann,Heisler,46 (#109)
+4.7.,Joseph,Anton,Kritzbauch,6m (#77,Beruf Feldgärtner)
+14.7.,Benedikt,Anton,Neugebauer,6d (#69,Beruf Inwohner)("In#"==Inwohner?)
+#,4.6.,Johann,-,#nzer,38 (#4,Beruf Glaser und Inmann)(Glaser Beruf oder Nachname? Was steht vor Glaser? Ehrendorf Herkunft?)
+17.7.,#onika,Joseph,Czernohorsky,1m (#119,Beruf Häusler)
+18.8.,AGnes,Anton,Krögler,6m (#111)
+5.9.,Franz,Franz,Heyl,6d (#68,Beruf Feldgärtner)
+20.9.,Viktoria,Franz,Weis#,6#m (#55,Beruf Häusler#)
+23.9.,Benedikt,Florian,Schlesinger,5d (#85,Beruf Häusler)
+26.9.,Thaddäus,Thaddäus,Weinlich,3d (#116,Beruf Häusler)
+2.10.,Genoveffa#,Franz,Krögler,12d (#4,Beruf Inwohner)(Vorname schwer zu lesen,unsicher)
+3.10.,Franz,Joseph,Scholtz,10 (#64,Beruf Inwohner)
+7.10.,Anna Maria,-,Pfertner,73 (#50,Beruf Inwohnerin)
+24.10.,Johann,Thaddäus,Schlesinger,9m (#2,Beruf Häusler)
+31.10.,Bendikt,Florian,Schlesinger,3 (#23,Beruf Häusler)
+8.11.,Johann,Franz,Weinlich,4 (#37,Beruf Häusler)
+12.11.,Franz,Heinrich,Wagner,6#m (#152,Beruf Häusler)
+20.11.,Josepha,Heinrich,Krögler,2m (#26,Beruf Inwohner)
+24.11.,Raphael,Franz,Czernohorsky,1y6#m (#137,Beruf Häusler#)
+14.12.,Wenceslaus,-,Heisler,75 (#4,Beruf Inwohner)
+18.12.,Elisabeth,Franz,Schlesinger,4 (#28,Beruf Häusler)
+20.12.,Viktoria,Joseph,K#,1 (#92,Beruf Inwohner)(Kern/Kehrn?)
+22.12.,Johanna,Ignatz,Heisler,2 (#155,Beruf Häusler)
+29.12.,Anna Maria,Gottlieb,Schüll#,10d (#123,Beruf Feldgärtner)
+
+DP 142
+
+1799
+
+4.1.,Peregrin,Gotthard,Schlesinger,5 (#62)
+18.1.,Joseph,Joseph,Kobli#,3d (#29,Beruf Häusler)
+29.1.,Anna,Wenceslaus,Langer,74 (Witwe,#10)
+5.3.,Ignatz,Anton,Krögler,11d (#111,Beruf Häusler)
+5.3.,#ylia,Franz,Schlesinger,1m (#11,Beruf Erbrichter)(Cäcilia?)
+16.3.,Anna Maria,-,Heyl,75 (#54,Beruf Inwohner)
+30.3.,Joseph,Johann,Heisler,8d (#65,Beruf Häusler)
+9.4.,Leopold,Leopold,Weinlich,2 (#87,Beruf Häusler)
+19.4.,Gottlieb,-,Gl#,66 (#8,Beruf Inwohner)
+6.6.,Leopold,-,Bartusch,61 (#98,Beruf Müller#)
+9.8.,Andreas,-,Neugebauer,42 (#54,Beruf Inwohner)
+2.9.,Annastasia,Karl,Bier,1 (#114,Beruf Häusler)
+12.9.,Joseph,Leopold,Weinlich,- (#103,Beruf #)
+17.9.,Benedikt,Joseph,Egydi,14d (#21,Beruf Inwohner)
+18.9.,Theresia,Franz,Mina#,21 (#113,Beruf Inwohner)
+1.10.,Viktoria,Florian,Schlesinger,6 (#23,Beruf #)("H#" == Häusler?)
+1.10.,Veronika,Augustin,Krögler,59 (#86)
+5.10.,Karolina,Karl,Michalek,6 (#106,Beruf Häusler)
+29.10.,Johann Wenceslaus#,Leopold,Schlesinger,2# (#56,Beruf Häusler)(2 oder 9?)
+1.11.,Josepha,Johann,Schüll,3#m (#88,Beruf Häusler)
+2.11.,Heinrich,Heinrich,Krögler,4 (#26)
+2.11.,Anna,Heinrich,Krögler,2 (#26)(Dieser und der Eintrag von Heinrich Krögler am selben Tag war ein Matrikeleintrag)
+2.11.,#us,Wenceslaus,Heisler,- (#75,Beruf Inwohner)
+3.11.,Leopold,Gotthard,Pfertner#,- (#48)(Nachname schwer zu lesen,unsicher)
+5.11.,Marianna,Franz,Schlesinger,1 (#58, Beruf #)(Kaum lesbar, was nach Schlesinger steht)
+6.11.,Franz,Franz,Schmid,1y6#m (#17,Beruf Häusler)
+10.11.,#,Joseph,St#,2 (#146,Beruf #)(Eintrag kaum lesbar)
+12.11.,Theresia,Gotthard,Wagner,4 (#75,Beruf Häusler#)
+12.11.,Genoveffa#,Heinrich,Heisler#,21 (Ehefrau,#6)(Eintrag schwer lesbar,unsicher)
+20.11.,Josepha,Heinrich,Heisler,8d (#6,Beruf Häusler)
+20.11.,Marianna,Franz,Wagner,9m (#15,Beruf Häusler)
+20.11.,Theresia,Heinrich,Wagner,6#m (#152,Beruf Häusler)
+23.11.,Johann,Gottlieb#,Czernohorsky,8d (#46,Beruf Häusler#)
+
+DP 143
+
+24.11.,Heinrich,-,Wagner,72 (#153,Beruf Tischler)
+25.11.,Johann,Anton,Knoll,1y9m (#97,Beruf Inwohner)
+29.11.,Aloys,Gotthard,Gl#,1 (#8,Beruf Häusler)
+30.11.,Anton,Anton,Czernohorsky,2 (#117,Beruf Feldgärtner)
+1.12.,Karl,Johann,Krögler,2 (#131,Beruf Häusler)
+4.12.,Elisabeth,Joseph,Dittrich,11d (#102,Beruf #)
+14.12.,Thaddäus,Heinrich,Wagner,1y9m (#60,Beruf Häusler)
+17.12.,Hieronymus,Augustin,Werner#,9 (#142,Beruf Schullehrer)
+19.12.,Johann,-,Schlesinger,85 (#144,Beruf Häusler)
+
+1800
+
+3.1.,Aloys,Wenceslaus,Schlesinger,1y3m (#61,Beruf Häusler#)
+10.1.,Katharina,-,Bartusch,59 (#98,Beruf Müllermeisterin)
+5.2.,Aloys,Thaddäus,Weinlich,14 (#116,Beruf Häusler)
+15.2.,Antonia,Franz,Dittrich,1m (#91,Beruf Häusler)
+19.2.,Joseph,Heinrich,Wagner,5d (#60,Beruf Häusler)
+28.2.,Johanna,-,Weinlich,60 (#108,Beruf Feldgärtnerin)
+17.3.,Johann,-,Trampota,62 (#128,Beruf Inwohner)
+18.3.,Karl,-,Schüll#,70 (#99,Beruf Inwohner und Bettler)
+21.3.,Anton,-,Schlesinger,75 (#41,Beruf Inwohner und Bettler)
+25.3.,Franz Joseph,Joseph,Czernohorsky,9m (#119,Beruf Häusler)
+31.3.,Johann Franz,Peregrin,Heisler,7w4d (#122,Beruf Häusler)
+2.4.,Viktoria,Leopold,Neugebauer,1y4w (#3,Beruf Häusler)
+11.4.,Leopold,Leopold,Neugebauer,2d (#3,Beruf Häusler)
+
+DP 144
+
+14.4.,Marianna,Johann Wenceslaus,Krögler,30w (#126,Beruf Häusler)
+2.5.,Johann,Franz,Polak,7d (#135,Beruf Inwohner)
+4.5.,Aloys,Johann Wenceslaus,Neugebauer,5w (#150,Beruf Inwohner)
+27.5.,Anna,Karl,Schüll,80 (Ehefrau,#99)
+6.7.,Leopold,Franz,Gregor,5d (#136,Beruf Bäckermeister#)
+7.7.,Franz,-,Wagner,24 (#14,Beruf Häusler)
+27.7.,Benedikt,Franz,Weinlich,3m (#37,Beruf Häusler)
+29.7.,Valentin,Franz,Heisler,1y2m (#43,Beruf Häusler)
+2.8.,Franz Joseph,Heinrich,Neugebauer,19 (#53,Beruf Feldgärtner)
+30.8.,Johann,Joseph,Kern,3#m (#133,Beruf Häusler)
+23.9.,Benedikt,Wenceslaus,Höll#,3d (#69,Beruf Inwohner)
+29.9.,Franziska,Ignatz,Czastek,11d (#112,Beruf Inwohner#)
+30.10.,Cäcilia,Wenceslaus,Schlesinger,16d (#20,Beruf Fleischhacker)
+8.11.,Elisabeth,Heinrich,Wagner,1d (#60,Beruf Häusler)
+24.11.,Veronika,Gotthard,Schüll,62 (Ehefrau,#5,Beruf Inwohner)
+29.11.,Cäcilia,Franz,WEinlich,11d (#104,Beruf Bauer)
+7.12.,Cäcilia,Gottlieb,Schüll,14d (#123,Beruf Bauer)
+7.12.,Franz Anton,Franz,Chladek,24d (#100,Beruf Häusler)
+13.12.,Juliana,Wenceslaus,Schlesinger,9m (#13,Beruf Inwohner)
+22.12.,Genoveffa,Leopold,Weinlich,5d (#113,Beruf Häusler)
+23.12.,Benedikt,Franz,Weis#,16d (#55,Beruf Häusler)
+
+DP 145
+
+1801
+
+5.1.,-,Wenceslaus,Krögler,1d (#131,Beruf Häusler)
+12.1.,-,Heinrich,Pfertner,1d (#64,Beruf Häusler)
+18.1.,Theresia,Joseph,Schlesinger,1y12w (#78,Beruf Inwohner)
+20.1.,Anna Maria,-,Gladkin,90 (Witwe,#125)
+3.2.,Benedikt,Franz,Kohler,2 (#99,Beruf Inwohner)
+10.2.,Anton,-,Krögler,76 (#86,Beruf Häusler)
+27.2.,Katharina,Joseph,Stenzel,70 (#146,Beruf Feldgärtner)
+2.3.,Josepha,Wenceslaus,Neugebauer,1d (#150,Beruf Häusler)
+14.3.,Theresia,Anton,Krögler,62 (Ehefrau,#9,Beruf Häusler)
+17.3.,Josepha,Thaddäus,Weinlich,3d (#116,Beruf Häusler)
+22.3.,Viktoria,Franz,Hohl,8d (#68,Beruf Feldgärtner)
+22.4.,Joseph,Anton,Czernohorsky,6m (#117,Beruf Feldgärtner)
+24.4.,Vinzenz,Heinrich,Krögler,16d (#92,Beruf Häusler)
+27.4.,Joseph,Joseph,Kunz#,11m (#22,Beruf Inwohner)
+28.4.,Agnes,Leopold,Schlesinger,24d (#146,Beruf Häusler)
+17.5.,Franziska,Franz,Polak,14d (#135,Beruf Häusler)
+31.5.,Veronika,Ignatz,Heisler,61 (Ehefrau,#16)
+11.8.,Bernhard#,Franz,Schlesinger,2m (#11,Beruf Erbrichter)
+25.8.,Leopold,Franz,Gabler,- (#44,Beruf Bauer)("in der Geburt" verstorben)
+
+DP 146
+
+13.9.,Wenceslaus,-,Langer,71 (#81,Beruf Ausgedinger)
+23.9.,Franz Anton,Gotthard,Weinlich,10d (#21,Beruf Häusler)
+27.9.,Genoveffa und Cäcilia,Gottfried,Philipp,5d (#60,Beruf Schneider)
+2.10.,Anton,-,Knoll,78 (#67,Beruf Inwohner)
+18.10.,Marianna,Anton,Krögler,21d (#111,Beruf Häusler)
+12.11.,Josepha,Anton,Gritzbauch,5m (#77,Beruf Feldgärtner)
+4.12.,Franz,Anton,Krögler,9 (#111,Beruf Häusler)
+
+1802
+
+1.1.,Anna,Wenceslaus,Schlesinger,70 (Ehefrau,#19)
+7.1.,Genoveffa,Johann,Czernohorsky,1y3m (#4,Beruf Häusler)
+7.1.,Marina,-,-,90 (#29,Beruf Weypersdorf#)(Nachname wurde nicht genannt bzw. als "N." genannt)
+18.1.,Genoveffa,Leopold,Schlesinger,5m (#56,Beruf Häusler)
+13.2.,Franz,Franz,Krögler,2# (#4,Beruf Inwohner)
+21.2.,Franz,-,Wagner,60 (#14,Beruf Häusler)
+24.2.,Anton,-,Krögler,60 (#149,Beruf Häusler)
+26.2.,Leopold,Leopold,Neugebauer,2m (#3,Beruf Häusler)
+28.2.,Anton,-,Gabler,70 (#66,Beruf Ausgedinger)
+1.3.,Franz,-,Krögler,70 (#73,Beruf Häusler)
+6.3.,Johann,Gottlieb,Schüll#,8d (#123,Beruf Bauer)
+
+DP 147
+
+15.3.,Johann,Wenceslaus,Bock,1m (#84,Beruf Häusler)
+20.3.,Joseph,Joseph,Kunz#,3m (#22,Beruf #meister)
+24.3.,Marianna,Franz,Schmid,2 (#17,Beruf Häusler)
+24.3.,Genoveffa,Gotthard,Schüll,4d (#5,Beruf Häusler)
+27.3.,Marianna,Heinrich,Wagner,2d (#60,Beruf Häusler)
+31.3.,Joseph,-,Kern,60 (#133,Beruf Maurer)
+3.4.,Cäcilia,Anton,Krögler,2 (#149,Beruf Häusler)
+7.4.,Anna Regina,-,Neugebauer,70 (#4)("von Tschenkowitz gebürtig")
+12.4.,Cäcilia,Gotthard,Schüll,26 (Ehefrau,#5,Beruf Inwohner)
+22.4.,Benedikt,Florian,Schlesinger,1y4m (#2,Beruf Häusler)
+28.4.,Genoveffa,#tius,Wagner,25 (Ehefrau,#99)
+1.5.,Benedikt,Franz,Weinlich,2m (#37,Beruf Häusler)
+2.5.,Bartholomäus,-,Schlesinger,70 (#95,Beruf Inwohner)
+29.5.,Johann,Georg,Sed#,7m (#70,Beruf Häusler)
+30.5.,Viktoria,Wenceslaus,Hohl#,5m (#66,Beruf Häusler)(Hohl == Höhl?)
+11.6.,Johanna,Franz Anton,Dittrich,1y3m (#91,Beruf Häusler)
+6.8.,Anna Maria,Wenceslaus,Krögler,70 (Ehefrau,#126,Beruf Häusler)(Heißt das "Ehefrau und Witwe"?)
+21.8.,Elisabeth,-,Langer,70 (#134)(ledig)
+20.9.,Johann,Franz,Krögler,14d (#53,Beruf Inwohner)
+21.9.,Johann Augustin,Johann,Bartusch,23d (#98,Beruf Müllermeister)
+23.10.,Aloys,Gottfried#,Philipp,17d (#60,Beruf Schneidermeister)
+
+DP 148
+
+1.11.,Marianna,Andreas,Krögler,5d (#50,Beruf Häusler)
+6.11.,Anna,Joseph,Koblischke,14d (#29,Beruf Häusler#)
+5.11.,Johanna,Ludwig,Czernohorsky,16d (#6,Beruf Häusler)
+13.11.,Johann und Aloys,Ignatz,Heisler,2d (#9,Beruf Häusler)
+13.11.,Anton,-,Chladek,79 (#101,Beruf Häusler)
+17.11.,Magdalena,Gotthard,Krögler,65 (Ehefrau,#134#,Beruf Ausgedinger)
+22.11.,Elisabeth,Wenceslaus,Krögler,80 (Ehefrau,#131,Beruf Häusler#)
+18.12.,Cäcilia,Joseph,Dittrich,30d (#102,Beruf Webermeister)
+28.12.,Johann Joseph,Anton,Schlesinger,1y2m (#106,Beruf Häusler)
+
+1803
+
+8.1.,Benedikt,Johann,Spitzhack#,1y14d (#86,Beruf Inwohner)
+14.1.,-,Heinrich,Wagner,- (#60,Beruf Häusler)("in der Geburt")
+19.1.,Theresia,Heinrich,Neugebauer,4m (#53,Beruf Feldgärtner)
+16.2.,Franz,-,Neugebauer,40 (#110,Beruf Häusler)
+27.2.,Aloys,Heinrich,Krögler,14d (#92,Beruf Häusler)
+30.3.,Elisabeth,Franz,Minarcz,60 (Witwe,#113)
+10.4.,Anna Maria,Anton,Krögler,75 (Ehefrau,#6)
+24.4.,Theresia,Leopold,Weinlich,52 (Ehefrau,#103,Beruf Müllermeister)
+29.4.,Johanna,Gotthard,Schlesinger,6d (#162,Beruf Häusler)
+1.6.,Gotthard,-,Wagner,74 (#75,Beruf Häusler)
+10.6.,Josepha,Franz Anton,Krögler,3m (#149,Beruf Häusler)
+
+DP 149
+
+23.6.,Johanna,Franz Anton,Dittrich,- (#91,Beruf Häusler)("in der Geburt")
+8.7.,Joseph,Peregrin,Hrdina,1 (#70,Beruf Häusler)
+19.9.,Benedikt,Joseph,Egydi,1d (#74,Beruf Häusler)
+29.9.,Andreas,-,Weinlich,88 (#82,Beruf Ausgedinger)
+3.10.,Leopold,-,Weinlich,57 (#103,Beruf Müllermeister)
+8.10.,Josepha,Gotthard,Weinlich,17d (#21,Beruf Häusler)
+15.10.,Franz,-,Schlesinger,84 (#58,Beruf Ausgedinger)
+18.10.,Franz Anton,Leopold,Neugebauer,16d (#3,Beruf Häusler)
+27.10.,Elisabeth,Heinrich,Kohler#,56 (Witwe,#90)
+19.12.,Cäcilia,Karl,Schüll#,1m (#160,Beruf Häusler)
+
+1804
+
+3.1.,Joseph,-,Pfertner,55 (#75,Beruf Inwohner)
+4.1.,Judith,Anton,Schlesinger,62 (Ehefrau,#41,Beruf Inwohner)
+20.2.,Judith,Anton,Weinlich,75 (Ehefrau,#87)
+21.2.,Ignatz,-,Heisler,68 (#16,Beruf Häusler)
+#,23.2.,Magdalena,Florian,Ginter#,10 (#81)(von #stadtl, Eintrag schwer zu lesen, unsicher)
+1.3.,Judith,Anton,Krögler,70 (Ehefrau,#86)
+15.3.,Gottlieb,-,Langhammer,72 (#154,Beruf Häusler)
+30.4.,Franz,-,Weis#,50 (#55,Beruf Häusler)
+16.6.,Emanuel#,Franz Joseph,Krögler,6m (#95,Beruf Bauer)
+
+DP 150
+
+18.7.,Johann,Leopold,Schlesinger,3m (#146,Beruf Inwohner)
+26.7.,Philipp,Gotthard,Krögler,9w (#134,Beruf Bauer)
+18.8.,Joseph,Joseph,Dittrich,6w (#102,Beruf Webermeister)
+20.9.,Aloys,Joseph,Koblischke,10d (#29,Beruf Häusler)
+6.10.,Marianna,Joseph,Schlesinger,25d (#9,Beruf Händler)
+13.10.,Apollonia,Franz,Krögler,72 (Ehefrau,#73,Beruf Häusler)
+23.10.,Johann,Thaddäus,Dittrich,12d (#97,Beruf Bäckermeister#)
+23.10.,Wenceslaus,-,Schlesinger,87 (#72,Beruf Ausgedinger)
+28.10.,Wenceslaus,-,Heisler,88 (#19,Beruf Inwohner)
+28.10.,Judith,Heinrich,Heisler,70 (#125)
+8.11.,Anton,-,Gritzbauch,36 (#77,Beruf Bauer)
+23.11.,Johann Wenceslaus,-,Czernohorsky,57 (#49,Beruf Bauer)
+26.11.,Johann Stephan,Franz,Wondra,11m (#139,Beruf Häusler)
+
+1805
+
+11.1.,Anna Maria,Franz,Heistel#,62 (Ehefrau,#146,Beruf Weber)(Nachname schwer zu lesen, unsicher)
+16.1.,Marianna,Benedikt,Weinlich,- (#108)("in der Geburt")
+24.1.,Katharina,Franz,Wagner,80 (Ehefrau,#33,Beruf Inwohner)
+28.1.,Franz,-,Wagner,90 (#33,Beruf Inwohner)
+18.2.,Aloys,Franz,Krögler,13 (#4,Beruf Inwohner)
+12.3.,Franz,-,Krögler,46 (#138,Beruf Glasermeister)
+12.3.,Marianna,Franz,Krögler,42 (Ehefrau,#138,Glasermeister)(Ehefrau von Franz Krögler, der am selben Tag starb, beide in einem Matrikeleintrag, siehe dort)
+24.3.,Anna Maria,-,Illichmann,58 (#,Beruf Bettlerin)
+27.3.,Anna Maria,Gotthard,Schlesinger,76 (#2,Beruf Feldgärtnerausgedinger#)
+
+DP 151
+
+2.4.,Elisabeth,Franz,Dittrich,88 (Witwe,#102)(Heißt das "Eheweib,Witwe"?)
+7.4.,Thaddäus,Franz,Heisler,3m (#42,Beruf Schneidermeister)
+13.4.,Rosalia,Joseph,Wagner,38 (Ehefrau,#39,Beruf Häusler)
+15.4.,Magdalena,Wenceslaus,Heisler,2.5 (#161,Beruf Schneidermeister)
+16.4.,Wenceslaus,-,Koblischke,80 (#79,Beruf Häusler)
+#,16.4.,Franz,-,Kohler#,48# (#99,Beruf Schuhmacher und Bettler)(in L#hausen#, Ort schwer zu lesen, unsicher)
+21.4.,Franz,Franz,Wagner,2m (#55,Beruf Häusler)
+#,21.4.,Joseph,-,Heisler,55 (#12,Beruf Inwohner)(in L#, Ort schwer zu lesen)
+28.4.,Johanna,Benedikt,Weinlich,6 (#108,Beruf Gerbermeister)
+5.5.,Friedrich,-,Egydi,60 (#74,Beruf Inwohner)
+8.5.,Theresia,Franz,H#hl,1y5m (#68,Beruf Bauer)
+17.5.,Rosalia,Joseph,Steyskal,2.5 (#146,Beruf Häusler)
+17.5.,Franz Joseph,Leopold,Trampota,3 (#129,Beruf Häusler)
+18.5.,Franz,-,Heisler,60 (#43,Beruf Inwohner)
+30.5.,Benjamin,Anton,Krögler,24 (#7,Beruf Schuhmacher)
+3.6.,Cäcilia,Anton,Dittrich,6m (#91,Beruf Häusler)
+12.6.,Marianna,Joseph,Steyskal,4.5 (#146,Beruf Häusler)
+13.6.,Joseph,Peregrin,Hrdina,1 (#70,Beruf Häusler)
+14.6.,Marianna,Anton,Prokopetz,1 (#85,Beruf Häusler)
+15.6.,Johann,Joseph,Dittrich,4.5 (#102,Beruf Webermeister)
+18.6.,Katharina,Anton,Prokopetz,10 (#85,Beruf Häusler)
+29.6.,Marianna,Karl,Gabler,4 (#57,Beruf Häusler)
+3.7.,Johann,Karl,Gabler,1.5 (#57,Beruf Häusler)
+3.7.,Veronika,Anton,Weinlich,62 (Witwe,#70,Beruf Inwohner)
+
+DP 152
+
+3.7.,Cäcilia,Franz,Krögler,1y5m (#12,Beruf Inwohner)
+10.7.,Franz#,Peregrin,Weinlich,3y3#m (#1,Beruf Fleischhacker)(4/16? Oder 4/12 gemeint?)
+15.7.,Marianna,Benedikt,Schlesinger,7m (#35,Beruf Häusler)
+17.7.,Franz Karl,Gotthard,Heisler,5m (#31,Beruf Häusler)
+21.7.,Josepha,Franz,Gabler,2.5 (#44,Beruf Feldgärtner)
+2.8.,Cäcilia,Franz,Gabler,6m (#44,Beruf Feldgärtner)
+4.8.,Cäcilia,Joseph,Wagner,6m (#39,Beruf Häusler)
+5.8.,Johann,Leopold,Heisler,5m (#42,Beruf Häusler)
+10.8.,Johann,Franz,Hohl#,1 (#19,Beruf Häusler)
+13.8.,Peregrin,Karl,Pfertner,2 (#86,Beruf Schuhmacher)
+17.8.,Cäcilia,Karl,Pfertner,5 (#86,Beruf Schuhmacher)
+24.8.,Apollonia,Joseph,Wiesner,74 (Witwe,#90,Beruf Bauer)
+5.9.,Anna Maria,Friedrich,Wagner,70 (Witwe,#39)
+9.9.,Viktoria,Heinrich,Wagner,9d (#152,Beruf Häusler)
+11.9.,Genoveffa,Anton,Czernohorsky,3 (#117,Beruf Feldgärtner)
+28.9.,Franz,Franz,Schlesinger,13d (#135,Beruf Häusler)
+1.10.,Ignatz,Joseph,Schlesinger,2 (#118,Beruf Händler)
+21.10.,Cäcilia,Leopold,Weinlich,2 (#82,Beruf Feldgärtner)
+28.10.,Heinrich,-,Heisler,80 (#125#,Beruf Ausgedinger)
+2.11.,Cäcilia,Karl,Heisler,4# (#143,Beruf Häusler)
+2.11.,Franz,Anton,Schlesinger,1.5 (#76,Beruf Häusler)
+6.11.,Victoria,Franz,Heisler,8.5 (#43,Beruf Inwohner)(#16 durchgestrichen und #43 hingeschrieben, gleiche Tinte,#16 wohl vom obigen Matrikeleintrag)
+
+DP 153
+
+8.11.,Philipp#,Franz,Krögler,9m (#95,Beruf Feldgärtner)
+8.11.,Marianna,Franz,Schlesinger,9#m (#121,Beruf Häusler)
+10.11.,Josepha,Anton,Knoll,8w (#128,Beruf Häusler)
+13.11.,Josepha,Franz,Schlesinger,6 (#121,Beruf Häusler)
+16.11.,Victoria,Franz,Pfertner,1 (#13,Beruf Inwohner)
+17.11.,Franz,Franz,Schlesinger,3# (#121,Beruf Häusler)
+24.11.,Maria Anna,Anton,Krögler,9 (#149,Beruf Häusler)
+24.11.,Antonia,Johann,Bartusch,9m (#98,Beruf Müllermeister)
+26.11.,Theresia,Anton,H#l,10w (#66,Beruf Häusler)
+1.12.,Viktoria,Anton,Knoll,5 (#128,Beruf Häusler)
+8.12.,Franz,Anton,Krögler,2y9m (#111,Beruf Häusler)
+
+1806
+
+8.1.,Franz,Florian,Schlesinger,1y9w (#2,BEruf Häusler)
+10.1.,Wenceslaus,-,Du#zek,69 (#133,Beruf Inwohner und Bettler)
+17.1.,Franz Karl,Leopold,Schlesinger,10d (#146,Beruf Häusler)
+17.1.,Anton,-,H#l,69 (#68,Beruf Feldgärtnerausgedinger)
+29.1.,Johann,-,Schlesinger,22 (#77,Beruf Feldgärtner)
+
+DP 154
+
+13.2.,Josepha,Franz,Gregor,3d (#136,Beruf Bäckermeister#)
+14.2.,Theresia,Franz,Czernohorsky,11m14d (#49,Beruf Feldgärtner)
+14.2.,Peregrin,-,Schlesinger,40 (#19,Beruf Soldateninvalid)
+20.2.,Josepha,Franz,Kohler#,1.5 (#99,Beruf Inwohner)
+21.2.,Johanna,Joseph,Dittrich,30w (#102,Beruf Häusler)
+22.2.,Rosalia,Anton,H#l,37 (Ehefrau,#18,Beruf Häusler)
+25.2.,Josepha,Andreas#,Krögler,14d (#50,Beruf Häusler)
+3.3.,Franz#,-,Weinlich,67 (#108,Beruf Feldgärtnerausgedinger)
+11.3.,Josepha,Wenceslaus,H#l,35d (#165,Beruf Häusler)
+21.3.,Johanna,Thaddäus,Dittrich,7m4d (#97,Beruf Bäckermeister#)
+24.3.,Josepha,Joseph,Czernohorsky,1y8d (#119,Beruf Schmiedemeister#)(Schmiedemeister oder Schneidermeister?)
+
+DP 155
+
+#,7.4.,Johanna,Anton,Vogl#,64 (Witwe,#151,Beruf Bettlerin)(Ortsname schwer zu lesen)
+7.4.,Rosalia,Anton,Czernohorsky,70 (Witwe,#27,Beruf Inwohnerin und Bettlerin)(Gehört Inwohner zu Rosalia oder zu Anton?)
+11.4.,Anna,Johann,Spiczak,34 (Ehefrau,#80,Beruf Inwohner)
+17.4.,Johann Nepomuk#,Johann,Schlesinger,43#d (#75,Beruf Häusler)("Nep." == Nepomuk? 43d oder 43J?)
+26.4.,Genoveffa,Ignatz,Czastek,1y5m (#112,Beruf Häusler)
+27.6.,Elisabeth,Gotthard#,Weinlich,60 (#72,Beruf Inwohner)
+9.7.,Johann,Wenceslaus,Schlesinger,6m (#157,Beruf Häusler)
+11.7.,Johann Nepomuk#,Gottlieb,Schüll#,52d (#123,Beruf Feldgärtner)("Nep." == Nepomuk? Nachname ist schwer zu lesen, unsicher)
+21.7.,Franz,Franz,Heisler,8 (#42,Beruf Häusler)
+23.7.,Franz,-,Schlesinger,59 (#35,Beruf Häusler)
+23.8.,Franz,-,Kohler,60 (#16,Beruf Bettler)
+21.9.,Johann Nepomuk,Anton,Schlesinger,12#d (#106,Beruf Häusler)("Nep." == Nepomuk? 12d oder 12J?)
+
+DP 156
+
+25.9.,Anna Maria,Franz,Weinlich,60 (Ehefrau,#93,Beruf Ausgedinger)
+9.11.,Thaddäus,Gotthard,Schlesinger,- (#34,Beruf Feldgärtner)("2 Stunden")
+10.11.,Josepha,Johann,Krögler,1y21#d )#131,Beruf Häusler)
+14.11.,Elisabeth,-,Polak,70 (#122,Beruf Inwohnerin)
+18.11.,Maria Anna,Gotthard,Schlesinger,10d (#34,Beruf Feldgärtner)
+25.11.,Johanna,-,Dittrich,65 (#91)(Beruf ist Hebamme)
+1.12.,Johanna,Johann,Spiczak#,1y9m (Beruf Inwohner)
+16.12.,Antonia,Joseph#,Schlesinger,3y9#m (#9,Beruf Häusler und Händler)
+29.12.,Marianna,Peregrin,Hrdina,30w (#70,Beruf Häusler)
+
+1807
+
+1.1.,Franz,Peregrin,Heisler,10d (#122,Beruf Häusler)
+8.1.,Juliana,Joseph,Heisler,50 (Witwe,#19,Beruf Inwohner)
+14.1.,Elisabeth,Peregrin,Heisler,32 (#122,Beruf Häusler)
+
+DP 157
+
+20.1.,Johann,Karl,Gabler,11m (#57,Beruf Häusler)
+21.1.,Viktoria,Joseph,Wagner,24d (#39,Beruf Häusler)
+19.2.,Theresia,Joseph,Dittrich,11d (#102,Beruf Webermeister)
+24.2.,Anna,Wenceslaus,Egydi,78 (Ehefrau,#17,Beruf Inwohner)
+7.3.,Josepha,Gotthard,Schüll#,1.5 (#161,Beruf Inwohner)
+10.3.,Andreas,-,Krögler,79 (#50,Beruf Häuslerausgedinger#)
+12.3.,Johanna,Thaddäus,#ner,65 (Ehefrau,#33,Beruf Schuhmachermeister)
+16.3.,Franziska,Peregrin,Weinlich,21d (#1,Beruf #)
+30.3.,Apollonia,Anton,Schlesinger,64 (#148,Beruf Häusler)
+5.4.,Gotthard,-,Dittrich,60 (#127,Beruf Häusler)
+15.4.,Benedikt,Franz,Gabler,9m (#44,Beruf Feldgärtner)
+16.4.,Franz,-,Weinlich,65 (#93,Beruf Ausgedinger)
+19.4.,Karl#,-,Michalek,68 (#79,Beruf Häusler)
+21.4.,Theresia,Franz,Wagner,62 (Witwe,#14,Beruf Häusler)
+
+DP 158
+
+21.4.,Anna Maria,Joseph,Scholz,50 (Ehefrau,#122,Beruf Inwohner)
+2.5.,Viktoria,Joseph,Egydi,22d (#74,Beruf Häusler)
+4.5.,Peregrin,-,Schlesinger,50 (#130,Beruf Bettler)(ledig)
+14.5.,Anna Maria,Gottlieb,Langhammer,74 (Witwe,#154,Beruf Häusler)
+23.5.,-,Leopold,Neugebauer,- (#3,Beruf Häusler)("Einige Minuten","Von der Hebam notgetauft", Ein Sohn)
+23.5.,Johann,-,-,36d (#)(Die Mutter war Inwohnerin) U: Kind von Magdalena Vogl
+9.6.,Franziska,Franz,Dittrich,21d (#91,Beruf Häusler)
+12.6.,Franz,Franz,H#l,16w (#30,Beruf Häusler)
+28.6.,Anton,-,Wagner,69 (#40,Beruf Feldgärtner)
+30.6.,Viktoria,Franz,H#l,1y9m (#30,Beruf Häusler)
+2.7.,Elisabeth,Franz,Heisler,57 (Ehefrau,#42,Beruf Häusler)
+18.7.,Anna,Johann,Schlesinger,15w (#59,Beruf Inwohner#)(Beruf verwischt, schwer lesbar)
+
+DP 159
+
+6.8.,Heinrich,-,Kohler,78 (#74,Beruf Häuslerausgedinger)
+18.8.,Aloys#,Heinrich,Wagner#,25d (#152,Beruf Häusler)(Nachname unsicher, schwer lesbar)
+14.9.,Viktoria,Johann,Hoffmann#,2y5m (#12,Beruf Inwohner)(Nachname schwer lesbar, unsicher)
+17.9.,Johann,Florian,Schlesinger,3y5m (#85,Beruf Häusler)
+18.9.,Veronika,Wenceslaus,Heisler,79 (#73,Beruf Inwohner)
+19.9.,Johann,-,Hoffmann,40 (#12,Beruf Inwohner)
+30.9.,Johann,Thaddäus,Dittrich,9m (#97,Beruf Bäckermeister#)
+7.10.,Anton,-,Feltzmann,70 (#4,Beruf Inwohner)
+21.10.,Johann Nepomuck,Johann,Schlesinger,22#d (#75,Beruf Häusler)("Nep."== Nepomuck?)
+18.11.,Gotthard,-,Schlesinger,75 (#34,Beruf Feldgärtnerausgedinger)
+16.12.,Viktoria,Florian#,Schlesinger,5m (#22,Beruf Häusler)
+17.12.,Gotthard,-,Gabler,67 (#51,Beruf Häusler)
+
+DP 160
+
+25.12.,Anna Maria,Andreas,Weinlich,76 (Witwe,#82,Beruf Feldgärtnerausgedinger)
+30.12.,Theresia,Franz,Polak,4d (#135,Beruf Glaser)
+
+1808
+
+18.1.,Johann,Peregrin,Weinlich,1y3m (#103,Beruf Müllermeister)
+2.2.,Johann,Theresia,Schlesinger,8m (#140)
+8.2.,Anna,Anton,Czernohorsky,36 (Ehefrau,#117,Beruf Feldgärtner)
+9.2.,Viktoria,Gotthard,Kern,17w (#133,Beruf Häusler)
+11.2.,Anna Maria,Franz,Kohler,62 (Witwe,#16,Beruf Bettler)
+14.2.,Anna Maria,Johann,Czastek,80 (Witwe,#112,Beruf Häusler)
+26.2.,Theresia,Johann Wenceslaus#,Krögler,5d (#131,Beruf Häusler)
+
+DP 161
+
+28.2.,Elisabeth,Wenceslaus,Schlesinger,79 (Witwe,#71,Beruf Feldgärtnerausgedinger#)
+26.3.,Susanna,Anton,Chladek,67 (Witwe,#100,Beruf Häusler)
+#30.4.,Johann,Joseph,Trampota,9m (#91#,Beruf Inwohner)(Ortsangabe schwer lesbar, unsicher)
+7.5.,Heinrich,-,Heisler,89 (#143,Beruf Häuslerausgedinger)
+13.6.,Viktoria,Benedikt,Schlesinger,10d (#166,Beruf Häusler)
+26.6.,Theresia,Franz,Schlesinger,2y4m (#28,Beruf Häusler)
+7.7.,Benedikt,Franz,Weinlich,1y26w (#104,Beruf Feldgärtner)
+8.7.,Wilhelm,Benedikt,Weinlich,6#d (#108,Beruf #gerbermeister)
+16.8.,Viktoria,Benedikt,Schlesinger,11m (#59,Beruf Feldgärtner)
+16.8.,Viktoria,Franz,Wagner#,1y4m (#55,Beruf Häusler)(Nachname schwer lesbar, unsicher)
+22.8.,Johann,Anton,Krögler,14 (#111,Beruf Häusler)
+
+DP 162
+
+23.8.,Benedikt,Franz,Gabler,23w (#44,Beruf Feldgärtner)
+25.8.,Benedikt,Benedikt,H#l,10m (#45,Beruf Häusler)
+25.8.,Johann Wenceslaus,-,Wagner#,64 (#52,Beruf Häusler)(Nachname schwer lesbar, unsicher)
+27.8.,Franz,Johann Wenceslaus,Schüll#,11 (#88,Beruf Häusler)(Nachname schwer lesbar, unsicher)
+29.8.,Leopold,Leopold,Gabler,3 (#43,Beruf Häusler)
+31.8.,Theresia,Heinrich,Wagner#,6 (#60,Beruf Häusler)(Nachname schwer lesbar, unsicher)
+3.9.,Johann;Franz,Gl#,5y8m (#100,Beruf Häusler)
+6.9.,Benedikt,Andreas,Krögler,4y5m (#50,Beruf Häusler)
+8.9.,Leopold,Leopold,Schlesinger,1y9m (#35,Beruf Häusler)
+9.9.,Marianna,Heinrich,Gabler,70 (Ehefrau,#57,Beruf Häuslerausgedinger)
+12.9.,Johann,Gotthard,Schüll#,10y4m (#143,Beruf Inwohner)(Nachname schwer lesbar, unsicher)
+13.9.,Benedikt,Johann,Pfertner#,2y11m (#47,Beruf Inwohner)(Nachname schwer lesbar, unsicher)
+
+DP 163
+
+15.9.,Theresia,Johann,Czernohorsky,26 (Ehefrau,#46,Beruf Häusler)
+16.9.,Elisabeth,Andreas,Krögler,67 (Witwe,#50,Beruf Häuslerausgedinger)
+#,17.9.,Benedikt,Anton,Prokopecz,11 (#88,Beruf Häusler)(Ortsname schwer lesbar)
+17.9.,Franz,Franz,Czernohorsky,4 (#101,Beruf Schuhmacher)
+18.9.,Apollonia,Friedrich,Schlesinger,66 (#22,Beruf Häuslerausgedinger)
+19.9.,Rosalia,Franz,Chladek,72 (Witwe,#152,Beruf Häusler)
+21.9.,Joseph,Anton,Schlesinger,23w3d (#83,Beruf Feldgärtner)
+24.9.,Gotthard,-,Weinlich,36 (#64,Beruf Inwohner)
+28.9.,Johann,Gotthard,Krögler,1y9m (#134,Beruf Feldgärtner)
+1.10.,Juliana,Anton,Krögler,6m (#111,Beruf Häusler)
+4.10.,Genoveffa#,Anton,Krögler,2y9m (#111,Beruf Häusler)(Vorname schwer zu lesen, unsicher)
+8.10.,Antonia,Joseph,Schlesinger,1y1m (#9,Beruf Händler)
+15.10.,Johann Benedikt,Johann,Hoffmann#,25w4d (#12,Beruf Inwohner)(Der Vater des Kindes war bereits verstorben)
+17.10.,Johann,Franz#,Schlesinger,1.5 (#121,Beruf Häusler)
+
+DP 164
+
+3.11.,Anton,-,Krögler,58 (#7,Beruf Schuhmacher)
+4.11.,Theresia,Karl,Schlesinger,10w1d (#71,Beruf Feldgärtner)
+18.11.,Josepha,Florian,Schlesinger,30d (#22,Beruf Häusler)
+19.11.,Rosalia,Gottfried#,Heisler,78 (Witwe,#122,Beruf Häusler)
+20.11.,Christina#,Wenceslaus,M#czek,38 (#22,Beruf Häusler)
+6.12.,Josepha,Anton,Czernohorsky,10m (#117,Beruf Feldgärtner)
+8.12.,Veronika,Karl,Merta,63 (Ehefrau,#4,Beruf Inwohner)
+27.12.,Johann Wenceslaus,-,Neugebauer,86 (#27,Beruf Häusler)
+
+1809
+
+10.1.,Rosalia,Thaddäus,Dittrich,6m8d (#97,Beruf Bäckermeister#)
+13.1.,Heinrich,-,Gabler,76 (#57,Beruf Häuslerausgedinger)
+26.1.,Josepha,Anton,H#l,1y5m (#18,Beruf Häusler)
+28.1.,Franz,#tl,62 (#144,Beruf Webermeister)
+
+DP 165
+
+5.2.,Elisabeth,Anton,H#l,75 (#68,Beruf Feldgärtnerausgedinger)
+12.2.,#,Johann,Bartusch,9m (#98,Beruf Müllermeister)
+15.2.,Marianna,Gottlieb,Schlesinger,3m17d (#168,Beruf Häusler)
+20.2.,Theresia,Anton,Feltzmann,70 (Witwe,#167,Beruf Inwohner)
+21.2.,Johann,-,Spiczak,64 (Witwer,#138,Beruf Inwohner)
+24.2.,Juliana,Benedikt,Wagner,4 (#73,Beruf Tischlermeister)
+26.2.,Franz S#,Johann,Stephan,5m19d (#142,Beruf Schullehrer)(Unklar, ob das Wort nach Franz ein Name oder etwas anderes ist)
+3.3.,Elisabeth,Fabian,Koblischke,63 (Ehefrau,#156,Beruf Häusler und #)
+13.3.,Franz,Gotthard,Heisler,17w (#125,Beruf Häusler)
+15.3.,Anna,Joseph,Neugebauer,62 (Witwe,#27,Beruf Inwohner)
+21.3.,Rosalia,Heinrich,Neugebauer,24 (#82,Beruf Inwohner)
+29.3.,Anna Maria,Johann,Weinlich,73 (Ehefrau,#116,Beruf Häusler)
+31.3.,Franz,Franz,Krögler,1y3m (#12,Beruf Häusler)
+7.4.,Antonia,Johann,Schlesinger,24d (#75,Beruf Häusler)
+
+DP 166
+
+25.4.,Wenceslaus,-,Egydi,65 (#17,Beruf Inwohner)
+22.5.,Anna Maria,Gotthard,Heisler,80 (#31,Beruf Häusler)
+12.6.,Johann,Wenceslaus,Feltzmann,8 (#167,Beruf Häusler)
+22.6.,Josepha,Leopold,Schlesinger,9d (#56,Beruf Häusler)
+25.6.,Karl,-,Merta,98 (#74,Beruf Inwohner)
+25.8.,Josepha,Peregrin,Weinlich,8m6d (#103,Beruf Müllermeister)
+11.9.,Johanna,Anton,Schlesinger,9m7d (#148,Beruf Häusler)
+18.9.,Viktoria,Gottlieb,Schlesinger,10m17d (#168,Beruf Häusler)
+6.10.,Viktoria,Ignatz,Heisler,1.5# (#155,Beruf Häusler)
+22.10.,Marianna,Peregrin,Weinlich,1y7m (#1,Beruf Fleischhauer und #)
+9.11.,Wenceslaus,-,Krögler,52 (#126,Beruf Häusler)
+28.11.,Klara,Heinrich,Krögler,50 (Ehefrau,#22,Beruf Soldateninvalid)
+12.12.,Heinrich,-,Schlesinger,61 (#22,Beruf Häuslerausgedinger)
+
+DP 167
+
+14.12.,Veronika,Joseph,Schlesinger,77 (#79,Beruf Häusler)
+30.12.,Katharina,Franz,#tl,48 (#144,Beruf #)
+
+1810
+
+17.1.,Judith,Anton,Czernohorsky,75 (Witwe,#46,Beruf Häusler)
+16.2,Franz,-,Schlesinger,66 (#96,Beruf Häusler und Zimmermann)
+20.2.,Mari#a Theresia,Leopold,Neugebauer#,14d (#3,Beruf Häusler)
+13.3.,Franz Anton,-,Schlesinger,73 (#25,Beruf Feldgärtner)
+22.3.,Franz,Joseph,Schlesinger,35d (#9,Beruf Händler)
+25.3.,Karolina,Leopold,Weinlich,1y19w (#113#,Beruf Häusler)(113 oder 116?)
+12.5.,Aloys,Johann,Pfertner#,26w (#64,Beruf Schuhmacher)
+15.5.,Theresia,Franz,H#l,10w (#30,Beruf Häusler)
+17.5.,Elisabeth,Johann,Trampota,78 (Witwe,#129,Beruf Häusler)
+24.5.,Franz,Thaddäus,Dittrich,32w (#97,Beruf Bäckermeister#)
+22.7.,Marianna,Fabian,Koblischke,16d (#156,Beruf Häusler)
+25.8.,Josepha,Leopold,Schlesinger,1y8m (#146,Beruf Häusler)
+
+DP 168
+
+18.9.,Philipp,Heinrich,Heisler,8m (#78,Beruf Inwohner)
+24.9.,Viktoria,Franz Anton,Pfertner#,9m (#77,Beruf Feldgärtner)
+12.10.,Friedrich,Wenceslaus,Kohler#,40 (#13,Beruf Inwohner)
+21.10.,Franz Karl,Franz,Czernohorsky,2y48w (#164,Beruf Schuhmacher)
+31.10.,Josepha,Joseph,Czernohorsky,1y15d (#119,Beruf Schmiedemeister)
+31.10.,Johann Nepomuck#,Johann,Schlesinger,6w (#75,Beruf Häusler)("Nep." == Nepomuck?)
+5.11.,Franz,Wenceslaus#,Schlesinger,1y3m (#172,Beruf Häusler)(Vorname des Kindsvaters schwer zu lesen, unsicher)
+13.11.,Genoveffa,Ignatz,Czastek,46w (#112,Beruf Schneidermeister)
+20.11.,Josepha,Florian#,Schlesinger,1y9m (#2,Beruf Häusler)
+20.11.,Joseph,Georg,Sed#,10d (#80,Beruf Häusler)
+4.12.,Johann,Franz,Pfertner#,1y24w (#13,Beruf Häusler)(Nachname schwer zu lesen,unsicher)
+7.12.,Viktoria,Anton,Schlesinger,9d (#148,Beruf Inwohner)
+17.12.,Franz,Franz,Illichmann,19 (#98,Beruf Müllermeister)
+18.12.,Leopold,Benedikt,Schlesinger,1y11w (#166,Beruf Häusler)
+
+DP 169
+
+20.12.,Franziska,Franz Anton,Krögler,4 (#159,Beruf Häusler)
+
+1811
+
+1.1.,Karl,-,Heisler,57 (#143,Beruf Bartschneider#)(Frisör???)
+18.1.,Philipp,Anton,Czernohorsky,1y8m3d (#117,Beruf Feldgärtner)
+20.1.,Franz,Anton,H#l,1y47#w (#18,Beruf Häusler)
+25.2.,Benedikt,Johann Wenceslaus,Pfertner#,- (#47,Beruf Inwohner)(Nachname schwer zu lesen, unsicher)
+28.2.,Benedikt,Leopold,Gabler,9w (#43,Beruf Häusler)
+1.3.,Judith,Johann Wenceslaus,Pfertner#,39 (Ehefrau,#47,Beruf Inwohner)(Nachname schwer zu lesen,unsicher)
+10.3.,Franz,Gotthard,Kern#,7d (#133,Beruf Häusler)
+1.4.,Agnes,Franz,Weinlich,18d (#104,Beruf Feldgärtner)
+14.4.,Veronika,Wenceslaus,Kohler,98 (Witwe,#13,Beruf Inwohner)
+15.4.,Johann,Franz Pfertner#,30d (#13,Beruf Häusler)(Nachname schwer zu lesen,unsicher)
+2.6.,Veronika,Johann,Langer,67 (#10,Beruf Häusler)
+17.6.,Johann,Leopold,Schlesinger,10w4d (#61,Beruf Häusler)
+19.6.,Leopold,Franz,Weinlich,23w1d (#37,Beruf Häusler)
+8.7.,Johann,Andreas,Krögler,30w3d (#50,Beruf Häusler)
+18.7.,Johann,Joseph,Dittrich,19w (#102,Beruf Webermeister)
+18.7.,Cäcilia,Leopold,Heisler,2y4m (#42,Beruf Häusler)
+25.7.,Johann,Franz,Schlesinger,2y10m (#32,Beruf Häusler)
+
+DP 170
+
+30.7.,Leopold,Leopold,Heisler,6m23d (#42,Beruf Häusler)
+7.8.,Theresia,Johann,Hofmann#,13y7m (#81,Beruf Inwohner)
+7.8.,Heinrich,-,Neugebauer,36 (#54,Beruf Feldgärtner)(Was bedeutet das Wort nach Heinrich? "Jünger"==Junior? Was bedeutet das Wort nach "Feldgärtner"?)
+17.8.,Theresia,Franz,Czernohorsky,25w (#49,Beruf Feldgärtner)
+25.8.,Theresia,Joseph,Schlesinger,17w3d (#9,Beruf Händler)
+29.9.,Wenceslaus,-,Schlesinger,56 (#26,Beruf Inwohner)
+6.10.,Juliana,Anton,Wagner,66 (Ehefrau,#99,Beruf Tischler)
+11.10.,Franz,Peregrin,Weinlich,6y11w1d (#103,Beruf Müllermeister)
+10.11.,Wenceslaus,-,Schlesinger,67 (#20,Beruf Häusler und Fleischhauer)
