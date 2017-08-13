@@ -1,0 +1,106 @@
+Tschenkowitz und Umgebung Hochzeiten 1778-1780 (Archiv 1079)
+
+DP 1
+
+1778
+
+Tschenkowitz,7.1.,Caspar,-,Feltzmann,Elisabeth,Johann,Häusler,W
+Worlitschka,11.1.,Gotthard,Franz,Schlesinger,Juliana,Wenzel,Czernokorsky
+Tschenkowitz,13.1.,Johann Wenzel,Wenzel,Häusler,Anna Maria,Michael,Hentzl
+Tschenkowitz,14.1.,Amadeus,Amadeus,Waschiczek,Barbara,Joseph,Weinlich
+Tschenkowitz,14.1.,Johann Wenzel,Johann,Geroczek#,Catharina,Franz,Kobliczek (Bleistift: Johann Wenzel *27.12.1746,Catharina *26.2.1754)
+Worlitschka,27.1.,Karl,Johann,Häusler,Rosalia,Gottfried,Häusler
+
+DP 2
+
+Tschenkowitz,28.1.,Anton,Amadeus,Feltzmann,Theresia,Andreas,Schüll
+Worlitschka,3.2.,Johann Karl,Johann,Czastek,Theresia,Heinrich,Wagner
+Tschenkowitz,3.2.,Johann,Paul,Seidlmann,Catharina,Paul,Buschek
+Worlitschka,9.2.,Leopold,Anton,Grögler,Rosalia,Anton,Heyl
+Worlitschka,10.2.,Joseph,Christoph,Schüll,Anna Maria,Johann,Häusler
+Tschenkowitz,2.3.,Paul,-,Charvat,Anna,Joseph,Merta,W
+Tschenkowitz,4.5.,Franz,Augustin,Seidlmann,Juliana,Augustin,Stoltz
+Worlitschka,13.5.,Amadeus,Anton,Schlesinger,Theresia,Andreas,Weinlich
+Tschenkowitz,18.5.,Franz Karl,Wenzel,Polak,Marianna,Johann,Koblischke
+Tschenkowitz,3.6.,Johann Wenzel,Anton,Langhammer,Elisabeth,Wenzel,Häusler
+Tschenkowitz,8.6.,Johann Joseph,Joseph,Nehyba,Elisabeth,Elias,Bühn
+Tschenkowitz,8.6.,Johann Wenzel,Johann,Häusler,Elisabeth,Christoph,Häusler
+
+DP 3
+
+Tschenkowitz,9.6.,Anton,Christian,Wottawa,Anna,Johann,Sonntag
+Worlitschka,14.6.,Franz,Georg,Schlesinger,Theresia,Anton,Dittrich
+Tschenkowitz,21.7.,Caspar,Caspar,Sonntag,Elisabeth,Gotthard,Koblischke
+Neudorf,23.8.,Andreas,Johann,Gertner#,Judith,Johann,Jankowsky
+Worlitschka,1.9.,Johann Wenzel,Anton,Häusler,Apollonia,Johann,Hentzl
+Tschenkowitz,2.9.,Amadeus,Joseph,Feltzmann,Catharina,Christian,Fiescher
+Worlitschka,20.9.,Anton,Franz,Kirschner,Apollonia,Franz,Krögler
+Worlitschka,1.10.,Gotthard,-,Häusler,Catharina,Johann,Marlaw#
+Tschenkowitz,3.11.,Paul,Johann,Weinlich,Elisabeth,Paul,Seidlmann
+
+DP 4
+
+Tschenkowitz,18.11.,Joseph,Martin,Seidlmann,Marianna,Fabian,Kratzky
+
+1779
+
+Tschenkowitz,7.1.,Johann Wenzel,Wenzel,Weinlich,Anna Maria,Wenzel,Stöhr
+Tschenkowitz,7.1.,Joseph,Johann,Feltzmann,Elisabeth,Wenzel,Bühn
+Tschenkowitz,11.1.,Gotthard,Gotthard,Feltzmann,Veronica,Wenzel,Bier#
+Worlitschka,11.1.,Johann Wenzel,Anton,Schüll,Anna Maria,Andreas,Wagner
+Worlitschka,1.2.,Joseph,Heinrich,Heisler,Juliana,Gotthard,Schüll#
+Worlitschka,19.4.,Andreas,Andreas,Neugebauer,Anna Maria,#,Simon (Anna Maria wurde nachträglich legitimiert)
+Jablona,24.5.,Gottfried,-,Schlesinger,Apollonia,-,Malek,W,W (Malek, ist das der Nachname des Vorehemanns???)
+Tschenkowitz,7.7.,Karl,Paul,Polak,Theresia,Martin,Killar (Theresia wurde nachträglich legitimiert)
+Grulich,9.8.,Ferdinand,-,Bauer,Theresia,Ferdinand,Bier,W,W ("Grulich" richtig gelesen?)
+
+DP 5
+
+Tschenkowitz,17.8.,Anton,Johann,Sonntag,Marianna,Johann,Hentzl
+Herantz,11.10.,Joseph,Christian,Katzer,Elisabeth,Johann,Czastek
+Worlitschka,12.10.,Ludwig,Ferdinand,Czernokorsky,Theresia,Anton,Krögler
+Tschenkowitz,13.10.,Joseph,Johann,Sonntag,Veronica,Wenzel,Häusler
+Worlitschka,18.10.,Franz,Heinrich,Kohler,Theresia,Ferdinand,Czernokorsky
+Neudorf,17.11.,Florian,Johann,Victorin,Juliana,Johann,Schmid
+
+1780
+
+Tschenkowitz,17.1.,Anton,Johann Wenzel,Koblischke,Marianna,Wenzel,Langhammer
+Tschenkowitz,18.1.,Johann,Gotthard,Heyl,Theresia,Amadeus,Feltzmann
+Tschenkowitz,19.1.,Wenzel,Wenzel,Stöhr,Elisabeth,Wenzel,Sonntag
+Tschenkowitz,27.1.,Johannes,Christian,Scholtz,Juliana,Johann Wenzel,Weinlich (bei Johannes ist "natus Lauterbach" angegeben,er wurde also möglicherweise adoptiert? Oder ist Lauterbach der Geburtsort?)
+Tschenkowitz,30.1.,Joseph,Caspar,Feltzmann,Elisabeth,Johann,Sonntag
+
+DP 6
+
+Worlitschka,1.2.,Thaddeus,Franz,Wagner,Johanna,Johann,Schlesinger
+Worlitschka,3.2.,Heinrich,Joseph,Neugebauer,Veronica,Georg,Gertner#
+Tschenkowitz,3.2.,Anton,Michael,Gries,Veronica,Wenzel,Michalek
+Worlitschka,10.4.,Ferdinand,-,Wagner,Elisabeth,Wenzel,Schlesinger,W
+Grulich/Tschenkowitz,17.4.,Adalbert,Seiffert,Theresia,Franz,Langhammer
+Tschenkowitz,9.5.,Johann Wenzel,Johann,Hartl,Elisabeth,Amadeus,Langhammer
+Worlitschka,15.5.,Franz,Franz,Krögler,Marianna,Augustin,Seidlmann
+Neudorf,5.6.,Franz,Ferdinand,Nitsch,Theresia,Paul,Hammerle
+Tschenkowitz,29.6.,Joseph,-,Marlo#,Judith,Joseph,Häusler,W
+
+DP 7
+
+Neudorf,2.7.,Johann,-,Lyer,Apollonia,Caspar,Bühn,W
+Tschenkowitz,23.7.,Anton,-,Neugebauer,Veronica,Johann,Hentzl,W
+Tschenkowitz,31.7.,Franz Karl,Gotthard,Feltzmann,Theresia,Johann,Brix
+Tschenkowitz,7.8.,Franz,Franz,Schüll,Elisabeth,Wenzel,Langhammer
+Worlitschka,13.8.,Karl,Andreas,Bier,Juliana,Franz,Häusler
+Neudorf,21.8.,Christian,Christoph,Bühn,Apollonia,Johann,Victorin
+Worlitschka,24.8.,Heinrich,Franz,Schlesinger,Elisabeth,Christoph,Schlesinger
+Worlitschka,10.9.,Anton,-,Krögler,Veronica,Johann,Pfert#,W
+Worlitschka,11.9.,Gotthard,-,Wagner,Theresia,Johann,Lyer,W
+Schönau/Neudorf,19.9.,Franz,Christoph,Sindermann,Theresia,Anton,Hauenschild
+
+DP 8
+
+Tschenkowitz,3.10.,Amadeus,Johann,Geczek#,Marianna,Anton,Kobliczek
+Worlitschka,5.10.,Gotthard,Christoph,Weinlich,Elisabeth,Nicht genannt,Feltzmann
+Worlitschka,6.11.,Franz,-,Häusler,Rosalia,Johann,Langer,W
+Tschenkowitz,22.11.,Franz,Scholtz,Theresia,Michael,Langhammer (Franz als "Natus Lauterbach" bezeichnet - adoptiert?)
+Tschenkowitz,23.11.,Franz,Franz,Schmid#,Elisabeth,Andreas,Bier
+
