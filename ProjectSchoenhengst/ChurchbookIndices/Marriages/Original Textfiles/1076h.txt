@@ -1,0 +1,247 @@
+DP 109
+
+1768
+
+Neudorf/Tschenkowitz,10.1.,Augustin,-,Hentzl,Catharina,Johann,Langhammer,W
+Tschenkowitz,12.1.,Johann Wenzel,Franz,Schüll,Anna Maria,Paul,Langhammer (Bleistiftnotiz: Paul *2.8.1745 in Tschenkowitz)
+Tschenkowitz/Neipersdorf,Wenzel,-,Prokopetz,Catharina,Johann,Heyl,W
+Worlitschka,4.2.,Franz,Ferdinand,Czernokorsky,Theresia,Anton,Schlesinger
+
+DP 110
+
+Worlitschka,8.2.,Johann,-,Krögler,Judith,Michael,Polak,W
+Tschenkowitz und Worlitschka,15.2.,Franz,Johann,Weinlich,Anna Maria,Wenceslaus,Langer
+Weypersdorf und Worlitschka,27.4.,Joseph,Paul,Seidlmann,Rosalia,Jacob,Czernohorsky
+Tschenkowitz,26.4.,Johann,-,Egydi,Veronica,Amadeus,Nentvich
+Tschenkowitz und Neudorf,9.5.,Andreas,Andreas,Langer,Magdalena,Wenceslaus,Roller# (Roller oder Koller?)
+Worlitschka,15.5.,Johann,Johann,Weinlich,Anna,Franz,Schlesinger
+Hofflentz und Neudorf,6.6.,Ignatz,Georg,Weypert,Apollonia,Michael,Bün#
+Czermna und Worlitschka,15.6.,Wenceslaus,Martin,Daubrawa,Elisabeth,Anton,Krögler
+Tschenkowitz,26.7.,Ferdinand,Andreas,Bier,Theresia,Ignatz,Schüll
+Tschenkowitz,4.9.,Franz,-,Heisler,Anna Maria,Martin,Duschek
+
+DP 111
+
+Tschenkowitz,18.9.,Amadeus,-,Waschiczek,Veronica,Georg,Stöhr,W
+Hofflentz und Tschenkowitz,24.10.,Karl,Johann,Sonntag,Anna,Ferdinand,Bün
+Neudorf und Worlitschka,24.10.,Ferdinand,Michael,Bock,Theresia,Andreas#,Neugebauer
+Tschenkowitz und Oberjohnsdorf,1.11.,Johann,Augustin,Heisler,Elisabeth,Adam,Langer
+
+1769
+
+Tschenkowitz,15.1.,Wenceslaus,Franz,Langhammer,Veronica,Augustin,Stoltz
+Tschenkowitz und Worlitschka,1.2.,Johann,Johann,Czernohaus,Anna Maria,Anton,Heyl
+Tschenkowitz und Weypersdorf,6.2.,Joseph,Johann,Steiner,Anna,Paul,Seidlmann
+Worlitschka,3.5.,Franz,Anton,Heyl,Johanna,Wenceslaus,Czernohorsky
+Tschenkowitz,29.5.,Johann Wenceslaus,Caspar,Feltzmann,Theresia,Joseph,Weinlich
+
+DP 112
+
+Worlitschka,2.8.,Franz,Christian,Schüll,Theresia,Heinrich,Bartosch
+Neudorf,7.8.,Elias,Christoph,Bün,Juliana,Christian,Schmiedt
+Worlitschka,12.8.,Gotthard,-,Schlesinger,ANna Maria,Wenceslaus,Pfertner,W
+Neudorf,27.8.,Joseph,Wenceslaus,Chalaupka,Apollonia,Andreas,Schüll
+Tschenkowitz und Worlitschka,7.11.,Johann Wenceslaus,Amadeus,Feltzmann,Johanna,Gotthard,Schlesinger
+Schildberg und Tschenkowitz,27.11.,Joseph,Joseph,Buschmann,Anna Maria,Anton,Kobliczek,-,W
+
+1770
+
+Waltersdorf und Neudorf,8.1.,Wenceslaus,Paul,Wahsiczek,Anna,Paul,Sedlaczek
+Neudorf,14.1.,Florian,Paul,Kholler,Judith,Christian,Hanisch
+Worlitschka und Niederjansdorf,26.1.,Anton,Johann,Chladek,Susanna,Mathias,Brisenbauch#
+
+DP 113
+
+Worlitschka und Linsdorf,25.2.,Johann,Gottfried,Obner#,Elisabeth,Georg,Schimek
+Worlitschka,3.5.,Karl,Jacob,Czernohorsky,Elisabeth,Gottfried,Schlesinger
+Tschenkowitz,28.5.,Joseph,-,Weinlich,Veronica,Andreas,Langer,W
+Tschenkowitz,28.5.,Johann Wenceslaus,Christian,Wottawa,Anna Maria,Christian,Fischer
+Worlitschka und Tschenkowitz,28.5.,Gottfried,Paul,Polak,Maria Anna,Anton,Börtele#
+Worlitschka,4.6.,Anton,Anton,Krögler,Theresia,Gottfried,Schlesinger
+Worlitschka,4.6.,Johann,Augustin,Polak,Elisabeth,Heinrich,Heyl
+Tschenkowitz,4.6.,Philipp,Paul,Langhammer,Anna Maria,Paul,Heisler
+
+DP 114
+
+Tschenkowitz,5.6.,Augustin,-,Feltzmann,Veronica,Wenceslaus,Sonntag,W
+Worlitschka,5.6.,Franz,Franz,Schlesinger,Elisabeth,Johann,Krögler
+Worlitschka und Tschenkowitz,5.6.,Wenceslaus,-,Hauk,Elisabeth,Wenceslaus,Koblischke,W,W
+Worlitschka und Tschenkowitz,22.7.,Gotthard,Andreas,Gabler,Anna Maria,Wenceslaus,Langhammer
+Tschenkowitz und Worlitschka,31.7.,Johann Wenceslaus,-,Koblischke,Elisabeth,Franz,Pfertner,W
+Tschenkowitz,1.8.,Johann,Johann,Sonntag,Juliana,Martin,Duschek
+Jokelsdorf und Worlitschka,5.8.,Heinrich,Johann,Nikl#,Anna Maria,Wenceslaus,Schlesinger
+Waltersdorf und Tschenkowitz,5.8.,Johann,Joseph,Merta,Elisabeth,Wenceslaus,Weinlich
+
+DP 115
+
+Tschenkowitz,15#.8.,Michael,Michael,Hentzl,Anna Maria,Csapar,Sonntag
+Worlitschka,15#.8.,Wenceslaus,Christoph,Heisler,Elisabeth,Gallus,Gritzbauch
+Tschenkowitz,15#.8.,Karl,Christoph,Heisler,Veronica,Caspar,Sonntag
+Tschenkowitz,18.9.,Johann Wenceslaus,Augustin,Kobliczek,Marianna,Wenceslaus,Weinlich
+Tschenkowitz und Worlitschka,30.9.,Joseph,Johann,Weinlich,Theresia,Andreas,Krögler
+Worlitschka,11.11.,Anton,Ferdinand,Czernohorsky,Theresia,Anton,Schlesinger
+Tschenkowitz,18.11.,Amadeus,Wenceslaus,Feltzmann,Catharina,Paul,Langhammer
+
+DP 116
+
+1771
+
+Tschenkowitz,7.1.,Karl,Paul,Langhammer,Elisabeth,Wenceslaus,Sonntag (Beruf von Paul Langhammer Casary == Knecht? Beruf von Wenceslaus == Pariter (???))
+Tschenkowitz,9.1.,Franz,Johann,Czernohorsky,Anna Maria,Wenceslaus,Sonntag (Väter des Brautpaars waren Casary, == Knecht?)
+Tschenkowitz,14.1.,Augustin,Augustin,Heyl,Theresia,Gottfried,Czernohorsky (Berufe der Väter: Casary, == Knecht)
+Worlitschka,22.1.,Franz,Wenceslaus,Wagner,Theresia,Paul,Heisler (Berufe der Väter: Casary == Knecht)
+Herautz# und Worlitschka,28.1.,Andreas,Andreas,Blaschke,Theresia,Anton,Krögler (Berufe der Väter: Casary == Knecht, Herautz liegt in "Moravia")
+Worlitschka und Tschenkowitz,2.5.,Franz,Anton,Heisler,Elisabeth,Johann Wenceslaus,Koblischke (Berufe der Väter: Casary == Knecht, Haus No. W/42#)
+Tschenkowitz,2.5.,Wenceslaus,Wenceslaus,Sonntag,Veronica,Christoph,Heisler (Väter: Casary/Knecht, Haus No. T/76)
+Tschenkowitz,9.5.,Franz Karl,-,Heisler,Anna Maria,Michael,Langhammer,W (Michael Langhammer: Casary/Knecht, Haus No. T/8)
+Tschenkowitz,20.5.,Johann Wenceslaus,Gotthard,Feltzmann,Theresia,Gotthard,Koblischke (Väter: Casary/Knecht, Haus No. T/78)
+Worlitschka,21.5.,Anton,Anton,Krögler,Theresia#,Anton,Schlesinger (Väter: Casary/Knecht, Haus No. W/9)
+Worlitschka,21.5.,Florian,Franz,Wagner,Anna Maria,Heinrich,Bartusch (Väter: Operarium/Arbeiter, Haus No. W/75)
+
+DP 117
+
+Tschenkowitz,4.6.,Anton,Caspar,Feltzmann,Anna Maria,Wenceslaus,Michalek (Väter: Knecht, Haus No. T/66)
+Tschenkowitz,27.6.,Johann Wenceslaus,Joseph,Weinlich,Elisabeth,Franz,Langhammer (Väter: Knecht, Haus No. T/157)
+Waltersdorf# und Tschenkowitz,15.7.,Franz,Christian,Bayer,Anna Maria,Anton,Schembera (Väter: Arbeiter/Knecht, Haus No. T/2)
+Worlitschka und Neudorf,30.7.,Johann Wenceslaus,-,Krögler,Rosalia,Wenceslaus,Hudetz,W (Bräutigam Beruf Händler, Brautvater war Knecht, Haus No. W/92)
+Worlitschka,2.9.,Anton,Heinrich,Schlesinger,Judith,Gotthard,Schüll (Väter: Knecht, Haus No. W/62)
+Tschenkowitz und Worlitschka,29.9.,Wenceslaus,-,Koller,Anna,Anton,Chladek,W,W (Berufe: Knecht, Haus No. T/165)
+Tschenkowitz,4.10.,Heinrich,Wenceslaus,Schlesinger,Anna Maria,Franz,Langhammer,-,W (Anna Maria's Vorehemann war Knecht, Haus No. T/10#)
+Worlitschka und Tschenkowitz,16.10.,Anton,Franz,Schlesinger,Apollonia,Martin,Hedina,-,W (Berufe: Knecht, Haus No. Jablona 107)
+
+1772
+
+Worlitschka,3.2.,Johann,-,Langer,Veronica,Franz,Koller,W (Berufe: Arbeiter/Knecht, Haus No. W/10#)
+Tschenkowitz und Neudorf,27.2.,Ambrosius,Caspar,Heisler,Marianna,Christoph,Katzer# (Ratzer oder Katzer? Beruf des Bräutigamvaters: Knecht, Haus No. T/112)
+
+DP 118
+
+Neudorf,11.5.,Wenceslaus,-,Rubesch,Rosalia,Johann,Ströker,W (Berufe: Knecht/Inwohner, Haus No. N/36)
+Tschenkowitz,30.5.,Anton,-,Feltzmann,Anna Maria,Gotthard,Kobliczek (Berufe: Knecht/Knecht, Haus No. T/38)
+Worlitschka und Tschenkowitz,2.6.,Karl,-,Czernohaus,Anna Maria,Wenceslaus,Heisler,W (Berufe: Knecht/Knecht, Haus No. W/137)
+Neudorf,2.7.,Florian,Ferdinand,Heisler,Marianna,Michael,Bün (Berufe: Knecht "Casary Ruralis/Casary Ruralis", Haus No. N/21)
+Worlitschka,24.9.,Anton,-,Schlesinger,Anna Maria,Anton,Schlesinger (Berufe: Knecht/Knecht, Haus No. W/83)
+Worlitschka und Tschenkowitz,29.9.,Heinrich,Ferdinand,Czernohorsky,Elisabeth,Ferdinand,Bün (Berufe: Knecht/Knecht, Haus No. W/101#)
+
+1773
+
+Worlitschka,7.1.,Johann,Wenceslaus,Wagner,Anna Maria,Johann,Schlesinger (Berufe: Gärtner/Knecht, Haus No. W/40)
+Neudorf,7.1.,Franz,-,Heisler,Catharina,Johann,Gerhard#,W (Berufe: Knecht/Insasse, Haus No. N/12)
+Worlitschka,14.1.,Heinrich,-,Koller,Elisabeth,Johann,Wagner (Berufe: Knecht/Knecht, Haus No. W/90#)
+Worlitschka und Oberjohnsdorf#,14.1.,Gotthard,-,Schlesinger,Anna,Mathias,Steiner,W (Berufe: Knecht/-, Haus No. W/34)
+Oberlipka# und Worlitschka,3.2.,Franz Karl,Christoph,Nitsche,Elisabeth,Anton,Höhl (Berufe: -/Knecht, Haus No. O/17)
+Neudorf,3.2.,Steffan,-,Joseph,Apollonia,Johann,Hauenschild (Berufe: Knecht/Knecht, Haus No. N/39)
+
+DP 119
+
+Worlitschka,4.2.,Karl,-,Merta,Veronica,Augustin,Polak (Berufe: Inwohner/Inwohner, Haus No. W/117#)
+Rubro-Aqua in Moravia und Worlitschka,14.2.,Anton Florian,-,Hermann,Anna Maria,Gotthard,Schlesinger (Berufe: Arzt/Knecht, Haus No. R/194)
+Worlitschka und Niederjohnsdorf#,14.2.,Wenceslaus,-,Koblischke,Anna Maria,Laurentz,Heintz,W (Berufe: Knecht/-, Haus No. W/2)
+Worlitschka und Tschenkowitz,16.2.,Franz Anton,-,Schlesinger,Theresia,Johann,Koblischke,W (Berufe: Knecht/Richter von Tschenkowitz, Haus No.W/25)
+Neudorf und Tschenkowitz,6.5.,Georg,-,Schüll,Veronica,Johann,Heisler,W (Berufe: Knecht/Inwohner, Haus No. T/76#)
+Worlitschka und Jamnay,27.5.,Gotthard,Anton,Dietrich,Anna,Paul,Czernohaus (Berufe: Knecht/Knecht, Haus No. W/127#)
+Tschenkowitz,16.5.,Wenceslaus,-,Heisler,Veronica,Augustin,Kobliczek,W (Berufe: Knecht/Knecht, Haus No. T/12)
+Worlitschka,2.8.,Johann,-,Krögler,Elisabeth,Wenceslaus,Hauk,W,W (Berufe: Knecht/Inwohner, Haus No. W/50)
+Tschenkowitz und Jokelsdorf,3.8.,Franz,-,Langhammer,Elisabeth,Johann,Nikl (Berufe: Casarius ruralis (Knecht)/Knecht, Haus No. T/13)
+Tschenkowitz,9.8.,Heinrich,Christian,Koller,Elisabeth,Franz,Kobliczek (Berufe: Knecht/Knecht, Haus No.T/ 160)
+Tschenkowitz und Weypersdorf,7.9.,Augustin,Augustin,Langhammer,Apollonia,Johann Georg,Darczilek,-,W (Berufe: Casarius Ruralis (Knecht)/Cantor, Haus No. T/108)
+Worlitschka,26.9.,Gotthard,Wenceslaus,Schlesinger,Judith,Anton,Schlesinger,-,W (Berufe: Knecht, Casarius Ruralis (Knecht), Haus No. W/62)
+
+DP 120
+
+1774
+
+Tschenkowitz,2.2.,Anton,Johann,Hentzl,Elisabeth,Gottfried,Czernohaus (Berufe: Knecht/Knecht, Haus No. T/163)
+Worlitschka,7.2.,Anton,-,Wagner,Juliana,Wenceslaus,Schlesinger,W (Berufe: Knecht/Inwohner, Haus No. W/99)
+Neudorf,19.4.,Johann,-,Zaubele,Anna,Paul,Janisch#,W (Berufe: Knecht/-, Haus No. N/19)
+Neudorf,19.4.,Franz,Christian,Hanisch#,Apollonia,Franz,Prokesch (Berufe: Knecht/-, Haus No. N/15)
+Tschenkowitz,20.4.,Anton,-,Weinlich,Veronica,Anton,Schüll,W (Berufe: Inwohner/Knecht, Haus No. T/109)
+Tschenkowitz,26.4.,Anton,Augustin,Kobliczek,Anna Maria,Augustin,Nehyba (Berufe: Knecht/-, Haus No. T/99)
+Tschenkowitz,26.4.,Fabian,Johann,Kobliczek,Elisabeth,Johann Wenceslaus,Kobliczek,-,W (Berufe: Knecht/-, Haus No. T/76)
+Worlitschka,26.4.,Florian,-,Streker,Judith,Paul,Heisler (Berufe: Inwohner/Inwohner, Haus No. W/38)
+Worlitschka und Hofflentz,17.5.,Gotthard,Wenceslaus,Pfertner,Genoveffa,Joseph,Doleczal (Berufe: Casary ruralis/Casary Ruralis, Haus No. W/48)
+Tschenkowitz,30.5.,Augustin,-,Polak,Catharina,Augustin,Koblischke (Berufe: Knecht/Knecht, Haus No. T/16)
+Tschenkowitz,5.6.,Amadeus,Amadeus,Nentvich,Elisabeth,Augustin,Nehyba (Berufe: Lehrer/Knecht, Haus No. T/7)
+Worlitschka,12.6.,Anton,-,Krögler,Judith,Heinrich,Schlesinger,W,W (Berufe: Arbeiter/Knecht, Haus No. W/7)
+Hamaczek#,14.6.,Joseph,Johann,Horaczek,Theresia,Joseph,Weinlich,-,W (Berufe: Knecht/-, Haus No. Tschenkowitz 138)
+Neudorf,3.7.,Florian,Christoph,Bün,Theresia,Christian,Schmid (Berufe: Casari ruralis/Casari Ruralis, Haus No. N/74)
+Worlitschka,10.7.,Wenceslaus,-,Heisler,Anna Maria,Franz,Heyl,W,W (Berufe: Knecht/Knecht, Haus No. W/19)
+Neudorf,30.7.,Franz,Christian,Schmid,Anna Maria,Andreas,Schüll (Berufe: Knecht/Knecht, Haus No. N/48)
+
+DP 121
+
+Worlitschka,3.8.,Paul,-,Heisler,Anna Maria,Johann,Krögler,W,W (Berufe: Knecht/Knecht, Haus No. W/14)
+Neudorf,2.10.,Johann,Johann,Hentzl,Magdalena,Paul,Kohler# (Berufe: Casarius Ruralis/Casarius Ruralis, Haus No. N/66)
+Tschenkowitz,Wenceslaus,-,Blaschke,Barbara,Johann,Heyl (Berufe: Knecht/Knecht, Haus No. T/52)
+Tschenkowitz und Neudorf,10.11.,Michael,-,Heisler,Veronica,Joseph,Schmidt (Berufe: Knecht/Knecht, Haus No. T/150)
+
+1775
+
+Waltersdorf und Worlitschka,9.1.,Johann,-,Spiczak,Elisabeth,Franz,Krögler,W (Berufe: Inwohner/Knecht, Haus No. Wor/94)
+Herautz in Moravia und Tschenkowitz,15.2.,Johann,Ferdinand,Beschorner# (Berufe: Knecht/Knecht, Haus No. T/36)
+Worlitschka und Tschenkowitz,2.4.,Johann Wenceslaus,Heinrich,Heyl,Elisabeth,Amadeus,Feltzmann (Beruf: Knecht/Casary Ruralis, Haus No. W/36)
+Worlitschka,2.4.,Anton,Andreas,Krögler,Apollonia,Wenceslaus,Koblischke (Berufe: Knecht/Knecht, Haus No. W/56 - von Krögler)
+Worlitschka,7.4.,Heinrich,Andreas,Neugebauer,Theresia,Wenceslaus,Wagner (Berufe: Casary Ruralis/Casary Ruralis, Haus No. W/53)
+Worlitschka und Tschenkowitz,11.4.,Wenceslaus,-,Dobrava,Catharina,-,Wagner,W,W (Berufe: Knecht/Knecht, Haus No. T/115, Dobrava aus Haus No. W/133)
+Tschenkowitz,31.4.,Karl,Anton,Weinlich,Marianna,Wenceslaus,Prokop (Berufe: Knecht/Knecht, Haus No. T/125 - Weinlich, was bedeutet "filorum ductor"?)
+Tschenkowitz,15#.6.,Wenceslaus,-,Koblischke,Anna,Johann,Heisler#,-,W (Berufe: Knecht/Knecht, Haus No. T/36)
+
+DP 122
+
+Tschenkowitz,1.8.,Georg,Georg,Heisler,Anna Maria,Christian,Wottawa (Berufe: Casary Ruralis/Casary Ruralis, Haus No. T/50)
+Neudorf und Tschenkowitz,7.8.,Anton,Andreas,Schüll,Juliana,Amadeus,Feltzmann (Berufe: Casary Ruralis/Casary Ruralis, Haus No. N/64)
+Tschenkowitz und Worlitschka,22.8.,Amadeus,Anton,Langhammer,Genoveffa,Franz,Dittrich (Berufe: Casary Ruralis/Knecht, Haus No. T/25#)
+Tschenkowitz,10.9.,Johann,Johann,Matiegka,Anna,Caspar,Sonntag (Berufe: Knecht/Casary Ruralis, Haus No. T/56)
+
+1776
+
+Tschenkowitz und Worlitschka,21.1.,Anton,Michael,Hentzl,Anna Maria,Andreas,Weinlich (Berufe: Inwohner/Casary Ruralis, Haus No. T/73)
+Worlitschka und Tschenkowitz,6.2.,Florian,-,Streker,Rosalia,Andreas,Krögler,W,W (Berufe: -/Knecht, Haus No. T/143, Streker: Haus No. W/38)
+Tschenkowitz,5.5.,Anton,Wenceslaus,Heisler,Elisabeth,Caspar,Sonntag (Berufe: Casary Ruralis/-, Haus No. T/54, Elisabeth durchgestrichen???)
+Tschenkowitz und S#ubenseiffen#,1#.7.,Paul,-,Heisler,Susanna,Wenceslaus,Mlei#ler (Berufe: Inwohner/Knecht, Haus No. T/8, Nachname des Brautvaters und Herkunftsort  der Braut schwer zu lesen)
+Tschenkowitz,17.7.,Franz,Wenceslaus,Egydi,Veronica,Johann,Nehyba (Berufe: -/Casary Ruralis, Haus No. T/156)
+Tschenkowitz,25.7.,Anton,Wenceslaus,Sonntag,Elisabeth,Wenceslaus,Schüll (Berufe: Casary Ruralis/Knecht, Haus No. T/57)
+Tschenkowitz,29.7.,Wenceslaus,Augustin,Stoltz,Anna Maria,Johann,Kratky (Berufe: Knecht/Knecht, Haus No. T/155, Nicht bekannt, ob Johann Vater oder Vorehemann)
+Tschenkowitz,31.7.,Anton,Christian,Fischer,Veronica,Joseph,Feltzmann (BErufe: Knecht/Knecht, Haus No. T/47)
+Tschenkowitz,12.8.,Karl Franz,Wenceslaus,Feltzmann,Theresia,Paul,Seidlmann (Berufe: Inwohner/Knecht, Haus No. T/123)
+Neudorf,28.8.,Johann,Ferdinand,Heisler,Elisabeth,Andreas,Schüll (Berufe: Casary Ruralis/Casary Ruralis, Haus No. N/65)
+
+DP 123
+
+Grulich und Worlitschka,1.10.,Karl,Anton,Krebs,Victoria,Franz Joseph,Schlesinger (Berufe: Jäger/Casary Ruralis, gehört "Jäger" zum Bräutigam oder seinem Vater?, Haus No. Lichtenau 116)
+Neudorf und Hermanitz,15.10.,Paul,Johann,Victorin,Judith,Franz,Schveska,-,W (Berufe: Casarius Ruralis/Inwohner, Haus No. N/18#)
+Tschenkowitz und Worlitschka,19#.11.,Joseph,-,Horaczek,Theresia,Anton,Heisler,W (Berufe: Inwohner/Knecht, Haus No. T/138)
+Neudorf und Weypersdorf,23.11.,Franz,Wenceslaus,Koczen#,Marina,Johann,Sedlarcz (Haus No. 33# in Neudorf, Haus No. 137# in Weypersdorf)
+Tschenkowitz,26#.11.#,Franz,-,Koblischke,Susanna,Paul,Heisler (Berufe: Knecht/Inwohner, Haus No. T/129, Datum Bleistifteintragung - später hinzugefügt?)
+
+1777
+
+Tschenkowitz,8.1.,Christian,Georg,Stöhr,Theresia,Caspar,Feltzmann (Berufe: Knecht/Knecht, Haus No. T/39)
+Tschenkowitz und Nieder-Eisenberg,20.1.,Caspar,Johann,Sonntag,Barbara,Johann,Umlauf# (Haus No. 40 und 119 - schwer zu lesen, welche zu welchem Ort gehört)
+Neudorf und Oberjohnsdorf#,27.1.,Joseph,Johann,Schmid,Susanna,Martin,Langer (Berufe: Casary Ruralis/Knecht, Haus No. N/29)
+Tschenkowitz,28.1.,Johann,Christian,Pfertner,Theresia,Paul,Langhammer (Berufe: Inwohner/Inwohner, Haus No.T/ 13)
+Neudorf und Tschenkowitz,4.2.,Christian,Christian,Hainisch#,Catharina,Anton,Schembera (Berufe: Casary Ruralis/Inwohner, Haus No. N/8)
+Worlitschka und Tschenkowitz,6.2.,Franz,Anton,Schlesinger,Elisabeth,Wenceslaus,Weinlich (Berufe: Inwohner/Knecht, Haus No. W/132, Was bedeutet "filium Superstes"?)
+Tschenkowitz und Neudorf,10.2.,Anton,Johann,Sedlaczek,Elisabeth,Paul,Bier (Berufe: Knecht/Inwohner, Haus No. T/143)
+Michelsdorf und Worlitschka,28.4.,Joseph,Martin,Kern,Johanna,Johann,Schlesinger (Berufe: -/Inwohner, Haus No. M/58)
+
+DP 124
+
+Worlitschka,29.4.,Gotthard,-,Schlesinger,Theresia,Wenceslaus,Pfertner,W (Berufe: Inwohner/Casarius Ruralis, Haus No. W/71)
+Oberjohnsdorf und Tschenkowitz,4.5.,Joseph,Georg,Anderle,Anna Maria,Michael,Hentzl (Berufe: Knecht/Inwohner, Haus No. O/91)
+Tschenkowitz,12.5.,Wenceslaus,-,Weinlich,Theresia,Augustin,Seidlmann (Berufe: Knecht/Knecht, Haus No. T/134)
+Tschenkowitz und Thomigsdorf#,24.6.,Johann,Wenceslaus,Prokop,Rosalia,Johann Georg,Fraidl# (Berufe: Knecht/Inwohner, Haus No. Tschen/119, ist Johann aus Tschenkowitz? Unklar)
+Neudorf und Oberhermanitz,29.6.,Christian,Johann,Veith,Barbara,Johann,Beran (Haus No. N/37#)
+Tschenkowitz,29.7.,Christian,Georg,Schlesinger,Veronica,-,Seidlmann (Berufe: -/Knecht, Haus No. T/140)
+Tschenkowitz,12.8.,Elias,Anton,Schembera,Veronica,Franzu,Schüll (Berufe: Knecht/Knecht, Haus No. T/104)
+Neudorf und Hohenerlitz#,12.8.,Johann,Johann,Heisler,Anna Maria,Franz,Pohl (Berufe: Knecht/-, Haus No. N/60#)
+Worlitschka,14#.8.,Franz Karl,Wenceslaus,Czernohorsky,Veronica,Anton,Schlesinger (Berufe: Casarius Ruralis/Casarius Ruralis, Haus No. W/45)
+Worlitschka,21.8.,Heinrich,Franz,Pfertner,Elisabeth,Wenceslaus,Schlesinger (Berufe: Knecht/Casarius Ruralis, Haus No. W/64)
+Worlitschka,31.8.,Heinrich,Wenceslaus,Wagner,Elisabeth,Gotthard,Schüll (Berufe: Casarius Ruralis/Casarius Ruralis, Haus No. W/40)
+Köhlitz# und Tschenkowitz,9.9.,Joseph,Johann,Gärtner#,Elisabeth,Johann,Bier (Berufe: Inwohner/Knecht, Haus No. T/99)
+Tschenkowitz,5.10.,Wenceslaus,Wenceslaus,Blaschke,Veronica,Georg,Heisler (Berufe: -/Inwohner, Haus No. T/52)
+Tschenkowitz,5.10.,Severin,Ignatz,Schüll,Marianna,Ferdinand,Pühn# (Berufe: Knecht/Knecht, Haus No. T/82)
+
+DP 125
+
+Herautz und Worlitschka,17.10.,Christian,Christian,Katzer#,Juliana,Franz,Dittrich (Berufe:-/Knecht, Haus No. H/113#, was bedeutet "filius superst#")

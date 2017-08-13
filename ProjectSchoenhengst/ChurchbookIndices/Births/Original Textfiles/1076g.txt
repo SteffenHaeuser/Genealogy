@@ -1,0 +1,1143 @@
+DP 3
+
+Tschenkowitz,2.1.,Theresia,Anton,Kobliczek,Theresia
+Tschenkowitz,3.1.,Maria Elisabeth,Joseph,Heisler,Anna Maria
+Tschenkowitz,7.1.,Rosalia Johanna,Augustin,Seidlmann,Anna Maria
+Neudorf,10.1.,Peregrin,Wenzel,Roczin,Anna Maria
+Tschenkowitz,14.1.,Apollonia,Wenzel,Sonntag,Rosina Elisabeth
+Tschenkowitz,15.1.,Franz Karl,Wenzel,Langhammer,Judith
+Tschenkowitz,19.1.,Anna Maria,Wenzel,Son#,Anna Maria (möglicherweise Sonntag, über den Rand hinaus geschrieben???)
+
+DP 4
+
+Tschenkowitz,31.1.,Maria Anna,Joseph,Kohaut,Anna Maria
+Neudorf,2.2.,Franz Karl,Joseph,Polak,Maria Anna
+Worlitschka,10.2.,Johann Benedict,Franz,Weinlich,Johanna
+Tschenkowitz,11.2.,Anton,Karl,Langhammer,Elisabeth
+Worlitschka,28.2.,Apollonia,Gottfried,Heisler,Rosalia
+Worlitschka,1.3.,Johann,Leopold,Anton,Dittrich,Johanna
+Worlitschka,4.3.,Benedict,Heinrich,Wagner,Judith
+Tschenkowitz,5.3.,Joseph,Joseph,Czernokorsky,Veronica
+Tschenkowitz,11.3.,Anton,Karl,Häusler,Theresia
+Neudorf,15.3.,Herbert,Amadeus,Bock,Theresia
+Worlitschka,19.3.,Johanna,Wenzel,Langer,Anna
+Neudorf,22.3.,Joseph,Johann,Ruprecht#,Elisabeth
+Tschenkowitz,22.3.,Maria Elisabeth,Franz,Illihmann#,Elisabeth
+
+DP 5
+
+Tschenkowitz,23.3.,Cäcilia,Franz,Weinlich,Veronica
+Tschenkowitz,24.3.,Genoveffa,Joseph,Heusler,Elisabeth
+Tschenkowitz,27.3.,Johann Ignatz,Johann Wenzel,Weinlich,Anna Maria
+Worlitschka,31.3.,Franz Joseph,Franz,Chladek,Maria Anna
+Tschenkowitz,1.4.,Leopold,Franz,Heisler,Anna Maria
+Tschenkowitz,2.4.,Anna Maria,Joseph,Weinlich,Anna
+Tschenkowitz,6.4.,Maria Elisabeth,Wenzel,Egidi,Anna Maria
+Worlitschka,7.4.,Johanna,Heinrich,Schlesinger,Rosalia
+Worlitschka,23.4.,Monica,Karl,Merta,Anna Maria
+Worlitschka,24.4.,Amadeus,Wenzel,Schlesinger,Elisabeth
+Tschenkowitz,24.4.,Johann Wenzel,Johann Wenzel,Polak,Veronica#
+Worlitschka,23.4.,Sebastian,Anton,Wagner,Theresia
+Tschenkowitz,26.4.,Leopold Thaddeus,Leopold,Bartusch,Catharina
+Neudorf,1.5.,Maria Anna,Bartholomäus,Hudetz#,Elisabeth
+Tschenkowitz,4.5.,Theresia,Joseph,Meister,Catharina
+
+DP 6
+
+Neudorf,5.5.,Eleonora,Johann,Zaubele,Dorothea
+Tschenkowitz,6.5.,Genoveffa,Michael,Langhammer,Veronica
+Tschenkowitz,8.5.,Theresia,Amadeus,Nentrich,Elisabeth
+Tschenkowitz,9.5.,Theresia,Franz,Langhammer,Judith
+Tschenkowitz,15.5.,Peregrin,Anton,Langhammer,Johanna
+Worlitschka,16.5.,Isodor#,Gottfried,Schlesinger,Johanna
+Worlitschka,20.5.,Anna Maria,Wenzel,Heisler,Veronica
+Tschenkowitz,1.6.,Johann Franz,Franz,Nentrich,Veronica
+Worlitschka,6.6.,Maria Elisabeth,Franz,Schlesinger,Maria
+Worlitschka,20.6.,Johanna,Anton,Weinlich,Veronica
+Tschenkowitz,4.7.,Anna Maria Cäcilia,Franz,Langhammer,Theresia
+Tschenkowitz,26.7.,Joseph,Heinrich,Wagner,Veronica
+Tschenkowitz,15.8.,Maria Theresia,Johann,Kaschka,Veronica
+Worlitschka,16.8.,Anton,Heinrich,Heisler,Judith
+Neudorf,16.8.,Juliana,Franz,Brokesch,Veronica
+
+DP 7
+
+Tschenkowitz,18.8.,Genoveffa,Johann Wenzel,Kobliczek,Elisabeth
+Tschenkowitz,21.8.,Leopold,Anton,Polak,Elisabeth
+Worlitschka,21.8.,Johann Thaddeus,Gotthard,Schlesinger,Theresia
+Tschenkowitz,15.9.,Johann,Johann,Hartl,Anna Maria
+Tschenkowitz,15.9.,Maria Theresia,Johann Wenzel,Feltzmann,Genoveffa
+Worlitschka,19.9.,Elisabeth,Anton,Krögler,Anna Maria
+Worlitschka,22.9.,Thekla und Johanna,Abraham,Heisler,Theresia
+Neudorf,22.9.,Franz Karl,Anton,Wiesner,Rosalia
+Neudorf,26.9.,Veronica,Joseph,Zalmann#,Anna
+Tschenkowitz,3.10.,Catharina,Paul,Meister,Catharina
+Tschenkowitz,9.10.,Anton,Johann,Weinlich,Anna Maria
+Worlitschka,16.10.,Genoveffa,Andreas,Neugebauer,Johanna
+Worlitschka,19.10.,Johann Heinrich,Wenzel,Krögler,Anna Maria
+Worlitschka,25.10.,Anna Johanna,Franz,Heisler,Elisabeth
+
+DP 8
+
+Worlitschka,9.11.,Anna Maria,Franz,Krögler,Johanna
+Worlitschka,20.11.,Anna Maria,Karl,Schüll,Anna
+Worlitschka,24.11.,Eleonora,Johann,Czastek,Anna Maria
+Tschenkowitz,14.12.,Johann Wenzel,Johann,Feltzmann,Veronica
+Tschenkowitz,19.12.,Maria Theresia,Wenzel,Czernokorsky,Veronica
+Worlitschka,19.12.,Franz Anton,Anton,Heyl,Elisabeth
+Worlitschka,19.12.,Gotthard,Franz Joseph,Schlesinger,Johanna Valentina# ("Valentina" Teil des Namen der Mutter? Oder Lesefehler?)
+Tschenkowitz,21.12.,Anna Maria,Franz,Egidi,Anna
+Worlitschka,23.12.,Johanna,Heinrich,Krögler,Veronica
+Worlitschka,30.12.,Maria Anna,Joseph,Schlesinger,Anna
+
+1769
+
+Neudorf,1.1.,Genoveffa,Johann Christoph,Bün,Theresia
+Worlitschka,1.1.,Leopold,Heinrich,Dittrich,Theresia
+Worlitschka,2.1.,Johanna,Andreas,Weinlich,Anna Maria
+
+DP 9
+
+Neudorf,8.1.,Maria Theresia,Joseph,Stephan,Rosalia
+Neudorf,9.1.,Juliana,Joseph,Ros#,Judith
+Worlitschka,9.1.,Juliana,Wenzel,Schlesinger,Maria Elisabeth
+Tschenkowitz,15.1.,Franz Karl,Johann,Brix,Elisabeth
+Tschenkowitz,17.1.,Maria Theresia,Johann Wenzel,Langhammer,Elisabeth
+Tschenkowitz,18.1.,Laurenz Franz,Florian,Weinlich,Dorothea
+Worlitschka,24.1.,Johanna,Franz,Krögler,Apollonia
+Tschenkowitz,26.1.,Franz Anton,Anton,Krögler,Elisabeth
+Tschenkowitz,3.2.,Johann Wenzel,Gotthard,Brix,Elisabeth
+Tschenkowitz,12.2.,Anna Maria,Caspar,Weinlich,Veronica
+Tschenkowitz,14.2.,Johann Wenzel,Wenzel,Heusler,Catharina
+Tschenkowitz,15.2.,Franz,Andreas,Langer,Magdalena
+Neudorf,17.2.,Maria Anna,Johann,Schüll,Anna Barbara
+
+DP 10
+
+Neudorf,18.2.,Engelbert,Anton,Feltzmann,Veronica
+Tschenkowitz,19.2.,Veronica,Johann,Egidi,Veronica
+Worlitschka,21.2.,Anna Maria Monica,Franz,Heusler,Johanna
+Worlitschka,24.2.,Maria Elisabeth,Johann Heinrich,Wagner,Elisabeth ("verehelicht 16.10.1787 in Neudorf mit Franz Sattler", Bleistifteintragung, unklar, ob dieser oder der nächste Eintrag)
+Neudorf,1.3.,Anna Maria,Anton,Chalaupka#,Veronica
+Tschenkowitz,6.3.,Johann Wenzel,Bartholomäus,Schlesinger,Anna Maria
+Tschenkowitz,6.3.,Anton,Franz,Kobliczek,Catharina
+Worlitschka,10.3.,Rosalia,Anton,Czernokorsky,Elisabeth
+Tschenkowitz,12.3.,Anna,Wenzel,Prokop,Catharina
+Tschenkowitz,14.3.,Maria Elisabeth,Johann,Stöhr,Anna Maria
+Worlitschka,17.3.,Anna Maria,Florian,Ströker#,Elisabeth
+Worlitschka,18.3.,Gotthard,Gottfried,Heisler,Rosalia
+Neudorf,18.3.,Maria Anna,Ferdinand,Konger#,Elisabeth
+Worlitschka,19.3.,Franz Joseph,Johann,Heisler,Agatha
+
+DP 11
+
+Worlitschka,28.3.,Veronica,Johann,Krögler,Judith
+Tschenkowitz,30.3.,Franz Karl,Johann,Mategka#,Judith
+Worlitschka,1.4.,Franz Anton,Franz,Schlesinger,Rosalia
+Neudorf,5.4.,Peregrin,Johann,Lier,Elisabeth
+Worlitschka,6.4.,Leopold,Anton,Weinlich,Judith
+Neudorf,9.4.,Anna Maria,Georg,Schüll,Judith
+Tschenkowitz,10.4.,Genoveffa und Anna Maria,August,Weinlich,Veronica
+Worlitschka,10.4.,Peregrin,Anton,Wagner,Elisabeth
+Tschenkowitz,11.4.,Johann,Johann,Heisler,Anna Maria
+Worlitschka,12.4.,Peregrin,Amadeus,Chladek,Johanna
+Tschenkowitz,19.4.,Veronica,Daniel,Weinlich,Catharina
+Tschenkowitz,19.4.,Peregrin,Dominik,Knoll,Anna Maria
+Tschenkowitz,23.4.,Theresia,Wenzel,Langhammer,Veronica
+Worlitschka,28.4.,Leopold,Anton,Czernokorsky,Judith
+
+DP 12
+
+Worlitschka,29.4.,Heinrich,Anton,Schlesinger,Judith
+Neudorf,1.5.,Genoveffa,Johann,Johann,Hentzl,Judith
+Tschenkowitz,11.5.,Theresia,Joseph,Kratzky,Anna Maria
+Tschenkowitz,12.5.,Peregrin,Gotthard,Egidi,Veronica
+Worlitschka,13.5.,Franz,Anton,Knoll,Veronica
+Tschenkowitz,14.5.,Theresia,Florian,Fischer,Elisabeth
+Tschenkowitz,21.5.,Elisabeth,Wenzel,Schembera,Rosalia
+Neudorf,24.5.,Juliana,Ferdinand,Heusler,Judith
+Tschenkowitz,28.5.,Genoveffa,Joseph,Heisler,Anna Maria
+Tschenkowitz,29.5.,Juliana,Johann Wenzel,Bier,Elisabeth
+Tschenkowitz,2.6.,Leopold,Johann Wenzel,Weinlich,Anna Maria
+Worlitschka,16.6.,Franz Anton,Andreas,Grützbauch,Veronica
+Worlitschka,21.6.,Juliana,Heinrich,Schlesinger,Rosalia
+Tschenkowitz,22.6.,Franz Anton,Franz,Heisler,Anna Maria
+
+DP 13
+
+Neudorf,22.6.,Johann,Wenzel,Satler#,Rosalia
+Worlitschka,3.7.,Franz Joseph,Franz,Müller,Elisabeth
+Neudorf,6.7.,Franz Karl,Franz Karl,Weinlich,Apollonia
+Neudorf,8.7.,Leopold,Christian,Polak,Anna Maria
+Worlitschka,18.7.,Franz Anton,Franz,Schlesinger,Anna
+Worlitschka,26.7.,Angelina,Franz,Weinlich,Johanna
+Worlitschka,8.8.,Franz Anton,Wenzel,Neugebauer,Anna Maria
+Tschenkowitz,13.8.,Florian,Caspar,Fischer,Judith
+Worlitschka,15.8.,Anna Maria,Gotthard,Schlesinger,Anna Maria
+Worlitschka,16.8.,Gotthard,Anton,Wagner,Theresia
+Tschenkowitz,19.8.,Franz Anton,Franz,Brix,Elisabeth
+Tschenkowitz,20.8.,Genoveffa,Joseph,Heisler,Veronica
+Tschenkowitz,23.8.,Anton Ignatz,Wenzel,Nehgba#,Maria Elisabeth
+Tschenkowitz,31.8.,Theresia,Gotthard,Heisler,Veronica
+Tschenkowitz,1.9.,Amadeus,Mathai#,Heisler,Elisabeth
+
+DP 14
+
+Worlitschka,9.9.,Johannes,Wenzel,Tuchaczek,Elisabeth
+Neudorf,10.9.,Marianna,Augustin,Hentzl,Catharina
+Tschenkowitz,11.9.,Anna Maria,Ferdinand,Bier,Theresia
+Tschenkowitz,11.9.,Juliana,Johann,Fischer,Veronica
+Tschenkowitz,21.9.,Maria Josepha,Johann Wenzel,Bier,Theresia
+Tschenkowitz,28.9.,Theresia,Fabian,Kratzky,Rosalia
+Neudorf,28.9.,Peregrin,Ferdinand,Heisler,Rosalia
+Tschenkowitz,29.9.,Genoveffa,Franz,Seidlmann,Anna Maria
+Tschenkowitz,3.10.,Johann Wenzel,Johann Wenzel,Langhammer,Veronica
+Worlitschka,10.10.,Leopold,Anton,Köllner,Elisabeth
+Tschenkowitz,11.10.,Maria Elisabeth,Amadeus,Waschiczek,Veronica
+Tschenkowitz,13.10.,Franz Karl,Ignatz,Hentzl,Judith
+Tschenkowitz,17.10.,Theresia,Johann,Heisler,Maria Elisabeth
+Tschenkowitz,22.10.,Benedict,Johann,Weinlich,Anna Maria
+Worlitschka,23.10.,Josepha,Gotthard,Heisler,Anna Maria
+
+DP 15
+
+Tschenkowitz,27.10.,Ignatz Vincent,Ignatz,Weypert#,Apollonia
+Worlitschka,11.11.,Franz Anton,Johann Georg,Schlesinger,Elisabeth
+Tschenkowitz,14.11.,Franz Joseph,Joseph,Seidlmann,Rosalia
+Tschenkowitz,15.11.,Joseph,Franz,Weinlich,Veronica
+Worlitschka,21.11.,Florian,Heinrich,Heisler,Anna Maria
+Tschenkowitz,21.11.,Johann Wenzel,Martin,Seidlmann,Judith
+Worlitschka,22.11.,Joseph#,Joseph,Schlesinger,Johanna
+Tschenkowitz,25.11.,Johanna Margaretha,Franz,Langhammer,Theresia
+Worlitschka,28.11.,Genoveffa,Anton,Gabler,Elisabeth
+Tschenkowitz,12.12.,Franz Joseph,Johann Georg,Kregler,Genoveffa
+Neudorf,14.12.,Theresia,Johann,Veith,Anna Maria
+Worlitschka,15.12.,Genoveffa,Heinrich,Gabler,Maria Anna
+Tschenkowitz,17.12.,Genoveffa,Johann Wenzel,Schüll,Anna Maria
+
+DP 16
+
+Tschenkowitz,24.12.,Peregrin,Heinrich,Wagner,Veronica
+Tschenkowitz,28.12.,Theresia,Johann,Krögler,Veronica
+
+1770
+
+Neudorf,4.1.,Franz Karl,Johann,Hentzl,Magdalena
+Worlitschka,5.1.,Johannes,Franz,Chladek,Maria Anna
+Worlitschka,9.1.,Maria Elisabeth,Franz,Heyl,Johanna
+Worlitschka,9.1.,Johanna,Franz,Heyl,Johanna (Zwilling von Maria Elisabeth ????)
+Tschenkowitz,13.1.,Johann,Johann,Heisler,Barbara
+Neudorf,15.1.,Anton,Johann Christian,Bün,Theresia
+Tschenkowitz,16.1.,Joseph Marcellus#,Joseph,Kohant#,Anna Maria
+Neudorf,17.1.,Franz Karl,Christian,Schütz#,Judith
+Tschenkowitz,20.1.,Franz Joseph,Joseph,Steiner,Anna
+Worlitschka,20.1.,Johanna,Wenzel,Krögler,Anna Maria
+Worlitschka,22.1.,Theresia,Johann,Weinlich,Anna Maria
+
+DP 17
+
+Tschenkowitz,22.1.,Johann,Joseph,Horaczek,Maria
+Tschenkowitz,25.1.,Anna Maria Elisabeth,Paul,Karvat#,Elisabeth
+Tschenkowitz,28.1.,Helena,Franz,Nentrich,Veronica
+Tschenkowitz,28.1.,Anna Maria Victoria#,Franz,Nentrich,Veronica
+Worlitschka,30.1.,Rosalia,Joseph,Schlesinger,Veronica#
+Tschenkowitz,3.2.,Anna Maria,Joseph,Merta#,Maria
+Tschenkowitz,3.2.,Franz Karl,Johann,Heyl,Elisabeth
+Worlitschka,4.2.,Franz Theodor,Anton,Dittrich,Johanna
+Neudorf,5.2.,Franz Anton,Franz,Lyer#,Rosalia
+Neudorf,6.2.,Maria Anna,Paul,Langhammer,Apollonia
+Tschenkowitz,12.2.,Theresia,Joseph,Feltzmann,Veronica
+Tschenkowitz,13.2.,Maria Elisabeth,Christoph,Sonntag,Anna Maria
+Tschenkowitz,18.2.,Anna Maria,Franz,Hentzl,Veronica
+Neudorf,21.2.,Franz Anton,Thomas,Zambele,Veronica
+
+DP 18
+
+Worlitschka,3.3.,Thaddeus,Anton,Chladek,Susanna
+Worlitschka,18.3.,Veronica und Johanna,Heinrich,Krögler,Veronica
+Worlitschka,21.3.,Anna Rosalia,Franz,Schlesinger,Rosalia
+Worlitschka,25.3.,Maria Anna,Gotthard,Krögler,Magdalena
+Tschenkowitz,30.3.,Franz Anton,Johann,Nehyba,Veronica
+Neudorf,7.4.,Juliana,Franz,Brokesch,Elisabeth
+Tschenkowitz,8.4.,Anna Rosalia,Amadeus,Nentrich,Elisabeth
+Tschenkowitz,14.4.,Johann Wenzel,Johann Wenzel,Egida,Rosalia
+Neudorf,14.4.,Theresia,Gotthard,Schlesinger,Theresia
+Tschenkowitz,15.4.,Rosalia,Wenzel,Langhammer,Judith
+Worlitschka,16.4.,Joseph,Wenzel,Roizen#,Anna Maria
+Tschenkowitz,17.4.,Eleonora,Karl,Langhammer,Elisabeth
+Worlitschka,23.4.,Elisabeth,Wenzel,Schlesinger,Elisabeth
+Worlitschka,24.4.,Florian,Wenzel,Schlesinger,Elisabeth
+Neudorf,24.4.,Philipp,Johann,Lyer,Elisabeth
+
+DP 19
+
+Tschenkowitz,24.4.,Veronica,Franz,Heisler,Veronica
+Worlitschka,2.5.,Franz Ignatz,Leopold,Bartosch,Catharina
+Worlitschka,3.5.,Theresia,Franz,Schüll,Theresia
+Neudorf,3.5.,Juliana,Elias,Bün,Veronica
+Worlitschka,4.5.,Johanna,Anton,Krögler,Anna Maria
+Tschenkowitz,6.5.,Maria Elisabeth,Augustin,Seidlmann,Catharina
+Tschenkowitz,6.5.,Karl,Augustin,Bier,Veronica
+Tschenkowitz,12.5.,Ferdinand,Ferdinand,Kobliczek,Anna Maria
+Worlitschka,13.5.,Maria Theresia,Anton,Krögler,Theresia
+Tschenkowitz,16.5.,Johann Wenzel,Anton,Polak,Elisabeth
+Tschenkowitz,17.5.,Cäcilia#,Michael,Langhammer,Veronica
+Tschenkowitz,21.5.,Johann,Franz,#chmann,Elisabeth
+Tschenkowitz,30.5.,Maria Elisabeth,Anton,Kobliczek,Theresia
+Tschenkowitz,31.5.,Rosalia,Anton,Weinlich,Veronica
+Worlitschka,3.6.,Johann,Laurenz,Schlesinger,Anna Maria
+Worlitschka,6.6.,Anna Maria Theresia,Franz,Weinlich,Anna Maria
+Worlitschka,11.6.,Juliana,Heinrich,Koller,Elisabeth
+
+DP 20
+
+Worlitschka,28.6.,Peter Karl,Karl,Merta#,Anna
+Neudorf,1.7.,Theresia,Johann Georg,Ruprecht#,Elisabeth
+Neudorf,15.7.,Magdalena,Amadeus,Bock#,Theresia
+Worlitschka,18.7.,Juliana,Wenzel,Langer,Anna
+Worlitschka,21.7.,Franz Anton,Gotthard,Schlesinger,Anna Maria
+Worlitschka,22.7.,Maria Anna,Heinrich,Schlesinger,Rosalia
+Tschenkowitz,30.7.,Genoveffa,Joseph,Meister,Catharina
+Worlitschka,6.8.,Anna Maria,Franz,Schlesinger,Elisabeth
+Worlitschka,9.8.,Maria Theresia,Franz Joseph,Schlesinger,Johanna
+Worlitschka,19.8.,Juliana,Wenzel,Heisler,Veronica
+Tschenkowitz,3.9.,Maria Elisabeth,Joseph,Heisler,Veronica
+Worlitschka,3.9.,Veronica,Andreas,Gäbler,Judith
+Neudorf,18.9.,Franz Karl,Elias,Bün,Juliana
+Tschenkowitz,19.9.,Johann Wenzel,Joseph,Czernokorsky,Veronica
+
+DP 21
+
+Worlitschka,20.9.,Rosalia,Anton,Schlesinger,Judith
+Tschenkowitz,28.9.,Anna Maria,Franz,Langhammer,Judith
+Tschenkowitz,2.10.,Johann Franz,Johann,Egidi,Veronica
+Neudorf,3.10.,Anna Barbara,Anton,Diesner,Rosalia
+Worlitschka,12.10.,Genoveffa,Johann,Polak,Elisabeth
+Tschenkowitz,14.10.,Franz Anton,Johann,Czernokorsky,Anna Maria
+Neudorf,18.10.,Florian,Florian,Koller,Judith
+Neudorf,6.11.,Theresia,Joseph,Schmid,Magdalena
+Worlitschka,12.11.,Theresia,Anton,Wagner,Theresia
+Tschenkowitz,16.11.,Maria Elisabeth,Johann Wenzel,Koblischke,Anna
+Tschenkowitz,18.11.,Maximilian #,Ignatz,Wegnert#,Apollonia
+Tschenkowitz,19.11.,Johann Benedict,Johann Wenzel,Feltzmann,Juliana
+Tschenkowitz,22.11.,Cäcilia,Joseph,Buschmann,Anna Maria
+Neudorf,28.11.,Juliana,Karl,Weinlich,Apollonia
+
+DP 22
+
+Worlitschka,12.12.,Genoveffa,Anton,Wagner,Elisabeth
+Tschenkowitz,17.12.,Theresia,Joseph,Seidlmann,Rosalia
+Neudorf,23.12.,Gregor,Christian,Polak,Anna Maria
+Tschenkowitz,25.12.,Johann Wenzel,Wenzel,Stöhr,Elisabeth
+Worlitschka,26.12.,Franz Joseph,Gottfried,Schlesinger,Johanna
+
+1771
+
+Worlitschka,1.1.,Anna Maria Judith,Joseph,Maria
+Tschenkowitz,16.1.,Rosalia,Paul,Mister,Catharina
+Neudorf,26.1.,Johannes Wenceslaus,Georg,Schüll,Judith
+Neudorf,27.1.,Veronica,Franz,Heisler,Veronica
+Worlitschka,28.1.,Johannes Wenceslaus,Heinrich,Schlesinger,Elisabeth
+Worlitschka,28.1.,Leopold,Andreas,Kregler,Elisabeth
+Tschenkowitz,29.1.,Franz Joseph,Andreas,Feltzmann,Genoveffa
+Worlitschka,29.1.,Franz Anton,Johannes,Weinlich,Anna Maria
+Worlitschka,1.2.,Elisabeth,Anton,Heyl,Elisabeth
+Worlitschka,3.2.,Elisabeth,Franz,Müller,Elisabeth
+
+DP 23
+
+Worlitschka,3.2.,Franz Joseph,Anton,Czernokorsky,Elisabeth
+Worlitschka,8.2.,Maria Anna,Franz,Heil,Johanna
+Tschenkowitz,17.2.,Augustin,Joseph,Weinlich,Veronica
+Tschenkowitz,18.2.,Genoveffa,Johannes Wenceslaus,Langhammer,Veronica
+Worlitschka,18.2.,Maria Elisabeth,Karl,Czernokorsky,Elisabeth
+Worlitschka,20.2.,Eleonora,Franz,Krögler,Johanna
+Worlitschka,23.2.,Franz Anton,Johann Heinrich,Dittrich,Theresia
+Worlitschka,24.2.,Leopold,Johann Wenceslaus,Kregler,Theresia
+Neudorf,24.2.,Theresia,Wenceslaus,Schmid,Anna Maria
+Neudorf,1.3.,Joseph,Joseph,Zalmann,Anna Maria
+Tschenkowitz,4.3.,Maria Anna,Johannes,Raschka,Maria
+Worlitschka,4.3.,Johanna,Johannes,Czastek,Maria
+Worlitschka,5.3.,Juliana,Andreas,Feltzmann,Apollonia
+Tschenkowitz,7.3.,Maria Elisabeth,Gotthard,Brix#,Anna Maria
+Neudorf,8.3.,Maria Barbara,Joseph#,Chalupka#,Apollonia
+
+DP 24
+
+Worlitschka,19.3.,Theresia,Franz,Krögler,Apollonia
+Tschenkowitz,20.3.,Johannes Joseph,Johannes,Krögler,Genoveffa
+Tschenkowitz,26.3.,Apollonia,Augustin,Feltzmann,Veronica
+Worlitschka,7.4.,Johannes Christoph,Anton,Weinlich,Judith
+Tschenkowitz,14.4.,Franz Joseph,Joseph,Horaczek,Maria
+Worlitschka,14.4.,Thaddeus,Franz,Weinlich,Johanna
+Tschenkowitz,18.4.,Maria Theresia,Johannes,Feltzmann,Veronica
+Tschenkowitz,21.4.,Ignatz,Wenceslaus,Langhammer,Veronica
+Neudorf,21.4.,Maria Anna,Johannes,Victorin,Magdalena
+Tschenkowitz,22.4.,Johannes Wenceslaus,Johannes Wenceslaus,Feltzmann,Theresia
+Tschenkowitz,23.4.,Franz Karl,Wenceslaus,Bün#,Anna
+Worlitschka,24.4.,Franz Anton,Friedrich,Polak,Marianna
+Tschenkowitz,25.4.,Genoveffa,Joseph,Heisler,Elisabeth
+Worlitschka,25.4.,Anna Maria,Wenceslaus,Daubrav#,Elisabeth
+
+DP 25
+
+Worlitschka,25.4.,Leopold,Franz,Chladek,Marianna
+Tschenkowitz,1.5.,Marianna,Elias,Bün#,Anna
+Tschenkowitz,3.5.,Helena,Johann Wenceslaus,Weinlich,Anna Maria
+Tschenkowitz,3.5.,Juliana,Johann,Sonntag,Juliana
+Neudorf,5.5.,Christian,Johann,Hentzl,Judith
+Worlitschka,6.5.,Johanna,Anton,Krögler,Theresia
+Tschenkowitz,7.5.,Leopold,Ignatz,Hentzl,Judith
+Tschenkowitz,9.5.,Anton,Dominik#,Knoll,Anna Maria
+Tschenkowitz,9.5.,Johann Wenzel,Johann Wenzel,Wottawa,Anna Maria
+Worlitschka,9.5.,Rosalia,Heinrich,Nike#,Anna Maria
+Tschenkowitz,16.5.,Johanna,Johann Wenzel,Langhammer,Elisabeth
+Worlitschka,19.5.,Heinrich,Gotthard,Schlesinger,Anna Maria
+Neudorf,26.5.,Theresia,Johann,Zaubele,Dorothea
+
+DP 26
+
+Tschenkowitz,27.5.,Theresia,Johann,Heisler,Anna Maria
+Tschenkowitz,7.6.,Leopold,Anton,Krögler,Elisabeth
+Worlitschka,12.6.,Veronica,Anton,Feltzmann,Veronica
+Tschenkowitz,22.6.,Maria Theresia,Florian,Fischer,Elisabeth
+Neudorf,24.6.,Marianna,Johann,Veith,Anna Maria
+Tschenkowitz,8.7.,Thekla#,Ferdinand,Bier,Theresia
+Tschenkowitz,23.7.,Franz Karl,Franz,Weinlich,Veronica
+Worlitschka,31.7.,Leopold Ignatz,Leopold,Weinlich,Theresia
+Worlitschka,5.8.,Anna Maria,Wenzel,Langer,Elisabeth
+Tschenkowitz,6.8.,Genoveffa,Franz,Langhammer,Theresia
+Tschenkowitz,6.8.,Catharina,Andreas,Langer,Magdalena
+Tschenkowitz,15.8.,Maria Anna,Bartholomäus,Schlesinger,Anna Maria
+Tschenkowitz,16.8.,Genoveffa,Wenzel,Schembera,Rosalia
+Tschenkowitz,18.8.,Johann,Franz,Heisler,Anna Maria
+Worlitschka,23.8.,Johann Wenzel,Wenzel,Schlesinger,Elisabeth
+
+DP 27
+
+Worlitschka,26.8.,Juliana,Gottfried,Heisler,Rosalia
+Worlitschka,28.8.,Rosalia,Gotthard,Gäbler,Anna Maria
+Neudorf,30.8.,Anna Maria Victoria,Franz Karl,Bün#,Anna Barbara
+Worlitschka,1.9.,Leopold,Johann Georg,Uher,Elisabeth
+Tschenkowitz,15.9.,Leopold,Johann,Weinlich,Anna Maria
+Tschenkowitz,16.9.,Anton,Wenzel,Heisler,Catharina
+Tschenkowitz,25.9.,Rosalia,Joseph,Kratzky,Anna Maria
+Neudorf,29.9.,Emerentiana#,Ferdinand,Bök#,Theresia
+Tschenkowitz,14.9.,Maria Elisabeth,Wenzel,Kobliczek,Maria Anna
+Tschenkowitz,4.10.,Johann Franz,Johann Wenzel,Bier,Elisabeth
+Worlitschka,6.10.,Gotthard,Andreas,Grützbauch,Veronica
+Tschenkowitz,6.10.,Anna Maria,Joseph,Heisler,Veronica
+Tschenkowitz,12.10.,Maria Anna,Johann,Krögler,Veronica
+Neudorf,14.10.,Peregrin,Joseph,Polak,Maria Anna ("heiratet am 30.8.1794 in Freiwaldau die Thekla Ehrlich")
+Worlitschka,22.10.,Juliana,Anton,Chladek,Susanna
+
+DP 28
+
+Tschenkowitz,31.10.,Maximilian,Franz,Rentrich#,Veronica
+Tschenkowitz,2.11.,Amadeus,Franz,Egida,Anna
+Tschenkowitz,11.11.,Franz,Weinlich,Elisabeth
+Tschenkowitz,18.11.,Franz,Brix,Elisabeth
+Tschenkowitz,19.11.,Franz Wenzel,Joseph,Meister,Catharina
+Tschenkowitz,9.12.,Joseph,Joseph,Heisler,Johanna
+Tschenkowitz,14.12.,Paul und Rosalia,Martin,Seidlmann,Judith
+Worlitschka,16.12.,Anna Helena,Gotthard,Schlesinger,Theresia
+Worlitschka,16.12.,Theresia,Heinrich,Gabler,Marianna
+Tschenkowitz,23.12.,Marianna,Paul,Heisler,Veronica
+Worlitschka,26.12.,Agatha,Johann Wenzel,Neugebauer,Agatha
+
+1772
+
+Worlitschka,2.1.,Juliana,Franz,Heisler,Elisabeth
+
+DP 29
+
+Tschenkowitz,6.1.,Maria Eleonora,Johannes,Feltzmann,Juliana
+Worlitschka,23.1.,Franz Joseph,Wenceslaus,Krögler,Anna Maria
+Tschenkowitz,31.1.,Johann Joseph,Franz Karl,Heisler,Anna Maria
+Tschenkowitz,6.2.,Maria Elisabeth,Johannes,Hartl,Nicht genannt
+Tschenkowitz,7.2.,Anton,Amadeus,Waschiczek,Veronica
+Neudorf,11.2.,Theresia,Johannes,Schüll,Anna Barbara
+Tschenkowitz,13.2.,Marianna,Wenceslaus,Schibo#,Elisabeth
+Tschenkowitz,13.2.,Rosalia,Philipp,Langhammer,Anna Maria
+Tschenkowitz,16.2.,Agnes,Johannes,Stör,Anna Maria
+Neudorf,18.2.,Victoria,Christoph,Bün,Theresia
+Neudorf,27.2.,Anton Johann Franz,Franz,Lyer#,Rosalia
+Tschenkowitz,1.3.,Franz Karl,Paul,Charvat#,Nicht genannt
+
+DP 30
+
+Worlitschka,12.3.,Franz Joseph,Gottfried,Schlesinger,Johanna
+Tschenkowitz,15.3.,Amadeus,Amadeus,Nentrich,Elisabeth
+Worlitschka,22.3.,Peregrin,Johannes,Weinlich,Anna Maria
+Worlitschka,22.3.,Leopold,Johannes,Neugebauer,Anna Maria
+Tschenkowitz,23.3.,Theresia,Johannes Wenceslaus,Schüll,Anna Maria
+Worlitschka,26.3.,Juliana,Franz,Schlesinger,Anna Maria
+Tschenkowitz,27.3.,Johannes,Wenceslaus,Langhammer,Judith
+Neudorf,3.4.,Severinus,Elias,Bün,Veronica
+Worlitschka,15.4.,Juliana,Gotthard,Schlesinger,Anna Maria
+Neudorf,8.5.,Johannes,Florian,Roller,Judith
+Tschenkowitz,10.5.,Catharina,Franz,Illihmann#,Elisabeth
+Tschenkowitz,13.5.,Johannes Wenceslaus,Anton,Krögler,Elisabeth
+Tschenkowitz,14.5.,Anton,Joseph,Heisler,Anna Maria
+Worlitschka,21.5.,Helena,Franz,Schlesinger,Rosalia
+Tschenkowitz,28.5.,Catharina,Franz,Weinlich,Catharina
+Worlitschka,30.5.,Juliana,Anton,Dittrich,Johanna
+Worlitschka,31.5.,Marianna,Anton,Krögler,Elisabeth
+
+DP 31
+
+Tschenkowitz,5.6.,Theresia,Wenceslaus,Prokop,Theresia
+Worlitschka,10.6.,Johann Georg,Johann Georg,Schlesinger,Elisabeth
+Tschenkowitz,14.6.,Johannes,Mathias,Miller,Anna Barbara
+Tschenkowitz,14.6.,Maria Elisabeth,Johannes,Heisler,Barbara
+Worlitschka,15.6.,Franz Anton,Franz,Heyl,Johanna
+Worlitschka,22.6.,Anna Johanna,Anton,Krögler,Theresia
+Worlitschka,20.7.,Johannes Nepomuk,Leopold,Bartusch#,Catharina
+Neudorf,23.7.,Liborius,Gottlieb,Bo#,Theresia
+Tschenkowitz,24.7.,Gottfried,Wenceslaus,Koller#,Anna
+Neudorf,25.7.,Florian Jacob,Caspar,Roczen#,Marina
+Worlitschka,7.8.,Juliana,Heinrich,Wagner,Elisabeth
+Worlitschka,8.8.,Benedict,Anton,Krögler,Theresia
+Tschenkowitz,11.9.,Anna Maria,Franz,Czernokorsky,Anna Maria
+Worlitschka,17.9.,Marianna,Gotthard,Schlesinger,Anna Maria
+Worlitschka,22.9.,Maria Theresia,Heinrich,Dittrich,Theresia
+Tschenkowitz,23.9.,Marianna,Johannes,Weinlich,Anna Maria (oder heißt das "Johannes Wenceslaus"?)
+Tschenkowitz,24.9.,Juliana,Johannes Wenceslaus,Bier,Theresia
+
+DP 32
+
+Tschenkowitz,25.9.,Anton,Wenceslaus,Czernokorsky,Veronica
+Worlitschka,27.9.,Johanna,Franz,Weinlich,Johanna
+Worlitschka,3.10.,Juliana,Anton,Krögler,Anna Maria
+Tschenkowitz,5.10.,Eleonora,Ignatz,Weinerth,Apollonia
+Worlitschka,10.10.,Ludmilla,Gotthard,Heisler,Anna Maria
+Worlitschka,19.10.,Gotthard,Franz Joseph,Schlesinger,Johanna
+Worlitschka,15.11.,Leopold,Florian,Wagner,Theresia
+Worlitschka,24.11.,Genoveffa,Franz,Wagner,Theresia
+Tschenkowitz,10.12.,Maria Anna,Franz,Langhammer,Judith
+Worlitschka,16.12.,Gotthard und Theresia,Heinrich,Schlesinger,Rosalia
+Worlitschka,17.12.,Anton,Wencelaus,Schlesinger,Elisabeth
+Worlitschka,21.12.,Franz Anton,Franz,Schlesinger,Elisabeth
+Tschenkowitz,29.12.,Johann Georg,Johann Georg,Krögler,Genoveffa
+Tschenkowitz,29.12.,Johann Benedict,Johann Wenceslaus,Feltzmann,Genoveffa
+Worlitschka,31.12.,Genoveffa,Franz,Krögler,Johanna
+
+DP 33
+
+1773
+
+Tschenkowitz,7.1.,Veronica,Johannes,Weinlich,Anna Maria
+Worlitschka,12.1.,Gotthard Leopold,Gotthard,Krögler,Magdalena
+Tschenkowitz,18.1.,Franz Anton,Anton,Feltzmann,Anna Maria
+Tschenkowitz,20.1.,Rosalia,Karl,Langhammer,Elisabeth
+Neudorf,1.2.,Genoveffa,Anton,Wiesner,Rosalia
+Tschenkowitz,16.2.,Maria Elisabeth,Johann Wencelaus,Weinlich,Elisabeth
+Neudorf,21.2.,Apollonia,Ludwig,Weinlich,Maria
+Tschenkowitz,23.2.,Juliana,Johann Wenceslaus,Feltzmann,Juliana
+Tschenkowitz,23.2.,Franz Karl,Franz Karl,Langhammer,Elisabeth
+Worlitschka,24.2.,Leopold,Johann Wenceslaus,Krögler,Rosalia
+Tschenkowitz,18.3.,Franz Joseph,Johannes,Egida,Veronica
+Tschenkowitz,30.3.,Franz Anton,Franz,Langhammer,Theresia
+Worlitschka,4.4.,Franz Anton,Johann Georg,Wei#,Elisabeth
+Worlitschka,4.4.,Maria Elisabeth,Anton,Czernokorsky,Elisabeth
+
+DP 34
+
+Worlitschka,15.4.,Franz Anton,Franz,Heisler,Elisabeth
+Worlitschka,16.4.,Franz,Anton,Heyl,Elisabeth
+Neudorf,23.4.,Juliana,Joseph,Ralauska#,Apollonia
+Neudorf,3.5.,Juliana,Elias,Byn#,Juliana
+Tschenkowitz,5.5.,Genoveffa,Joseph,Buschmann,Anna Maria
+Worlitschka,10.5.,Eleonora,Heinrich,Nikl,Anna Maria
+Worlitschka,17.5.,Johann Thaddeus,Andreas,Weinlich,Anna Maria
+Worlitschka,1.6.,Franz Anton,Franz,Weinlich,Anna Maria
+Tschenkowitz,5.6.,Franz Karl,Anton,Krögler,Elisabeth
+Tschenkowitz,9.6.,Peregrin,Paul,Meister,Catharina
+Tschenkowitz,27.6.,Juliana,Joseph,Merta#,Maria
+Tschenkowitz,5.7.,Franz,Franz,Nentrich,Veronica
+Neudorf,21.7.,Peregrin,Thomas,Zobele,Veronica
+Tschenkowitz,26.7.,Peregrin,Joseph,Feltzmann,Veronica
+
+DP 35
+
+Tschenkowitz,1.8.,Juliana,Franz,Bayer,Anna
+Worlitschka,6.8.,Johanna,Leopold,Weinlich,Theresia (am 5.11.1792 in Adlerdörfel mit Peter Kr# getraut,+ am 6.8.1773 -> Eine der beiden Daten muss wohl falsch sein, oder zu dem KB-Eintrag eins tiefer gehören)
+Neudorf,14.8.,Maria Anna,Christian,Polak,Anna Maria
+Worlitschka,20.8.,Juliana,Karl,Schüll,Anna
+Tschenkowitz,24.8.,Rosalia,Joseph,Heisler,Veronica
+Worlitschka,2.9.,Theresia,Anton,Gabler,Elisabeth
+Tschenkowitz,12.9.,Juliana,Anton,Feltzmann,Anna Maria
+Tschenkowitz,13.9.,Maria Elisabeth,Johann Wenceslaus,Langhammer,Elisabeth
+Tschenkowitz,16.9.,Franz Karl,Johann Wenceslaus,Wottawa,Anna Maria
+Worlitschka,16.9.,Genoveffa,Wenceslaus,Schlesinger,Elisabeth
+Tschenkowitz,16.9.,Philipp,Karl,Häusler,Anna Maria
+Tschenkowitz,16.9.,Catharina,Wenceslaus,Schembera,Anna Maria
+Tschenkowitz,19.9.,Juliana,Wenceslaus,Kobliczek,Marianna
+Tschenkowitz,26.9.,Peregrin,Wenceslaus,Langhammer,Veronica
+Tschenkowitz,27.9.,Franz Karl,Johannes Wenceslaus,Feltzmann,Theresia
+Tschenkowitz,29.9.,Maria Elisabeth,Augustin,Feltzmann,Veronica
+
+DP 36
+
+Tschenkowitz,3.10.,Veronica,Johannes,Feltzmann,Veronica
+Neudorf,8.10.,Genoveffa,Franz Karl,Bün#,Anna Barbara
+Worlitschka,9.10.,Johannes Wenceslaus,Wenceslaus,Häusler,Veronica
+Tschenkowitz,18.10.,Maria Elisabeth,Johannes,Kaschka#,Veronica
+Worlitschka,28.10.,Simon Thaddeus,Heinrich,Kohler,Veronica
+Neudorf,8.11.,Juliana,Joseph,Steffan,Apollonia
+Worlitschka,9.11.,Franz Anton,Franz,Heyl,Johanna
+Neudorf,11.11.,Peregrin,Franz,Weinlich,Apollonia
+Tschenkowitz,17.11.,Peregrin,Johannes Wenceslaus,Feltzmann,Theresia
+Worlitschka,23.11.,Thaddeus,Johannes,Weinlich,Anna Maria
+Worlitschka,23.11.,Elias,Anton,Weinlich,Judith
+Worlitschka,24.11.,Franz Anton,Florian,Wagner,Anna Maria
+Tschenkowitz,27.11.,Johannes Wenceslaus,Joseph,Seidlmann,Rosalia
+Tschenkowitz,29.11.,Johanna,Franz,Weinlich,Veronica
+Worlitschka,13.12.,Franz Joseph,Anton,Chladek,Susanna
+Tschenkowitz,25.12.,Marianna,Franz,Eygidi#,Anna Rosina
+
+DP 37
+
+Tschenkowitz,25.12.,Johann Joseph,Franz,Heisler,Anna Maria
+Tschenkowitz,26.12.,Franz Karl,Philipp,Langhammer,Anna Maria
+Neudorf,28.12.,Johannes,Franz,Heisler,Catharina
+Worlitschka,29.12.,Franz Joseph,Wenceslaus,Schlesinger,Veronica
+
+1774
+
+Worlitschka,4.1.,Johanna,Anton,Schlesinger,Apollonia
+Tschenkowitz,9.1.,Franz Anton,Mathias,Müller,Anna Maria
+Tschenkowitz,9.1.,Johannes Wenzel,Franz,Brix#,Elisabeth
+Worlitschka,11.1.,Amadeus,Amadeus,Kladek#,Johanna
+Neudorf,16.1.,Silvester Peregrin,Franz,Lyer#,Rosalia
+Worlitschka,17.1., Franz Anton,Franz,Wagner,Theresia
+Tschenkowitz,22.1.,Veronica und Juliana,Wenzel,Langhammer,Veronica
+Tschenkowitz,25.1.,Eleonora,Ambrosius,Heusler,Mariana
+Worlitschka,25.1.,Genoveffa,Gotthard,Gabler,Anna Maria
+Neudorf,26.1.,Franz Anton,Johannes,Victorin#,Magdalena
+Neudorf,27.1.,Silvester Peregrin,Florian,Heusler,Anna Maria
+Worlitschka,11.2.,Loborius,Gotthard,Schlesinger,Theresia
+Tschenkowitz,13.2.,Juliana,Amadeus,Feltzmann,Catharina
+Tschenkowitz,14.2.,Juliana,Amadeus,Nent#,Elisabeth
+
+DP 38
+
+Tschenkowitz,20.2.,Genoveffa,Anton,Polak,Elisabeth
+Worlitschka,25.2.,Genoveffa,Johannes Wencelaus,Heusler,Agatha
+Neudorf,28.2.,Juliana,Bartholomäus,Hudek#,Elisabeth
+Tschenkowitz,6.3.,Franz Karl,Ferdinand,Koblicek,Anna Maria
+Worlitschka,6.3.,Anna Maria,Gotthard,Heisler,Anna Maria
+Worlitschka,7.3.,Franz Joseph,Johannes, Czärtetz#,Marina
+Tschenkowitz,16.3.,Maria Elisabeth,Johannes Heisler, Anna Maria
+Worlitschka,20.3.,Anna Maria,Franz,Czernokorsky,Elisabeth
+Worlitschka,22.3.,Anna Catharina,Anton,Wagner,Juliana
+Worlitschka,23.3.,Leopold,Andreas,Gritzbauch,Veronica
+Worlitschka,3.4.,Johanna,Wenceslaus,Langer,Elisabeth
+Tschenkowitz,5.4.,Juliana,Joseph,Mister#,Catharina
+Worlitschka,6.4.,Johannes Wenceslaus,Wenceslaus,Koblicek,Anna Maria
+Worlitschka,10.4.,Juliana,Karl,Czernokorsky,Anna Maria
+Neudorf,13.4.,Maria Magdalena,Christoph,Bün#,Theresia
+Tschenkowitz,15.4.,Leopold,Johannes,Nehyba#,Veronica
+Worlitschka,17.4.,Marianna,Gottfried,Polak,Marianna
+
+P 39
+
+Tschenkowitz,18.4.,Franz Karl,Franz,Heisler,Veronica
+Worlitschka,18.4.,Thaddeus,Gottfried,Heisler,Rosalia
+Tschenkowitz,18.4.,Maria Elisabeth,Caspar,Weinlich,Veronica
+Tschenkowitz,23.4.,Adalbert,Joseph,Kratzky,Anna Maria
+Worlitschka,30.4.,Leopold,Franz,Krögler,Apollonia
+Tschenkowitz,6.5.,Johann Wenceslaus,Johann Georg,Krögler,Genoveffa
+Neudorf,10.5.,Johann Wenceslaus,Johannes,Schüll,Barbara
+Worlitschka,17.5.,Gotthard,Gotthard,Dittrich,Susanna
+Neudorf,19.5.,Franz Joseph,Joseph,Polak,Marianna
+Worlitschka,21.5.,Benedict,Anton,Krögler,Veronica
+Worlitschka,29.5.,Leopold,Anton,Wagner,Elisabeth
+Tschenkowitz,14.6.,Anton,Anton,Weinlich,Veronica
+Worlitschka,16.6.,Franz Joseph,Anton,Köller,Elisabeth
+Tschenkowitz,23.6.,Johanna,Johannes,Feltzmann,Juliana
+Worlitschka,1.7.,Franz Karl,Heinrich,Wagner,Elisabeth
+Tschenkowitz,16.7.,Ferdinand,Ferdinand,Bier,Theresia
+Tschenkowitz,22.7.,Joseph Johannes,Ignatz,Weynert#,Apollonia
+Worlitschka,23.7.,Josepha,Franz,Schlesinger,Theresia
+Worlitschka,31.7.,Amadeus,Anton,Czernokorsky,Judith
+Worlitschka,31.7.,Johannes,Anton,Czernokorsky,Theresia
+
+P 40
+
+Tschenkowitz,12.8.,Anna Josepha,Augustin,Langhammer,Apollonia
+Worlitschka,13.8.,Judith Rosalia,Anton,Galek,Anna Maria
+Tschenkowitz,15.8.,Johannes Wencelaus,Georg,Schüll,Veronica
+Tschenkowitz,16.8.,Maria Elisabeth,Johannes,E#,Veronica
+Tschenkowitz,18.8.,Johannes Thadeus,Amadeus,Waschiczek,Veronica
+Tschenkowitz,18.8.,Maria Elisabeth,Joseph,Steiner,Anna
+Tschenkowitz,25.8.,Franz und Anna,Martin,Seidlmann,Judith
+Tschenkowitz,4.9.,Juliana (posthuma),Johannes,Hertl#,Anna Maria
+Worlitschka,6.9.,Aloys,Franz Anton,Weinlich,Johanna
+Worlitschka,7.9.,Eleonora,Andreas,Krögler,Elisabeth
+Tschenkowitz,19.9.,Johannes,Johannes,Sonntag,Juliana
+Tschenkowitz,23.9.,Juliana,Augustin,Heyl,Theresia
+Tschenkowitz,25.9.,Catharina,Wenceslaus,Nehiba#,Maria Elisabeth
+Tschenkowitz,26.9.,Ignatz,Johannes Wencelaus,Heisler,Johanna
+Neudorf,26.9.,Anna Maria,Joseph,Sedlaczek,Anna Maria
+Worlitschka,28.9.,Gotthard,Gotthard,Schlesinger,Judith
+Tschenkowitz,29.9.,Catharina,Wenceslaus,Prokopetz,Catharina
+
+P 41
+
+Neudorf,9.10.,Franz Karl,Wencelaus,Dubesch#,Rosalia
+Tschenkowitz,10.10.,Juliana,Franz,Czernokorsky,Anna Maria
+Tschenkowitz,19.10.,Johann Wencelaus,Wencelaus,Sonntag,Veronica
+Worlitschka,19.10.,Juliana,Joseph,Schlesinger,Veronica
+Neudorf,7.11.,Franz Karl,Caspar,Korczin#,Anna Maria
+Neudorf,11.11.,Genoveffa,Johannes,Lyer,Elisabeth
+Worlitschka,21.11.,Franz Anton,Anton,Schlesinger,Anna Maria
+Worlitschka,22.11.,Johanna,Anton,Knoll,Johanna
+Tschenkowitz,25.11.,Johann Wenceslaus,Anton,Feltzmann,Anna Maria
+Neudorf,1.12.,Marianna,Johann,Zaubele,Anna
+Neudorf,3.12.,Johannes,Ferdinand,Heusler,Rosalia
+Worlitschka,8.12.,Genoveffa,Franz Joseph,Schlesinger,Johanna
+Tschenkowitz,9.12.,Juliana,Wenceslaus,Heusler,Veronica
+Worlitschka,11.12.,Leopold,Franz,Schlesinger,Elisabeth
+Tschenkowitz,11.12.,Anton,Gotthard,Heusler,Veronica
+Neudorf,13.12.,Catharina,Ludwig,Weinlich,Magdalena
+Worlitschka,15.12.,Johannes,Anton,Dittrich,Johanna
+Neudorf,16.12.,Franz Anton,Wenceslaus,Koczin#,Veronica
+Worlitschka,16.12.,Leopold,Franz,Heusler,Elisabeth
+
+P 42
+
+Tschenkowitz,20.12.,Catharina,Karl,Langhammer,Elisabeth
+Worlitschka,25.12.,Genoveffa,Johann Heinrich,Dittrich,Theresia
+Tschenkowitz,26.12.,Catharina,Wenceslaus,Heusler,Catharina (Eintrag: Getraut 23.11.1797 mit Benjamin Rotter#)
+Tschenkowitz,31.12.,Johann Wenceslaus,Franz Karl,Langhammer,Elisabeth
+
+1775
+
+Worlitschka,4.1.,Rosalia,Laurenz,Schlesinger,Theresia
+Tschenkowitz,6.1.,Genovefa,Nicht genannt,Nicht genannt,Veronica (Veronica ist die Tochter von Wenzel Michalek)
+Tschenkowitz,9.1.,Johann Wenzel,Johannes Heusler,Elisabeth
+Worlitschka,9.1.,Franz Anton,Franz,Schlesinger,Rosalia
+Worlitschka,12.1.,Peregrin,Johannes Wenzel,Krögler,Rosalia
+Tschenkowitz,13.1.,Catharina,Johannes Wenzel,Weinlich,Veronica
+Tschenkowitz,15.1.,Franz,Anton,Krögler,Elisabeth
+Tschenkowitz,17.1.,Joseph,Amadeus,Langhammer,Apollonia
+Worlitschka,22.1.,Gotthard,Gotthard,Schlesinger,Maria Anna
+Tschenkowitz,27.1.,Johann Wenzel,Wenzel,Schüll,Anna Maria
+Worlitschka,29.1.,Franz Joseph,Joseph,Weinlich,Veronica
+Worlitschka,29.1.,Johann Wenzel,Johannes,Waagner,Anna Maria
+Neudorf,3.2.,Franz Karl,Paul,Hamerle#,Apollonia
+Tschenkowitz,8.2.,Cäcilia,Joseph,Heusler,Veronica
+
+P 43
+
+Neudorf,8.2.,Theresia,Joseph,Stephan,Apollonia
+Tschenkowitz,17.2.,Theresia,Philipp,Langhammer,Anna Maria
+Worlitschka,19.2.,Leopold,Anton,Gaabler,Elisabeth
+Neudorf,22.2.,Johanna Josepha,Florian,Kün#,Theresia
+Neudorf,22.2.,Anna Barbara,Franz,Hanisch,Apollonia
+Tschenkowitz,26.2.,Peregrin,Johann Wenzel,Feltzmann,Theresia
+Tschenkowitz,1.3.,Benedikt,Franz,Langhammer,Theresia
+Worlitschka,7.3.,Franz Xaver,Leopold,Weinlich,Theresia
+Worlitschka,7.3.,Leopold,Anton,Krögler,Theresia
+Neudorf,8.3.,Franz,Joseph,Zalman#,Anna
+Neudorf,8.3.,Franz Karl,Joseph,C#la#a,Apollonia
+Tschenkowitz,9.3.,Johann Wenzel,Johann Wenzel,Weinlich,Elisabeth
+Tschenkowitz,12.3.,Peregrin,Wenzel,Feltzmann,Genofeva (heiratet am 20.8.1799 Genofeva Meister)
+Worlitschka,13.3.,Johann Wenzel,Anton,Heyl,Elisabeth
+Tschenkowitz,24.3.,Franz Karl,Wenzel,Czernokovsky,Veronica
+Worlitschka,30.3.,Gottfried,Schlesinger,Johanna
+Tschenkowitz,31.3.,Cäcilia,Franz,Weinlich,Veronica
+Worlitschka,9.4.,Beate,Johann Wenzel,Neugebauer,Anna Maria
+
+P 44
+
+Worlitschka,9.4.,Franz Joseph,Johann Wenzel,Heisler,Agatha
+Worlitschka,14.4.,Joseph,Wenzel,Schlesinger,Elisabeth
+Worlitschka,16.4.,Leopold,Heinrich,Gäbler,Maria Anna
+Worlitschka,21.4.,Edmund,Heinrich,Ni#l,Maria
+Worlitschka,24.4.,Liborius,Gotthard,Schlesinger,Theresia
+Tschenkowitz,25.4.,Franz Anton,Joseph,Seidlman,Rosalia
+Tschenkowitz,25.4.,Genovefa,Joseph,Heisler,Anna Maria
+Worlitschka,26.4.,Victoria,Johann Georg,Schlesinger,Elisabeth
+Neudorf,26.4.,Marianna,Elias,Kün#,Juliana
+Tschenkowitz,7.5.,Theresia,Johannes,Czernokovsky,Anna Maria
+Worlitschka,7.5.,Johannes Heinrich,Heinrich,Koller#,Elisabeth
+Neudorf,8.5.,Genovefa,Anton,Chalaupka#,Veronica
+Worlitschka,8.5.,Franz,Florian,Ströker,Judith
+Tschenkowitz,10.5.,Catharina,Gotthard,Brix#,Anna Maria
+Tschenkowitz,13.5.,Franz Karl,Elias,Kün#,Anna
+Tschenkowitz,16.5.,Johannes,Augustin,Weinlich,Veronica
+Neudorf,17.5.,Genovefa,Christian,Pollak,Anna Maria
+Worlitschka,21.5.,Johannes,Anton,Krögler,Veronica
+Tschenkowitz,21.5.,Genovefa,Franz,Bayer,Anna
+Neudorf,26.5.,Juliana,Anton,Wiesner,Rosalia
+Neudorf,30.5.,Genovefa,Elias,Kün#,Veronica
+
+P 45
+
+Tschenkowitz,3.6.,Johann,Ambrosis,Heusler,Marianna
+Neudorf,13.6.,Anna Maria,Amadeus,Bok,Theresia
+Worlitschka,15.6.,Philipp Benitius#,Anton,Wagner,Juliana
+Tschenkowitz,18.6.,Juliana,Johann Wenzel,Bier,Theresia
+Tschenkowitz,2.7.,Anna Maria,Franz,Langhammer,Judith
+Worlitschka,29.7.,Johanna,Franz,Minarz#,Elisabeth
+Tschenkowitz,4.8.,Franz Joseph,Amadeus,Nentrich,Elisabeth
+Tschenkowitz,13.8.,Anton,Johann Georg,Krögler,Genoveffa
+Worlitschka,14.8.,Franz Joseph,Leopold,Bartusch,Catharina
+Worlitschka,1.9.,Rosalia,Fabian,Koblischke,Elisabeth
+Worlitschka,1.9.,Franz Anton,Andreas,Feltzmann,Apollonia
+Tschenkowitz,3.9.,Johann Franz,Johann,Stöhr,Anna Maria
+Worlitschka,12.9.,Anna Maria Juliana,Wenzel,Heusler,Veronica
+Tschenkowitz,15.9.,Joseph,Wenzel,Langhammer,Veronica
+Tschenkowitz,17.9.,Leopold,Franz Karl,Heusler,Anna Maria
+Worlitschka,18.9.,Franz Anton,Anton,Schlesinger,Judith
+Neudorf,18.9.,Anton,Anton,Schüll,Juliana
+
+P 46
+
+Tschenkowitz,21.9.,Maria Elisabeth,Wenzel,Koblischke,Maria Anna
+Tschenkowitz,23.9.,Johann,Johann Wenzel,Feltzmann,Juliana
+Tschenkowitz,26.9.,Theresia,Johann Wenzel,Feltzmann,Theresia
+Tschenkowitz,27.9.,Franz Karl,Johann Wenzel,Langhammer,Elisabeth
+Worlitschka,29.9.,Johann Wenzel,Franz,Weinlich,Anna Maria
+Tschenkowitz,4.10.,Franz Karl,Johann,Beschamer#,Apollonia
+Neudorf,6.10.,Franz Anton,Franz,Heusler,Catharina
+Worlitschka,9.10.,Johanna,Wenzel,Koblischke,Anna
+Neudorf,11.10.,Franz Karl,Franz Karl,Bün,Anna Barbara
+Tschenkowitz,17.10.,Anton,Anton,Hentzl,Elisabeth
+Neudorf,19.10.,Genoveffa,Franz Karl,Weinlich,Apollonia
+Worlitschka,29.10.,Andreas,Andreas,Krögler,Elisabeth
+Worlitschka,30.10.,Anton Leopold,Gotthard,Krögler,Magdalena
+Tschenkowitz,5.11.,Eleonora,Elias,Heusler,Judith
+Worlitschka,15.11.,Elisabeth,Anton,Czernokorsky,Elisabeth
+Worlitschka,19.11.,Maria Theresia,Wenzel,Cernokorsky,Cäcilia ("Attestum #" - was heißt das?)
+Tschenkowitz,26.11.,Johann Wenzel,Wenzel,Schembera,Rosalia
+Worlitschka,6.12.,Franz Anton,Heinrich,Czernokorsky,Elisabeth
+
+P 47
+
+Worlitschka,16.12.,Juliana,Gotthard,Gäbler,Anna Maria
+Worlitschka,18.12.,Johann Wenzel,Franz,Heusler,Elisabeth
+Worlitschka,24.12.,Johann Wenzel,Johann,Spuczak#,Elisabeth
+Tschenkowitz,25.12.,Anna Maria,Franz,Czernokorsky,Anna Maria
+Worlitschka,31.12.,Franz Karl,Franz,Wagner,Theresia
+
+1776
+
+Worlitschka,2.1.,Anna,Anton,Chladek#,Susanna
+Tschenkowitz,6.1.,Theresia,-,-,Veronica (Veronica ist die Tochter von Johannes Sedlaczek)
+Worlitschka,21.1.,Juliana,Anton,Krögler,Apollonia
+Tschenkowitz,21.1.,Peregrin,Johann Wenzel,Häusler,Johanna
+Worlitschka,21.1.,Franz Anton,Anton,Schlesinger,Apollonia
+Neudorf,22.1.,Genovefa,Franz,Schmid,Anna Maria
+Worlitschka,26.1.,Johann Wenzel,Wenzel,Hohl,Maria Elisabeth (Keine Erwähnung, ob Wenzel und Maria Elisabeth verheiratet waren)
+Neudorf,26.1.,Genovefa,Florian,Heusler,Maria Anna
+Worlitschka,29.1.,Franz Karl,Karl,Czernokovsky,Anna Maria
+Worlitschka,2.2.,Rosalia#,Johannes Wenzel,Krögler,Rosalia#
+Worlitschka,4.2.,Juliana,Anton,Wagner,Elisabeth
+Tschenkowitz,4.2.,Theresia,Wenzel,Langhammer,Veronica
+Tschenkowitz,4.2.,Johanna,Wenzel,Kohler,Anna
+Tschenkowitz,5.2.,Joseph,Joseph,Puschmann,Anna Maria
+
+P 48
+
+Worlitschka,15.2.,Johann Wenzel,Johannes,Langer,Veronica (heiratet am 11.5.1802 in Adlerdörfel Johanna Gabler)
+Tschenkowitz,23.2.,Juliana,Franz,Brix,Elisabeth
+Neudorf,1.3.,Thaddeus,Ferdinand,Bock,Theresia
+Tschenkowitz,3.3.,Maria Elisabeth,Franz,Heusler,Anna Maria
+Tschenkowitz,8.3.,Johannes,Johannes,Kaschka,Veronica
+Worlitschka,9.3.,Franz Joseph,Wenzel,Schlesinger,Elisabeth
+Tschenkowitz,9.3.,Genofeva,Wenzel,Egida,Anna Rosalia
+Worlitschka,20.3.,Anna Maria Theresia,Florian,Wagner,Ludmilla
+Tschenkowitz,30.3.,Theresia,Wenzel,Heusler,Veronica
+Neudorf,1.4.,Marianna,Thomas,Zanbele#,Veronica
+Worlitschka,4.4.,Juliana,Wenzel,Wagner,Anna Maria
+Neudorf,7.4.,Theresia,Johannes,Viktorin,Magdalena
+Neudorf,11.4.,Franz Karl,Amadeus,Langhammer,Apollonia
+Tschenkowitz,20.4.,Johann Wenzel,Johannes Wenzel,Bier#,Elisabeth
+Tschenkowitz,23.4.,Veronica,Johannes,Matiegka,Anna
+Tschenkowitz,25#.4.,Theresia,Karl,Weinlich,Mariana
+Worlitschka,28.4.,Marianna,Anton,Weinlich,Judith
+Neudorf,30.4.,Maria Anna und Maria Elisabeth,Florian,Kohler,Judith
+
+P 49
+
+Tschenkowitz,1.5.,Juliana,Georg,Schüll,Veronica
+Tschenkowitz,5.5.,Theresia,Franz,Häusler,Veronica
+Tschenkowitz,6.5.,Theresia,Andreas,Langer,Magdalena
+Neudorf,7#.5.,Joseph,Wenzel,Sottler,Rosalia
+Neudorf,9.5.,Theresia,Christoph,Dün#,Theresia
+Worlitschka,10.5.,Theresia,Heinrich,Neugebauer,Theresia
+Tschenkowitz,12.5.,Ignatz,Mathias,Müller,Anna Maria
+Neudorf,20.5.,Apollonia,Franz,Hanisch,Apollonia
+Worlitschka,21.5.,Juliana,Leopold,Weinlich,Theresia
+Worlitschka,22.5.,Franz Anton,Gotthard,Dittrich,Anna
+Tschenkowitz,22.5.,Theresia,Heinrich,Kohler,Elisabeth
+Worlitschka,24.5.,Genovefa,Heinrich,Wagner,Maria Elisabeth
+Tschenkowitz,26.5.,Franz Karl,Wenzel Washiczek#,Anna
+Neudorf,11#.6.,Genovefa,Johannes,Hentzel,Magdalena
+Tschenkowitz,14.6.,Rosalia,Amadeus,Nentvich,Elisabeth
+Tschenkowitz,24.6.,Theresia,Augustin,Feltzmann,Veronica
+Tschenkowitz,24.6.,Genovefa,Joseph,Meister,Catharina (getraut am 20.8.1799 mit Peregrin Feltzmann)
+Tschenkowitz,25.6.,Johanna,Anton,Schlesinger,Catharina
+Worlitschka,26.6.,Theresia,Joseph,Weinlich,Veronica
+
+P 50
+
+Tschenkowitz,19#.7.,Theresia Victoria,Ignatz,Weißpert#,Apollonia
+Worlitschka,18.8.,Juliana,Andreas,Grützbauch,Veronica
+Tschenkowitz,18.8.,Franz Karl,Wenzel,Sonntag,Veronica
+Worlitschka,31.8.,Peregrin,Johannes Weinlich,Anna Maria
+Worlitschka,4.9.,Johannes,Anton,Köller,Elisabeth
+Neudorf,12.9.,Johannes,Franz,Kubesch,Rosalia
+Neudorf,12.9.,Joseph,Franz,Kubesch,Rosalia (Johannes und Joseph möglicherweise Zwillinge???)
+Worlitschka,17.9.,Leopold,Franz,Grögler,Johanna
+Worlitschka,19.9.,Theresia,Franz Joseph,Schlesinger,Johanna
+Tschenkowitz,21.9.,Genovefa,Amadeus,Langhammer,Genovefa
+Worlitschka,1.10.,Franz Anton,Gotthard,Schlesinger,Marianna#
+Tschenkowitz,3.10.,Johanna,Johannes,Egide,Veronica
+Worlitschka,12.10.,Angelina,Franz,Weinlich,Johanna
+Neudorf,16.10.,Joseph,Joseph,Stephann,Apollonia
+Worlitschka,19.10.,Leopold,Gottfried,Pollak,Maria Anna
+Tschenkowitz,21.10.,Theresia,Ferdinand,Koblischke,Anna Maria
+Neudorf,2.11.,Franz Karl,Joseph,Sedlaczek,Anna Maria
+Tschenkowitz,16.11.,Juliana,Anton,Pollak,Elisabeth
+Neudorf,17.11.,Juliana,Martin,Marek,Rosalia
+Worlitschka,20.11.,Maria Josepha,Leopold,Partusch#,Catharina
+Worlitschka,22.11.,Maria Barbara,Anton,Schlesinger,Anna Maria
+Worlitschka,26.11.,Anton,Anton,Karlek#,Anna Maria
+Tschenkowitz,26.11.,Agnes,Johannes Wenzel,Wottawa,Anna Maria
+
+P 51
+
+Tschenkowitz,17#.12.,Genovefa,Johann Wenzel,Bier#,Theresia
+Tschenkowitz,22.12.,Veronica,Wenzel,Langhammer,Veronica
+Tschenkowitz,23.12.,Theresia,Franz Karl,Langhammer,Elisabeth
+Worlitschka,26.12.,Juliana,Franz,Grögler,Apollonia
+Neudorf,28.12.,Marianna,Joseph,Pollak,Marianna
+Tschenkowitz,30.12.,Marianna,Johannes Wenzel,Weinlich,Elisabeth
+Tschenkowitz,30.12.,Theresia,Joseph,Seidlmann,Rosalia
+Neudorf,30.12.,Anton,Johannes Schüll,Barbara
+
+1777
+
+Tschenkowitz,6.1.,Anna Barbara,Ferdinand,Bier#,Theresia (als posthuma markiert)
+Worlitschka,7.1.,Leopold,Franz,Heyl,Johanna
+Tschenkowitz,12.1.,Catharina,Wenzel,Koblisch,Catharina
+Tschenkowitz,14.1.,Peregrin,Amadeus,Waschizek,Veronica
+Tschenkowitz,19.1.,Ignatz Joseph,Johann,Feltzmann,Juliana
+Tschenkowitz,27.1.,Anton,Augustin,Heyl,Theresia
+Worlitschka,28.1.,Leopold,Karl,Genohorsky#,Anna Maria
+Worlitschka,12.2.,Johann Franz,Anton,Krögler,Veronica
+Tschenkowitz,14.2.,Maria Elisabeth,Georg,Heusler,Anna Maria
+Tschenkowitz,14.2.,Sebastian,Franz,Brix#,Elisabeth
+Worlitschka,19.2.,Franz Anton,Anton,Grögler,Apollonia
+
+P52
+
+Tschenkowitz,3.3.,Johann Wenzel,Johann Wenzel,Schüll,Anna Maria
+Worlitschka,5.3.,Maria Josepha,Anton,Dittrich,Johanna
+Tschenkowitz,15.3.,Engelbert,Johann Karl,Häusler,Anna Maria
+Neudorf,16.3.,Marianna,Ludwig,Weinlich,Anna Maria
+Worlitschka,17.3.,Franz Karl,Johann Wenzel,Czernokovsky,Cäcilia
+Worlitschka,21.3.,Genovefa,Franz,Schlesinger,Elisabeth
+Tschenkowitz,23.3.,Rosalia,Anton,Feltzmann,Anna Maria
+Tschenkowitz,27.3.,Amadeus,Johannes,Peschorner#,Apollonia
+Tschenkowitz,30.3.,Anton,Wenzel,Häusler,Catharina
+Tschenkowitz,1.4.,Josepha,Franz,Weinlich,Veronica
+Worlitschka,2.4.,Franz,Fabian,Koblischke,Elisabeth
+Neudorf,3.4.,Maria Anna,Franz,Schmid,Anna Maria
+Worlitschka,4.4.,Juliana,Franz,Schlesinger,Rosalia
+Neudorf,6.4.,Maria Elisabeth,Johann,Sobele,Anna
+Tschenkowitz,6.4.,Elisabeth,Anton,Heusler,Elisabeth
+Worlitschka,8.4.,Heinrich,Gotthard,Heusler,Anna Maria
+Tschenkowitz,8.4.,Anna Maria,Anton,Hentzl,Anna Maria
+Tschenkowitz,9.4.,Peregrin,Augustin,Weinlich,Veronica
+Tschenkowitz,10.4.,Theresia,Wenzel,Egi#,Anna Maria
+Tschenkowitz,11.4.,Wenzel,Procop,Catharina
+Tschenkowitz,11.4.,Peregrin,Wenzel,Langhammer,Veronica
+Tschenkowitz,13.4.,Peregrin,Anton,Krögler,Elisabeth
+
+P53
+
+Tschenkowitz,13.4.,Theresia,Johannes,Sonntag,Juliana
+Tschenkowitz,15.4.,Johann Wenzel,Johannes,Raschka#,Veronica
+Worlitschka,18.4.,Johannes,Wenzel,Schlesinger,Elisabeth
+Tschenkowitz,30.4.,Johann Joseph,Joseph,Steiner,Anna Maria
+Worlitschka,30.4.,Genovefa,Anton,Krögler,Anna Maria
+Worlitschka,1.5.,Juliana,Anton,Schlesinger,Apollonia
+Tschenkowitz,5.5.,Anna Maria,Joseph,Häusler,Anna Maria
+Tschenkowitz,5.5.,Genovefa,Anton,Feltzmann,Anna Maria
+Tschenkowitz,7.5.,Leopold,Joseph,Kratzky,Anna Maria
+Neudorf,9.5.,Theresia,Caspar,Roczek,Anna
+Tschenkowitz,12.5.,Maria Elisabeth,Anton,Hentzl,Elisabeth
+Neudorf,20.5.,Genovefa,Anton,Schüll,Nicht genannt
+Worlitschka,2.6.,Genovefa,Johann Franz,Schlesinger,Theresia
+Worlitschka,19.6.,Franz Karl,Anton,Czernokovsky,Judith
+Worlitschka,25.6.,Genovefa,Gotthard,Pfertner,Genovefa
+Worlitschka,26.6.,Genovefa,Anton,Czernokovsky,Elisabeth
+Neudorf,26.6.,Johann Wenzel,Augustin,Hentzl,Catharina
+Tschenkowitz,27.6.,Johann Franz,Franz,Langhammer,Theresia
+Tschenkowitz,1.7.,Johann Wenzel,Wenzel,Stoltz,Anna Maria
+Worlitschka,2.7.,Johanna,Joseph,Kern,Johanna
+Worlitschka,4.7.,Ignatz,Johann,Czastek,Anna Maria
+Tschenkowitz,6.7.,Josepha,Joseph,Häusler,Veronica
+Tschenkowitz,9.7.,Maria Anna,Franz,Bayer,Anna
+
+P54
+
+Worlitschka,23.7.,Anna Maria,Johannes Sriczak#,Elisabeth
+Tschenkowitz,11.8.,Maria Victoria,Amadeus,Langhammer,Apollonia
+Tschenkowitz,11.8.,Benedikt,Amadeus,Nentrich#,Elisabeth
+Tschenkowitz,17.8.,Juliana,Franz,Häusler,Anna Maria
+Worlitschka,20.8.,Theresia,Anton,Kladek,Susanna
+Worlitschka,23.8.,Johann Heinrich,Anton,Gabler,Elisabeth
+Tschenkowitz,25.8.,Theresia,Joseph,Hornczek#,Theresia
+Tschenkowitz,27.8.,Theresia,Augustin,Langhammer,Apollonia
+Tschenkowitz,29.8.,Marianna,Johann Wenzel,Feltzmann,Theresia
+Worlitschka,2.9.,Franz Anton,Anton,Wagner,Theresia
+Worlitschka,4.9.,Victoria,Johann Wenzel,Häusler,Agatha
+Worlitschka,7.9.,Franz Karl,Johannes Wenzel,Heyl,Elisabeth
+Tschenkowitz,7.9.,Anton,Anton,Sonntag,Elisabeth
+Neudorf,11.9.,Juliana,Franz,Hanisch,Apollonia
+Tschenkowitz,13.9.,Juliana,Philipp Langhammer,Anna Maria
+Tschenkowitz,15.9.,Anna Maria,Karl,Langhammer,Elisabeth
+Tschenkowitz,15.9.,Theresia,Christian,Stör,Theresia
+Tschenkowitz,16.9.,Anna Theresia,Johann Wenzel,Prokop,Rosalia
+Tschenkowitz,16.9.,Anton,Anton,Weinlich,Veronica
+Tschenkowitz,17.9.,Genovefa,Wenzel,Feltzmann,Genovefa
+Tschenkowitz,20.9.,Benedikt,Johannes Wenzel,Langhammer,Elisabeth
+Neudorf,22.9.,Peregrin,Johannes,Häusler,Elisabeth
+Neudorf,27.9.,Peregrin,Anton,Wiesner,Rosalia
+Worlitschka,29.9.,Engelbert,Heinrich,Kohler,Elisabeth
+Tschenkowitz,3.10.,Agnes,Anton,Fischer,Veronica
+
+P55
+
+Worlitschka,3.10.,Franz Anton,Anton,Grögler,Theresia
+Tschenkowitz,4.10.,Joseph,Christian,Schlesinger,Veronica
+Tschenkowitz,5.10.,Johannes,Franz,Koblischke,Susanna
+Worlitschka,8.10.,Johann Wenzel,Andreas,Grögler,Elisabeth
+Tschenkowitz,16.10.,Juliana,Franz,Czernkovsky,Anna Maria
+Neudorf,17.10.,Genovefa,Franz,Häusler,Catharina
+Tschenkowitz,22.10.,Genovefa,Karl,Weinlich,Marianna
+Worlitschka,24.10.,Johann Wenzel,Wenzel,Langer,Elisabeth
+Worlitschka,27.10.,Johanna,Gotthard,Schlesinger,Theresia
+Worlitschka,28.10.,Leopold,Johannes,Langer,Veronica
+Tschenkowitz,30.10.,Franz Karl,Wenzel,Stör,Elisabeth
+Neudorf,6.11.,Johanna Victoria,Elias,Häusler,Judith
+Neudorf,14.11.,Thaddeus,Amadeus,Bok#,Theresia
+Worlitschka,26.11.,Maria Elisabeth,Franz,Schlesinger,Elisabeth
+Worlitschka,5.12.,Johann Heinrich,Heinrich,Neugebauer,Theresia
+Neudorf,15.12.,Maria Elisabeth,Christian,Pollak,Anna Maria
+Neudorf,19.12.,Josepha,Franz,Lyer#,Rosalia
+Tschenkowitz,24.12.,Franz Karl,Johann Czernokovsky,Anna Maria
+Worlitschka,25.12.,Joseph,Franz,Monhe#,Veronica
+
+P56
+
+Worlitschka,26.12.,Maria Josepha,Heinrich,Dittrich,Theresia
+Worlitschka,27.12.,Theresia,Anton Wagner,Elisabeth (heiratet am 18.7.1797 in Adlerdörfel Franz Heyl)
+Worlitschka,29.12.,Joseph,Gotthard,Gabler,Anna Maria
+Tschenkowitz,30.12.,Johannes,Wenzel,Schembera#,Rosalia
+
+1778
+
+Worlitschka,5.1.,Leopold,Franz,Häusler,Elisabeth
+Neudorf,6.1.,Franz Karl,Wictorin,Judith
+Worlitschka,9.1.,Franz Karl,Wenzel,Wagner,Anna Maria
+Tschenkowitz,15.1.,Theresia,Ambrosius,Häusler,Marianna
+Neudorf,17.1.,Thomas,Thomas,#obel,Veronica
+Worlitschka,19.1.,Genoveva,Karl,#ernokorsky,Anna
+Neudorf,19.1.,Johann,Elias,Kühn#,Juliana
+Worlitschka,25.1.,Maria Theresia,Wencelaus,Kolbisch,Anna
+Neudorf,29.1.,Florian,Häusler,Marianna
+Tschenkowitz,2.2.,Marianna Johanna,Franz,Egide#,Veronica
+Worlitschka,9.2.,Maria Josepha,Anton,Grögler,Theresia
+
+P57
+
+Neudorf,16.2.,Victoria,Elias,Kühn,Veronica
+Worlitschka,3.3.,Franz Anton,Gotthard,Schlesinger,Theresia
+Tschenkowitz,11.3.,Franz Joseph,Wenzel,Häusler,Catharina
+Tschenkowitz,21.3.,Genovifa,Johann Wenzel,Gesek#,Catharina
+Worlitschka,24.3.,Peregrin,Leopold,Weinlich,Theresia
+Tschenkowitz,27.3.,Joseph,Anton,Schlesinger,Catharina
+Tschenkowitz,2.4.,Philipp Franz,Joseph,Ulbrich,Anna Barbara
+Tschenkowitz,3.4.,Ignatz,Caspar,Sonntag,Barbara
+Worlitschka,6.4.,Rosalia,Franz,Weinlich,Johanna
+Worlitschka,8.4.,Johanna,Heinrich,Zernohorsky#,Elisabeth
+Tschenkowitz,12.4.,Anna Maria,Joseph,Meister,Catharina
+Neudorf,21.4.,Johannes,Joseph,Schmid,Susanna
+Tschenkowitz,23.4.,Peregrin,Amadeus,Langhammer,Genovefa (Getraut 8.7.1800 mit Genovefa Weinlich)
+Worlitschka,26.4.,Gotthard,Gotthard,Dittrich#,Anna Maria
+Neudorf,4.5.,Eleonora,Johann,Hentzl#,Judith (Notiz: Getraut in Neudorf 14.2.1814 mit Ignatz Sch#ller)
+Neudorf,6.5.,Theresia,Florian,Kühn#,Theresia
+Neudorf,6.5.,Genovefa,Joseph,Alupka#,Apollonia
+
+P58
+
+Tschenkowitz,16.5.,Anna Barbara,Joseph,Seidmann,Rosalia
+Worlitschka,21.5.,Anna Johanna,Florian,Wagner,Anna Maria
+Tschenkowitz,25.5.,Maria Elisabeth,Anton,Sedlayck,Elisabeth
+Tschenkowitz,27.5.,Anton,Johann,Matugka#,Anna
+Worlitschka,28.5.,Johann,Heinrich,Wagner,Elisabeth
+Tschenkowitz,6.6.,Anton,Mathias,Müller,Catharina
+Tschenkowitz,9.6.,Veronica,Wenzel,Procop,Catharina
+Tschenkowitz,24.6.,Juliana,Augustin,Feltzmann,Veronica
+Neudorf,13.7.,Liborius# und Christian,Franz,Kubisch,Rosalia
+Worlitschka,17.7.,Juliana,Anton,Schlesinger,Judith
+Tschenkowitz,27.7.,Franz Karl,Franz Karl,Feltzmann,Theresia
+Worlitschka,3#.8.,Genovefa,Anton,Krögler,Apollonia
+Tschenkowitz,5.8.,Juliana,Anton,Krögler,Elisabeth
+
+P59
+
+Tschenkowitz,7.8.,Johann Ignatz,Severinus,Schull,Marianna
+Tschenkowitz,7.8.,Anton,Anton,Sonntag,Elisabeth
+Tschenkowitz,12.8.,Franz,Johann,Egide,Veronica
+Tschenkowitz,20.8.,Franz Karl,Georg,Schüll,Veronica
+Tschenkowitz,20.8.,Joseph und Rosalia,Joseph,Gärtner,Elisabeth
+Tschenkowitz,20.8.,Johann,Augustin,Langhammer,Apollonia
+Tschenkowitz,24.8.,Peregrin,Wenzel,Sonntag,Veronica
+Neudorf,30.8.,Franz Karl,Johann,Henzl#,Magdalena
+Tschenkowitz,2.9.,Johann Wenzel,Johann Wenzel,Feltzmann,Juliana
+Tschenkowitz,6.9.,Genovefa,Wenzel,Holtz,Anna Maria
+Worlitschka,13.9.,Franz Joseph,Franz,Krögler,Johanna
+Tschenkowitz,17.9.,Marianna,Johannes,Pfertner,Theresia
+Tschenkowitz,19.9.,Marianna,Franz Karl,Pollak,Marianna
+Worlitschka,20.9.,Johanna,Karl,Zernohoreky#,Veronica
+Neudorf,8.9.,Joseph,Johannes,Schmid,Anna
+
+P 60
+
+Worlitschka,23.9.,Johann Heinrich,Franz,Weinlich,Anna Maria
+Neudorf,26.9.,Juliana,Wenzel,Kubeth#,Rosalia
+Tschenkowitz,4.10.,Theresia,Joseph,Häusler,Veronica
+Tschenkowitz,9.10.,Johanna,Joseph,Buschmann,Maria
+Neudorf,9.10.,Ferdinand,Franz Karl,Weinlich,Apollonia
+Tschenkowitz,11.10.,Johann Wenzel,Joseph,Steiner,Anna
+Tschenkowitz,17.10.,Genovefa,Andreas,Langer,Magdalena
+Tschenkowitz,20.10.,Franz Karl,Anton,Weinlich,Veronica
+Worlitschka,23.10.,Johann Vincent,Karl,Mertha#,Veronica
+Tschenkowitz,25.10.,Leopold,Wenzel,Wasckusek#,Anna
+Worlitschka,25.10.,Maria Josepha,Anton,Kirchner,Apollonia
+Tschenkowitz,3.11.,Genovefa und M# Klara,Anton,Sirater,Anna Maria Julia (Name von Vater und Mutter umgekehrt angegeben???)
+Tschenkowitz,8.11.,Johann Wenzel,Wenzel,Koblisch,Annamaria#
+Worlitschka,16.11.,Franz Anton,Franz,Schlesinger,Elisabeth
+Worlitschka,30.11.,Johanna,Leopold,Krögler,Rosalia
+Worlitschka,30.11.,Genovefa,Andreas,Feltzmann,Apollonia
+Worlitschka,24.11.,Franz Karl,Karl,Hechler#,Rosalia # (Gehört das zweite Wortnoch zum Vornamen? Sabina? Oder ist es etwas Anderes?)
+
+P 61
+
+Neudorf,3.12.,Anna Barbara,Joseph,Stephan,Apollonia (Verehelicht in Neudorf am 9.11.1802 mit Josef Nitsche)
+Tschenkowitz,11.12.,Anton,Anton,Häusler,Elisabeth
+Neudorf,13.12.,Joseph,Paul,Sutorm#,Judith
+Tschenkowitz,15.12.,Franz Karl,Veronica (Veronica ist Witwe des verstorbenen Joseph Zernosky, Franz Karl ist unehelich)
+Tschenkowitz,15.12.,Leopold,Karl Hausler,Anna Maria
+Tschenkowitz,17.12.,Franz Karl,Johann Wenzel,Feltzmann,Theresia
+Tschenkowitz,18.12.,Genofeva,Johann Wenzel,Weinlich,Elisabeth (heiratet am 8.7.1800 Peregrin Langhammer)
+Tschenkowitz,20.12.,Marianna,Joseph,Floracek#,Theresia
+Worlitschka,20.12.,Anna Maria Theresia,Gotthard,Pfertner,Theresia
