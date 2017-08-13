@@ -1,0 +1,2240 @@
+Hochzeit
+Böhmen
+Tschechien
+Kirchenmatrik r.k.
+Gabel an der Adler
+Jablonné nad Orlicí
+rk
+1680-1725
+
+1680
+
+DP 2
+
+Bystrcze,14.1.,Johann,Georg,Jerzabek,Marianna,Martin,Kuczera
+Bystrcze,14.1.,Johann,-,Kaschka,Dorothea,Martin,Nehyba,W (Ortsangabe nur am Ende)
+Bystrcze,14.1.,Mathias,Marta,Bezwalkowa#,Anna,Jacob,Maslo# (Bezwalkowa == Beczalek?)
+Jamnay,21.1.,Georg,Adam,Girowa#,Catharina,Paul,Valenta (Girasek? Oder andere Lesart Hzrowa richtig?)
+Czermny,21.1.,Adam,Jan,Hrdina,Susanna,Georg,Philipp#
+
+DP 3
+
+Unterhermanitz#,20.1.,Georg,Paul,Bechaczek,Anna,Jacob,Mylnarz (Ortsangabe bei Jakob "vom selben Markt" - aber Unterhermanitz ist keine Stadt, sondern ein Dorf - ist Jablona gemeint?)
+Bystrcze,20.1.,Johann,Waczlaw,Waschiczek,Dorothea,Petr,Kowarcz# (Ortsangabe nur am Ende)
+Bystrcze,20.1.,Johann,-,Kaschka,Dorothea,Martin,Brtwa (Ortsangabe nur am Ende)
+Bystrcze,20.1.,Johann,Georg,Jerzabek,Marianna,Martin,Kuczera (Ortsangabe nur am Ende "Alle aus dem Dorf Bystrcze")
+Bytrcze,20.1.,Martin,Martin,Beczwalka#,Anna,Jacob,Kosawarcz# (Ortsangabe nur am Ende, möglicherweise Beczalek?)
+Worlitschka,28.1.,Dominik,Johann,Schütke#,Rosina,Martin,Pfertner (Ortsangabe nur am Ende)
+Worlitschka,28.1.,Paul,Martin,Scholtz,Catharina,Martin,Pfertner (Ortsangabe nur am Ende "Alle aus dem Dorf Worlitschka")
+Jamnay,28.1.,Johann,Martin,Doleczal,Dorota,Waczlaw,Maczek (Ortsangabe nur am Ende "Alle aus dem Dorf Jamnay")
+Jablona und Tschenkowitz,28.1.,Johann,-,Dworzak,Catharina,Nikolaus,Arazym#,W,W
+Jablona,28.1.,Johann,Johann,Scheibl#,Dorota,Mathias,Gregor# (Ortsangaben nur am Ende)
+Jablona und Oberhermanitz,4.2.,Paul,Waczlaw,Pecziwal,Catharina,Waczlaw,Kubka,-,W (Berufe Nachbar/Schneider, Ortsangaben Paul von Jablona, am Ende "Alle vom Markt Jablona", Catharina Witwe von Waczlaw Kubka, der aus Oberhermanitz war)
+Worlitschka,11.4.,Joseph,Christoph,Weinlich,Susanna,Christoph,Heisler (Ortsangabe nur am Ende)
+Morawske Jakubowicze und Weypprachticz,25.4.,Johann,Johann,Kubiczek,-,Johann,Mleinek (Berufe Richter/Richter, Vorname der Braut wird nicht genannt)
+Jamnay,5.5.,Martin,Georg,Czernohaus,Anna,Waczlaw,Hrubesch
+
+DP 4
+
+Jablona,9.5.,Johann,Waczlaw,Czervenka Senior,Marianna,Jan,Polak
+Bystrcze,26.6.,Waczlaw,-,Kratky,Marta,Martin,Waschiczek#,W,W (Ortsangabe nur am Ende)
+Jablona,30.6.,Augustin,Johann,Adolph,Dorothea,Jacob,Wottawa (Berufe Rektor/Nachbar)
+Jablona,7.7.,Johann,Matthäus,Skaliczky,Dorota,Georg,Jawurek (Berufe -/Nachbar, Ortsangabe nur bei Dorothea)
+Jamnay,21.7.,Martin,-,Czernohaus,Anna,Wawrzinecz,Doleczal,W (Ortsangabe: Am Ende "Alle von dem Dorf Jamnay", und bei Martin "von dem Dorf", ohne das Dorf zu benennen)
+Hermanitz,28.7.,Georg,Jacob,Hayny,Marianna,Nikolaus,Zalmann (Ortsangabe Hermanitz bei Georg und am Ende)
+Tschenkowitz,28.7.,Martin,-,Waschiczek,Anna Maria,-,- (Tschenkowitz bei Martin und am Ende, jedoch ist benannt, dass Anna Maria "eine Verwandte" von Martin sei - also vermutlich aus Tschenkowitz?)
+Jablona,4.8.,Johann,Georg,Svejda,Elisabeth#,-,Swobodowa (Einzige Ortsangabe "von Jablona" am Ende, sowie hinweis auf "dieses Dorf" bei Johann, ohne aber zu benennen, welches Dorf "dieses Dorf" ist)
+Worlitschka,15.9.,Johann,-,Krögler,Susanna,Johann,Nehyba (Einzige Ortsangabe "Alle von Worlitschka" am Ende)
+Worlitschka,25.9.,Mathias,Jeremias,Schüll,Marianna,Bartholomäus,Schlesinger,-,W (Einzige Ortsangabe "Alle von Worlitschka" am Ende)
+Weypersdorf und Tschenkowitz,,25.9.,Wenceslaus,Martin,Maczek,Anna,Wenceslaus,Michal
+Worlitschka,29.9.,Paul,-,Komilatke#,Rosina,Michael,Schitka ("Alle von Worlitschka" am Ende einzige Ortsangabe)
+Jablona,1.10.,Georg,Georg,Müller,Anna,Martin,Merta ("Alle von Gabel" am Ende einzige Ortsangabe)
+
+DP 5
+
+Jamnay und Tschenkowitz,20.10.,Nikolaus,Waczlaw,Keraseniczky#,Susanna,Johann,Bok
+Unterhermanitz und Oberhermanitz,21.10.,Johann,Matthäus,Hluchy,Anna,Waczlaw,Czegniku#
+Weypprachticz,29.10.,Paul,Georg,Smeykal,Magdalena,Jacob,Hawlena,-,W (Am Ende: Alle von Weypprachticz, sonst keine Ortsangabe)
+Jablona und Bystrcze,3.11.,Georg,-,Wanek,Dorota,Georg,Smeczka#,W (Am Ende: Alle von Bystrecze, aber bei Georg ist Jablona angegeben)
+Worlitschka,10.11.,Andreas,Andreas,Krögler,Rosina,Christoph,Weinlich
+Worlitschka,10.11.,Bartholomäus,Bartholomäus,Weinlich,Susanna,Mathias,Schlesinger (Ort nur für Susanna angegeben)
+Weypprachticz,17.11.,Johann,Johann,Jarolym,Dorothea,Paul,Skaliczky
+Tschenkowitz und Weypprachticz,24.11.,Georg,Christoph,Schüll,Catharina,Paul,Brokesch
+
+1681
+
+Bystrcze,2#.1.,Johann,Georg,Waniczek,Susanna,Waczlaw,Jeczek (2 oder 12?)
+Worlitschka,2#.1.,Friedrich,-,Weypert,Susanna,Michael,Krögler,W (Ortsangabe bei Friedrich und am Ende, 2 oder 12?)
+Jamnay#,8#.1.,Martin,Johann,Bauchal Senior,Magdalena,Martin,Czernohaus (Jamnay steht nur am Ende, 8 oder 18?)
+
+DP 6
+
+Bystrcze und Weypprachticz,18.1.,Johann,-,Roczen,Catharina,Jacob,Hlauczal# 
+-,18.1.,Georg,Waczlaw,Kos,Catharina,Andreas,Waschiczek
+Bystrcze,18.1.,Georg,Georg,Kubin,Marianna,Mathias,Jeczek
+Jamnay und Jablona,19.1.,Georg,Jacob,Seidlmann,Catharina,Thomas,Neschkudla
+Worlitschka,19.1.,Johann,-,Gabler,Elisabeth,Mathias,Putter (Ort nur am Ende angegeben)
+Weypersdorf,19.1.,Jacob,Paul,Jirasek,Marianna,Georg,Kys# (Kys == Kos? Ort nur am Ende angegeben)
+Tschenkowitz,19.1.,Johann,Wenceslaus,Heintzl,Rosina,Christoph,Feltzmann (Ort nur am Ende angegeben, Heintzl == Hentzl?)
+Tschenkowitz,19.1.,Thomas,Marcus,Weigl,Anna,Christoph,Heisler (Ort nur am Ende angegeben)
+Tschenkowitz,19.1.,Johann,Adam,Schiller#,Marianna,Georg,Hauk (Ort nur am Ende angegeben, Schiller == Schüll?)
+Oberhermanitz,19.1.,Wenceslaus,Wenceslaus,Mach,Eva,Nikolaus,Zalmann (Ort nur am Ende angegeben)
+Oberhermanitz,19.1.,Martin,Georg,Rocznik,Marianna,Laurenz,Jawurek (Ort nur am Ende angegeben,Laurenz Vorehemann oder Vater?#)
+Oberhermanitz,19.1.,Johann,Wenceslaus,Spiwatczek#,Anna,Paul,Zalmann (Ort nur am Ende angegeben, Spiwatczek# == Spiczak?)
+Oberhermanitz,19.1.,Tobias,Jacob,Darczilek#,Magdalena,Paul,Zelinka (Ort nur am Ende angegeben, gelesen: #arzilka)
+Unterhermanitz und Oberhermanitz,19.1.,Martin,Johann,Cordas,Dorota,Adam,Max
+Cerwena Woda und Worlitschka,26.1.,Heinrich,-,Chromer,Catharina,Urban,Pfertner
+Oberhermanitz,26.1.,Georg,Waczlaw,Czynk,Catharina,Georg,Kulhanek
+Oberhermanitz,26.1.,Paul,Jacob,Jansky,Anna,Johann,Barton# (Gelesen: Bartonawj oder Bartord#? )
+Hermanitz,26.1.,Johann,Jacob,Mrazek,Dorota,Paul,Jansky,-,W (Hermanitz nur am Ende)
+
+DP 7
+
+Czermna und Oberhermanitz,26.1.,Georg,-,-,Judith,Waczlaw,Mach,W (Berufe Nachbar/-, kein Nachname des Bräutigams angegeben)
+Weypprachticz,26.1.,Johann,-,Haczerlka#,Anna,Johann,Worlitschka
+Jamnay und Jablona,2.2.,Georg,Paul,Jakubek#,Rosina,Johann,Dalka# (Berufe -/Rektor)
+Zychlynku# und Worlitschka,4.2.,Jacob,Matthäus,Bartosch,Rosina,Waczlaw,Schlesinger,-,W (Berufe Rektor/-)
+Weyprachticz,20.4.,David,-,Czerny,Eva,Johann#,Kuba# (Ortsangabe nur bei David und am Ende)
+Oberhermanitz,27.4.,Paul,Georg,Kulhanek,Catharina,Georg,Machanetz (Berufe -/Nachbar)
+Czerneho Mora# und Tschenkowitz,27.5.,Wawrzinecz,Matthäus,Fydre#,Anna,Johann,Krögler#
+Tschenkowitz und Worlitschka,12#.6.,Michael,-,Hamaczek,Sabina,Georg,Krögler,W,W
+Jamnay,27.7.,Waczlaw,Johann,Philipp,Susanna,Paul,Morawetz
+Bystrcze,21.9.,Martin,Waczlaw,Charvat,Marianna,Johann,Kokoczsky#
+
+DP 8
+
+# und Lubnik,12.10.,Georg,Johann,Stary,Worssyla,Johann,Zalmann#
+Bystrcze,1.11.,Georg,Martin,Pauk,Catharina,Jacob,Krcziwohlawek (Berufe Nachbar/-)
+Worlitschka und Jablona,2.11.,Bartholomäus,Myll#,Krystoff,Anna,Johann,Czernohorsky (Berufe -/Nachbar)
+Dolni Dobroucz und Unterhermanitz,18.11.,Johann,Johann,Hrdina,Catharina,Paul,Schembera (Berufe Nachbar/-)
+
+1682
+
+Worlitschka,11.1.,Johann,Michael,Weinlich,Rosina,Waczlaw,Blaczek
+Hermanitz,11.1.,Johann,Paul,Maresch,Magdalena,Waczlaw,Zalmann (Ort nur am Ende angegeben)
+Unterhermanitz,11.1.,Johann,-,Marek,Magdalena,Georg,Homolka (Ort nur bei Johann angegeben)
+Jablona,11.1.,Thomas,-,Hawlu,Rosina,Jan,Koczel Senior,W
+
+DP 9
+
+Bystrcze,12.1.,Waczlaw,Waczlaw,Kratky,Anna,Philipp,Brnik# (Am Ende: "Alle von Bystrcze")
+Bystrcze,18.1.,Jacob,Georg,Kratky,Magdalena,Georg,Schimek (Berufe -/Richter, Ort nur bei Jacob genannt)
+Bystrcze,18.1.,Johann,Waczlaw,Czerny,Catharina,Martin,Nehyba (Am Ende: "Alle von Bystrcze")
+Tschenkowitz,18.1.,Matthäus#,-,Bier,Marianna,Mathias,Blaczek,W
+Jablona,18.1.,Waczlaw,Georg,Prochaska,Dorota,Johann,Segwla# (Am Ende: "von" aber Ortsname nicht zu lesen, Waczlaw ist von Jablona)
+Weypprachticz,18.1.,Johann,Johann,Kozak,Magdalena,Johann,Knezni# (Am Ende: "Alle von Weypprachticz")
+Worlitschka,25.1.,Tobias,Michael,Schiel#,Rosina,Michael,Schloz# (Am Ende: "Alle von Worlitschka")
+Jablona,25.1.,Waczlaw,Johann,Sedlarz,Eva,Martin,Merta (Berufe -/Nachbar, "alle von Jablona")
+Oberhermanitz,25.1.,Tobias,Paul,Zelinka,Anna,Waczlaw,Beran (Berufe Rektor/Richter, Ort nur für Anna genannt)
+Oberhermanitz,25.1.,Georg,Jacob,Jansky,Marianna,Adam,Seykora (Ort nur für Georg genannt)
+Dolni Dobroutzce und Jablona,26.1.,Peter,Waczlaw,Martinek,Polencia,Johann,Koczel
+
+DP 10
+
+Jamnay,27.1.,Paul,Georg,Kyllar,Dorothea,Johann,Heylek
+Jamnay und Jablona,31.1.,Johann,Georg,Czernohaus,Dorothea,Johann,Sedlarz
+Czermny und Weypprachticz,31.1.,Johann,Paul,Heyl,#,Johann,Kubka
+Weypprachtitz,1.2.,Paul,Jirzik,Ondra#,Catharina,Johann,Jarolym
+Oberhermanitz und Hermanitz,2.2.,Johann,Georg,Kulhanek,Dorothea,Johann,Taraschka (Hermanitz steht nur bei Johann und am Ende)
+Bystrcze,19.4.,Waczlaw,Jacob,Kobliczek,Catharina,Georg,Kyllar (Berufe -/Nachbar)
+Tschenkowitz und Worlitschek,26.4.,Matthäus,-,Heisler,Susanna,Paul,Schlesinger (Berufe Nachbar/-)
+Jablona,3.5.,Thomas,Georg,Kobliczek,Dorota,Georg,Kubka
+Austi und Hermanitz,6.5.,Nikolaus,Georg,Brokesch#,Judith,Georg,Kulhanek
+Tschenkowitz,10.5.,Matthäus,Elias,Wottawa,Marianna,Michael,Knor# (Ortsangabe bei Matthäus und am Ende)
+Worlitschka und Tschenkowitz,19.5.,Johann,-,Weinlich,Catharina,Waczlaw,Zyma#,W
+Bystrcze,7.6.,Nikolaus,Peter,Kowarz#,Dorothea,Paul,Mach (Berufe -/Nachbar)
+
+DP 11
+
+Bystrcze,15.6.,Georg,-,Schimek,Dorota,Johann#,Kaschka#,W (Berufe Richter/Nachbar)
+Oberhermanitz und Weypprachticz,27.6.,Johann,-,Resler,Eva#,Waczlaw,Kubesch,W (Berufe Müller/-)
+Worlitschka und Tschenkowitz,29.6.,Johann,-,Russner,Catharina,Jacob,Koczel,W,W
+Tschenkowitz,29.6.,Egydius,-,Wottawa,Eva,Christoph,Kobliczek#,W,W
+Worlitschka und Tschenkowitz,7.7.,Johann,-,Jansa,Barbara,Johann,Heisler,W
+Worlitschka,7.7.,Michael,Johann,Nehyba,Regina,Georg,Wagner
+Jamnay,12.7.,Jacob,Paul,Doleczal,Catharina,Waczlaw,Waczek
+Oberhermanitz,12.7.,Paul,-,Kubesch,,Dorothea,Georg,Roczen,W
+Weyprachticz,12.7.,Johann,-,Stremola,Magdalena,Jacob,Marek
+Tschenkowitz,26.7.,Andreas,Martin,Pfertner,Anna,Christoph,Heisler (Ort nur für Anna angegeben)
+Jamnay,9.8.,Johann,-,Hansliczek,Dorothea,Johann,Chladek,W
+Tschenkowitz und Jablona,6.9.,Paul,Michael,Langhammer,Catharina,Georg,Jawurek
+Weypprachticz,6.9.,Jacob,-,Victorin,Anna,Martin,Skaliczky (Berufe Rektor/-)
+Worlitschka,13.9.,Michael,-,Feltzmann,Rosina,Dominik,Weinlich
+
+DP 12
+
+Jamnay und Tschenkowitz,21.9.,Martin,-,Czernohaus Junior,Susanna,Georg,Teykal
+Weypprachticz,18.10.,Martin,Johann#,Krystek#,Catharina,Johann,Czerny (Weyppersdorf steht nur am Ende, Kristek oder Krzenek?)
+Jamnay,25.10.,Matthäus,-,Urban,Magdalena,Waczlaw,Hansliczek,W,W
+Bystrcze,1.11.,Martin,Matej,Jeczek,Ludmilla,Jirzik,Tkadlvczek#
+Dolni Dobrencz und Jablona,8.11.,Georg,Paul,Waczek,Anna,Thomas,Nesslendel#
+Worlitschka und Tschenkowitz,15.11.,Michael,Michael,Schüll#,Maria,Martin,Schlesinger (Tschenkowitz steht am Ende)
+Worlitschka,15.11.,Georg,Johann,Heisler,Susanna,Christoph,Pfertner (Worlitschka beim Bräutigam und am Ende erwähnt)
+Bystrcze,15.11.,Georg,Johann,Trampota,Catharina,Waczlaw,Jeczek
+
+1683
+
+Bystrcze und Oberhermanitz,17.1.,Georg,Johann,Hrdina,Anna,Magdalena,Merta#
+Oberhermanitz,17.1.,Johann,Johann,Barton,Magdalena,Georg,Waschiczek#
+Herboticz und Bystrcze,17.1.,Waczlaw,Nikolaus,Dostalek#,Catharina,Waczlaw,Charvat
+Bystrcze,17.1.,Martin,Georg,Jerzabek,Anna,Waczlaw,Matejczek#
+Tschenkowitz und Jamnay,17.1.,Waczlaw,Georg,Duchaczek,Susanna,Johann,Hudecz
+
+DP 13
+
+Weypprachticz,17.1.,Georg,Johann,Koczak,Magdalena,Georg,Mleinek
+Weypprachticz,24.1.,Paul,Paul,Tauschek,Catharina,Andreas,Nygkle#
+Weypprachticz und Jablona,24.1.,Martin,Martin,Lyr#,Rosina,Waczlaw,Hudecz
+Oberhermanitz und Unterhermanitz,24.1.,Georg,Simon,Schembera,Dorothea,Waczlaw,Marek
+Bystrce,26.1.,Martin,Johann,Matejka,Catharina,Georg,Kratky
+Weypprachticz,31.1.,Johann,Georg,Worlitschka,Anna,Jacob,Wottawa
+Wustrne# und Worlitschka,31.1.,Matthäus,Simon,Veith,Susanna,Georg,Bier (Veith == Feith?)
+Jamnay,31.1.,Georg,Waczlaw,Trampota,Dorothea,Adam,Valenta
+Worlitschka,2.2.,Christoph,Christoph,Nentwich,Susanna,Georg,Nehyba
+Worlitschka,7.2.,Caspar,Michael,Schüll#,Susanna,Johann,Pecziwal
+Jablona und Tschenkowitz,7.2.,Georg,Waczlaw,Kleslo Senior,Marianna,Nikolaus,Arazrymowj#
+
+DP 14
+
+Jamnay,7.2.,Georg,Paul,Morawetz,Catharina,Adam,Jira (Jamnay nur am Ende genannt, unsicher zu welchen Personen)
+Oberhermanitz und Unterhermanitz,21.2.,Johann,Jacob,Daczilek#,Magdalena,Johann,Heyl (Gelesen: Darczelek)
+Tschenkowitz,28.2.,Michael,Paul,Kobliczek,Dorothea,Georg,Hamaczek
+Tschenkowitz,23.5.,Christoph,Jacob,Bok,Rosina,Johann,Fischer (Ortsangabe Tschenkowitz bei Christoph und am Ende genannt)
+Tschenkowitz,23.5.,Tobias,Johann,Polaczek,Susanna,Johann,Noschke
+Tschenkowitz,20.6.,Jacob,-,Waczek,Justina,Blysse#,Wottawa
+Tschenkowitz,11.7.,Michael,Christoph,Kobliczek,Susanna,Michael,Langhammer
+Tschenkowitz,25.7.,Georg,-,Feltzmann,Rosina,Jan,Bok#
+Trzebenicz# und Bystrcze,25.7.,Georg,Paul,Schiber#,Anna,Johann,Chladek
+
+DP 15
+
+Jablona# und Jamnay,2.8.,Jacob,-,Wottawa,Susanna,Jacob,Bednarz,-,W (Jacob "Bewohner von diesem Markt", nicht angegeben welcher - Jablona vermutlich weil die anderen Orte in der Nähe keine Städte, sondern Dörfer sind ?)
+Jablona,21.9.,Paul,Jan,Sedlarz,Catharina,Johann,Feltper#
+Weypprachticz,21.9.,Paul,Andreas,Ptaczek,Marianna,Martin,Wottawa
+Bystrcze,24.10.,Georg,Jacob,Blynka,Dorothea,Johann,Kuczilek
+Worlitschka,31.10.,Johann,Johann,Pecziwal,Rosina,Georg,Feltzmann
+Tschenkowitz,7.11.,Martin,Martin,Schlesinger,Anna,Bartholomäus,Weinlich
+Worlitschka,7.11.,Georg,Jeremias,Schroll,Marianna,Nikolaus,Krebes# (Worlitschka nur am Ende angegeben)
+Worlitschka,7.11.,Christoph,Matthäus#,Kregger#,Rosina,Georg,Kobliczek (Worlitschka am Ende angegeben, Kregger == Krögler???)
+Worlitschka,7.11.,Christoph,Johann,Heisler,Marianna,Tobias,Feltzmann# (Worlitschka bei Christoph und am Ende angegeben)
+Oberhermanitz,7.11.,Paul,-,Kulhanek,Judith,Matthäus,Maresch,W (Hermanitz bei Paul und am Ende angegeben)
+Unterhermanitz,7.11.,Martin,Martin,Brochaschka,Judith,Paul,Schembera
+Worlitschka,14.11.,Christoph,Johann,Wagner,Marianna,Georg,Schlesinger (Berufe Müller/Richter)
+
+DP 16
+
+Jamnay,14.11.,Martin,-,Bauchal,Susanna,Johann,Hrdina,W
+Jamnay und Weypprachticz,14.11.,Georg,-,Kobliczek,Susanna,Martin,Hrdina (Vater von Georg wird nicht genannt)
+Worlitschka,16.11.,Wenceslaus,Christoph,Schlesinger,Susanna,Wenceslaus,Schlesinger
+Unterhermanitz und Czermny,16.11.,Johann,,Martin,Janowsky#,Magdalena,Lorenz,Sspatka#
+
+1684
+
+Jablona,9.1.,Johann,Jacob,Mlynarz,Susanna,Johann,Bauchal
+Worlitschka,16.1.,Paul,Georg,Schroll,Marianna,Johann,Wagner (Worlitschka Herkunft des Bräutigams und am Ende erwähnt)
+Jablona und Tschenkowitz,17.1.,Jan,-,Koczel Junior,Sabina,Michael,Kobliczek,W
+Bystrcze,23.1.,Jacob,Georg,Mareczek#,Anna,Jacob,Krcziwohlawek (Bystrcze bei Herkunft des Bräutigams und am Ende)
+Worlitschka und Tschenkowitz,23.1.,Tobias,Andreas,Krögler,Anna,Georg,Kobliczek
+Jablona,23.1.,Hawel,Waczlaw,Czerwenka Junior,Dorothea,Georg,Benesch
+
+DP 17
+
+Czermny und Jamnay,23.1.,Johann,Paul,Hattmann#,Catharina,Georg,Kyllar
+Jamnay,30.1.,Martin,Jacob,Hawel,Dorothea,Paul,Morawetz
+Bystrcze,30.1.,Jacob,Waczlaw,Kos,Catharina,Georg,Strynak# (Berufe -/Richter, Ortsangabe am Ende)
+Bystrcze,30.1.,Georg,Waczlaw,Nehyba,Catharina,Waczlaw,Hrdina
+Weypprachticz,30.1.,Georg,Mattauss,Smeykal,Catharina,Johann,Koczak (Ortsangabe am Ende)
+Oberhermanitz und Hermanitz,30.1.,Paul,Johann,Barton,Dorothea,Matthäus,Maresch
+Herboticz und Unterhermanitz,30.1.,Jacob,Jan,Jezek,Magdalena,Jan,Schembera (Mandalena == Magdalena)
+Weypprachticz,6.2.,-,Andreas,Ptaczek,Marianna,Jan,Krzenby#
+Weypprachticz,6.2.,Paul,Georg,Sedlarcz,-,Nicolaus,Janek (Mikulass == Nikolaus, Vorname der Braut wird nicht genannt)
+Weypprachticz und Tschenkowitz,6.2.,Paul,Jacob,Marek,Sabina,Adam,Schroll
+Bystrcze und Unterhermanitz,6.2.,Georg,-,Mareczek,Dorothea,Mattauss,Heyl,W
+Tschenkowitz,6.2.,Paul,-,Noschke,Rosina,Michael,Weinlich,W
+
+DP 18
+
+Czermna und Bystrcze,23.4.,Waczlaw,Michael,Jukl,Dorothea,Jirzik,Kaschka
+Bytrcze,23.4.,Jirzik,-,Anderle,Anna,-,-,W (Anna ist Tochter der Eva Worliczkowa, zweites Bystrcze am Ende bezieht sich auf Anna/Eva?)
+Bystrcze,30.4.,Jan,-,Smrczek,Marianna,Jan,Kesslöwi#,W,W
+Lukowa und Oberhermanitz,7.5.,Matej,Jan,Remer,Catharina,Matej#,Czink
+Weyprachticz,7.5.,Jan,Martin,Waniczek,Catharina,-,- (Catharina ist Tochter der Catharina Machaczkowa)
+Schildberg# und Tschenkowitz,13.8.,Hendrych#,-,Hoyessler#,Eva,Jirzik,Schella (Name des Bräutigams schwer lesbar, Schella# == Schüll?)
+Weypprachticz,20.8.,Jan,-,Koczak,Catharina,Jacob,Sedlaczek,W
+Jamnay und Jablona,17.9.,Jan,-,Czernohaus,Rosina,#,W (Wörtlich: "Matoussowi Panowi sousedni Miestys Jablonneho", was "Herr vom nachbaren Markt Jablonny" bedeutet - fehlt etwas in dem Satz?)
+Worlitschka und Tschenkowitz,18.9.,Jirzik,Christoph,Schlesinger,Rosina,Caspar,Dittrich
+Oberhermanitz,24.9.,Jan,Waczlaw,Kubeczek,Eva,Jan,Kos,-,W
+Weyprachtitz und Worlitschka,24.9.,Jirzik,-,Kubelka,Marianna,Jan,Podhorsky,W
+Weyprachtitz,8.10.,Paul,Jan,Chladek,Catharina,Martin,Hrdina (Unklar, ob auch Paul von dort ist)
+Zabrzeh und Landskron,9.10.,Martin,-,Stetina,Anna,Paul,Appl#
+
+DP 19
+
+Jamnay,15.10.,Jan,Paul,Doleczal,Rosina,Jacob,Bednarcz
+Jamnay,22.10.,Waczlaw,Jan,Bauchal,Marianna,Jirzik,Kyllar
+Worlitschka,22.10.,Jan,Jeremias,Schiell#,Marianna,Christoph,Heisler (Schiell# == Schüll?)
+Worlitschka,29.10.,Christoph,-,Boer#,Susanna,Jirzik,Krögler# (Kein Bräutigamsvater genannt)
+Worlitschka,5#.11.,Christoph,-,Schiel,Regina,Michael,Schlesinger (Schiel == Schüll?)
+Worlitschka,8.11.,Jirzik,Christoph,Weinlich,Rosina,Matej,Schlesinger
+Worlitschka,12.11.,Friedrich,Christoph,Klegler#,Rosina,Paul,Schlesinger (Wortlitschka steht am Ende, und bei Klegler#)
+Czermna und Tschenkowitz,19.11.,Abraham,-,Styngl#,Dorothea,Matauss,Polaczek
+
+1685
+
+Jablona,7.1.,Jacob,-,Betlach,Catharina,Samuel,Rutter
+Weyprachticz und Bystrcze,7.1.,Jacob,Jirzik#,Kaschka,Dorothea,Andreas,Waschiczek (Bystrcze steht am Ende)
+Weypprachticz#,14.1.,Jan,-,Schweyda#,Catharina,Jirzik,Chladek (Berufe Richter/-, Kein Name des Bräutigamvaters angegeben, Ortsbezeichnung am Ende, Name des Brautvaters ist "überschrieben")
+Weypprachticz,14.1.,Jacob,-,Kuha#,Marianna,Paul,Chladek,W  (Ortsangabe am Ende)
+
+DP 20
+
+Jamnay,21.1.,Paul,Martin,Valenta,Anna,Thomas,Czerny
+#,21.1.,Paul,Jacob,Lyr,Eva,Jirzik,Jarolym (Am Ende: Von Weypprachticz, unklar, zu wem gehörig)
+Weyprachticz und Czykei#,27.1.,Paul,Mattej,Skaliczky,Marianna,Waczlaw,Luper#
+- und Weypprachticz,27.1.,Martin,-,Rzehak,Dorothea,Martin,Marek
+Jamnay und #,4.2.,Franz#,Waczlaw,Krasniczky#,Rosina,Waczlaw,Henbss# (am Ende: aus Jamnay, unklar, wer gemeint ist)
+Bystrcze und #,4.2.,Jirzik,Paul,Waschiczek,Catharina,Waczlaw,Kos (am Ende: aus Bystrcze, unklar, wer gemeint ist)
+-,4.2.,Jirzik,Mattej,Skaliczky,Anna,Andreas,Lychmann# (am Ende: aus Weypprachticz, unklar, wer gemeint ist)
+Czermna und #,4.2.,Mikulass,Wawrzinecz,Heyl,Dorothea,Paul,Chladek (Unklar, ob Dorothea oder die Zeugen aus Weypprachticz sind)
+Weyprachticz,25.2.,Jan,Mattej,Faltinek,Anna,Jan,Worlitschek
+Rybniczek und Tschenkowitz,4.3.,Jirzik,Jirzik,Hawle#,Susanna,Mattej,Egydi (Hawle oder Hawel?)
+Weyprachticz,4.3.,Jan,Jacob,Sedlaczek,Catharina,Paul,Bruschek (Unklar, wer von Beiden aus Weyprachticz ist)
+Jablona,20.5.,Jacob,Georg,Kobliczek,Susanna,Johann,Sedlarcz
+Weypprachticz,27.5.,Martin,Georg,Sedlarcz,Susanna,Georg,Hansliczek# (Haurenek oder Hansliczek?)
+
+DP 21
+
+Tschernovi# und Oberhermanitz,12.6.,Benedikt,Matthäus,Einhorn#,Catharina,Jacob,Pawlas
+Schöndörfl und Tschenkowitz,12.6.,Georg,-,Weichner#,Susanna,Marc,Weichler,W
+Weypersdorf,24.6.,Paul,Paul,Chladek,Maria,Johann,Marku
+Jamnay,1#.7.,Georg,Jacob,Bednarz,Susanna,Paul,Philipp
+Worlitschka,5.8.,Andreas,-,Krögler,Susanna,Matthäus,Bittner#,W
+Parochia# Zemnensi# und Weypersdorf,5.8.,Jacob,-,Maczak#,Catharina,Georg,Faltus,W
+Waltersdorf,12.8.,Jacob,Johann,Kaschka,Dorothea,Martin,Paul
+Jamnay,12.8.,Johann,Jacob,Pospiehsil#,Anna,Georg,Kyllar
+Weypersdorf,26.8.,Matthäus,-,Pawlu,Anna,Georg,Czerny (Pawlu == Pawlas?)
+
+DP 22
+
+Jamnay,16.9.,Martin,Martin,Czerny,Susanna,Paul,Biehaunek
+Weypersdorf,16.9.,Nicolaus,Georg,Worlitschka,Maria,-,- (Die Mutter von Maria hieß Christina, Nachname unbekannt)
+Roth# und Niederhermanitz,25.11.,Georg,Johann,Hnatek,Catharina,Johann,Heylek (Berufe -/Richter)
+
+1686
+
+Jamnay,7.1.,Jacob,Johann,Seschen#,Dorothea,Georg,Prokopecz
+Waltersdorf,9.1.,Johann,Martin,Paul,Magdalena,Wenceslaus,Kos (Berufe Bauer#/Bauer#)
+Jamnay und Jablona,20.1.,Paul,Georg,Czernohaus,Dorothea,Mathias,Betlach# (Berufe Bauer/Inwohner)
+Oberhermanitz und Niederhermanitz,20.1.,Johann,Georg,Roczen,Anna,Wenceslaus,Marek# (Berufe Einwohner/Einwohner)
+Waltersdorf und Oberhermanitz,24#.1.,Johann,Georg,Biczalek,Magdalena,Johann,Mach
+Polen und Oberhermanitz,24#.1.,Michael,Michael,#esnik,Magdalena,Jacob,Mraczek
+Oberhermanitz und Weypersdorf,2.2.,Wenceslaus,Wenceslaus,Schembera,Catharina,Johann,Mleinek (Berufe Bauer/Richter, Matrikel teilweise auf DP 23)
+
+DP 23
+
+Worlitschka und Tomigsdorf#,3.2.,Michael,Michael,Heisler,Susanna,Georg,Bischof (Berufe Einwohner/Cantor)
+Tschenkowitz,3.2.,Johann,Paul,Weinlich,Susanna,Adam,Bier# (Berufe Bauer/Einwohner)
+Jamnay,3.2.,Johann,Georg,Wottawa,Dorothea,David,Bauchal (Berufe Einwohner/Bauer)
+Tschenkowitz,3.2.,Paul,Mathias,Blaschke,Maria,Christoph,Feltzmann (Berufe Einwohner/Einwohner)
+Tschenkowitz,3.2.,Georg,Johann,Fischer,Catharina,Jacob,Bok (Berufe Einwohner/Einwohner)
+Oberhermanitz,10.2.,Paul,Mathias,Brokesch,Anna,Paul,#zal (Berufe Bauer/Gärtner)
+Worlitschka und Tschenkowitz,12.2.,Franz,Wenceslaus,Schlesinger,Judith,Paul,Weinlich (Berufe Bauer/Bauer)
+Herboticz und Oberhermanitz,17.2.,Johann,Georg,Mistrowu#,Magdalena,Georg,Kulhanek (Berufe #/Einwohner)
+Worlitschka,23.2.,Paul,Caspar,Gabler,Maria,Johann,Langer
+
+DP 24
+
+Jamnay,12.5.,Jacob,Martin,Doleczal,Eva,Johann,Trampota
+Waltersdorf und Tschenkowitz,26.5.,Marcus,-,Seidlmann,Maria,Johann,Polaczek,W,W (Berufe Inwohner/Einwohner)
+Weypersdorf,14.7.,Wenceslaus,Georg,Ha#ek,Dorothea,MArtin,Skaliczky
+Weypersdorf,25.8.,Georg,Martin,Sedlaczek,Catharina,Paul,Kuba
+Waltersdorf,15.9.,Georg,-,Mach,Dorothea,Wenceslaus,Jukl#,W,W
+Czermna und Jablona,22.9.,Johann,Jacob,Heyl,Anna,Wenceslaus,Hawlu
+Worlitschka,20.10.,Christoph,Martin,Neugebauer,Maria,Paul,Schlesinger
+Niederhermanitz,21.10.,Georg,Wenceslaus,Kubiczek,Catharina,Paul,Chromy
+Worlitschka,27.10.,Georg,Michael,Heisler,Rosina,Georg,Krögler
+Tschenkowitz und Worlitschka,3.11.,Georg,Mathias,Blaschke,Susanna,Martin,Schlesinger
+Jablona,11.11.,Tobias,Matthäus,Zaubele,Ludmilla,Johann,Schiel,-,W
+
+DP 25
+
+Oberhermanitz,17.11.,Christian,Wenceslaus,Beran,Judith,Georg,Kulhanek
+Weypersdorf,17.11.,Matthäus,Martin,Holomek,Magdalena,-,- (Magdalena ist Tochter von Catharina Worlitschka)
+
+1687
+
+Waltersdorf,7#.1.,Paul,Wenceslaus,Geczek,Catharina,Georg,Kaschka
+Tschenkowitz und Waltersdorf,12.1.,Martin,Johann,Horaczek,Magdalena,Martin,Kuczera
+Waltersdorf,14.1.,Johann Georg,Wenceslaus,Waschiczek,Anna,Georg,Waniczek
+Tschenkowitz,19.1.,Paul,Adam,Bier,Maria,Georg,Heisler
+Schöndörfl,19.1.,Johann,Georg,Nehyba,Sabina,Johann,Noschke
+Waltersdorf,21.1.,Thomas,Jacob,Kobliczek,Catharina,Wenceslaus,Ge#
+Waltersdorf,22.1.,Johann,Matthäus,Lyr,Dorothea,Wenceslaus,Hrdina
+Weypersdorf und Lichwe#,26.1.,Paul,-,Duschek,Anna,Martin,Pelinke#,W
+Waltersdorf,26.1.,Johann,Georg,Kyllar,Maria,-,- (Maria ist Adoptivtochter von Georg Bzdinka)
+Roth# und #,26.1.,Matthäus,Adam,Benesch,Maria,Thomas#,Blohari# (Was bedeuten die Angaben zu Maria?)
+
+DP 26
+
+Schöndörfl und Tschenkowitz,26.1.,Paul,Georg,Nehyba,Catharina,Christoph,Egydi
+Weypersdorf und Rothsdorf,29.1.,Georg,Johann,Jawulym#,Dorothea,Marcus#,Daubrawa
+Jamnay und Stadt Jablona,2.2.,Paul,Jacob,Kobliczek,Susanna,Adam,Ortina#,-,W
+Weypersdorf,2.2.,Johann,Johann,Skaliczky,Magdalena,Martin,Morawetz
+Weypersdorf,2.2.,Johann,-,Marek,Rosina,Stephan,Cordas,W
+Weypersdorf,2.2.,Franz,Laurentz,Rösler,Magdalena,Jacob,Wottawa
+Tschenkowitz,2.2.,Johann,Adam,Bier,Catharina,Paul,Weinlich
+Jamnay,20.4.,Jacob,Georg,Kyllar,Elisabeth,Paul,Hayniho#
+Waltersdorf und Oberhermanitz,4.5.,Georg,Johann,Kaschka,Magdalena,Nicolaus,Janda
+Waltersdorf und Oberhermanitz,19.5.,Georg,Georg,Patzel,Catharina,Johann,Taraschka
+Niederhermanitz und Oberhermanitz,19.5.,Franz,Johann,Rösler,Maria,Paul,Zalmann
+
+DP 27
+
+Tschenkowitz und Worlitschka,20.5.,Christoph,Marcus#,Weigel,Susanna,Michael,Schiel (Weichel == Weigel?)
+Tschenkowitz und Waltersdorf,8.6.,Johann,-,Hamaczek,Anna,Martin,B#twa,W (Berufe -/Einwohner)
+Rubro-Aqua und Niederhermanitz,8.7.,Gotthard Ignatz,Christoph,Jantzke#,Catharina,Paul,Kubelka (Berufe Erbrichter/Einwohner)
+Weypersdorf und Waltersdorf,29#.7.,Georg,-,Smeykal,Dorothea,Matthäus,Jansa,W,W (Berufe -/Bauer)
+Weypersdorf und Waltersdorf,7.9.,Paul,-,Tauschek,Catharina,Martin,Paul,W,W (Berufe -/Bauer)
+Niederhermanitz und Weypersdorf,7.9.,Martin,Johann,Schembera,Catharina,Paul,Skaliczky (Berufe Bauer/Bauer)
+Jamnay,13.9.,Martin,Johann,Chladek,Rosina,Dominik,Schlesinger (Berufe Erbrichter/Ernannter Richter)
+Tschenkowitz,21.9.,Christoph,Michael,Koblischke,Sabina,Christoph,Schiel (Berufe Einwohner/Einwohner)
+Waltersdorf,30.9.,Wenceslaus,-,Roczen,Susanna,Georg,Seidlmann,W (Berufe -/Einwohner, Susanna wird als "Famina" bezeichnet - was bedeutet das?)
+Weypersdorf und Tschenkowitz,5.10.,Karl,Wenceslaus,Brochaschka,Anna,Paul,Heisler (Berufe -/Einwohner)
+Waltersdorf und Jamnay,28.10.,Johann,Johann,Geczek,Dorothea,Paul,Steyskal
+
+DP 28
+
+Jamnay und Stadt Jablona,1.11.,Paul,-,Doleczal,Anna,Mathias,Betlach,W,W (Berufe Inwohner/Einwohner, Was bedeutet "famina"?)
+Tschenkowitz,2.11.,Georg,Johann,Weinlich,Rosina,Chrstoph,Hauk#
+Worlitschka und Tschenkowitz,2.11.,Dominik,-,Schüttke#,Catharina,Michael,Hamaczek,W (Hamaczke == Hamaczek? Schittke == Schüttke?)
+Jamnay,9.11.,Johann Jacob,Johann,Gironcz,Anna,Paul,Morawetz (Giruntsch == Gironcz?)
+Tschenkowitz,9.11.,Paul,Georg,Reisler#,Regina,Johann,Häntz# (Reisler == Rösler?)
+Oberhermanitz,16.11.,Johann,-,Zalmann,Dorothea,Jacob,Martinek#,W (Berufe Bauer/-, Martinku == Martinek?)
+Schöndörfl und Tschenkowitz,23.11.,Johann,Johann,Noschke,Maria,Georg,Krögler
+
+1688
+
+Jablona,11.1.,Nicolaus,Wenceslaus,Trampota,Eva,Georg,Bechaczek
+Tschenkowitz und -,17.1.,Paul,Wenceslaus,Polak,Rosina,Nicolai,# (Nachname des Brautvaters schwer lesbar)
+Worlitschka und Tschenkowitz,17.1.,Michael,Christoph,Pfertner,Anna,Johann,Koller
+
+DP 29
+
+Worlitschka,18.1.,Christoph,-,Schiel,Anna,Georg,Koller,W
+Waltersdorf,18.1.,Jacob,Johann,#rdina,Dorothea,Jacob,Kyllar (Hrdina?)
+Jamnay,25.1.,Georg,Georg,Czernohaus,Anna,Paul,Doleczal
+Tschenkowitz,25.1.,Georg,Wenceslaus,Hentzl,Maria,Paul,Fischer
+Waltersdorf,1.2.,Georg,Johann,Chromy,Anna,Mathias,Lyr 
+Weypersdorf und Tschenkowitz,1.2.,Adam,-,Lyr,Maria,Martin,Brokesch,W,W (Was bedeutet "famina"?)
+Worlitschka,1.2.,Chrstoph,-,Langer,Susanna,Caspar,Ru#,W
+So#ovitz und Lubnik,8.2.,Friedrich,Friedrich,Stepanek,Anna,Johann,Bach#an (Stepanek == Stephan?)
+Waltersdorf und Weypersdorf,8.2.,Vitus,Johann,Horaczek,Catharina,Wenceslaus,Dostalek#,-,W (Berufe Müller/-, was bedeutet "famina"? Nachname des Brautvaters schwer zu lesen, unsicher)
+Worlitschka,8.2.,Christoph,Urban,Pfertner,Rosina,Johann,Gabler (Nachname des Brautvaters schwer zu lesen, unsicher)
+
+DP 30
+
+- und Weypersdorf,15.2.,Martin,Georg,Koczak,Dorothea,Paul,Rösler,-,W (Berufe -/Müller, was bedeutet "famina"?)
+Jamnay und Niederhermanitz,15.2.,Jacob,Wenceslaus,Horaczek,Magdalena,Johann,Geczek,-,W (was bedeutet "famina"?)
+Oberhermanitz,15.2.,Wenceslaus,Adam,Maresch,Dorothea,Paul,Heyl
+Jablona,22.2.,Mathias,Mathias,Gregor,Catharina,Paul,Stiasny
+Tschenkowitz,25.2.,Christoph,Michael,Langhammer,Maria,Christoph,Egydi
+Weypersdorf,10.5.,Johann,Martin,Sedlaczek,Dorothea,Georg,Faltus
+Waltersdorf,18.5.,Jacob,-,Geczek,Maria,Georg,Schimek,W (Berufe Bauer/Richter, Schimak == Schimek?)
+Oberhermanitz,18.5.,Mathias,-,Heyl,Catharina,Adam,Maresch,W (Berufe Einwohner/Bauer)
+- und Weypersdorf,27.5.,Wenceslaus,Paul,Chalaupka,Anna,Georg,Jawolin# (Nachname des Brautvaters schwer zu lesen, unsicher)
+
+DP 31
+
+Stadt Jablona und Waltersdorf,8.6.,Mathias,-,Wottawa,Dorothea,Mathias,Ryll#,W (Beruf Einwohner/Einwohner)
+Worlitschka und Jablona,12.6.,Adam,Paul,Domlatil,Veronica,Martin,Matu#
+Schöndörfl und Weypersdorf,20.6.,Paul,-,Hudecz,Anna,Adam,Huby#,W  (Nachname des Brautvaters schwer zu lesen, unsicher)
+Stadt Jablona,29.6.,Johann,Wenceslaus,Kleslo,Catharina,Johann,Brokesch
+Michlsdorf und Tschenkowitz,19.9.,Jacob,Peter,Fi#er,Anna,Wenceslaus,Chalaupka,-,W (Was bedeutet "famina"?)
+Tschenkowitz,26.9.,Friedrich,Christoph,Schüll,Rosina,Matthäus,Bier
+Jamnay und Stadt Jablona,9.10.,Johann,Wenceslaus,Trampota,Dorothea,Johann,Hrubesch# (Nachname des Brautvaters schwer zu lesen, unsicher)
+Waltersdorf,9.10.,Georg,Jacob,Krcziwohlawek,Catharina,Paul,Hrdina
+
+DP 32
+
+Waltersdorf,1.11.,Johann,Georg,Schimek,Magdalena,Paul,Waschiczek
+Weypersdorf,8.11.,Johann,Paul,Skaliczky,Marina,Jacob,Hawlena
+Weypersdorf,8.11.,Johann,Georg,Jandegsek#,Catharina,Paul,Tauschek Junior,-,W
+Oberhermanitz,11.11.,Thobias,Jacob,Pliwa#,Catharina,Georg,Kulhanek
+Jamnay,14.11.,Wenceslaus,Wenceslaus,Waczek,Dorothea,Paul,Philipp
+Worlitschka und Tschenkowitz,14.11.,Christoph,Matthäus,Heisler,Maria,Bartholomäus,Weinlich
+Worlitschka,14.11.,Johann,Georg,Koller,Maria,Georg,Schüll
+Worlitschka,14.11.,Dominik,Jeremias#,Schüll,Rosina,Martin,Schlesinger
+Waltersdorf,16.11.,Jacob,-,#laniczek,Dorothea,Georg,Uher,W (Jacob ist als Witwer und als Juvenis (unterstrichen!) bezeichnet - jung verwitwet?)
+Wa#la#owa # und Oberhermanitz,21.11.,Johann,-,Hruby#,Maria,-,- (Maria ist die Adoptivtochter von Johann Sedla# aus Oberhermanitz)
+
+DP 33
+
+Weypersdorf,21.11.,Jacob,-,Wottawa,Anna,Johann,Janku#,W
+
+1689
+
+Waltersdorf und Jamnay,10.1.,Johann,-,Geczek,Anna,Paul,Doleczal,W,W
+Waltersdorf,12.1.,Georg,Georg,Kratky,Susanna,Jacob,Kyllar,-,W
+Weypersdorf,16.1.,Paul,Martin,Marek,Judith,Georg,Worlitschek
+Worlitschka und Tschenkowitz,16.1.,Dominik,Jeremias,Schüll,Susanna,Johann,Kholler
+Waltersdorf,19.1.,Wenceslaus,Urban,Kostelnik#,Maria,Georg,Gerzabek
+Libenthal und Oberhermanitz,23.1.,Johann,Vitus,Fischer,Catharina,Johann,Machanetz# (Machanetz == Machaczek?)
+Oberhermanitz,23.1.,Johann,Georg,Mategek#,Judith,Adam,Maresch (Mategek# == Matiegka?)
+Worlitschka,25.1.,Georg,Christoph,Pfertner,Rosina,Christoph,Schüll
+
+DP 34
+
+Waltersdorf,30.1.,Johann Wenceslaus,Johann,Chladek,MAria,Jacob,Kyllar
+Waltersdorf,30.1.,Georg,Wenceslaus,Mraczek,Catharina,Wenceslaus,Kratky
+Weypersdorf,30#.1.,Martin,-,Skaliczky,Dorothea,Martin,Wottawa,W
+Weypersdorf und Oberhermanitz,30#.1.,Johann,Martin,Skaliczky,Judith,-,- (Judith ist Adoptivtochter von Jacob Daczilek)
+Jablona,2.2.,Jacob,Johann,Wottawa,Dorothea,Jacob,Minarcz#
+Worlitschka,2.2.,Christoph,Jeremias,Schüll,Catharina,Paul,Schlesinger
+Waltersdorf,2.2.,Johann,-,Mati#ek,Anna,Georg,Kasschka,W (Matiegka?)
+Jablona,3.2.,Peter,Matthäus,Zaubele,Elisabeth,Wenceslaus,Philipp
+Worlitschka,6.2.,Caspar,Bartholomäus,Heisler,Susanna,Johann,Schlesinger
+Weypprachticz,6.2.,Martin,Mathias,Skaliczky,Maria,Johann,Burian
+
+DP 35
+
+Jamnay,12.2.,Martin,-,Hawlu#,Elisabeth,Johann,Heylek,W (Hawlu# == Hawle?)
+Tschenkowitz,13#.2.,Christoph,-,Hauenschild#,Catharina,Johann,Krögler,W (Hauschild == Hauenschild?)
+Waltersdorf und Tschenkowitz,9.5.,Johann,Johann,Kaschka,Rosina,Johann,Polaczek#
+Weypersdorf,16.5.,Johann,Georg,Smeykal,Marina#,Martin,Holomek (Marina oder Marianna?)
+Worlitschka,31.5.,Bartholomäus,Matthäus,Heisler,Maria,Dominik,Weinlich
+Oberhermanitz und Niederhermanitz,19.6.,Lucas,Wenceslaus,Czink,Judith,Georg,Kubelka
+Weypersdorf,26.6.,Martin,Jacob,Morawetz,Maria,Johann,Skaliczky
+Worlitschka,3.7.,Christoph,Christoph,Weinlich,Maria,Georg,Schüll
+Jamnay,9.7.,Wenceslaus,Georg,Prokopecz,Marianna#,Johann,Kuczera
+
+DP 36
+
+Weypersdorf,28.8.,Matthäus,Jacob,Sedlaczek,Maria,Paul,Chladek,-,W
+Weypersdorf,18.9.,Johann,Martin,Skaliczky,Catharina,Johann,B#uh# (Nachname des Brautvaters schwer lesbar)
+Czermna und #,18.9.,Johann,-,Gregor,Magdalena,Johann,#,W (Nachname und Ort des Brautvaters schwer lesbar)
+Jamnay,26.9.,Johann,Johann,Michalek,Anna,Johann,Chladek
+Waltersdorf,29.9.,Georg,Johann,Ban#,Catharina,Georg,Mach
+- und Tschenkowitz,9.10.,Michael,-,Langhammer,Maria,Jacob,Bok,W
+Waltersdorf,12.10.,Georg,-,Kratky,Susanna,Paul,Mach,W
+Tschenkowitz und Jamnay,16.10.,Georg,Michael,Schüttke,Susanna,Georg,Philipp
+
+DP 37
+
+Czermna und Waltersdorf,16.10.,Jacob,-,Polak,Dorothea,Simon,Geczek#,W
+Rubro-Aqua und Worlitschka,31.10.,Johann,Johann,Hanisch,Anna,Wenceslaus,Schlesinger
+Jamnay,1.11.,Jacob,Adam,Valenta,Anna,Johann,Kuczera
+Jamnay,1.11.,Johann,Johann,Chladek,Susanna,Martin,Valenta
+Worlitschka,9.11.,Tobias,-,Wagner,Susanna,Andreas,Krögler,W
+Jamnay und Stadt Jablona,13.11.,Georg,-,Horaczek,Maria,Wenceslaus,Barb#cz
+Waltersdorf,13.11.,Jacob,Jacob,Jansa,Anna,Georg,Biczalek
+Tschenkowitz und Worlitschka,13.11.,Johann,Paul,Kobliczka,Rosina,Georg,Schlesinger
+Tschenkowitz,13.11.,Johann,Georg,Krögler,Anna,Michael,Bier#
+
+DP 38
+
+Worlitschka,13.11.,Michael,Christoph,Moser#,Maria,Georg,Krögler
+Weypersdorf,20.11.,Johann,Martin,Marku#,Catharina,Martin,Skaliczky (Marku == Marek?)
+
+1690
+
+Oberhermanitz,9.1.,Adam,Johann,Rzehak,Dorothea,Paul,Zalmann
+Tschenkowitz,9.1.,Christoph,-,Heisler,Barbara,Jacob,Ahsmann#,W,W (Ahsmann oder Alsmann?)
+Worlitschka,15.1.,Franz,Georg,Langer,Maria,Michael,Kobliczek
+Tschenkowitz und Worlitschka,15.1.,Johann,Georg,Heisler,Anna,Andreas,Gabler
+Sob#owitz und Jamnay,17.1.,Nicolaus,Johann,Budisch,Marianna,Dominik,Schlesinger
+Worlitschka,22.1.,Christoph,Caspar,Gabler,Rosina,Friedrich,Weyperth
+Oberhermanitz,22.1.,Georg,Johann,Rzehak,Catharina,Paul,Schembera
+
+DP 39
+
+Oberhermanitz,22.1.,Paul,Georg,Mathegek#,Catharina,Paul,Zalmann (Nachname des Bräutigams schwer lesbar, unsicher)
+Weypersdorf,30.1.,Johann,Johann,Doleczal,Marianna,Georg,Faltus
+Hermanitz,30.1.,Wenceslaus,Mathias,Maresch,Anna,Georg,Hayny ("ambo ex Hermanitz, parens sponsa aus Herboticz")
+Oberhermanitz und Niederhermanitz,30.1.,Georg,-,Kocznik#,Catharina,Wenceslaus,Jawurek,W
+Niederhermanitz,30.1.,Johann,Johann,Schembera,Magdalena,Paul,Bechaczek
+Oberhermanitz,30.1.,Johann,Johann,Kobsa,Maria,Jacob,Maresch
+Jamnay und Jablona,30.1.,Johann,Johann,Heyl,Rosina,Paul,Appl (was bedeutet das nach "def. Paul Appl" ?)
+Weypersdorf und Waltersdorf,31.1.,Johann,Georg,Czerny,Catharina,Wenceslaus,Seidlmann
+Jamnay und Stadt Jablona,5.2.,Nicolaus,Johann,Chladek,Marianna,Georg,Czervenka
+Stadt Jablona und Oberhermanitz,5.2.,Johann,Johann,Hrubesch,Anna,Wenceslaus,Zelinka,-,W
+
+DP 40
+
+Waltersdorf,5.2.,Johann Wenceslaus,Wenceslaus,Roczen#,Dorothea,Philipp,Patzel (Roczny == Roczen?)
+Tschenkowitz,5.2.,Jeremias#,-,Polaczek,Susanna,Michael,Weinlich,W,W
+# und Stadt Jablona,6.2.,Johann,Georg,Ba#nna,Marianna,Johann,Brokesch# (Nachname des Brautvaters schwer lesbar, unsicher)
+Tschenkowitz,1.5.,Johann,-,Kominik#,Anna,David,Schüll,W,W (Nachname des Bräutigams schwer lesbar, unsicher, was bedeutet "ex Tschenkowitz sui Waltersdorf" ?)
+Jablona,7.5.,Paul,Georg,Bechaczek,Veronica,Johann,Stastny
+Jamnay,5.6.,Nicolaus,-,Kwasniczka,Marianna,Johann,Seschen,W
+Jamnay,18.6.,Martin,-,Kwasniczka,Anna,Adam,Valenta,W
+Jablona,18.6.,Peter,Matthäus,Skaliczky,Dorothea,Georg,Schwyda#
+Weypersdorf,25.6.,Wenceslaus,Martin,Skaliczky,Marina,Andreas,Ilchmann# (Berufe -/Soldat, Ilchmann == Illichmann?)
+
+DP 41
+
+Czermn# und Waltersdorf,2.7.,Jacob,-,Mareschka#,Anna,Georg,Za#radnik,W,W (Berufe -/Einwohner)
+Weypersdorf,9.7.,Georg,-,Smeykal,Marianna,Martin,Rzehak,W,W
+Weypersdorf,9.7.,Martin,Matthäus,Smeykal,Marianna,Johann,Tauschek
+Oberhermanitz,9.7.,Johann,-,Barton,Catharina,Wenceslaus,Kubesch,W
+Worlitschka,9.7.,Georg,Matthäus,Schlesinger,Susanna,Christoph,Weinlich
+Weypersdorf,25.7.,Matthäus,Paul,Tauschek,Anna,Felix,Haugol# (Unsicher bzgl. des Nachnamens des Brautvaters)
+Weypersdorf und Niederhermanitz,30.7.,Paul,-,Ptaczek,Dorothea,Johann,Heylek,W (Berufe -/Richter)
+Czermn# und Oberhermanitz,6.8.,Jacob,Johann,Hnatek,Catharina,Benedikt,Zalmann,-,W
+Waltersdorf,6.8.,Peter,-,Kowacz#,Maria,Paul Lorentz,Seidlmann Senior#,W (Unklar, welche Namen beim Brautvater wie zusammengehören, bedeutet Sen. Senior?)
+
+DP 42
+
+Worlitschka und Tschenkowitz,6.8.,Matthäus,-,Sch#tter,Susanna,Georg,Kirchner#,W,W (Berufe Soldat/-)
+Weypersdorf,15.8.,Wenceslaus,Johann#,Burian,Catharina,Mathias#,Smeykal (Heißt das "beide aus Weypersdorf"? Vermutlich, aber schwer zu lesen, unsicher)
+Jamnay,1.10.,Paul,Wenceslaus,Bauchal,Dorothea,Wenceslaus,Horaczek
+Jablona und Jamnay,15.10.,Johann,Georg,Kupka#,Marina,Jacob,Bednarcz
+Jablona und Tschenkowitz,22.10.,Johann,Georg,Jawurek,MAria#,Paul,Kobliczek
+Oberhermanitz,29.10.,Wenceslaus,Matthäus,Maresch,Magdalena,Jacob,Martinek# (Martinka# == Martinek?)
+Weypersdorf,5.11.,Johann,-,Burian,Dorothea,Johann,Doleczal,W
+Worlitschka und Waltersdorf,5.11.,Johann,Friedrich,Weyperth,Catharina,Johann,Czernohorsky
+Oberhermanitz und Niederhermanitz,11.11.,Georg,Wenceslaus,Zalmann,Catharina,Matthäus,Hluchy
+Tschenkowitz,12.11.,Paul,Christoph,Egydi,Maria,Michael,Kobliczek
+Oberhermanitz und Tschenkowitz,12.11.,Nicolaus,-,Durstych#,Rosina,Johann,Ru#,W
+
+DP 43
+
+Waltersdorf,14.11.,Paul,Jacob,Kobliczek,Dorothea,Paul,Waschiczek
+Tschenkowitz,19.11.,Paul,Johann,Polaczek#,Rosina,Georg,Stoltz#
+Weypersdorf,20.11.,Martin,-,Skaliczky,Marina,Adam,Lyr,W,W
+Weypersdorf,20.11.,Johann,Johann,Hawlena,Elisabeth,Wenceslaus,Brochaschka
+Waltersdorf,21.11.,Johann,Laurentz,Kaschka,Susanna,Mathias,Lyr
+Oberhermanitz,21.11.,Paul,Georg,Schwestka,Elisabeth,Adam,Maresch
+Oberhermanitz,21.11.,Nicolaus,Johann,Schittke,Judith,Johann,Machanetz# (Machanetz == Machaczek?)
+Waltersdorf,30.11.,Johann,Georg,Kratky,Ludmilla,Jacob,Krcziwohlawek
+
+1691
+
+Oberhermanitz,21.1.,Tobias,Paul,Martinek,Magdalena,Paul,Kubinka#
+Oberhermanitz,21.1.,Johann,Wenceslaus,Zalmann,Magdalena,Georg,Hawelka
+
+DP 44
+
+Weypersdorf,21.1.,Jacob,Georg,Mleinek,Maria,Georg,Czerny
+Niederhermanitz,21.1.,Nicolaus,Wenceslaus,Marek,Maria,Johann,Cordas
+Worlitschka,21.1.,Paul,Jacob,Czernohorsky,Maria,Michael,Scholtz
+Stadt Jablona,22.1.,Johann,Johann Heinrich,Schitz#,Judith,Thomas,Neschkudla
+Worlitschka,28.1.,Christoph,Christoph,Pfertner,Catharina,Johann,Langer
+Jamnay und Jablona,29.1.,Johann,Paul,Biehaunek,Ludmilla,Wenceslaus,Barb#cz#
+Czokytle und Oberhermanitz,4.2.,Johann,Georg,#t#czil,Maria,Jacob,Bednarcz
+Waltersdorf und Jamnay,4.2.,Jacob,Georg,Kyllar,Anna,Paul,Philipp
+Libenthal und Niederhermanitz,4.2.,Johann,Wenceslaus,Brochaschka,Catharina,Wenceslaus,Kubiczek
+
+DP 45
+
+Weypersdorf,4.2.,Georg,Georg,Smeykal,Magdalena,Adam,Lyr
+Oberhermanitz und Niederhermanitz,11.2.,Nicolaus,-,Janda,Dorothea,Jacob,Zalmann,W
+Tschenkowitz,11.2.,Michael,Michael,Bier,Anna,Johann,Nehyba
+Worlitschka,11.2.,Matthäus,Christoph,Weinlich,Regina,Georg,Krögler
+Worlitschka,12.2.,Christoph,Martin,Scholtz,Regina,Michael,Hoffmann
+Worlitschka und Tschenkowitz,18.2.,Paul,Johann,Pecziwal,Regina,Johann,Rusner# (Rusner# == Rösner?)
+Worlitschka,25.2.,Johann,Georg,Schüll,Rosina,Michael,Scholtz
+Tschenkowitz und Worlitschka,26.2.,Christoph,Georg,Kobliczek,Maria,Michael,Schlesinger
+Weypersdorf,27.2.,Lucas,Paul,Chaloupek#,Catharina,Jacob,Gyrasek (Berufe Soldat/-, was bedeutet "Chalupnik sui Kubu"?)
+
+DP 46
+
+Tschenkowitz,29.4.,Johann,Michael,Koblischke,Maria,Paul,Heisler
+Weypersdorf,6.5.,Martin,Johann,Be#,Dorothea,Adam,Lyr (Nachname des Bräutigams schwer zu lesen)
+Weypersdorf und Waltersdorf,13.5.,Georg,Stephan,Seidlmann,Maria,Georg,Bednarcz
+Waltersdorf,19#.5.,Wenceslaus,Laurentz,Kaschka,Magdalena,Wenceslaus,Waschiczek
+Worlitschka und Tschenkowitz,27.5.,Christoph,Caspar,Schüll,Eva,Urban,Noschke
+Oberhermanitz und Niederhermanitz,17.6.,Georg,Paul,Schwestka,Marianna,Paul,Schembera
+Worlitschka,17.6.,Georg,Bartholomäus,Heisler,Maria,Matthäus,Koller
+Weypersdorf,19.6.,Mathias,-,Mastik#,Catharina,Martin,Skaliczky,W
+Oberhermanitz,2.7.,Johann,Georg,Bartosch,Rosina,Jacob,Jansa
+
+DP 47
+
+Niederhermanitz und Oberhermanitz,2.7.,Wenceslaus,-,Bily,Magdalena,Georg,Roczen,W
+Worlitschka,8.7.,Johann,Christoph,Moser#,Maria,Gottfried,Janiczke
+Neudorf und Tschenkowitz,15.7.,Christoph,Georg,Pfertner,Rosina,Georg,Feltzmann
+Jamnay,30.7.,Peter,Georg,Czernohaus,Marianna,Adam,Valenta
+Stadt Jablona und Jamnay,20.8.,Paul,-,Zaubele,Magdalena,Wenceslaus,Hansliczek,W (Beruf Einwohner/-)
+Worlitschka,8.9.,Matthäus,Matthäus,Schlesinger,Rosina,Christoph,Weinlich
+Jablona und Neudorf,30.9.,Jacob,-,Doleczal,Catharina,Johann,Hrdina,W,W
+Waltersdorf und Jablona,15.10.,Jacob,Johann,Merta#,Anna,Johann,Brokesch (Der Bräutigamvater hat den Vulgonamen Hamaczek, Mertu# == Deklination von Merta?)
+Jablona,23.10.,Johann,Johann,Sheybal,Anna,Georg,Kupka (Kubku# == Deklination von Kupka?)
+
+DP 48
+
+Oberhermanitz und Waltersdorf,30.10.,Paul,Nicolaus,Janda,Dorothea,Johann,Mraczek
+Tschenkowitz,2#.11.,Paul,Paul,Heisler,Rosina,Christoph,Egydi
+Worlitschka,2#.11.,Georg,Johann,Schlesinger,Maria,Bartholomäus,Heisler
+Jablona,5.11.,Johann,Martin,Merta#,Anna,Georg,Janele# (Mertu# == Deklination von Merta?)
+Czermna und Waltersdorf,7.11.,Georg,Paul,Krystek,Dorothea,Georg,Mister
+Tschenkowitz,11.11.,Georg,Adam,Bier#,Maria,Michael,Langhammer
+Worlitschka,12.11.,Georg,Michael,Schlesinger,Anna,Martin,Schlesinger
+Weypersdorf,18.11.,Paul,Martin,Skaliczky,Eva,Paul,Chladek
+Niederhermanitz und Neudorf,18.11.,Johann,-,Kaubek#,Sabina,Johann,Nehyba,W,W
+
+DP 49
+
+Jablona und Waltersdorf,18.11.,Matthäus,Paul,Zaubele,Dorothea,David,Wanek
+Weypersdorf,18.11.,Matthäus,Georg,Worlitschka,Marianna,Martin,Hornich#
+Weypersdorf,19.11.,Franz,Georg,Rösler,Catharina,Johann,Burian
+Worlitschka,25.11.,Christoph,Michael,Khöller#,Maria,Nicolaus,Heisler
+
+1692
+
+Weypersdorf,14.1.,Georg,Andreas,Ptaczek,Anna,Johann,Kyllar
+Worlitschka,20.1.,Christoph,Paul,Langer,Susanna,Andreas,Krögler,-,W
+Waltersdorf und Jamnay,21.1.,Martin,Johann,Mategek#,Marianna,Paul,Steyskal (Mategek# == Matiegka?)
+Weypersdorf,22.1.,Johann,Paul,Brokesch,Catharina,Johann,Skaliczky
+
+DP 50
+
+Jamnay,29.1.,Wenceslaus,Paul,Morawetz,Marianna,Johann,Morawetz
+Tschenkowitz,29.1.,Christoph,Johann,Schöller#,Sabina,Johann,Feltzmann (Schöller == Schüll?)
+Worlitschka,29.1.,Christoph,Adam,Krögler,Rosina,Jeremias,Schüll
+Weypersdorf,29.1.,Jacob,Jacob,Morawetz,Dorothea,Andreas,Nikl#
+Waltersdorf und Niederhermanitz,29.1.,Georg,Jacob,Maslo,Catharina,Lucas,Czink (Maslo == Maslaw?)
+Niederhermanitz,29.1.,Martin,Wenceslaus,Marku,Catharina,Paul,Kubenka
+Hermanitz,29.1.,Wenceslaus,Matthäus,Hluchy,Marianna,Johann,Kob#a# (Kobsa?)
+Waltersdorf,28.1.,Johann,Simon,Geczek,Anna,Johann,Roczen
+
+DP 51
+
+Tschenkowitz,29.1.,Johann,Michael,Hentzl,Rosina,Adam,Bier#
+Obersdorf und Niederhermanitz,3.2.,Johann Georg,-,Köberle#,Dorothea,Matthäus,Marku# (Bräutigamsvater nicht genannt, Bräutigam aber als "filius proprius" genannt, also vermutlich nicht verwitwet)
+Niederhermanitz und Oberhermanitz,3.2.,Wenceslaus,Mathias,Czink,Catharina,Georg,Zalmann
+Weypersdorf,3.2.,Martin,Johann,Buczek,Maria,Matthäus,Janke# (Janke# == Janku andere Deklination?)
+Worlitschka und Tschenkowitz,3.2.,Wenceslaus,Georg,Krögler,Maria,Georg,Koblischke
+Waltersdorf,3.2.,Johann,Wenceslaus,Kubin,Maria,Georg,Klemicz#
+Tschenkowitz,3.2.,Paul,Wenceslaus,Michalek,Maria,Johann,Weinlich
+Worlitschka,4.2.,Johann,Jacob,Czernohorsky,Regina,Paul,Schlesinger
+Waltersdorf,4.2.,Georg,Georg,Kaschka,Dorothea,Urban,Weczak# (Weczak# == Waczek?)
+
+DP 52
+
+Weypersdorf,5.2.,Nicolaus,Nicolaus,JAnke,Magdalena,Jacob,Hawlena
+Jablona,5.2.,Benjamin,Johann,Adolph,Catharina,Johann,Sis# (Nachname des Brautvaters schwer lesbar, unsicher)
+Waltersdorf,6.2.,Johann,Georg,Kubin,Magdalena,Johann,Czernohorsky
+Jamnay,9.2.,Johann,Christoph,Moser#,Rosina,Georg,Prokopecz
+Niederhermanitz und Tschenkowitz,10.2.,Johann,Johann,Heyl,Maria,Georg,Schüll (Berufe Richter/Richter)
+Worlitschka,10.2.,Georg,Abraham,Schüll,Susanna,Dominik,Weinlich
+Landskron und Worlitschka,11.2.,Georg,-,Tausch#,Eleonora,Gottfried,Hanuschke,W (Tausch == Tauschek?)
+Weypersdorf,12.2.,Georg,Georg,Faltus,Marianna,Martin,Marku
+Weypersdorf,12.2.,David,-,Skaliczky,Dorothea,Johann,Czerny,W
+Jablona,13.2.,Martin,Jacob,Wottawa,Susanna,Georg,Jawurek
+
+DP 53
+
+Waltersdorf,4.5.,Georg,Johann,Krystek,Catharina,Simon,Geczek
+Worlitschka,4.5.,Johann,Georg,Bier#,Maria,Christoph,Weinlich
+Weypersdorf,11.5.,Johann,-,Lyr,Maria,Johann,Jarolym
+Waltersdorf,11.5.,Paul,Johann,Czernohorsky,Anna,Johann,Kaschka
+Waltersdorf,20.5.,Paul,Georg,Biczalek,Magdalena,Jacob,Kratky,-,W
+Waltersdorf und Jamnay,3.6.,Johann,Georg,Mach,Rosina,Adam,Valenta
+Waltersdorf,24.6.,Georg,Jacob,Wonawta#,Elisabeth,Jacob,Kyllar (Wonawta == Wottawa?)
+Jamnay,29#.6.,Nicolaus,Wenceslaus,Trampota,Catharina,Johann,Philipp,-,W
+
+DP 54
+
+Worlitschka,29.6.,Nicolaus,-,Hauk,Elisabeth,Johann,Gabler,W,W
+Waltersdorf und Jamnay,5.7.,Georg,-,Wanek#,Dorothea,Georg,Czernohaus
+Worlitschka,8.9.,Wenceslaus,Georg,Schlesinger,Rosina,Christoph,Schlesinger (Berufe Richter/-)
+Worlitschka,21.9.,Gottfried,-,Hanuschke,Regina,Johann,Schlesinger,W,W
+Waltersdorf,22.9.,Jacob,Wenceslaus,Roczen,Maria,Paul,Mach
+Worlitschka,5.10.,Christoph,-,Feltzmann,Anna,Martin,Kholler,W
+Waltersdorf,26.10.,Wenceslaus,Johann,Matigek#,Anna,Georg,Schimek (Matigek# == Matiegka?)
+Jamnay,26.10.,Jacob,Wenceslaus,Bauchal,Catharina,Wenceslaus,Philipp
+
+DP 55
+
+Jablona,28.10.,Ludwig,Johann,Adolph,Catharina,Wenceslaus,Gregor (Berufe Lehrer/Lehrer)
+Jamnay,1.11.,Wenceslaus,Johann,Lischka,Catharina,Martin,Valenta
+Neudorf,2.11.,Johann,Martin,Kuczera,Catharina,Johann,Kuczera# (Der Nachname des Bräutigamvaters ist schwer lesbar, unsicher, ob dies auch Kuczera heisst)
+Worlitschka,2.11.,Matthäus,-,Koller,Maria,Johann,Weinlich,W
+Jamnay,4.11.,Georg,Johann,Kubu#,Maria,Paul,Doleczal (Was bedeutet "Kubu sui Kregzy"?, Kubu# == Deklination von Kubin?)
+Waltersdorf und Jamnay,8.11.,Georg,Georg,Mister,Dorothea,Paul,Biehaunek
+Jamnay,9.11.,Johann# #,Jacob,Hansliczek,Rosina,Wenceslaus,Waczek (Was heisst das Wort nach Johann?)
+Niederhermanitz und Tschenkowitz,9.11.,Ludwig,Paul,Koczaczek#,Maria,Paul,Weinlich Senior
+
+DP 56
+
+Worlitschka,9.11.,Johann,Johann,Langer,Susanna,Michael,Heisler
+Worlitschka,12.11.,Johann,Bartholomäus,#eisler,Maria,Georg,Pfertner (Heisler?)
+Waltersdorf,12.11.,Johann,Johann,Mraczek,Magdalena,Jacob,Krcziwohlawek
+Weypersdorf,16.11.,Paul,Jacob,Hawlena,Judith,Johann,Mleinek (Berufe -/Richter)
+Oberhermanitz,16.11.,Georg,Jacob,Bednarcz,Catharina,Georg,Maresch
+Weypersdorf,16.11.,Wenceslaus,Nicolaus,Czak,Magdalena,Matthäus,Skaliczky
+Tschenkowitz,23.11.,Johann,Michael,Langhammer,Regina,Adam,Bier#
+
+1693
+
+Jamnay und Jablona,18.1.,Johann,Blasius,Kuczera,Anna,Johann,Adolph (Berufe -/Lehrer)
+
+DP 57
+
+Weypersdorf,18.1.,Georg,Johann,Janku,Anna,Johann,Doleczal
+Niederhermanitz,18.1.,Nicolaus,Paul,Matig#,Catharina,Johann,Mlynarz# (Matig# == Matiegka/Matigek# ?)
+Oberhermanitz und Niederhermanitz,18.1.,Paul,Johann,Maresch,Elisabeth,Paul,Schembera
+Niederhermanitz und Oberhermanitz,18.1.,Georg,Johann,Kaubek,Marianna,Georg,Kulhanek
+Jablona,20.1.,Georg,Johann,Jawurek,Anna,Paul,Bodheysty#
+Jablona,25.1.,Ludwig,Johann,Sedlarcz,Anna,Georg,Schwartz
+Waltersdorf,25.1.,Wenceslaus,-,Kubin#,Maria,Georg,Anderle,W
+Niederhermanitz und Rothwahsu#,25.1.,Wenceslaus,Johann,Schembera,Margaretha,Johann,Hnatek
+Pettersdorf und Oberhermanitz,26.1.,Johann,Wenceslaus,Kubek#,Magdalena,Johann,Lyr,-,W
+Jamnay,27.1.,Georg,Paul,Philipp,Anna,Johann,Heylek
+
+DP 58
+
+Waltersdorf und Weypersdorf,26.4.,Jacob,Georg,Uher,Dorothea,Martin,Koczak,-,W
+Weypersdorf,26.4.,Paul,-,Sedlarcz,Catharina,Georg,Rösler,W
+Czermna und Weypersdorf,11.5.,Johann,-,#ehs#,Dorothea,Georg,Worlitschka (Nachname des Bräutigams schwer zu lesen, unsicher)
+Weypersdorf,21.5.,Martin,Mathias,Smeykal,Marianna,Paul,Hlauczal#
+Waltersdorf,24.5.,Matthäus,-,Mister,Anna,Georg,Kubin,W
+Herboticz und Niederhermanitz,7.6.,Martin,Wenceslaus,Hanuschke,Anna,Mathias,Czink
+Tschenkowitz,28.6.,Christoph,-,Heisler,Maria,Michael,Hentzl,W
+Neudorf,12.7.,Adam,-,Pfertner,Elisabeth,Georg,Wagner,W
+
+DP 59
+
+Tschenkowitz,9.8.,Georg,-,Blaschke,Rosina,Johann,Feltzmann,W
+Weypersdorf,6.9.,Mathias,-,Falta,Catharina,Stephan,Cordas,W (Valta == Falta?)
+Weypersdorf,20.9.,Felix,-,Hlauczal#,Magdalena,Paul,Chladek,W
+Weypersdorf,29.9.,Johann,Johann,Burian,Magdalena,Johann,Hawlena
+Worlitschka,25.10.,Michael,Johann,Pecziwal,Anna,Caspar,Rusner# (Rusner# == Rösner?)
+Worlitschka und Tschenkowitz,1.11.,Johann,Martin,Schlesinger,Susanna,Georg,Koblischke
+Stadt Jablona,1.11.,Franz,Gallus,Kulhanek,Johanna,Jacob,Gelinek
+Worlitschka,8.11.,Johann,-,Heisler,Maria,Christoph,Pfertner,W
+
+DP 60
+
+Worlitschka,8.11.,Martin,Adam,Krögler,Rosina,Jeremias,Schüll
+Worlitschka,10.11.,Paul,Georg,Schüttke,Susanna,Tobias,Feltzmann
+Worlitschka,15.11.,Johann,Christoph,Hauk,Maria,Michael,Schüttke
+Worlitschka,15.11.,Johann,Paul,Langer,Maria,Matthäus,Schlesinger
+Niederhermanitz,15.11.,Georg,Johann,Schembera,Marianna,Georg,Kubelka
+Waltersdorf,15.11.,Martin,Wenceslaus,Kos,Catharina,Georg,Kuczera
+Waltersdorf,17.11.,Martin,Paul,Waschiczek,Anna,Wenceslaus,Hrdina
+Weypersdorf,22.11.,Adam,-,Kubu,Susanna,Wenceslaus,Kubesch,W
+Niederhermanitz und Waltersdorf,22.11.,Paul,Johann,Maresch,Anna,Wenceslaus,Kaschka
+Tschenkowitz,22.11.,Paul,Wenceslaus,Hentzl,Regina,Georg,Heisler
+
+DP 61
+
+Tschenkowitz,23.11.,Johann,Martin,Waschiczek,Maria,Johann,Simon
+
+1694
+
+Worlitschka und Tschenkowitz,24.1.,Friedrich,-,Weyperth,Regina,Johann,Pola#ke,W (Nachname des Brautvaters schwer lesbar, unsicher)
+Weypersdorf,24.1.,Johann,Matthäus,Skaliczky,Magdalena,Martin,Morawetz
+Tschenkowitz und Worlitschka,24.1.,Johann,Caspar,Heisler,Susanna,Christoph,Krögler
+Oberhermanitz und Worlitschka#,2.2.,Johann,Paul,Heyl,Rosina,Tobias,Bartosch,-,W
+Weypersdorf,7.2.,Paul,Georg,Worlitschka,Maria,Georg,Marek
+Waltersdorf,2.5.,Georg,Johann,Lischka,Marianna,Mathias,Lyr#
+Czermna und Oberhermanitz,2.5.,Wenceslaus,Martin,Heger#,Eva,Adam,Maresch
+
+DP 62
+
+Rubio-Aqua# und Worlitschka#,23.5.,Christoph,Christoph,Rippl,Regina,Gottfried,Hanuhske,-,W
+Oberhermanitz,13.6.,Mathias,-,Mach,Magdalena,Johann,Hayny,W,W
+Oberhermanitz und Niederhermanitz,15.6.,Ludwig,Paul,Zalmann,Catharina,Johann,Schembera
+Oberhermanitz und Czermna,11.7.,Georg,-,Zalmann,Marianna,Wenceslaus,Uher,W
+Waltersdorf und Tschenkowitz,5.9.,Georg,-,Kratky Junior,Maria,Caspar,Heisler,W
+Herboticz und Oberhermanitz,5.9.,Franz,Johann,Geczek,Catharina,Paul,Marek
+Jamnay,31.10.,Paul,Daniel,Bauchal,Anna,Hans,Lischka
+
+DP 63
+
+Jablona,31.10.,Johann,Jacob,Czerny,Anna,Georg,Jawurek
+Waltersdorf,1#.11.,Georg,Paul,Charvat,Maria,Wenceslaus,Kos#
+Worlitschka und Tschenkowitz,7.11.,Franz,Caspar,Nentwich#,Susanna,Georg,Schüll
+Jablona,9.11.,Jacob,Hans,Hruby,Dorothea,Hans,Polak
+Worlitschka,10.11.,Michael,Martin,Scholtz,Rosina,Dominik,Schlesinger
+
+DP 64
+
+1695
+
+Waltiercitz und Oberhermanitz,16.1.,Wenzel,-,Jezek,Anna,Georg,Hawelka,W
+
+DP 65
+
+Oberhermanitz,16.1.,Johannes,Mattouss,Brokesch,Judith,Wenzel,Pauk#
+Neudorf und Oberhermanitz,16.1.,Johannes,Matthäus,Cordas,Catharina,Georg,Sswestka
+Oberhermanitz,16.1.,Georg,Hans,Taraschke#,Catharina,Georg,Kulhanek
+Tschenkowitz,23.1.,Georg,Hans,Feltzmann,Judith,Paul,Heisler
+Jamny und Niederhermanitz,23.1.,Johannes,Paul,Steykal,Judith,Wenceslaus,Kubitschke
+Waltersdorf,23.1.,Paul,Wenceslaus,Waschiczek,Dorothea,Paul,Charvat
+
+DP 66
+
+Jablona,26.1.,Johann,-,Seibal,Ludmilla,Hans,Brokesch,W
+Jamnay,30.1.,Paul,Hans,Girauncz,Dorothea,Hans,Steykal
+Jamnay und Niederhermanitz,2.2.,Johannes,Georg,Prokopecz,Rsoina,Paul,Koza#
+Jablona,2.2.,Jacob,Wenceslaus,Hawle,Maria,Martin,Merta
+Waltersdorf,6.2.,Jacob,Jacob,Krcziwohlawek,Maria,Hans,#ribal
+Worlitschka und Tschenkowitz,6.2.,Paul,-,Gabler,Anna,Tobias,Polak
+
+DP 67
+
+Worlitschka,6.2.,Christoph,Kaspar,Ros#,Susanna,Michl,Koblischka
+Jablona und Kralitschle,13.2.,Wenceslaus,-,Kleslo,Elisabeth,Nickel,Ha#le,W (Kralitschle == Grulich?)
+Tschenkowitz# und Worlitschka,14.2.,Karl,Hans,Weinlich,Susanna,Christoph,#öhr,-,W
+Jablona und Weypersdorf,8.5.,Paul,Hans,Formanek#,Anna,Georg,Marek,-,W
+Waltersdorf,10.5.,Hans,Jakob,Jansa,Catharina,Jacob,Wonawler#
+Tschid# und Weypersdorf,10.5.,Wenceslaus,Paul,Podhornry#,Magdalena,Hans,Mlenek
+
+DP 68
+
+Worlitschka,23.5.,Michael,Hans,Schlesinger,Susanna,Christoph,Hau# (Hanel?Haunel?)
+Weypersdorf#,24.5.,Hans,Hans,Kilar,Marianna,Georg,Ondra#,-,W
+Weypersdorf,29.5.,Nicolaus,Martin,Skalitzky,Magdalena,Martin,Chladek
+Zot# und Niederhermanitz,12.6.,Johannes,Hans,Moreawetz,Anna,Johann,Heyl
+Weypersdorf#,20.6.,Wenceslaus,Jacob,Lier,Dorothea,Peter,Matzke#,-,W (Matzke oder Watzke?)
+Weypersdorf,26.6.,Paul,-,Chladek,Catharina,Mattaus,Skalitzky,W
+
+DP 69
+
+Sobkowitz und Lubnik,29.6.,Wenceslaus,Georg,#omkow#,Catharina,Peter,Matzyzkow#,-,W
+Zot# und Olbersdorf,28.8.,Jacob,-,Kowarcz#,Maria,Peter,#thel,W
+Jamny,18.9.,Wenceslaus,Hans,Chladek,Rosina,Hans,Hedina
+Worlitschka und Neudorf,30.10.,Christoph,Georg,Schüll,Rosina,Caspar,Nentwich
+Worlitschka und Tschenkowitz,6.11.,Tobias,Tobias,Heisler,Maria,Georg,Koblischke
+Weypersdorf,13.11.,Georg,Hans,Chladek,Judith,Wenceslaus,Morawetz
+
+DP 70
+
+Waltersdorf und Rudelsdorf,20.11.,Mathias,Wenceslaus,J#s#,Dorothea,Valentin,Rösler
+Waltersdorf,20.11.,Johannes,Matthäus,Hedina,Anna,Wenceslaus,Matu#
+Weypersdorf,20.11.,Paul,Wenceslaus,Petter,Anna,Martin,Wottawa
+Waltersdorf,22.11.,Jacob,Wenceslaus,Waschiczek,Maria,Lorentz,Kaschka
+
+1696
+
+Weypersdorf,22.1.,Paul,-,Lier,Judith,Georg,Faltus,W
+Jamny,29.1.,Hans,Hans,Philipp,Susanna,Georg,Wottawa
+
+DP 71
+
+Jablona,30.1.,Jacob,Georg,Kutzler#,Anna,Jacob,Polak
+Oberhermanitz und Niederhermanitz,5.2.,Wenceslaus,Matthäus,Lir,Magdalena,Wenceslaus,Kubelka
+Weypersdorf,5.2.,Franz,Hans,Chladek,Judith,Adam,Kub# (Kubesch?)
+Waltersdorf,12.2.,Jacob,Paul,Waschiczek,Anna,Paul,Hedina
+Waltersdorf,19.2.,Martin,-,Mach,Magdalena,Hans,Kristek,W
+Waltersdorf,19.2.,Nickel,Georg,Biczalek,Anna,Hans,Seidlmann
+
+DP 72
+
+Worlitschka,28.2.,Christoph,Martin,Schlesinger,Regina,Martin,Scholtz
+Oberhermanitz,28.2.,Martin,Paul,Buhaunek,Catharina,Hans,Pawliczek
+Jablona und Jamny,28.2.,Hans,-,Scheibal,Dorothea,Jacob,Koblischke,W
+Jamny,5.3.,Martin,Waczlaw,Bauchal,Magdalena,Jirzik,Czernohaus
+Weyprachtitz,6.5.,Waczlaw,Pawel,Heyl,Caterzina,Martin,Holomek
+Jamny,3.6.,Jirzik,-,Waczek,Anna,Jan,Michalek,W
+
+DP 73
+
+Bystrcze,17.6.,Jan,Waczlaw,Machaczek,Marianna,Matauss,Jansa
+Jablona,8.7.,Paul,-,Sedlarcz,Dorothea,Jan,Kulhanek,W
+Hermanitz,22.7.,Jan,-,Kulhanek,Catharina,Paul,Martinek
+Bystrcze,25.7.,Jan,Waczlaw,Mraczek#,Dorothea,Jacob,Kaschka,W,W
+Worlitschka,16.9.,Jan,-,Heyl,Elisabeth,Jirzik,Schlesinger,W
+Weyprachticz und Walterczitz,25.9.,Jan,-,Gröger,Anna,Martin,Jerzabek,W,W
+
+DP 74
+
+Tschenkowitz,21.10.,Jan,Michael,Simon,Rosina,Jan,Weinlich
+Hermanitz,28.10.,Waczlaw,Jacob,Maresch,Rosina,Paul,Stembera,W
+Jamnay,4.11.,Paul,Waczlaw,Hrdina,Dorothea,Jan,Jiroucz
+Hermanitz,4.11.,Paul,Paul,Czink,Magdalena,Jan,Jansky#
+Worlitschka,4.11.,Jan,Mikulas,Heisler,Rosina,Jirzik,Schüll
+Hermanitz,11.11.,Martin,Jan,Jansky,Magdalena,Paul,Heyl
+
+DP 75
+
+Hermanitz,11.11.,Paul,Matouss,Maresch,Catharina,Jan,Martinek
+Czokytle und Hermanitz,13.11.,Christian,Jan,Morawek,Catharina,Tobias,Kubelka
+Czermna und Jamnay,18.11.,Paul,Jacob,Heyl,Marianna,Paul,Philipp
+Tschenkowitz,18.11.,Paul,Caspar,Heylerr#,Anna,Martin,Steczlench#
+Tschenkowitz,18.11.,Paul,Jan,Nehyba,Maria,Matej,Lyrr
+Jamnay und Tschenkowitz,18.11.,Matej,Jan,Chladek,Judith,Jan,Schmidt
+
+DP 76
+
+Jamnay und Tschenkowitz,25.11.,Martin,-,Hansliczek,Marianna,Jirzik,Simon,W
+Hermanitz,25.11.,Jan,Jirzik,Kubelka,Dorothea,Mikulass,Beran,-,W
+
+1697
+
+Worlitschka und Tschenkowitz,20.1.,Mikulass,-,Heisler,Rosina,Paul,Nosek,W
+Worlitschka,27.1.,Matej,-,Schlesinger,Rosina,Mikulas,Heisler,W
+Tschenkowitz,3.2.,Paul,Christoph,Heisler,Regina,Paul,Fischer
+Tschenkowitz und Worlitschka,3.2.,Jan,Paul,Heisler,Catharina,Michael,Schlesinger
+Hermanitz,3.2.,Jan,Matej,Maresch,Catharina,Waczlaw,Kubelka
+
+DP 77
+
+Hermanitz,3.2.,Paul,Matej,Hluchy,Anna,Jirzik,Schwestka
+Weyprachticz,3.2.,Matej,,Paul,Skaliczky,Marianna,Jan,Buzek
+Weyprachticz,10.2.,Waczlaw,Jirzik,Heubss,Judith,Waczlaw,Kubesch
+Weyprachticz,10.2.,Martin,Jan,Chladek,Anna,Paul,Skaliczky
+Weyprachticz und Tschenkowitz,10.2.,Jan,Matauss,Jinek#,Susanna,Paul,Heisler
+Worlitschka,10.2.,Waczal,Michael,Heisler,Elisabeth,Paul,Schlesinger
+Worlitschka,17.2.,Caspar,-,Schüll,Elisabeth,Christoph,Weinlich,W
+Weyprachtitz,30.4.,Jirzik,-,Hauser,Anna,Martin,Holomek,W
+
+DP 78
+
+Jamnay,5.5.,Waczlaw,-,Philipp,Judith,Dominik,Schlesinger,W
+Jablona,13.5.,Paul,Waczlaw,Hawel,Dorothea,Jan,Shybal
+Tschenkowitz,19.5.,Mikulass,Martin,Stöhr,Maria,Jirzik,Sonntag
+Jamnay,9.6.,Jan,-,Doleczal,Anna,Jacob,Kobliczek,W
+Weyprachticz,24.6.,Waczlaw,Adam,Dlouhy,Judith,Paul,Kuba
+Bystrcze,30.6.,Mikulas,-,Peter,Anna,Jan,Spiczak,W (Petru == Peter?)
+Weyprachtitz,2.7.,Martin,Jirzik,Heubss,Marina,Jan,Sedlarz
+Bystrcze,7.7.,Waczlaw,Jirzik,Kuczera,Anna,Jan,Mateyka,-,W
+
+DP 79
+
+Hermanitz,7.7.,Paul,-,Schwestka,Magdalena,Jan,Jansky,W
+Worlitschka,11.8.,Waczlaw,Jirzik,Langer,Susanna,Christoph,Schlesinger
+Worlitschka,8.9.,Andreas,Waczlaw,Schlesinger,Maria,Friedrich,Weyprta
+Weypprachtitz und Hermanitz,29.9.,Jan,Jirzik,Kesler,Catharina,Martin,Kubelka
+Jamnay,20.10.,Jan,Jacob,Steyskal,Marina,Mikulass,Zeidlmann
+Bystrcze,27.10.,Jirzik,-,Hrdina,Anna,Waczlaw,Jezek,W
+
+DP 80
+
+Worlitschka und Tschenkowitz,27.10.,Michael,Matej,Schlesinger,Susanna,Paul,Fischer
+Tschenkowitz,28.10.,Christoph,-,Heisler,Catharina,Peter,Hawlass Senior,W
+Jamnay und Worlitschka,3.11.,Waczlaw,Dominik,Schlesinger,Judith,Caspar,Dittrich
+Hermanitz,3.11.,Jirzik,Matej,Maresch,Anna,Jacob,Maresch
+Bystrcze,3.11.,Mikulass,-,Waniek,Maryanna,Jan,Wrzak,W
+Worlitschka,11.11.,Jacob,-,Czernohorsky,Regina,Jeremias,Schüll,W
+
+DP 81
+
+Worlitschka,17.11.,Caspar,Caspar,Dittrich,Judith,Paul,Kobliczek
+Hermanitz und Walterczitz,17.11.,Jirzik,Jan,Kesler,Anna,Jan,Koubek
+Tschenkowitz,24.11.,Michael,Waczlaw,Hentzl,Regina,Michael,Bok
+Tschenkowitz,25.11.,Jacob,Jacob,Kobliczek,Anna,Jan,Feltzmann
+
+1698
+
+Weyprachtitz,13.1.,Jirzik,Jan,Marek,Maryanna,Martin,Chladek
+Weypprachtitz,19.1.,Martin,Martin,Skaliczky,Catharina,Jirzik,Marek
+
+DP 82
+
+Hermanitz,19.1.,Waczlaw,Martin,Ssytka,Catharina,Jacob,Zalman
+Hermanitz,19.1.,Waczlaw,-,Kubos,Catharina,Jirzik,Kulhanek,W
+Jamnay und Jablona,19.1.,Paul,Jacob,Bednarcz,Eva,Jirzik,Jawurek
+Bystrcze,19.1.,Martin,Jirzik,Kaschka,Eva,Jirzik,Martinow
+Tschenkowitz und Worlitschka,23.1.,Jan,Jirzik,Koblischek,Susanna,Andreas,Pol,-,W
+Hermanitz,2.2.,Paul,Paul,Kubinek,Dorothea,Matej,Mraczek
+
+DP 83
+
+Tschenkowitz,9.2.,Jan,Jirzik,Stoltz,Maria,Mikulass,Weinlich
+Worlitschka und Tschenkowitz,4.5.,Christoph,-,Hoffmann#,Maria,Jan,Feltzmann,W
+Czerwana Woda und Hermanitz,5.5.,Jan Jirzik,Jan,Khuns,Anna,Paul,Cubecky
+Walterczitz,11.5.,Tobias,Jirzik,Nehyba,Susanna,Adam,Duschek
+Jablona,11.5.,Jan,Paul,Jirus,Elisabeth,Jirzik,Schwantzar
+Walterczitz und Weypprachtitz,25.5.,Jirzik,-,Bechaczek,Catharina,David,Schüll,W
+
+DP 84
+
+Weypprachtitz,1.6.,Waczlaw,-,Schembera,Judith,Franz,Chladek,W,W
+Hermanitz,15.6.,Paul,Matej,Sczynek,Judith,Jan,Maresch
+Worlitschka,6.7.,Jan,-,Krögler,Sabina,Martin,Scholtz,W
+Bystrcze,13.7.,Jan,-,Hrdinka,Anna,Matieg,Jezek,W (Hrdinka == Hrdina?)
+Tschenkowitz,28.9.,Jan,Jirzik,Sonntag,Susanna,Jan,Rosner
+Bystrcze,29.9.,Jan,-,Waniczek,Susanna,Urban,Kostelnik,W
+
+DP 85
+
+Bystrcze,7.10.,Jirzik,-,Mach,Anna,Jan,Lysska,W
+Bystrcze,28.10.,Waczlaw,Waczlaw,Hrdina,Maria,Paul,Waschiczek
+Lubnik,2.11.,Jan,Waczlaw,Christoph,Dorothea,Jacob,Doleczek
+Worlitschka,12.11.,Waczlaw,Mikulass,Heisler,Rosina,Jirzik,Weinlich,-,W
+Worlitschka,9.11.,Waczlaw,Waczlaw,Schlesinger,Maria,Paul,Schlesinger
+Hermanitz,16.11.,Martin,Waczlaw,Kubiczek,Catharina,Jirzik,Kubelka
+
+DP 86
+
+Bila Voda und Worlitschka,16.11.,Jirzik,Jan,Schyra,Susanna,Caspar,Schüll
+Jamnay,16.11.,Jirzik,Paul,Doleczal,Magdalena,Jirzik,Kyllar
+Bysrcze,16.11.,Martin,Jan,Kaschka,Catharina,Jirzik,Ssych
+Bystrcze,18.11.,Waczlaw,Paul,Hrdina,Judith,Waczlaw,Kratky
+Tschenkowitz,23.11.,Christoph,Jan,Kobliczek,Maria,Jan,Lyr
+
+1699
+
+Jamnay und Jablona,18.1.,Waczlaw,Adam,Valenta,Catharina,Jan,Wottawa
+
+DP 87
+
+Czermny und Weyprachtitz,18.1.,Matej,Jan,Wawra,Maria,Jirzik,Jarolym
+Weypprachticz,18.1.,Jan,Stephan,Seidlmann,Dorothea,Paul,Hawelka
+Weypprachticz,25.1.,Jan,Jirzik,Chrauxxx#,Dorothea,Jan,Worlitschka
+Bysrcze und Hermanitz,1.2.,Jirzik,Jirzik,Kyllar,Elisabeth,Matouss,Heyl
+Worlitschka,2.2.,Christoph,-,Weinlich,Anna,Jan,Langer,W
+Jamnay,8.2.,Paul,Paul,Behounek,Catharina,Jacob,Jiroucz
+
+DP 88
+
+Jablona und Weypprachtitz,9.2.,Franz,Christoph,Weinlich,Eva,Paul,Daczilek
+Weypprachtitz,15.2.,Waczlaw,Jacob,Rzehak,Magdalena,Paul,Heyl
+Weypprachtitz,15.2.,Jan,Martin,Wottawa,Dorothea,Martin,Holamek
+Jamnay,15.2.,Paul,Martin,Chladek,Judith,Jacob,Seybal
+Worlitschka,22.2.,Martin,Jirzik,Schitka,Susanna,Jeremias,Schüll
+Worlitschka,24.2.,Jirzik,-,Pfertner,Rosina,Paul,Langer
+
+DP 89
+
+Worlitschka,2.3.,Franz,Jirzik,Schlesinger,Elisabeth,Jirzik,Schütka#
+Bystrcze,3.5.,Martin,Jirzik,Kratky,Catharina,Waczlaw,Cezka#
+Tschenkowitz,10.5.,Jan,-,Koblischek,Maria,Paul,Lyr,W,W
+Weyprachtitz und Herboticz,21.6.,Jan,Paul,Heyl,Anna,Jirzik,Wottawa
+Bystrcze,30.7.,Jirzik,Jirzik,Schimek,Magdalena,Jacob,Hrdina
+Worlitschka,9.8.,Jirzik,-,Krögler,Anna,Ondrzej,Gabler,W
+
+DP 90
+
+Weyprachtitz,29.9.,Jirzik,Jan,Kyllar,Rosina,Waczlaw,Grögor
+Weyprachtitz und Hermanitz,5.10.,Jan,-,Jarolym,Eva,Jan,Kubiczek,W,W
+Weyprachtitz,11.10.,Jirzik,Jan,Busek,Catharina,Jan,Ptaczek
+Tschenkowitz,28.10.,Matej,Peter,Hawel,Maria,Paul,Egydi
+Hermanitz und Bludow,2.11.,Jan,Tobias,Kubelka,Barbara,Jan,Maczek
+Weyprachtitz,9.11.,Paul,-,Skaliczky,Catharina,Jan,Jandasek,W,W
+
+DP 91
+
+Weyprachtitz und Jamnay,15.11.,Martin,Matieg,Falta,Catharina,Paul,Doleczal
+Worlitschka und Jamnay,22.11.,Christoph,-,Hauk,Elisabeth,Paul,Steyskal,W
+
+1700
+
+Jablona,18.1.,Jan,Waczlaw,Lzyczarz,Anna,Jan,Polak
+Worlitschka,31.1.,Caspar,Christoph,Dittrich,Maria,Ondrzej,Kröger# (Kröger == Krögler?)
+Hermanitz,31.1.,Paul,Jacob,Maresch,Rosina,Paul,Kubelka
+Weyprachtitz und Bystrcze,31.1.,Paul,Jan,Doleczal,Magdalena,Waczlaw,Seidlmann
+
+DP 92
+
+Jamnay,2.2.,Paul,Paul,Doleczal,Dorothea,Jacob,Steyskal
+Bystrcze und Tschenkowitz,2.2.,Paul,Jirzik,Kratky,Maria,Paul,Weinlich
+Worlitschka,2.2.,Jan,Jirzik,Pfertner,Rosina,Jacob,Czernohorsky
+Weyprachtitz,2.2.,Jan,Jan,Buczek,Dorothea,Paul,Taussek
+Jamnay,7.2.,Waczlaw,Jirzik,Koblischek,Anna,Waczlaw,Horaczek
+Weyprachtitz,7.2.,Jan,Jan,Ptaczek,Catharina,Paul,Lyr
+
+DP 93
+
+Bystrcze,16.2.,Jan,-,Weinlich,Maria,Jirzik,Kratky,W
+Worlitschka,21.2.,Jirzik,Jirzik,Lyr,Susanna,Bartholomäus,Schlesinger
+Wetzmerzowicz und Bystrcze,21.2.,Jirzik,-,Stepanek,Judith,Bartholomäus,Hanesch,W
+Bystrcze,2.5.,Jirzik,-,Uher,Ludmilla,Jan,Horaczek,W
+Worlitschka,23.5.,Jirzik,-,Schütke#,Regina,Jacob,Haness
+Walterzicz,1.6.,Paul,Jan,Schüll,Elisabeth,Jan,Hrykel#
+
+DP 94
+
+Hermanitz,1.8.,Jan,Jacob,Zalmann,Catharina,Franz,Jezek,-,W
+Jablona,26.9.,Jirzik,-,Schweyda,Elisabeth,Jan,Jawurek Senior,W
+Weyprachtitz,26.9.,Matouss,Paul,Chladek,Maria,Jan,Kyllar
+Jablona,26.9.,Jirzik,-,Schweyda,Elisabeth,Jan,Jawurek Senior,W (Wiederholung eines Eintrags von der linken Seite)
+Weyprachtitz,26.9.,Mateg,Paul,Chladek,Maria,Jan,Kyllar (Wiederholung eines Eintrags von der linken Seite)
+Walterzicz,3.10.,Jacob,-,Duchaczek,Regina,Waczlaw,Blaczek,W
+
+DP 95
+
+Weyprachtitz und Hermanitz,3.10.,Paul,-,Marek,Anna,Jan,Stembera,W
+Weyprachtitz und Bystrcze,17.10.,Paul,Matieg,Hawlena,Maria,Martin,Pauk
+Tschenkowitz,17.10.,Christoph,Waczlaw,Hontzcler,Eva,Jan,Krögler
+Weyprachtitz und Worlitschka,24.10.,Waczlaw,Pawel,Keslerg,Anna Maria,Tobias,Woger
+Jamnay,24.10.,Waczlaw,-,Lischka,Anna,Waczlaw,Srstu#,W (Lysska == Lischka?)
+Weyprachtitz,2.11.,Martin,Jan,Hrabacz,Catharina,Jan,Sedlarcz
+
+DP 96
+
+1701
+
+Bystrcze,12.1.,Paul,Martin,Pauk,Maria,Jan N.,Pacak
+Hermanitz und Tschenkowitz,23.1.,Franz,Jan,Heyl,Rosina,Paul,Fischer
+Worlitschka,30.1.,Ondrzej,Jan,Weinlich,Maria,Adam,Krögler
+Walterzitz und Rodlticz,2.2.,Jirzik,-,Wentrich,Susanna,Jan,Motcza,W
+Worlitschka,2.2.,Caspar,-,Schüll,Anna Maria,Jirzik,Langer,W
+Tschenkowitz,6.2.,Jan,Marek,Polak,Maria,Jirzik,Stoltz
+
+DP 97
+
+Bystrcze,12.1.,Paul,Martin,Pauk,Maria,Jan N.,Pacak
+Hermanitz und Tschenkowitz,23.1.,Franz,Jan,Heyl,Rosina,Paul,Fischer
+Worlitschek,30.1.,Ondrzej,Jan,Weinlich,Maria,Adam,Krögler
+Walterzitz und Rudolticz,2.2.,Jirzik,-,Wentrich,Susanna,Jan,Motcza,W
+Worlitschka,2.2.,Caspar,-,Schüll,Anna Maria,Jirzik,Langer,W
+Tschenkowitz,6.2.,Jan,Marek,Polak,Maria,Jirzik,Stoltz
+
+DP 98
+
+Tschenkowitz,6.2.,Michael,Jirzig,Sonntag,Maria,Jan,Nehyba
+Jamnay,17.4.,Waczlaw,Jirzik,Waczek,Catharina,Jirzik,Morawetz,-,W
+Tschenkowitz,18.4.,Jan,Jan,Byna,Judith,Christoph,Fryda
+Bystrcze,4.4.,Paul,Waczlaw,Machaczek,Catharina,Jirzik,Uher
+Weyprachtitz,8.5.,Jan,-,Chladek,Catharina,Jan,Doleczal,W
+Hermanitz,9.5.,Marczyan,Jan,Weskra#,Catharina,Waczlaw,Doleczal
+
+DP 99
+
+Czokytle und Tschenkowitz,29.5.,Caspar,Bartholomäus,Bryks,Sabina,Christoph,Koblischek,-,W
+Jamnay und Jablona,26.6.,Dominik,-,Schlesinger,Dorothea,Jan,Zyz#,W
+Jamnay,10.7.,Jan,-,Doleczek,Anna,Jacob,Kopeczky,W
+Hermanitz,25.7.,Jan,Paul,Zalmann,Maria,Jan,Kozaczek (Der Vater des Bräutigams ist von Worlitschka)
+Weyprachtitz und Tschenkowitz,10.8.,Jacob,-,Morawetz,Maria,Jan,Ssula
+Trzebowy und Jablona,18.9.,Waczlaw,Paul,Czaslawsky,Barbara,Peter,Kykora (Vermutlich Ceska Trebova)
+
+DP 100
+
+Jablona,25.9.,Waczlaw,Paul,Skaliczky,Elisabeth,Jan,Polak
+Jamnay,28.9.,Jirzik,Jirzik,Kregczy,Elisabeth,Adam,Valenta
+Tschenkowitz,2.10.,Paul,Bartholomäus,Hostian#,Regina,Jan,Fischer
+Worlitschka und Walterzitz,11.10.,Christoph,Bartholomäus,Heisler,Maria,Caspar,Steutwuh#
+Jamnay und Worlitschka,23.10.,Jan,Martin,Spaczek,Regina,Tobias,Heisler,-,W
+Worlitschka,30.10.,Jan,Jan,Schlesinger,Rosina,Jan,Gubler
+
+DP 101
+
+Hermanitz,1.11.,Martin,Martin,Heyl,Catharina,Jan,Kozaczek
+Tschenkowitz,6.11.,Waczlaw,Adam,Lyr,Susanna,Jan,Blassek
+Tschenkowitz,13.11.,Jan,Waczlaw,Michalek,Elisabeth,Paul,Heisler#
+Bystrce,16.11.,Jan,Waczlaw,Hrdina,Maria,Jacob,Ptaczek
+Tschenkowitz und Worlitschka,20.11.,Michael,Caspar,Heisler,Anna,Christoph,Krögler
+Hermanitz,20.11.,Jan,Paul,Schwestka,Maria,Paul,Kozaczek
+
+
+
+
+
+
+DP 102
+
+Tschenkowitz,20.11.,Tobias,-,Polaczek,Susanna,Paul,Nehyba,W
+
+1702
+
+Jamnay,15.1.,Waczlaw,Jirzik,Bednarcz,Catharina,Jacob,Bykar
+Jablona,23.1.,Augustin,Jan,Czerwenka,Anna,Jirzik,Heyl
+Herauticz und Walterzicz,23.1.,Tobias,Jirzik,Hanesch,Susanna,Michael,Schüll
+Tschenkowitz und Bystrcze,29.1.,Jirzik,Jan,Ambrosch,Marianna,Jirzik,Jezek
+Hermanitz,29.1.,Jan,Jan,Jansky,Catharina,Matieg,Maresch
+
+DP 103
+
+Jablona und Worlitschka,5.2.,Jan,Jirzik,Hrnczirzow#,Regina,Mattieg,Weinlich,-,W
+Hermanitz,5.2.,Martin,Mattieg,Marek,Judith,Paul,Zalmann
+Weyprachtitz,5.2.,Mataus,-,Rösler,Judith,Jirzik,Jarolimek,W
+Auraz und Hermanitz,12.2.,Jirzik,Jirzik,Frida#,Maria,Waczlaw,Kubelka ("von Auraz von Dolni Slysko" in Niederschlesien)
+Tschenkowitz und Walterzitz,12.2.,Friedrich,Michael,Koblischek,Maria,Jirzik,Schytka
+Hermanitz,12.2.,Paul,Martin,Maresch,Dorothea,Paul,Jansky
+
+DP 104
+
+Jamnay,12.2.,Waczlaw,-,Morawetz,Susanna,Dominik,Schlesinger,W
+Bystrcze,19.2.,Franz,Paul,Kubiczek,Maria,Waczlaw,Waschiczek (Der Bräutigamsvater ist von Hermanitz)
+Weyprachtitz,26.2.,Jirzik,Paul,Heyl,Catherina,Adam,Kuba
+Jamnay,26.2.,Matthouss,Jacob,Koblischek,Anna,Jan,Prokopecz
+Jablona,14.5.,Jan,-,Ssycz,Maria,Paul,Skaliczky,W
+Jamnay,14.5.,Jacob,Jan,Jezek,Anna,Jirzik,Prokop,-,W
+
+DP 105
+
+Hermanitz,21.5.,Waczlaw,Waczlaw,Zalmann,Eva,Martin,Mraczek
+Tschenkowitz,21.5.,Jacob,Tobias,Polak,Maria,Jirzik,Duchaczek
+Worlitschka,21.5.,Chrstoph,-,Pfertner,Justina,Tobias,Heisler,W
+Tschenkowitz,5.6.,Mikulas,Christoph,Fryda,Maria,Jan,Steinluha#,-,W
+Jamnay,5.6.,Peter,-,Czernohaus,Dorothea,Martin,Spaczek,W
+Hermanitz und Pisarow,18.6.,Paul,Waczlaw,Schembera,Dorothea,Martin,Spaczek
+
+DP 106
+
+Worlitschka,18.6.,Christoph,-,Langer,Elisabeth,Jirzik,Schüll,W
+Hermanitz,18.6.,Martin,Paul,Schwestka,Maria,Jirzik,Sedlarcz
+Bystrcze und Tschenkowitz,10.7.,Jirzik,-,Kaschka,Catharina,Mitieg,Horaczek,W (Unklar, ob Mitieg Vater oder Vorehemann)
+Jamnay und Hermanitz,13.8.,Jan,Jirzik,Waczek,Catherina,Matieg,Maresch
+Weyprachtitz und Wustrwe#,27.8.,Franz,-,Weinlich,Susanna,Jan,Zemann,W
+Worlitschka,3.9.,Jirzik,Christoph,Harnert#,Susanna,Jirzik,Pfertner
+
+DP 107
+
+Bystrcze,5.9.,Jacob,Paul,Charvat,Magdalena,Philipp,Patzel
+Worlitschka,7.9.,Michael,-,Pfertner,Anna,Christoph,Hauk,W
+Hermanitz und Czermna,7.9.,Jan,Paul,Bily,Maria,Lorentz,Heslr#
+Tschenkowitz,1.10.,Thomas,-,Weygl,Catherina,Christoph,Seisler,W,W
+Hermanitz,1.10.,Waczlaw,-,Mach,Judith,Martin,Kobess (Kubesch?)
+Hermanitz,2.10.,Waczlaw,Jan,Netussil,Dorothea,Jan,Sedlaczek (Bräutigamvater ist von Studena)
+
+DP 108
+
+Bystrcze,29.10.,Jan,-,Kaschka,Anna,Jacob,Hrdina,W
+Hermanitz,29.10.,Jirzik,-,Zalmann,Dorothea,Mattieg,Skorpil,W
+Hermanitz,29.10.,Jan,Jan,Koubek,Dorothea,Jirzik,Maresch
+Weyprachtitz,1.11.,Jirzik,-,Skaliczky,Veronica,Waczlaw,Grägor#,W (Gröger? Gregor?)
+Bystrcze,5.11.,Martin,-,Kratky,Susanna,Jan,Mraczek,W
+Jamnay,5.11.,Jan,Jan,Kregczi,Maryanna,Jirzik,Philipp
+
+DP 109
+
+Worlitschka,5.11.,Jirzik,Pawel,Langer,Anna Rosina,Crystoph,Weigel
+Bystrcze,7.11.,Waczlaw,Waczlaw,Kos,Maryanna,Jirzik,Uher
+Worlitschka,8.11.,Frantissek,-,Czarnordt#,Sabina,Jeremias,Schüll,W
+Jamnay,12.11.,Augustin,Dominik,Schlesinger,Dorota,Pawel,Kyllar
+Czerwena Woda,12.11.,Franzissek,-,Jan,Schüll,Alzbieta,Heinrich#,Beczniss# (Herkunftsort ist der der Braut, für den Bräutigam ist kein Herkunftsort angegeben)
+Weyprachtitz,12.11.,Mateg,Mateg,Skaliczky,Anna,Mataus,Jankowa (Nachname des Brautvaters im Nominativ möglicherweise Janek oder Janku?)
+
+DP 110
+
+Bystrcze,15.11.,Waczlaw,Jirzik,Anderle,Caterzina,Jan,Krziwohlawek
+Weypprachtitz,19.11.,Jan,Mattieg,Hawlena,Maria,Mattieg,Skaliczky
+Hermanitz,19.11.,Waczlaw,Jan,Jansky,Judith,Pawel,Kubenka
+Weyprachtitz und Bystrcze,19.11.,Martin,Pawel,Hawel,Marya,Waczlaw,Friedmann
+Hermanitz,19.11.,Pawel,Jan,Jansky,Maria,Pawel,Schwestka
+Tschenkowitz,19.11.,Michal,Jan,Fischer,Maria,Martin,Stara
+
+DP 111
+
+Bysrcze,21.11.,Jan,Jirzik,Mister#,Caterzina,Waczlaw,Kuczera
+
+1703
+
+Jamnay,28.1.,Jakub,Jirzik,Kreyczawa#,Dorota,Jan,Chladek
+Tschenkowitz und Walterzicz,28.1.,Christoph,Christoph,Heisler,Maria,Michal,Schüll
+Tschenkowitz,28.1.,Jan,Mikulas,Polak,Maria,Jan,Kobliczek
+Tschenkowitz,28.1.,Jakub,Martin,Spaczek,Alzbieta,Adam,Lyr
+Petrowitz und Weypprachticz,29.1.,Martin,Waczlaw,Kupka,Caterzina,Peter,Waczek
+
+DP 112
+
+Bystrcze und Walterzicz,29.1.,Jirzik,Jirzik,Kuczera,Rosina,Martin,Feltzmann
+Tschenkowitz,4.2.,Jan,Michal,Bok,Anna,Waczlaw,Hentzl
+Walterzicz,4.2.,Pawel,Bartholomäus,Weinlich,Maria,Jan,Czeobrich#
+Bystrcze,4.2.,Jirzik,Waczlaw,Jezek,Dorota,Jan,Spiczak
+Weyprachticz,6.2.,Pawel,Mattieg,Matiegka,Dorota,Petter,Waczek
+Worlitschka,11.2.,Jan,Jirzik,Langer,Maria,Jeremias,Schüll
+
+DP 113
+
+Hermanitz und Tschenkowitz,11.2.,Jan,Waczlaw,Kubelka,Veronica,Paul,Weinlich
+Czermna und Jamnay,11.2.,Martin,Jan,Heyl,Magdalena,Paul,Dolezal
+Hermanitz und Herboticz,11.2.,Mattieg,Mattieg,Maresch,Maria,Waczlaw,Dursky
+Weyprachticz,11.2.,Jan,Tobias,Rösler,Magdalena,Jirzik,Wondra
+Walterzicz und Zabrzeh,11.2.,Ondrzej,Waczlaw,Beczka,Anna,Christoph,Klima
+Hermanitz,11.2.,Martitn,Paul,Pawlas,Caterzina,Tobias,Daczilek
+
+DP 114
+
+Hermanitz,11.2.,Martin,Waczlaw,Barton,Judith,Waczlaw,Stembera
+Smrzic und Hermanitz,13.2.,Joseph,Jirzik,Danek,Rosina,Martin,Kubalek
+Worlitschka,13.2.,Frantissek,Tobias,Wagner,Alzbieta,Kaspar,Dittrich Senior
+Bystrce,13.2.,Pawel,Jan,Teykl,Judith,Jirzik,Schimek
+Hermanitz,18.2.,Pawel,Jan,Schembera,Magdalena,Pawel,Zalmann
+Tschenkowitz,18.2.,Karel,Jirzik,Weinlich,Alzbieta,Jirzik,Kobliczek
+
+DP 115
+
+Tschenkowitz und Hermnaitz,19.2.,Jan,Pawel,Weinlich,Anna,Martin,Kubelka
+Bystrce,1.5.,Waczlaw,Waczlaw,Machaczek,Maryanna,Jirzik,Kos
+Walterzicz,6.5.,Michal,Waczlaw,Schitka,Caterzina,Adam,Dussek
+Weyprachtitz,8.5.,Jan,Martin,Chladek,Magdalena,Matteg,Smeykal
+Nekorz und Bystrce,10.6.,Wilym,Waczlaw,Stetina,Maryanna,Krystoff,Schüll
+Tschenkowitz und Walterzicz,10.6.,Jan,Jan,Schmid,Judith,Tobias,Kubesch
+
+DP 116
+
+Weyprachtitz,5.6.,Jan,Waczlaw,Morawetz,Maryanna,Pawel,Heyl
+Cotkyttl und Weyprachtitz,1.7.,Matteg,-,Knapek,Anna,Adam,Smeykal,W
+Niederhermanitz und Weyprachtitz,15.7.,Johann,Paul,Kubienka,Magdalena,Mathias,Ptaczek
+Jablona,20.8.,Wenceslaus,-,Sedlarcz,Catharina,Wenceslaus,Cziszar,W (Der Nachname der Braut ist tschechisch für "Kaiser")
+Czermna und Weyprachtitz,26.8.,Martin,-,Jansa,Judith,Wenceslaus,Hrubesch,-,W (Vatername des Bräutigams nicht genannt, und ob er Witwer war, auch nicht genannt)
+Tschenkowitz,3.9.,Georg,-,Seidlmann,Justina,Peter,Hawel
+-,2.10.,Georg,Paul,Skaliczky,Anna,Wenceslaus,Bechausek
+Weyprachtitz und Worlitschka,14.10.,Mathias,-,Rczehak,Catharina,Johann,Weinlich (Unbekannt, ob unverheirateter Sohn oder Witwer)
+Tschenkowitz und Neudorf,16.10.,Augustin,Paul,Heisler,Susanna,Georg,Schytke
+Niederhermanitz,28.10.,Georg,Georg,Brokesch,Dorothea,Wenceslaus,Schembera (Unbekannt ob Jungfrau oder Witwe)
+Bystrcze und #,4.11.,Mathias,-,Waschiczek,Anna,Georg,Uher,W
+Jamny,4.11.,Johann,-,Waczek,Dorothea,Georg,Pirkl,W
+Niederhermanitz und Oberhermanitz,4.11.,Martin,-,Schembera,Ludmilla,Mathias,Lyr,W
+Bystricze,4.11.,Wenceslaus,Johann,Kaschka,Magdalena,Georg,Anderle
+Worlitschka,7.11.,Wenceslaus,Mathias,Köller,Catharina,Nicolaus,Hauk
+Worlitschka,7.11.,Caspar,Michael,Heisler,Susanna,Christoph,Kußner,-,W
+Tschenkowitz,11.11.,Wenceslaus,Paul,Koblischka,Veronica,Georg,Schüll
+
+DP 117
+
+Bistricze,11.11.,Paul,Mathias,Falta,Marianna,Lucas,Kuba
+Bystricze und Weyprachtitz,13.11.,Johann,Urban,Kostelnik#,Judith,Johann,Killar
+Weyprachtitz und Jamny,18.11.,Jacob,-,Rzehak,Catherina,Paul,Schüll# (Unklar, ob Jacob unverheirateter Sohn oder Witwer)
+Tschenkowitz,18.11.,Paul,Tobias,Polak,Maria,Michael,Ahsmann
+Worlitschka,19.11.,Mathias,Georg,Schüll,Rosina,Bartholomäus,Heisler
+
+1704
+
+-,7.1.,Caspar,Johann,Polak,Rosina,Johann,Koblischek (Berufe Chalupary#/Gärtner)
+Bystricio und Weyprachtitz,13.1.,Wenceslaus,-,Koblischek,Rosina,Paul,Chladek,W
+Weyprachtitz,15.1.,Georg,Mathias,Pawel,Dorothea,Georg,Rzehak
+Bystricio,15.1.,Jacob,Martin,Waschiczek,Catharina,Wenceslaus,Kratky
+Hermanitz,20.1.,Mathias,Johann,Taraschek,Catharina,Johann,Zalmann
+Hermanitz,20.1.,Adam,Nicolaus,Jansky,Anna,Johann,Taraschek
+Bistricio und Jablona,22.1.,Johann,Johann,Dittrich,Catharina,Wenceslaus,Behausek (Berufe Müller/Inwohner)
+-,27.1.,Johann,Mathias,Kucelka#,Magdalena,Martin,Hedina
+Weyprachtitz,27.1.,Georg,Johann,Trapota,Dorothea,Martin,Ptaczek
+Weyprachtitz,27.1.,Nicolaus,Mathias,Janek,Magdalena,Johann,Ptaczek
+Weyprachtitz,27.1.,Wenceslaus,Mathias,Skaliczky,Anna,Georg,Daubrawa
+Weyprachtitz,27.1.,Johann,Nicolaus,Girasek,Magdalena,Nicolaus,Brokesch
+Hermanitz,27.1.,Johann,Mathias,Skorpil,Anna,Johann,Jansky#
+Jablona,27.1.,Wenceslaus,Jacob,Gelinek,Judith,Wenceslaus,Polak
+Worlitschka,27.1.,Paul,Johann,Weinlich,Dorothea,Michael,Schlesinger
+Weyprachtitz,28.1.,Clemens,Wenceslaus,Gregor,Marina,Martin,Skaliczky
+
+DP 118
+
+Weyprachtitz und Jablona#,28.1.,Paul,Paul,Resler,Esther,Martin,Urban,-,W
+Jablona,29.1.,Anton,Jacob,Stiasny,Rosina,Georg,Jawurek (Berufe Bürger/-)
+Tschenkowitz und Niederhermanitz,3.2.,Christoph,Johann,Hauk,Judith,Paul,Maresch
+Worlitschka und Tschenkowitz,3.2.,Franz,Georg,Pfertner,Susanna,Johann,Weinlich
+Worlitschka und Tschenkowitz,3.2.,Johann,-,Gabler,Regina,Tobias,Polaczek,W
+Niederhermanitz und Pisarsko#,7.4.,Martin,Georg,Kubelka,Anna,Wenceslaus,Walenta
+Bistricio,13.4.,Johann,Wenceslaus,Kos,Anna,Georg,Hedina
+Tschenkowitz,4.5.,Thomas,-,Weigl#,Maria,Paul,Noschke,W
+Neudorf und Tschenkowitz,4.5.,Tobias,Johann,Noschke,Anna,Michael,Bok
+Worlitschka und Tschenkowitz,12.5.,Johann,Caspar,#yl,Susanna,Nicolaus,Asmann (Schyll?)
+Worlitschka,18.5.,Paul,Abraham,#yl,Regina,Christoph,Weinlich (Schyll?)
+Jablona,20.5.,Johann,Georg,Schwanzar,Magdalena,Georg,Waczek
+Worlitschka und Jamny,25.5.,Mathias,Jacob,Czernohorsky,Catharina,Wenceslaus,Philipp
+Weyprachtitz,25.5.,Martin,Martin,Wottawa,Marina,Georg,Buczek#
+Worlitschka,1.6.,Georg,-,Schlesinger,Rosina,Tobias,Schüll,W,W
+Jablona,8.6.,Franz,Wenceslaus,B#,Anna,Georg,Czerwenka (Bekr?)
+Oberhermanitz,11.6.,Johann,Mathias,Heyl,Magdalena,Wenceslaus,Kubesch
+Hermanitz,11.6.,Johann,Georg,Swestka,Catharina,Paul,Kulhanek
+Weyprachtitz und Hermanitz,15.6.,Johann,Mathias,Resler,Catharina,Georg,Mach
+Hermanitz,15.6.,Wenceslaus,Mathias,Karpil#,Anna,Wenceslaus,Schembera
+Bistricio,29.6.,Georg,-,Lischka,Anna,Paul,Waschiczek,W
+Tschenkowitz,29.6.,Caspar,Johann,#in,Elisabeth,Johann,Koblischka (Bin?)
+-,29.6.,Johann,-,Stefek#,Eva,Christoph,#,W,W (Schyl? Aber sehr schwer zu lesen! Könnte auch etwas Anderes heißen!)
+
+DP 119
+
+Weyprachtitz,13.7.,Martin,Georg,Chladek,Marina,Johann,Stromek#
+Tschenkowitz,13.7.,Michael,Nicolaus,Weinlich,Judith,Georg,Schüll
+Czotkietl# und Rudelsdorf,26.7.,Georg,-,Kuntz,Anna,Johann,Raab#,W
+Jamny und Weyprachtitz,18.8.,Jacob,Martin,Kobliczek,Catharina,Johann,Cordas
+Tschenkowitz,14.9.,Jacob,Stephan,Seidlmann,Marina,Georg,Horaczek
+-,7.10.,Johann,-,Mraczek,Dorothea,Johann,Ambros,W
+Weyprachtitz und -,12.10.,Johann,Georg,Marku#,Anna,Martin,Jansa (Anna's Herkunftsort wird nicht genannt)
+Oberhermanitz und Unterhermanitz,9.11.,Paul,Georg,Maresch,Marina,Lucas,Cink#
+Worlitschka,9.11.,Wenceslaus,Johann,Pe#wal,Marina,Christoph,Krögler
+Worlitschka,9.11.,Franz,Johann,Pe#wal,Elisabeth,D#cum,Weinlich (Dominik?)
+Worlitschka# und Neudorf#,9.11.,Georg,Georg,Schlesinger,Marina,Georg,Schüll (Herkunft des Bräutigams steht hinten!?)
+Bystricio,12.11.,Johann,Paul,Waschiczek,Magdalena,Paul,Hedina
+Worlitschka,12.11.,Johannes,-,Pfertner,Judith,Johann,Schüll,W
+Unterhermanitz,16.11.,Nicolaus,Marek#,Mabausch#,Marina,Georg,Fuda#,-,W (Nachnamen schwer zu lesen)
+Tschenkowitz und Bystricio,17.11.,Johann,Nicolaus,Weinlich,Elisabeth,Johann,Dittrich
+Hermanitz,18.11.,Franz,Tobias,Daczilek,Catharina,Martin,Schembera
+
+DP 120
+
+Bystrce,19.11.,Johann,Wenceslaus,Kuczera,Magdalena,Jacob,Kyllar
+Tschenkowitz,23.11.,Wenceslaus,Bartholomäus,Weinlich,Susanna,Johann,Bynn
+Bistrcio,23.11.,Jacob,Paul,Chromy,Marina,Martin,Ko#arcz
+
+1705
+
+Oberhermanitz,26.1.,Georg,Mathias,Mach,Catharina,Johann,Kulhanek
+Oberhermanitz,26.1.,Georg,Blasius,Bechaczek,Catharina,Georg,Cink
+Oberhermanitz,26.1.,Georg,Georg,Roczen,Anna,Mathias,Brokesch
+Jamny,1#.2.,Wenceslaus,Johann,Hedina,Anna,Johann,Morawek#
+Unterhermanitz und Weyprachtitz,1#.2.,Paul,Paul,Bily,Magdalena,David,Rösler ("eodem die")
+Bystricio,1#.2.,Georg,Wenceslaus,Machaczek,Susanna,Wenceslaus,Hedina ("ita Febr. - oder 4 oder 7?")
+-,8.2.,Georg,Jacob,Ptaczek,Elisabeth,Johann,Czernohorsky
+Tschenkowitz,9.2.,Tobias,Johann,Nehyba,Maria,Tobias,Krögler
+Worlitschka,14.2.,Georg,-,Heisler,Anna,Paul,Schlesinger,W
+
+DP 121
+
+Bystrce,15.2.,Jacob,Wenceslaus,Mraczek,Anna,Martin,Mategka
+Weyprachtitz,15.2.,Martin,Mathias,Smeykal,Magdalena,Georg,Doubrawa
+Neudorf,15.2.,Mathias,Mathias,Cordas,Rosina,Michael,Weinlich
+Worlitschka,15.2.,Franz,Michael,Feltzmann,Rosina,Christoph,Krögler
+Tschenkowitz und Unterhermanitz,17.2.,Mathias,Mathias,Heisler,Dorothea,Johann,Maresch
+Oberhermanitz,17.2.,Johann,Wenceslaus,Kubesch,Marina#,Mathias,Beran (Maria/Marina/Marianna/M.anna?)
+Mittlwald# und Boemo-Trebonia#,22.2.,Franz,Karl,Beschorner#,Rosalia,Paul,Uchytil# (Berufe Inwohner/-, Ortsnamen sehr unsicher, ebenso Nachnamen
+Neudorf,22.2.,Paul,Johann,Lyr,Judith,Michael,Ho#schyl#
+Tschenkowitz,22.2.,Johann,Johann,Weinlich,Apollonia,Paul,Heisler
+Worlitschka,3.5.,Georg,-,Krögler,Rosina,Christian,Schlesinger,W,W
+Worlitschka und Tschenkowitz,17.5.,Zacharias,-,Hoffmann,Sabina,Johann,Polak,W
+Jamny,24.5.,Johann,Wenceslaus,Doleczek,Catharina,Martin,Chladek
+Oberhermanitz und Unterhermanitz,1.6.,Nicolaus,-,Stytek#,Marina,Mathäus,Hluchy,W
+Bistrce,2.6.,Paul,Jacob,Ptaczek,Dorothea,Johann,Pauk
+-,28.6..,Paul,Jacob,Ptazek,Dorothea,Johann,Pauk
+
+DP 122
+
+Jamny und Jablona,5.7.,Paul,Johann,Philipp#,Catharina,Jacob,Jansa (Bräutigam und sein Vater richtig entziffert?)
+Tschenkowitz und Bistrce,26.7.,Martin,-,Czernohaus,Susanna,Johann,#niczek,W,W (Waniczek?)
+Worlitschka,2.8.,Dominik,-,Schüll,Rosina,Mathias,Schlesinger,W,W
+Weyprachtitz und Bistrce,24.8.,Georg,-,Kyral,Magdalena,Martin,Waschiczek,W
+Worlitschka,5.9.,Dominik,-,Schüll,Susanna,Georg,Schlesinger,W,W
+Tschenkowitz,6.9.,Mathias,-,Polaczek,Marina,Johann,Hauk#,W
+Neudorf,19.9.,Johann,Michael,Haubenschild,Magdalena,Tobias,Kubesch
+Czermna und Jamnay,19.9.,Jacob,Johann,Chladek,Marina,Johann,Kregczy
+Bistrce,29.9.,Paul,Johann,Spiczak,Marina,Georg,Waniczek
+Jablona,4.10.,Wenceslaus,-,Cziczar#,Anna,Johann,Schüll,W
+Neudorf und Worlitschka,18.10.,Johann,-,Schüll,Regina,Paul,Pe#wal,W
+Jamnay und Czermna,25.10.,Johann,Johann,Da#d#,Catharina,Georg,Kyral#
+Bistrce,25.10.,Martin,Georg,Schymek,Catharina,Martin,Mach
+Worlitschka und Jamny,1.11.,Georg,Joseph,Weinlich,Veronica,Dominik,Schlesinger
+Bistrce und Worlitschka,1.11.,Martin,Johann,Mraczek,Judith,Jeremias,Schüll
+
+DP 123
+
+Unterlipschau# und #,2.11.,Georg,Mathias,Hey#,Agnes,Jacob,Hes
+Worlitschka,8.11.,Tobias,-,Nehyba,Regina,Friedrich,Wey#,W,W
+Neudorf,8.11.,Johann,Georg,Feltzmann,Susanna,Michael,Bok
+Worlitschka,11.11.,Christoph,Johann,Weinlich,Susanna,Michael,Schlesinger
+Oberhermanitz,11.11.,Martin,-,Schytek#,Catharina,Georg,Heyll,W
+Jablona,15.11.,Thomas,Jacob,Czerny,Catharina,Johann,Seybal
+Czermna und Bystrice#,15.11.,Adam,-,Veith,Marina,Jacob,Kaschka,W (Feyth = Veith?)
+Tschenkowitz,15.11.,Johann,Paul,Kobliczka,Rosina,Maximilian,Polaczek#
+Tschenkowitz,15.11.,Paul,Michael,Bok,Susanna,Michael,Noschke
+Worlitschka,15.11.,Johann,Johann,Krögler,Anna,Johann,Schlesinger
+Tschenkowitz und Weyprachtitz,15.11.,Paul,Johann,Schmid,Magdalena,Wenceslaus,Kubisch#
+Weyprachtitz,15.11.,Georg,Johann,Hrabacz,Marina,Georg,Rösler
+Unter# und Oberhermanitz,15.11.,Wenceslaus,Paul,Chromy,Catharina,Georg,Ha#u
+Oberhermanitz,15.11.,Wenceslaus,Johann,Taraschka,Dorothea,Blasius,Blacz#
+Worlitschka und Tschenkowitz,15.11.,Wenceslaus,Bartholomäus,Schlesinger,Anna,Paul,Duchaczek (Schlesinger steht unten per Platzhalter #)
+Tschenkowitz und #,16.11.,Wenceslaus,Georg,Czernohorsky,Rosina,Jacob,Hantzl
+Czermna und Jamny,21.11.,Johann,Georg,Schüll#,Anna,Johann,Pekar#
+
+DP 124
+
+Jablona,21.11.,Daniel,Johann,Wottawa,Dorothea,Jacob,Czelinek
+Tschenkowitz,22.11.,Andreas,Adam,Byr,Marina,Johann,Weinlich
+Weyprachtitz,22.11.,Matthäus,Paul,Chladek,Judith,Matthäus,Skaliczky
+Bestrcio,22.11.,Georg,Johann,Hedina,Anna,Jacob,Kos
+Tschenkowitz,22.11.,Georg,Johann,Langer,Rosina,Tobias,Polaczek
+
+1706
+
+Tschenkowitz,17.1.,Johann,Georg,Hudecz#,Barbara,Georg,Duchaczek
+Oberhermanitz,24.1.,Martin,Mathias,Brokesch,Magdalena,Johann,Resler
+Jablona,31.1.,Wenceslaus,Paul,Merta,Anna,Georg,Grus
+Tschenkowitz,31.1.,Franz,Michael,Weinlich,Dorothea,Johann,Gerabek
+Bistrcio,31.1.,Jacob,Georg,Czezke#,Magdalena,Wenceslaus,Kuczera
+Worlitschka und Tschenkowitz,31.1.,Franz,Johann,Heisler,Catharina,Georg,Czernohaus
+Neudorf und Jakubowic#,31.1.,Georg,Georg,Nehyba,Dorothea,Laurentz,Gilg
+
+DP 125
+
+Bohemo-Trebovia# und Jablona,1.2.,Georg,Georg,Hartmann,Sabina,Johann,Koczek
+Tschenkowitz,2.2.,Georg,Bartholomäus,Nehyba,Dorothea,Georg,Hudecz
+Oberhermanitz,2.2.,Bartholomäus,Matthäus,Schytka,Marina,Ludwig,Koczak,-,W
+Bistrce und Oberhermanitz,2.2.,Wenceslaus,Jacob,Wonianka#,Judith,Nicolas,Junda#
+Unterhermanitz und Weyprachtitz,2.2.,Johann,Paul,Marek,Magdalena,D#,Skaliczky
+Bistrcio,3.2.,Martin,Georg,Kuczera,Catharina,Johann,Czurda#
+Oberhermanitz,7.2.,Johann,Mathias,Beran,Anna,Johann,Lyr
+Weyprachtitz,7.2.,Wenceslaus,Wenceslaus,Kubesch,Anna,Georg,Marek
+Weyprachtitz,7.2.,Martin,Jacob,Hawlena,Susanna,Matthäus,Janek
+-,7.2.,Georg,Georg,Krcziwohlawek,Magdalena,Jacob,Ptaczek
+Bystrice und Tschenkowitz,7.2.,Georg,Johann,Czernohorsky,Rosina,Tobias,Schüll
+#,7.2.,Martin,Johann,Michalek,Elisabeth,Paul,Doleczal
+
+DP 126
+
+Czermna und Jamnay,7.2.,Georg,Martin,Heygerlik,Dorothea,Georg,#a#k (Marek? Mach? Anfangsbuchstabe sieht aber eher wie ein "W" aus)
+Worlitschka,7.2.,Johann,-,Weypert,Rosina,Martin,Krögler,W,W
+Worlitschka,7.2.,Johann,Johann,Weinlich,Regina,Johann,Nehyba
+Unterhermanitz und Jablona,7.2.,Wenceslaus,Mathias,Heyl,Elisabeth,Wenceslaus,Polak
+Oberhermanitz,8.2.,Georg,Jacob,Smeczka#,Catharina,Georg,P#l
+Tschenkowitz,10.2.,Wenceslaus,Georg,Noschke,Marina,Georg,Langhammer
+Tschenkowitz,14.2.,Paul,Johann,Kobliczek,Susanna,Paul,Weinlich
+-,12.4.,Wenceslaus,-,Schlesinger,Susanna,Tobias,Schüll,W (Mit einem Erzbischöflichen Dispens!)
+Weyprachtitz,26.4.,Paul,Georg,Chladek,Marina,Matthäus,Matiegka
+Ober- und Unterhermanitz,26.4.,Martin,Johann,Kobcza,Anna,Matthäus,Marek
+Bistrce,1.5.,Andreas,Johann,Kobliczka,Anna,Wenceslaus,Geczek
+Bistrce und Czermna,1.5.,Johann,Jacob,Nehyba,Dorothea,Johann,Pes#kar,-,W
+Weyprachtitz,9.5.,Martin,-,Chladek,Marina,Jacob,Sedlaczek,W
+-,10.5.,Caspar,-,Heisler,Rosina,Franz,Petr (Nicht angegeben ob Caspar unverheirateter Sohn oder Witwer war)
+
+DP 127
+
+Neudorf,24.5.,Georg,-,Kuczera,Judith,Johann,Kohller,W
+Worlitschka und Neudorf,25.5.,Johannes,-,Krögler,Susanna,Martin,Feltzmann (Nicht angegeben, ob Johannes unverheirateter Sohn oder Witwer war)
+Worlitschka,30.5.,Wenceslaus,Mathias,Schüll,Anna,Georg,Byr
+Jamny,8.6.,Paul,Johann,Kregczy#,Marina,Georg,Bednar
+Studeny und Worlitschka,8#.7.,Wenceslaus,Johann,Gerabek,Elisabeth,Johann,Schitke,-,W
+Jablona und Lubnik,27.7.,Franz,Jacob,Neschkudla,Catharina,Jacob,Doleczek
+Worlitschka,15.8.,Franz,Georg,Krögler,Marina,Christoph,Langer
+Weyprachtitz und Tschenkowitz,15.8.,Mathias,-,Falt,Eva,Johann,Stefek,W,W
+Neudorf und Worlitschka,5.9.,Johann,Paul,Hudecz,Anna,Martin,Schlesinger,-,W
+Stadt Jablona und Jamny,21.9.,Karl,Georg,Grus,Elisabeth,Dominik,Schlesinger
+Weyprachtitz und Bistrce,21.9.,Paul,-,Ptaczek,Elisabeth,Johann,Seidlmann,W
+Weyprachtitz und Tschenkowitz,21.9.,Wenceslaus,Simon,Morawetz#,Rosina,Peter,Hawel
+
+DP 128
+
+Neudorf,3.10.,Johann,Paul,Sedlaczek,Marina,Georg,Kuczera
+Neudorf,10.10.,Martin,-,Sedla#,Catharina,Johann,Zaubele,W
+Neudorf,24.10.,Tobias,Peter,Heisler,Marina,Johann,Naschke#
+Oberhermanitz,31.10.,Nicolaus,Philipp,#horsky,Marina,Georg,Maresch
+Czermny und Tschenkowitz,1.11.,Jan,Jan,Wawra,Zuzanna,Michael,Weinlich
+Worlitschka,9.11.,Jan,Joseph,Weinlich,Judith,Friedrich,Weyppent
+
+DP 129
+
+Worlitschka,10.11.,Paul,Jeremias,Schüll,-,Waczlaw,Langer,-,W (Der Vorname der Braut wird nicht genannt)
+Oberhermanitz,14.11.,Waczlaw,Mattej,Brokss,Eva,Mikulass,Jansky
+Oberhermanitz,14.11.,Jan,Martin,Ssyska,-,Paul,Kubesch (Der Vorname der Braut wird nicht genannt)
+Jamnay und Jablona,14.11.,Waczlaw,Jan,Steyskal,Anna,Jacob,Sstastny
+Tschenkowitz und Worlitschka,14.11.,Paul,Jan,Heisler,Elisabeth,Tobias,Heisler
+Bystrcze,16.11.,Paul,Waczlaw,Seidlmann,Rosina,Tobias,Zelynka
+
+DP 130
+
+Weypprachtitz,21.11.,Jan,Waczlaw,Kubesch,Catharina,Martin,Juraska
+Weypprachtitz,21.11.,Waczlaw,Matouss,Smeykal,Anna,Paul,Duschek
+Oberhermanitz,21.11.,Waczlaw,Waczlaw,Waczek,Catharina,Bohuslaw,Maresch
+Worlitschka,21.11.,Paul,Tobias,Bartosch,Judith,Jirzik,Schlesinger
+Oberhermanitz,21.11.,Waczlaw,Waczlaw,Schembera,Catharina,Matthauss,Skorpil
+Weypprachtitz und Tschenkowitz,21.11.,Waczlaw,Jan,Hawlena,Catharina,Jan,Gerzabek
+
+DP 131
+
+Bystrcze,23.11.,Wawrzinecz,-,Kaschka,Magdalena,Martin,Bezalek,W,W
+
+1707
+
+Weyprachtitz,2.2.,Franz,Matthäus,Kesler,Dorothea,Martin,Kuczera
+Neudorf,2.2.,Mathias,Adam,Duschek,Dorothea,Johann,Friedrich
+Jamnay und Weypprachtitz,2.2.,Georg,-,Bednarcz,Magdalena,Mathias,Resler,W
+Hermanitz,6.2.,Paul,Bohuslav,Maresch,Dorothea,Paul,Schwestka
+Weyprachtitz,6.2.,Johann,Georg,Doubrawa,Marina,#Getri#,Waczek
+Weypprachtitz,6.2.,Paul,Johann,Chladek,Catharina,Martin,Skaliczky
+Jamnay,6.2.,Matthäus,Johann,Philipp,Rosina,Paul,Steyskal
+Jamnay,6.2.,Johann,Martin,Czernohaus,Anna,Georg,Waczek
+Hermanitz und Neudorf,12.2.,Martin,Jacob,Maresch,Susanna,Johann,Feltzmann
+Neudorf und Weyprachtitz,13.2.,Johann,Martin,Janek,Magdalena,Johann,Sedlarcz
+Neudorf,13.2.,Franz,Paul,Stephan,Rosina,Wenceslaus,Schüttka
+Bistrcze und Jamnay,13.2.,Wenceslaus,Johann,Kristek,Catharina,Martin,Spaczek
+Jamnay,20.2.,Tobias,Georg,Pirkl,Magdalena,Martin,Bouchal,-,W
+Kovicio,20.2.,Georg,-,Bica,Judith,Nicolaus,Weinlich,W
+Tribicio und Woltrof,20.2.,Gallus,Benedikt,Rosenberger,Dorothea,Georg,Bartosch
+Hermanitz,20.2.,Johann,Johann,Kulhanek,Catharina,Benjamin,Zalmann
+
+DP 132
+
+Worlitschka und Tschenkowitz,27.2.,Caspar,Georg,Pfertner,Veronica,Paul,Heisler
+Jablona,27.2.,Franz,Johann,Grus,Barbara,Georg,Schwantzar
+Weyprachtitz,28.2.,Martin,-,Wottawa,Eva,Martin,Marek,W
+Neudorf und Hermanitz,28.2.,Johann,Mathias,Chalaupka,Magdalena,Benjamin,Lopr#
+Bystrcze,7.3.,Paul,Johann,Mraczek,Magdalena,Laurenz,Kaschka
+Weyprachtitz,16.5.,Matthäus,-,Sedlaczek,Magdalena,Wenceslaus,Maczek,W
+Worlitschka,4.6.,Christoph,Zacharias,Hoffmann,Anna,Michael,Ssytel
+Tschenkowitz und Weyprachtitz,5.6.,Johann,Johann,Gerzabek,Catharina,Tobias,Resler
+Worlitschka,13.6.,Johann,-,Schlesinger,Marina,Johann,Kholler,W
+Hermanitz,11.7.,Georg,Georg,Brokesch,Marina,Mathias,Lyr
+Bystrcze,18.7.,Johann,Johann,Czernohorsky,Marina,Martin,Waschiczek
+Weyprachtitz,24.7.,Georg,Paul,Hawlena,Dorothea,Mathias,Resler
+Jamnay,24.7.,Johann,Georg,Urban,Catharina,Johann,Doleczal
+Jamnay,24.7.,Johann,-,Kregczy,Susanna,Wenceslaus,Waczek,W
+Tschenkowitz,31.7.,Paul,Georg,Feltzmann,Susanna,Nicolaus,Polaczek
+Bystrcze,31.7.,Georg,Johann,Mraczek,Dorothea,Georg,Kos
+Hermanitz,28.8.,Johann,Martin,Kubelka,Dorothea,Jacob,Maresch
+Hermanitz,4.9.,Georg,Martin,Maresch,Elisabeth,Mathias,Beran
+
+DP 133
+
+Worlitschka und Tschenkowitz,23.10.,Johann,Andreas,Kresler,Veronica,Paul,Kobliczek
+Neudorf,23.10.,Franz,Johann,Sstrek,Magdalena,Johann,Lyr
+Petrowicz und Bystrcze,30.10.,Mathias,-,Biekrg,Elisabeth,Georg,Geczek,W
+Tschenkowitz,30.10.,Mathias,Marcus,Polaczek,Maria,Mathias,Wottawa
+Jablona,1.11.,Johann,Georg,Heilek,Anna,Johann,Sseywl# (Scheibl?)
+Jamnay,6.11.,Johann,Wenceslaus,Hudecz,Magdalena,Paul,Valenta
+Bystrcze,6.11.,Johann,Georg,Mach,Dorothea,Georg,Maslo
+Tschenkowitz,6.11.,Christoph,Georg,Sonntag,Susanna,Johann,Nehyba
+Worlitschka,6.11.,Johann,Christoph,Haemel,Rosina,Georg,Schlesinger
+Hermanitz,25.9.,Tobias,Mathias,Maresch,Catharina,Georg,Ilikora
+Hermanitz,16.10.,Paul,Martin,Csaufal,Catharina,Martin,Heyl
+Neudorf,18.10.,Franz,Bartholomäus,Heisler,Rosina,Johann,Sigl
+Hrwicio# und Bystrcze,18.10.,Paul,-,Maresch,Dorothea,Johann,Koczak,W
+Hermanitz,30.10.,Wenceslaus,Jacob,Kubienka,Judith,Paul,Staczek
+Neudorf und Hermanitz,30.10.,Tobias,-,Kubesch,Dorothea,Mathias,Lyr,W
+Jamnay,13.11.,Paul,Johann,Bauchal,Dorothea,Georg,Bednarcz
+Worlitschka und Jamnay,13.11.,Michael,Michael,Sslefr,Dorothea,Wenceslaus,Seschen
+
+DP 134
+
+Neudorf,13.11.,Johann,Paul,Stephan,Dorothea,Tobias,Dolejs
+Hermanitz,13.11.,Martin,-,Kobcza,Marina,Wenceslaus,Doleczal,W
+Hermanitz,13.11.,Wenceslaus,-,Heyl,Magdalena,Mathias,Heyl
+Tschenkowitz und Bystrcze,15.11.,Paul,Paul,Weinlich,Judith,Paul,Gerzabek
+Weyprachticz,17.11.,Martin,Mathias,Skaliczky,Marina,Mathias,Staczek# (Stasek == Staczek?)
+Worlitschka und Jamnay,20.11.,Michael,-,Pfertner,Anna,Martin,Spaczek
+Weyprachticz,20.11.,Paul,-,Skaliczky,Magdalena,Mathias,Janek
+Hermanitz und Weyprachticz,20.11.,Martin,Mathias,Hluchy,Dorothea,Johann,Buryan
+Weyprachticz,20.11.,Paul,David,Resler,Catharina,Lucas,Kuba
+Worlitschka,20.11.,Johann,Paul,Ssoles,Susanna,Martin,Schlesinger
+Neudorf,20.11.,Christoph,Johann,Nossek,Regina,Christoph,Schüll
+Neudorf und Worlitschka,20.11.,Franz,Andreas,Pfertner,Susanna,Michael,Schüll
+Weyprachtitz,22.11.,Johann,Lucas,Kuba,Magdalena,Peter,Waczek
+
+1708
+
+Bystrcze,22.1.,Johann,Johann,Kaschka,Catharina,Martin,Waschiczek
+Bystrcze,22.1.,Georg,Johann,Kobliczek,Dorothea,Johann,Hawel
+Jamnay und Jablona,4.2.,Johann,Nicolaus,Spaczek,Anna,Jacob,Lyer
+Bystrcze,5.2.,Johann,Martin,Mach,Magdalena,Georg,Waschiczek
+Bystrcze,5.2.,Georg,Johann,Waschiczek,Dorothea,Wenceslaus,Kobliczek
+
+DP 135
+
+Tschenkowitz,5.2.,Wenceslaus,Paul,Weinlich,Maria,Johann,Weinlich
+Weyprachtitz,5.2.,Wenceslaus,Wenceslaus,Petr,Magdalena,Georg,Chladek
+Hermanitz,5.2.,Johann,Georg,Hawelka,Marina,Mathias,Mraczek
+-,12.2.,Johann,Johann,Sseycob,Rosina,Jacob,Neschkudla
+Jamnay,12.2.,Wenceslaus,Jacob,Doleczal,Marianna,Jacob,Steyskal
+Bistrcze,12.2.,Jacob,Johann,Waschiczek,Anna,Johann,Kristek
+Bistrcze,12.2.,Johann,Martin,Petr,Maryanna,Adam,Veith#,-,W (Fait == Veith?)
+Tschenkowitz,19.2.,Christian,Mathias,Polak,Susanna,Johann,Kobliczek
+Hermanitz und Jamnay,19.2.,Wenceslaus,Paul,Schwehla,Catharina,Johann,Steyskal
+Jamnay,19.2.,Wenceslaus,Martin,Czernohaus,Marianna,Johann,Pekarz
+Hermanitz,19.5.,Wenceslaus,Georg,Mach,Magdalena,Johann,Sedlaczek
+Bistrcze und #,8.7.,Martin,Laurenz,Kaschka,Catharina,Georg,Krcziwohlawek,-,W
+Hermanitz,8.7.,Tobias,Paul,Schwestka,Marina,Nicolaus,Jansky
+Bistrcze,23.7.,Georg,-,Kaschka,Catharina,Georg,Bzynka,W
+
+DP 136
+
+Bystrcze,26.7.,Paul,Georg,Schimek,Catharina,Johann,Sstyt#
+Hermanitz und Bystrcze,12.8.,Georg,-,Kubin,Judith,Laurenz,Kaschka,W
+Tschenkowitz und Herautic,9.10.,Paul,Tobias,Langhammer,Judith,Johannes,Schuberth
+Tschenkowitz und Worlitschka,28.10.,Franz,Johann,Blaschke,Veronica,Franz,Schlesinger
+Tschenkowitz,4.11.,Johann,Georg,Schüll,Anna,Peter,Hawel
+Bystrcze und Hermanitz,4.11.,Jacob,Georg,Schimek,Dorothea,Mathias,Pawliczek
+Jablona,4.11.,Georg,Jacob,Jansa,Anna,Paul,Merta
+Tschenkowitz und Hermanitz,4.11.,Paul,Martin,Spaczek,Rosina,Martin,Beran
+Jamnay,4.11.,Wenceslaus,Georg,Morawetz,Catharina,Johann,Bednarcz
+Tschenkowitz,4.11.,Paul,-,Heisler,Judith,Paul,Langhammer,W
+Weyprachtitz,11.11.,Wenceslaus,-,Lyr,Catharina,Johann,Brokesch,W,W
+
+1709
+
+Jablona,20.1.,Johann,Thomas,Scheibl,Marina,Georg,Pauk
+Weyprachtitz,20.1.,Matthäus,Martin,Skaliczky,Marina,Wenceslaus,Heyl
+Worlitschka,10.2.,Paul,Georg,Fentner,Marina,Georg,Blaschke
+
+DP 137
+
+Worlitschka,22.1.,Wenceslaus,Christian,Wagner,Rosina,Andreas,Krögler
+Worlitschka,27.1.,Johann,-,Kobliczek,Judith,-,Schlesinger,-,W (Unbekannt, ob Johann verwittwet war, und ob Schlesinger Judith's Geburts- oder Vorehename ist)
+Hermanitz,27.1.,Wenceslaus,-,Pawlas,Catharina,-,- (Keine näheren Angaben)
+Tschenkowitz,3.2.,Christoph,Georg,Kobliczek,Anna,Georg,Blaschke
+Tschenkowitz,3.2.,Franz,Michael,AHmann,Anna,Georg,Schüll
+Tschenkowitz und Weyprachtitz,3.2.,Nicolaus,Georg,Duchaczek,Anna,Paul,Kuba
+-,10.2.,Martin,Johann,Cordas#,Anna,Jacob,Zalmann (Kardas == Cordas???)
+Jamnay,10.2.,Martin,-,Hansliczek,Dorothea,Johann,Prokopecz,W
+Jamnay,28.4.,Wenceslaus,Paul,Steyskal,Catharina,Georg,Trampota
+Worlitschka und Jamnay,28.4.,Paul,Johann,Heisler,Marina,Nicolaus,Spaczek
+Czermna und Jamnay,5.5.,Johann,Johann,Chladek,Anna,Johann,Jirous
+Neudorf,1.5.,Georg,-,Polak,Eva,Mathias,Chalaupka#,W (Chaloupek == Chalaupka?)
+Bistrcze,5.5.,Johann,Mathias,Waschiczek,Catharina,Wenceslaus,Waschiczek
+Worlitschka und Tschenkowitz,12.5.,Christoph,Georg,Weinlich,Marina,Johann,Krögler
+Hermanitz,19.5.,Wenceslaus,-,Hluchy,Anna,Paul,Ssylan#,W (Ssylan == Schüll?)
+Neudorf und Worlitschka,9.6.,Martin,Adam,Duschek,Apollonia,Christoph,Weinlich
+Hermanitz und Jamnay,23.6.,Paul,-,Maresch,Anna,Johann,Bednarcz,W
+Bistrcze,23.6.,Johann,David,Weinlich,Anna,Wenceslaus,Waschiczek
+Czermna und Bystrcze,25.6.,Franz,Johann,Cainar,Catharina,Johann,Dittrich (Berufe Müller/Müller)
+Bystrcze,21.7.,Wenceslaus,-,Kristek,Marianna,Wenceslaus,Kluska,W
+Hermanitz,#.8.,Wenceslaus,Jacob,Martinek,Catharina,Georg,Kubin
+
+DP 138
+
+Neudorf und Weyprachticz,25.8.,Mathias,Martin,Janek,Marina,Paul,Polak
+Weyprachticz,8.9.,Wenceslaus,-,Morawetz,Magdalena,Georg,Chromy,W
+Neudorf und Rubio Aquensi,8.9.,Johann,Michael,Bok,Elisabeth,Zacharias,Khisling
+Neudorf,9.9.,Michael,Michael,Bok,Veronica,Caspar,Ssentvig#
+Pissarovio und Unterhermanitz,22.9.,Georg,Bartholomäus,Ja#ka,Catharina,Johann,Skaliczky
+Bistrcze,22.9.,Paul,Georg,Bessalek,Marina,Johann,Mraczek# (Mrasek == Mraczek?)
+Neudorf und Cotkytle,29.9.,Martin,-,Feltzmann,Judith,Bartholomäus,Brüx,W
+Bistrcze,1.10.,Jacob,Johann,Czernohorsky,Magdalena,Georg,Pauk
+Jamnay,6.10.,Waczlaw,Jan,Bednarcz,Dorothea,Dominik,Schlesinger
+Weyprachticz,13.10.,Augustin,Waczlaw,Hauserka,Magdalena,Jan,Worlitschek
+Worlitschka,20.10.,Jan,Christoph,Neugebauer,Elisabeth,Christoph,Krögler
+
+DP 139
+
+Bysrcze,27.10.,Jacob,Wawrzinecz,Kaschka,Dorothea,Jan,Hrdina
+Weyprachticz,28.10.,Martin,Waczlaw,Maczek,Anna,Paul,Ptaczek
+Weyprachticz und Walterzicz,2.12.,Paul,Jan,Bruzek,Catharina,Jan,Marek
+
+DP 140
+
+Oberhermanitz und Waltercitz,11.11.,Jirzik,-,Kulhanek#,Marianna,Martin,Krzenek,W (Kulhansky == Kulhanek?)
+Bystrcze,11.11.,Jan,-,Kubin,Magdalena,Martin,Kuczera,W
+Bystrcze,12.11.,Jan,Tobias,Zelinka,Anna,Jan,Pauk
+Worlitschka,12.11.,Franz,Jan,Gröger,Judith,Christian,Wagner
+Tschenkowitz,17.11.,Paul,Bartholomäus,Weinlich,Rosina,Jirzik,Schüll
+Waltercitz,17.11.,Mataus,-,Duschke,Maria,Jirzik,Heisler,W
+
+DP 141
+
+Bystrcze,17.11.,Jan,Jirzik,Bednarcz,Dorothea,Jirzik,Mach
+Bystrcze,17.11.,Jan,Jan,Seidlmann,Anna,Wawrzinec,Matejka
+Czermna und Oberhermanitz,17.11.,Tobias,Jan,Waczek,Dorothea,Martin,Heyl
+Weyprachticz,17.11.,Paul,Jirzik,Chromy,Judith,David,Skaliczky
+Oberhermanitz,24.11.,Jan,Jirzik,Kulhanek,Judith,Jan,Pawliczek
+Oberhermanitz und Weyprachticz,25.11.,Waczlaw,Jirzik,Hawelka,Anna,David,Hössler
+
+DP 142
+
+Czermna und Jablona,25.11.,Waczlaw,Martin,Maresch,Anna,Paul,Wottawa
+
+1710
+
+Oberhermanitz,19.1.,Blazej,Blazej,Brochaschka,Catharina,Mattej,Pawliczek
+Herboticz,20.1.,Martin,Mattej,Maresch,Elisabeth,Jan,Jezek (Herboticz nur bei der Braut angegeben, kein Ort beim Bräutigam)
+Oberhermanitz und Unterhermanitz,2.2.,Jan,Tobias,Mraczek,Dorothea,Paul,Marek
+Tschenkowitz und Worlitschka,3.2.,Paul,-,Nosek,Marianna,Christoph,Hofmann,W,W
+Walterczitz,9.2.,Anton,Jirzik,Polak,Marianna,Michael,Schüll
+
+DP 143
+
+Jamnay,9.2.,Jan,Martin,Kobliczek,Catharina,Jirzik,Bauchal
+Oberhermanitz,9.2.,Waczlaw,-,Zalmann,Marianna,Jan,Martin,W
+Tschenkowitz,9.2.,Jirzik,Jirzik,Sonntag,Rosina,Michael,Bok
+Oberhermanitz,9.2.,Waczlaw,Bohuslav,Maresch,Dorothea,Jirzik,Hawlena
+Oberhermanitz,9.2.,Waczlaw,-,Zalmann,Marianna,Jan,Martinek (Versehentlich doppelt im Kirchenbuch eingetragen? Oder Namensgleichheit?)
+Jamnay,9.2.,Jan,Jan,Stepan,Dorothea,Jirzik,Adamek
+
+DP 144
+
+Worlitschka,16.2.,Tobias,Jacob,Czernohorsky,Marianna,Jan,Schüll
+Jamnay,23.2.,Matauss,Jan,Steyskal,Susanna,Martin,Chladek
+Walterczitz,23.2.,Martin,-,Janowsky,Eva,Martin,Lyr,W
+Tschenkowitz,2.3.,Waczlaw,Jirzik,Sonntag,Elisabeth,Paul,Lyr
+Jablona,6.5.,Jan,-,Czerwenka,Catharina,Jan,Kleslo#,W,W (Klesel == Kleslo?)
+Jablona und Bystrcze,11.5.,Jirzik,-,Jawurek#,Marianna,Matauss,Kuczilek#,W
+
+DP 145
+
+Weyprachtitz,25.5.,Paul,Jan,Srolak,Judith,Jan,Hrabecz
+Weyprachtitz und Jablona,2.6.,Jan,Martin,Wottawa,Marianna,Jan,Jawurek
+Oberhermanitz und Czermna#,6.6.,Paul,-,Schwestka,Catharina,Martin,Heygor#,W
+Worlitschka und Tschenkowitz,31.8.,Waczlaw,-,Heisler,Anna,Jan,Weinlich,W
+Jablona,14.9.,Thomas,-,Czerny,Marianna,Jirzik,Heylko#,W
+Weyprachticz und Bystrcze,6.10.,Mataus,Jan,Doleczal,Judith,Waczlaw,Seidlmann
+
+DP 146
+
+- und Walterczitz,12.10.,Paul,Martin,Sedlarz,Anna,Jan,Freebring# (Hreebring/Freebring?)
+Bystrcze,26.10.,Waczlaw,Jan,Hrdina,Dorothea,Jirzik,Kobliczek
+Weyprachticz und Bystrcze,2.11.,Jirzik,-,Sedlaczek,Marianna,Jan,Kaschka,W,W
+Tschenkowitz,9.11.,Mattej,Jirzik,Sonntag,Catharina,Martin,Stawa
+Oberhermanitz und Unterhermanitz,9.11.,Waczlaw,Paul,Kulhanek,Veronica,Paul,Schembera
+Jamnay,9.11.,Matauss,Paul,Steyskal,Catharina,Paul,Kyllar
+
+DP 147
+
+Worlitschka,15.11.,Jan,Jacob,Czernohorsky,Eva,Christoph,Krögler#
+Bystrcze,15.11.,Jirzik,Jirzik,Schych,Judith,Jan,Mraczek
+Bystrcze,15.11.,Jirzik,Jacob,Geczek,Dorothea,Jirzik,Kaschka
+Bystrcze,23.11.,Franz,Wawrzin,Kaschka,Anna,Martin,Petr
+
+1711
+
+Jamnay,18.1.,Waczlaw,Jacob,Doleczal,Marianna,Waczlaw,Teykal
+Oberhermanitz,18.1.,Paul,Jan,Zalmann,Eva,Jan,Grögor
+
+DP 148
+
+Bystrcze,20.1.,Paul,Jacob,Kratky,Judith,Jan,Dittrich
+Oberhermanitz,24.1.,Mikulass,Jacob,Maresch,Susanna,Matej,Beran
+Tschenkowitz,25.1.,Christian,Mattej,Wottawa,Maria,Jacob,Kobliczek
+Jablona,25.1.,Franz,Jirzik,Jansa,Anna,Daniel,Czerwenka
+Weyprachticz,27.1.,Jirzik,Bartholomäus,Burzt#,Marianna,Mattej,Maschka (Burzt == Burst???)
+Jamnay und Bystrcze,27.1.,Jacob,Urban,Jira,Anna,Jan,Krcziwohlawek
+
+DP 149
+
+Jablona,27.1.,Jan,Jacob,Gelinek,Dorothea,Paul,Seybal
+Weyprachticz,1.2.,Matej,Paul,Rösler#,Anna,Paul,Tauschek
+Bystrcze,2.2.,Paul,Mataus,Kuzelka,Maria,Waczlaw,Kubin,-,W
+Bystrcze,9.2.,Jirzik,Jirzik,Uher,Catharina,Jacob,Kosa
+Oberhermanitz,10.2.,Jan,-,Kupka,Magdalena,Jirzik,Kubina,W
+Oberhermanitz,10.2.,Jan,Jan,Zahradnik,Anna,Paul,Kulhanek
+
+DP 150
+
+Tschenkowitz,15.2.,Caspar,Mikulass,Weinlich,Susanna,Jan,Bier
+Bystrcze,26.4.,Jirzik,-,Krystek,Judith,Waczlaw,Kuczera,W
+Weyprachticz,26.4.,Andreas,-,Blaczek,Maria,Adam,Dlouhy,W
+Walterczitz,10.5.,Paul,Jan,Zaubele,Catharina,Jacob,Victorin
+Weyprachticz,17.5.,Waczlaw,-,Czak,Catharina,Jan,Mategka,W
+Oberhermanitz,7.6.,Jacob,-,Horaczek,Susanna,Jirzik,Waczek
+
+DP 151
+
+Czerwena Woda und Tschenkowitz,7.6.,Waczlaw,-,Pfertner,Maria,Michael,Kobliczek,W
+Worlitschka und Tschenkowitz,21.6.,Jirzik,-,Schüll,Anna,Christoph,Feltzmann,W
+Oberhermanitz,28.6.,Franz,Jan,Sedlaczek,Rosina,Jirzik,Kulhanek
+Tschenkowitz und Walterczitz,13.7.,Jan,-,Heisler,Maria,Jan,Weinlich,W
+Brzezna und Bystrcze,19.7.,Ferdinand,Jan,Klener,Marianna,Jan,Kaschka
+Jamnay,22.7.,Paul,-,Philipp,Catharina,Waczlaw,Seschowy#,W (Seschowy == Seschen?)
+
+DP 152
+
+Oberhermanitz,27.7.,Franz,-,Beran,Judith,Jan,Kulhanek,W
+Jablona,30.7.,Waczlaw,Jan,Hsceyckle# Senior,Anna,Paul,Skaliczky
+Weyprachticz,8.9.,Martin,Jan,Chladek,Catharina,Mattej,Massek,-,W
+Oberhermanitz und Weypprachticz,20.9.,Augustin,Jan,Hawel,Catharina,Paul,Kuba
+Oberhermanitz und Czermny,20.9.,Jan,-,Kulhanek,Catharina,Jan,Waczek,W
+Walterczitz und Bystrcze,20.9.,Jacob,Martin,Kuczera,Catharina,Jirzik,Kaschka,-,W
+
+DP 153
+
+Bystrcze,28.9.,Jacob,Jacob,Beczak#,Ludmilla,Jan,Spaczek
+Oberhermanitz und Unterhermanitz,25.10.,Paul,Wawrzin,Zalmann,Catharina,Jan,Kubiczek
+Worlitschka,1.11.,Paul,Paul,Schlesinger,Rosina,Jan,Weinlich
+Weypprachticz,1.11.,Martin,Jan,Kyllar,Eva,Mattej,Smeykal
+Walterczitz,1.11.,Anton,Michael,Schüll,Rosina,Jirzik,Feltzmann
+Oberhermanitz,3.11.,Augustin,Caspar,Dittrich,Dorothea,Tobias,Kuczilek
+
+DP 154
+
+Jamnay und Bysrcze,8.11.,Jirzik,Waczlaw,Crssen#,Judith,Waczlaw,Kuczera (Seschen?)
+Kunczycz und Lubnik,8.11.,Jan,Paul,Adamek,Veronica,Jacob,Doleczal
+Worlitschka,11.11.,Jan,Tobias,Wagner,Susanna,Friedrich,Weyperta
+Jablona,15.11.,Jan,Jacob,Neschkudla,Anna,Augustin,Adolph
+Worlitschka und Tschenkowitz,15.11.,Franz,Andreas,Krögler,Veronica,Franz,Petr
+Tschenkowitz,17.11.,Jirzik,-,Langhammer,Susanna,Jirzik,Nosek,W
+
+DP 155
+
+Tschenkowitz,17.11.,Paul,Paul,Nehyba,Susanna,Jan,Weinlich
+Jamnay,17.11.,Paul,Jacob,Steyskal,Marianna,Martin,Bauchal
+Unterhermanitz und Bystrcze,22.11.,22.11.,Paul,Jirzik,Nosek,Marianna,Waczlaw,Rorzh
+Czermna und Weypprachticz,22.11.,Jacob,-,Jansa,Marianna,Jan,Skaliczky Senior,W
+Jablona und Lubnik,24.11.,Augustin,Jirzik,Waczek,Rosina,Waczlaw,Krystoff
+Tschenkowitz,24.11.,Waczlaw,Paul,Kobliczek,Judith,Jan,Nehyba
+
+DP 156
+
+Walterczitz,24.11.,Tobias,-,Waczek,Susanna,Jan,Koller,W
+
+1712
+
+Jablona,17.1.,Jan,Paul,Sedlarcz,Anna,Tomss,Hawel
+Oberhermanitz,17.1.,Franz,Mattej,Mach,Dorothea,Anna,Schimek
+Tschenkowitz,24.1.,Paul,-,Langhammer,Catharina,Mattej,Egydi,W
+Walterczitz,24.1.,Paul,Peter,Heisler,Elisabeth,Martin,Feltzmann
+Worlitschka,31.1.,Waczlaw,-,Schlesinger,Susanna,Mattej,Veith# (Feyt == Veith???)
+
+DP 157
+
+Bystrcze,2.2.,Jan,Jacob,Ptaczek,Catharina,Jan,Mraczek
+Weypprachtitz,3.2.,Franz,-,Podhorni,Marianna,Jirzik,Mleinek (Kein Bräutigamsvater genannt)
+Tschenkowitz und Worlitschka,24.4.,Franz,Jirzik,Stoltz,Veronica,Jirzik,Schlesinger
+Tschenkowitz und Smirzycz,25.4.,Jirzik,Matteg,Polaczek,Magdalena,Paul,Barta
+Czermna und Unterhermanitz,8.5.,Waczlaw,Jan,Waczek,Rosina,Jan,Koczak
+Jamnay und Worlitschka,16.5.,Waczlaw,Martin,Chladek,Rosina,Joseph,Weinlich
+
+DP 158
+
+Weypprachtitz,17.5.,Mikulass,Waczlaw,Kubesch,Maria,Jirzik,Daubrawa
+Weypprachtitz und Bystrcze,17.5.,Jirzik,-,Doleczal,Anna,Jan,Kaschka,W
+Weypprachtitz,29.5.,Matej,Jan,Kozaczek,Marianna,Martin,Chladek,W
+Tschenkowitz,5.6.,Jan,Paul,Weinlich,Marianna,Jan,Kobliczek,-,W
+Worlitschka,5.6.,Michael,-,Schlesinger,Judith,Tobias,Wagner,W
+Oberhermanitz,26.6.,Jan,Jan,Rzehak,Magdalena,Jacob,Maresch
+
+DP 159
+
+Jablona,22.8.,Jirzik,Jirzik,Schwantzar,Anna,Waczlaw,Lzyczarz,-,W
+Jablona,3.10.,Franz,Jacob,Stiasny,Marianna,Jan,Heylek 
+Weypprachtitz,4.10.,Franz,Matthauss,Ptaczek,Anna,David,Waczek
+Weypprachtitz,4.10.,Jan,Martin,Brochaschka,Catharina,Martin,Koczak
+Jablona und Jamnay,9.10.,Jirzik,-,Hezlek#,Susanna,Jan,Steyskal,W (Hezlek == Heylek?)
+Jablona,24.10.,Karl,Paul,Skaliczky,Judith,Jirzik,Waczek
+
+DP 160
+
+Jablona und Jamnay,30.10.,Jan,Jan#,Grus,Marianna,Waczlaw,Sestna (Was bedeutet "St." zwischen Jan und Grus)
+Worlitschka,30.10.,Friedrich,Michael,Schüll,Susanna,Michael,Scholtz
+Bystrcze,1.11.,Martin,Jacob,Nehyba,Anna,Jan,Kubin
+Tschenkowitz,6.11.,Paul,Jirzik,Langhammer,Veronica,Mattej,Wottawa
+Walterzicz und Tschenkowitz,6.11.,Jirzik,-,Pfertner,Susanna,Bartholomäus,Nehyba,W
+Weypprachticz,6.11.,Matej,Matej,Hawel,Catharina,Martin,Brochaschka
+
+DP 161
+
+Worlitschka,9.11.,Franz,Christian,Wagner,Susanna,Anderes,Krögler
+Jablona und Tschenkowitz,13.11.,Jan,-,Rubesch,Dorothea,Martin,Czernohaus,W
+Tschenkowitz,13.11.,Waczlaw,Mikulass,Polak,Regina,Paul,Nosek
+Weypprachticz,13.11.,Jacob,Jirzik,Chromy,Marianna,Paul,Tauschek
+Oberhermanitz,13.11.,Jan,Jacob,Jansa,Marianna,Caspar,Dittrich
+Tschenkowitz,14.11.,Caspar,Jirzik,Sonntag,Maria,Paul,Kobliczek
+
+DP 162
+
+Bystrcze,15.11.,Martin,Waczlaw,Kratky,Catharina,Jan,Pauk
+Walterczitz,20.11.,Paul,Jirzik,Schüttka,Eva,Jirzik,Polak
+Tschenkowitz,21.11.,Christian,Jan,Bien#,Anna,Mikulass,Weinlich
+
+1713
+
+Bystrcze,15.1.,Jan,Jacob,Hrdina,Marianna,Jan,Mraczek
+Bystrcze,16.1.,Jacob,Jirzik,Bzdinka,Judith,Martin,Charvat
+Bystrcze,22.1.,Martin,Jirzik,Chromy,Catharina,David,Wanek
+
+DP 163
+
+Tyloczicz#,2.2.,Waczlaw,Jirzik,Resler,Catharina,Waczlaw,Hrusserek#
+Weypprachticz,12.2.,Paul,-,Marek,Magdalena,Matauss,Skaliczky,W
+Bystrcze,12.2.,Thomas,Martin,Bezalek,Dorothea,Paul,Waschiczek,-,W
+Tschenkowitz,12.2.,Paul,Jan,Fischer,Susanna,Paul,Blaczek
+Worlitschka,12.2.,Christian,Jirzik,Pfertner,Rosina,Jirzik,Schüttka
+Jamnay,26.2.,Paul,Martin,Czernohaus,Catharina,Martin,Bauchal
+
+DP 164
+
+Tschenkowitz,26.2.,Franz,Jan,Kobliczek,Rosina,Paul,Langhammer
+Walterczitz,26.2.,Jan,-,Schüll,Rosina,Martin,Stöhr,W
+Jamnay,28.2.,Jan,Jirzik,Zyma,Dorothea,Mikulass,Seidlmann
+Jablona und Bystrcze,8.5.,Lukas,-,Fibiger,Magdalena,Jan,Bezalek,W
+Jamnay und Jablona,16.5.,Jan,Jirzik,Bednarz,Elisabeth,Jan,Steyerle# Senior
+Bystrcze,16.5.,Jacob,Jirzik,Nehyba,Marianna,Jacob,Smrczek
+
+DP 165
+
+Jablona und Tschenkowitz.,6.6.,Jan,Thomas,Hawel#,Marianna,Waczlaw,Nosek,-,W
+Weypprachticz,11.6.,Jirzik,-,Hrubesch,Catharina,Mattej,Falta,W
+Dolni Lyphan und Weypprachticz,9.7.,Martin,Bartholomäus,Buzek,Dorothea,Jan,Skaliczky
+Jamnay und Czermna,23.7.,Paul,-,Bechranek,Magdalena,Jan,Barta,W
+Worlitschka,27.8.,Jan,-,Langer,Rosina,Mattej,Krögler,W,W
+Weypprachticz,10.9.,Martin,-,Smeykal,Catharina,Paul,Heyl,W
+
+DP 166
+
+Jablona,21.10.,Jan,Jan,Skaliczky,Dorothea,Jacob,Neschkudla
+Cotkytle und Oberhermanitz,22.10.,Jirzik,-,Ptaczek,Magdalena,Jirzik,Mach,W
+Unterhermanitz,1.11.,Paul,Jirzik,Kubi#,Catharina,Jirzik,Paczel
+Unterhermanitz und Weypprachticz,1.11.,Martin,Martin,Hluchy,Judith,Jan,Skaliczky
+Weypprachticz,3.11.,Martin,-,Morawetz,Anna,Paul,Sedlaczek,W (Unklar, was das Mr zwischen Martin und Morawetz bedeutet)
+Unterhermanitz,5.11.,Paul,Franz,Rösler,Maria,Jirzik,Kos
+
+DP 167
+
+Jablona,6.11.,Jan,Paul,Skaliczky,Elisabeth,Waczlaw,Brochaschka
+Weypprachticz,12.11.,Paul,-,Jirasek,Marianna,Jan,Ondra,W
+Unterhermanitz und Oberhermanitz,12.11.,Jan,Jirzik,Kubiczek,Catharina,Jan,Paczel
+Tschenkowitz,12.11.,Christoph,Mattej,Heisler,Susanna,Jirzik,Krögler
+Worlitschka,12.11.,Jan,Jirzik,Heisler,Anna,Christoph,Weinlich
+Jamnay,12.11.,Jan,Paul,Valenta,Marianna,Jan,Trampota
+
+DP 168
+
+Oberhermanitz,26.11.,Franz,Jan,Zalmann,Rosina,Paul,Taraschka
+
+1714
+
+Tschenkowitz,21.1.,Jirzik,Jan,Gerzabek#,Susanna,Paul,Nosek (Jarzabek == Gerzabek?)
+Jamnay,28.1.,Jirzik,Jirzik,Philipp,Dorothea,Jacob,Czernohaus
+Weypprachticz,28.1.,Mattauss,-,Tauschek,Magdalena,Lukas,Kuba,W
+Jamnay,31.1.,Matauss,Martin,Kobliczek,Catharina,Mikulass,Spaczek#
+Bystrcze,4.2.,Jacob,Jan,Spaczek,Catharina,Jacob,Waschiczek
+
+DP 169
+
+Tschenkowitz,4.2.,Waczlaw,Michael,Astmann#,Sybilla,Jan,Weinlich
+Hermanitz,4.2.,Franz,Mattej,Mraczek,Judith,Paul,Maresch,-,W
+Hermanitz,4.2.,Franz,Paul,Kubesch#,Dorothea,Jirzik,Kulhanek
+Weypprachticz,4.2.,Jan,Waczlaw,Czernohorsky,Marianna,Mattej,Jirku
+Weypprachticz,4.2.,Paul,Paul,Ptaczek,Catharina,Waczlaw,Czernohorsky
+Walterczitz,4.2.,Anton,-,Polak,Susanna,Jan,Kholler,W
+
+DP 170
+
+Worlitschka,8.2.,Christoph,-,Heisler,Judith,Waczlaw,Schlesinger,W
+Walterczitz,29.4.,Christoph,Jan,Schüll,Anna,Jirzik,Hauenschild
+Jablona und Weypprachticz,1.5.,Jirzik,-,Waczek,Catharina,Martin,Skaliczky,W,W
+Tschenkowitz,16.5.,Franz,-,Weinlich,Elisabeth,Jan,Weinlich,W,W
+Weypprachticz und Kuhrow,27.6.,Jan,Jan,Brochaschka,Magdalena,Waczlaw,Hauser
+Jablona und Worlitschka,27.6.,Paul,Jan,Schüll,Susanna,Michael,Schlesinger,-,W
+
+DP 171
+
+Oberhermanitz,29.6.,Franz,Jan,Zalmann,Catharina,Tobias,Jirku
+Weypprachticz,1.7.,Martin,-,Marek,Magdalena,Mikulass,Janku#,W,W (Janku oder Janek?)
+Jamnay und Jablona,5.8.,Paul,Waczlaw,Philipp,Anna,Jacob,Janku# (Janku oder Janek?)
+Walterczitz und Weypprachticz,16.9.,Jacob,-,Victorin,Anna,Jan,Marek,W,W
+Weypprachticz,23.9.,Martin,Jacob,Jansa,Anna,David,Hawelka (Unklar, ob Martin auch aus Weypprachticz ist, oder nur Anna)
+
+DP 172
+
+Walterczitz und Herboticz,21.10.,Martin,-,Krzensky,Magdalena,Paul,Skaliczky,W
+Worlitschka,28.10.,Jan,-,Langer,Rosina,Christoph#,Neugebauer,W
+Czermna und Jamnay,28.10.,Martin,Jacob,Monzat,Dorothea,Jacob,Kyllar
+Oberhermanitz,29.10.,Franz,-,Beran,Catharina,Jan,Spaczek,W
+Jamikow# und Worlitschka,1.11.,Hawel,Bartholomäus,Gritzbauch,Judith,Jan,Krögler
+Tschenkowitz und Unterhermanitz,4.11.,Waczlaw,Jan,Weinlich,Dorothea,Martin,Kubelka
+
+DP 173
+
+Jamnay,4.11.,Jan,Martin,Czernohaus,Rosina,Jirzik,Philipp
+Bystrcze,4.11.,Jan,Jan,Wondra,Elisabeth,Jirzik,Waniczek
+Worlitschka,7.11.,Augustin,Andreas,Krögler,Elisabeth,Waczlaw,Schlesinger
+Jablona,7.11.,Waczlaw,Daniel,Czerwenka,Marianna,Jan,Grus
+Oberhermanitz,11.11.,Franz,Matthauss,Skorpil,Magdalena,Paul,Kulhanek
+Weypprachticz,11.11.,Jan,Martin,Ondrzej,Marianna,Martin,Rzehak
+
+DP 174
+
+Tschenkowitz,11.11.,Jan,Jirzik,Czernohaus,Anna,Matthauss,Wottawa
+Walterczitz,11.11.,Tobias,Michael,Hauenschild,Judith,Paul,Stephan (Für den Bräutigam wurde kein Ort angegeben, nur für die Braut)
+Weypprachticz,18.11.,Jan,Mattej,Falta,Magdalena,Jan,Kuba,-,W
+Weypprachticz,18.11.,Paul,Mattej,Skaliczky,Marianna,Paul,Hawlena
+Walterczitz,18.11.,Jan,Michael,Schüll,Elisabeth,Jirzik,Feltzmann
+Worlitschka,18.11.,Jan,Jan,Mosser,Marianna,Christoph,Schlesinger
+
+DP 175
+
+Tschenkowitz,21.11.,Krystoff,Krystoff,Feltzmann,Zuzanna,Tobias,Krögler
+
+1715
+
+Hermanitz,20.1.,Jan,Bohuslaw,Maress,Anna,Krystian,Beran
+Jamny,3.2.,Jakub,Jan,Rubess,Dorota,Martin,Koblischek
+Tschenkowitz,4.2.,Jan,Pawel,Nosek,Judith,Pawel,Zaubek
+Weyprachtitz,10.2.,Martin,Jan,Ptaczek,Caterzina,Mikulass,Jankowy
+Weyprachtitz,12.2.,Waczlaw,Martin,Czorny,Anna,Jan,Hrabacz
+
+DP 176
+
+Walterczitz und Olbrachticz,17.2.,Krystoff,-,Wentwig#,Maryanna,Petr,Taczl,W
+Worlitschka,17.2.,Franz,Matieg,Krögler,Anna Rosina,Tobias,Nehyba
+Hermanitz und Czermny,17.2.,Tobias,-,Sswestka,Maryanna,Melichar,Hnatek,W
+Hermanitz und Bystrcze,24.2.,Jan,Jirzik,Kubina,Caterzina,Martin,Bezalek
+Weyprachtitz,24.2.,Pawel,Pawel,Wondra,Caterzina,Waczlaw,Kuba
+Hermanitz,24.2.,Waczlaw,-,Heygerlyk,Dorota,Jan,Schytka,W,W
+
+DP 177
+
+Walterzicz,3.3.,Jan,Jan,Nosek,Caterzina,Mattauss,Challoupsky
+Worlitschka,29.4.,Waczlaw,Pawel,Schlesinger,Magdalena,Tobias,Schylla
+Weypprachticz,12.5.,Pawel,Jan,Lyr,Caterzina,Jan,Kyllar
+Hermanitz und Czermny,26.5.,Waczal,Jirzik,Broksch,Maryanna,Jan,Kassek
+Weypprachticz,16.6.,Waczlaw,-,Szarlena,Caterzina,Jirzik,Bussek,W
+Stadt Jablona,23.6.,Franz,Petr,Dorota,Tomass,Szarlen,W
+
+DP 178
+
+Horn und Worlitschka,12.7.,Jan,-,Hluchy,Rosina,Michael,Schlesinger,W
+Tschenkowitz und Weyprachtitz,4.8.,Pawel,Mikulas,Polak,Caterzina,Mikulas,Heyllr
+Waltercitz,25.8.,Pawel,-,Sedlarz,Alzbieta,Jan,Schyll
+Jamny und Worlitschka,8.9.,Pawel,-,Valenta,Maryanna,Pawel,Szeysler,W,W
+Tschenkowitz,22.9.,Krystoff,-,Langhammer,Zuzanna,Tobias,Schyll,W
+Tschenkowitz,29.9.,Michal,Tobias,Polak,Rosina,Jan,Langhammer
+
+DP 179
+
+Worlitschka,29.9.,Waczlaw,-,Schlesinger,Judith,Martin,Schlesinger,W
+Bystrcze,1.10.,Pawel,-,Teykl,Caterzina,Martin,Charwat,W
+Bystrcze,2.10.,Pawel,Jirzik,Krziwohlawek,Caterzina,Waczlaw,Koblyzek
+Weyprachtitz und Bystrcze,7.10.,Jirzik,-,Bunt,Caterzina,Waczlaw,Urban
+Bystrcze,13.10.,Jan,Jirzik,Ssych,-,Jirzik,Kos (Vorname der Braut nicht genannt)
+Tschenkowitz,13.10.,Jan,-,Schyl,Maryana,Jan,Jerzabek
+
+DP 180
+
+Bystrcze,29.10.,Pawel,Jan,Wondra,Alzbieta,Pawel,Hrdina
+Bystrcze,27.10.,Jakub,Jirzik,Waschiczek,Caterzina,Jan,Kyllar
+Jamny,26.10.,Waczlaw,-,Spaczek,Caterzina,Waczlaw,Moravecz
+Weyprachtitz und Jamnay,3.11.,Pawel,Waczlaw,Czernohorsky,Zuzanna,Jirzi,Bednarz
+Bystrcze,3.11.,Jirzi,Waczlaw,Kuczera,Caterzina,Jakub,Waschyczek,-,W
+Herbotitz und Hermanitz,3.11.,Tobias,Jan,Mlynarz,Magdalena,Krystian,Beran
+
+DP 181
+
+Bystrcze,10.11.,Pawel,Jakub,Hrdina,Alzbieta,Pawel,Kratky
+Wyprachtitz,10.11.,Augustyn,Matauss,Hawlena,Maryanna,Jan,Czerny
+Worlitschka,3.11.,Jan,Mattieg,Weinlich,Anna Maria,Jan,Langer
+Worlitschka,17.11.,Michal,Pawel,Polaczek,Judith,Waczlaw,Schlesinger
+Tschenkowitz,17.11.,Waczlaw,Jan,Weinlich,Maryanna,Pawel,Nehyba
+Worlitschka und Tschenkowitz,12.11.,Crystoph,-,Schlesinger,Anna Maria,Jan,Polak
+
+1716
+
+DP 182
+
+Jamnay,19.1.,Jan,Adam,Jira,Caterzina,Waczlaw,Prokopecz
+Waltierczitz und Tschenkowitz,19.1.,Martin,-,Janoss,-,Tobias,Polak,W
+Hermanitz und Weyprachtitz,24.1.,Waczlaw,-,Maress,Judith,Dawid,Ressler,W
+Worlitschka und Weyprachtitz,2.2.,Matej,Jakub,Wiktorin,Caterzina,Jan,Jandrejsek
+Tschenkowítz,2.2.,Michal,Mikulas,Polak,Marya,Jirzi,Blazek
+Weyprachtitz und Bystrecz,2.2.,Jan,Jirzik,Smejkal,Caterzina,-,Seydelmann
+
+DP 183
+
+Dolni Dobraucz und Jablona,4.2.,Martin,Pawel,Waczek,Dorota,Jakub,Stastny
+Bystrcze,9.2.,Pawel,Jan,Kaska,Alzbieta,Martin,Mateyka
+Jamny,9.2.,Pawel,Jirzi,Waczek,Caterzina,Jan,Dolezal
+Hermanitz,9.2.,Jan,Jan,Koczer,Maryanna,Franz,Beran
+Bystrcze und Weyprachtitz,9.2.,Jan,Jirzik,Wassiczek,Caterzina,Dawid,Skaliczky
+Worlitschka,9.2.,Franz,Kaspar,Schyll,Zuzanna,Michal,Feltzmann
+
+DP 184
+
+Hermanitz,16.2.,Waczlaw,Jirzi,Roczen,Alzbieta,Jakub,Hnatek
+Walterzicz,16.2.,Jan,-,Bednarz,Anna,Jan,Kyllar,W
+Tschenkowitz und Walterzicz,18.2.,Mathes,Jan,Feltzmann,Anna Maria,Mathes,Kordas
+Weyprachtitz,23.2.,Mikulas,Mathes,Jankow,Anna,Jakub,Jirasek
+Walterzicz,25.2.,Krystoff,-,Pfertner,Marianna,Jan,Styll
+Jamnay,10.5.,Georg Abraham,Wenceslaus,Teykal,-,Wenceslaus,Srsteny,W (Vorname der Braut nicht angegeben)
+
+DP 185
+
+# und Hermanitz,12.5.,Georg,Jacob,Lyska#,Anna,Mathias,Beran
+Hermanitz und Weypersdorf,17.5.,Matthäus,-,Skorpil,Catharina,Martin,Staczek,W
+Neudorf und Weypersdorf,17.5.,Martin,Kynek#,-,Mathias,Janek#,W (Vorname der Braut nicht genannt)
+Worlitschka und Tschenkowitz,27.5.,Christoph,#uller,Judith,Paul,Nehyba,W
+
+DP 186
+
+Neudorf,1.6.,Christoph,-,Heisler,Judith,Johann,Weinlich (Ort ist der Ort der Braut, Ort des Bräutigams nicht angegeben)
+Weypersdorf,21.6.,Martin,Martin,Rubesch,Dorothea,Johann,Beczek# (Ort ist der Ort der Braut, Ort des Bräutigams nicht angegeben)
+Tschenkowitz,20.7.,Wenceslaus,Johann,Kobliczek,Elisabeth,Johann,Ahsman
+Tschenkowitz,12.8.,Johann,-,Heyl,Judith,Johann,Weinlich,W
+Waltersdorf,20.9.,Johann,-,Ondra,Magdalena,Georg,Hedina,W
+
+DP 187
+
+# und Weypersdorf,27.9.,Johann,David,Waczek,Veronica,Georg,Mleinek (Georg Mleinek ist Richter von Weypersdorf)
+Waltersdorf,5.10.,Georg,Georg,Kos,-,Jacob, Jeczek (Vorname der Braut nicht genannt)
+Jablona,11.10.,Georg,Jacob,Kobliczek,Dorothea,Nicolai,Chladek (Ortsangabe: Ort der Braut, Bräutigamsort nicht genannt)
+Jamnay,25.10.,Johann,Johann,Rubesch#,Catharina,Jacob,Sessen
+
+DP 188
+
+-,28.10.,Johann,Paul,Bechaczek,Magdalena,Paul,Skaliczky (Bräutigam "aus der Stadt", vermutlich Jablona, Brautherkunft nicht angegeben, Matrikel startet auf DP 187)
+Longtrebovia# und Weypersdorf,1.11.,Mathias,Adam,Wolf,Judith,Martin,Skaliczky
+Oberhermanitz,8.11.,Paul,Mathias,Beran,Anna,Martin,Heyl
+Worlitschka,10.11.,Andreas,Andreas,Krögler,Elisabeth,Franz,Schlesinger
+Waltersdorf,11.11.,Jacob,Georg,Mister,Elisabeth,Johann,Moraczek#
+Waltersdorf,15.11.,Franz,-,Wa#cz#n,Dorothea,Martin,Beczalek,W
+Jablona,15.11.,Augustin,Jacob,Neschkudla,Anna,Johann,Jawurek
+
+
+DP 189/190
+
+Herbotitz und Jamnay,17.11.,Wenceslaus,-,Beran,Dorothea,Dominik,Schlesinger,W,W (Wenceslaus war Richter#)
+Petersdorf und Jamnay,19.11.,Johann,Johann,Junek#,Anna,Georg,Moravecz
+Tschenkowitz und Weypersdorf,22.11.,Wenceslaus,Martin,Czernohaus,Anna,Jacob,Uher#
+Worlitschka,22.11.,Caspar,-,Schüll,Susanna,Abraham,Schüll,W (Herkunftsort der Braut nicht angegeben)
+Tschenkowitz,24.11.,Franz,Bartholomäus,Weinlich,Anna Maria,Johann,Koller (Herkunftsort der Braut nicht angegeben)
