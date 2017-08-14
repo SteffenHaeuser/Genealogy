@@ -39,9 +39,37 @@
 1692: Hauskauf des Friedrich Mümler, um des Hans Franck Gartenhaus. P.96
 1691: Hauskauf des Peter Gobitsch, von seinem Vater Heinrich Gobitsch. P.99
 1598: Hauskauf des Hans Sommer, um des Lorenz# Franck sein Haus und Hof. P.104
-
-(152)
-
+1678: Hauskauf des Heinrich Gobitsch, von dem Heinrich Hampel#. P.106
+1598: Hans Richter# Erben Vergleich. P.109
+      - Simon# Sirsch von Petersdorf ist Vater des Martin Sirsch.
+1668: Hauskauf des Michael Rosensprung, um des Martin Langer's. P.111
+      - Michael ist Sohn des Mathias Rosensprung.
+1669: Hauskauf Wilhelm Hübner's, um seines Bruders Martin Hübner's. P.116
+1682: Hauskauf des Martin Keller, um des Simon Nebuske's. P.120
+1670: Hauskauf des Simon Nebuske, vom# Rat#. P.121
+1598: Hauskauf des Georg Pol#, um des Martin Rudel#'s (Oder Pudel's?). P.122
+1672: Hauskauf des Michael Walter von Siebenhöfen, von Georg Raabe. P.123
+1674: Hauskauf des Hans Blaschke, von dem Michael Walter. P.124
+1599: Hauskauf des Jacob Wentzel's, um des Nickel Aust's. P.126
+1679: Hauskauf des Christoph Blaschke, von seinem Bruder Hans Blaschke. P.128
+1599: Hauskauf des Martin Anders aus Altlieb, von der Witwe des Martin Rosensprung aus Sternberg. P.130
+1675: Hauskauf des Michael Pohl, um des Martin Friedrich's. P.132
+1681: Hauskauf des Georg Poltzer, um des Michael Pohl's. P.134
+1599: Kaum zu lesen, irgendetwas über Wolf Schwantzer. P.136
+1674: Hauskauf des Christoph Franck's, um seines sel. Vaters Michael Franck's. P.139
+1674: Hauskauf des Heinrich Hampel's, um des CHristoph Franck's. P.140
+1673: Hauskauf des Michael Partsch, von seinem Vater Heinrich Partsch. P.144
+1663: Ackerkauf des # (Christoph Lichtblau???) , um des Valten Mück. P.146
+#: Kauf eines Teils der Hammermühle des Valten (Hier ist das Papier beschädigt), um des Christoph Lichtblau's. P.148
+1650: Kauf des Hans Reichel, um des sel. Georg Pohl's. P.150
+1650: Kauf des Georg Rieb, um des Mathias Ihler's. P.150
+1651: Kauf des Andreas Unger, um des Valtin Schwab's Gärtnerhäusle. P.150
+1651: Kauf des Gregor #gel (Tegel?), um des Martin Pohl's. P.150
+1651: Kauf des Hand Unger, um des sel. Hans Schram's. P.150
+1651: Kauf des Hans Krönes, um des Georg Hanel's. P.150
+1651: Kauf des Bartel Keymer#, um des Thomas Fichter's. P.151
+1651: Kauf des Wentzel# Dredler, um des sel. Andreas Christ#'s. P.151
+1653: Kauf des Heinrich Gobitsch, um des Adam Heintz'. P.151
 1698: Vergleich zwischen den Erben des Heinrich Partsch. P.152
 1598: Irgendwas über Bürgermeister? P.158
 1674: Hauskauf des Hans Krönes, von seiner Mutter, der Frau oder Witwe des Steffan Krönes. P.160
@@ -73,8 +101,43 @@
 1602: Hauskauf des Hans Weiel, um des Urban Zulzer#'s. P.196
 1602: Hans Rütter (Müller) kauft des Andreas Fleischer's. P.198
 1602: Kauf des Andreas Fleischer, um des Wentzel Sommer's. P.200
-	  
-(250)
+1602: Kaum zu lesen, Erbsache??? (P.202)	  
+1602: Kauf des Bartel Pohl, Müller, um des Hans Kutter, Müller's Mühle. P.204
+1692: Kauf des Christian Pfoffentrit, um seines Vater's Michael Pfoffenriet's Gut. P.205
+1601: Kauf des Andreas Klein, um des Lorenz Gnandiger#'s. P.208
+1607: Lorenz Schmied' Freispruch. P.209
+1602: Paul Badscheffel's Kauf, um des Hans Roth' Haus. P.211
+1603: Kauf des Martin Kluger, um des Tobias Poltzer# (Heißt das Poltzer?) P.213
+1603: Kauf des Hans Sommer# und des Georg Sommer# von Petersdorf, um des Martin Öxner's (Heißt das "Sommer"?). P.216
+1603: Kauf des Martin Rudel's, um des Peter Gnendiger's. P.218
+1603: Kauf des Andreas Wolf#, um der Magdalena Aust's. P.219
+1604: Kauf des Jacob Schwantzer, um des Martin Rudel's. P.221
+1604: Kauf des Georg Scholz#, um des Hans Kuntz'. P.223
+1604: Kauf des Thomas Ben#'s, um des Georg Pohl#'s. P.225
+1603: Kauf des Baltzer Tol# von Braun#, um des Müller's Bartel Pohl's Mühle. P.227
+1604: Kauf des Hans Sommer#, von Georg Scholtz#. P.230
+1604: Kauf des Paul Kluger, von Hans Weigel#. P.231
+1604: Kauf des Paul Schäfer, von seinem Vater Stephan Schäfer. P.232
+1604: Kauf des Urban Aler, von Paul Kluger. P.233
+1604: Kauf des Wentzel Krause#'s, um des Hans Maidelich#'s. (Namen unsicher, schwer lesbar) P.234
+1607: Kauf des Andreas Wolf's, von Valten Franck's. P.235
+1605: Kauf des Hans Röder#'s, um des Hans Sommer's. P.237
+1604: Kauf des Adam Öxner's, um des Hauses seiner Mutter Cordula. P.237
+1605: Kauf des Hans Sommer's, um des Adam Öxner's. P.238
+1606: Kauf des Hans Sommer's, um des Adam Öxner's. ("verkaufet das Gold... Hans Sommer's Haus" - Hauskauf eigentlich andersrum?) P.239
+1628: Freispruch zwischen Mathes Hanels Rosensprung Han Bartel Kluger aus der Bautsch und Michael Win#. (Namen schwer lesbar, unklar) P.240
+1605: Michael Gersch#'s Kauf, von seinem Vater Peter Gersch#'s. P.242
+1626: Freispruch Georg Franck's aus Brockersdorf, wegen seines Weibes Margaretha's Anforderung, auf Adam Theimer's Grund, an itzo aber Michael Benisch als Grundbesitzer. P.243
+1626: Freispruch Georg Franck Martin Pohl Hans Schäfer# Martin Stibner. P.243
+1637#: Freispruch Hans Schäfer von Lodenitz wegen seines Weibes Anforderung (der Tochter des Adam Theimer) auf Adam Theimer's Grund. P.244
+#: Freispruch Adam Teimer's und Thomas Aust und Martin Sor# von der #. P.245
+#: Freispruch Adam Teimer's und #. P.245
+1627: Freispruch Anna, Martin Öxner's hinterlassene Tochter. P.245
+1605: Kauf des Adam Teubner's, um des sel. Martin Öxner's (Rat anstelle der Waisen). P.246
+#: Freispruch zwischen Martha Schmidt von der Deutsch Hause und Adam Teubner von Domstadtl. P.247
+1615: Kauf des Adam Teimer, um des #. P.247
+1606: Kauf des Andreas Friedrich, um des Martin Onder#. P.248
+1626: Freispruch zwischen Adam Rosensprung (und seiner Mutter) und Andreas Friedrich. P.249
 1606: Kauf des Adam E#, um des Caspar Sacher#'s. P.251
 1606: Kauf des Hans Kuntz', um des Georg Gersch#'. P.252
 1606: Kauf des Hans #, um des Hans Kuntz'. P.252
@@ -101,12 +164,30 @@
 1609: Hauskauf des Mark Frantz, um des Bartel E# (Mark Frantz ist sein Eidam). P.276
 1609: Hauskauf des Nickel Weiget, um des Jacob Schwantzer's. P.277
 1609: Hauskauf des Hans Sommer, um des Wentzel Kraus's. P.278
-
-
-(272)
-
-(309)
-
+1609: Vertrag zwischen Anna, des Gregor Wentzel hinterlassene # und Bartel Aust. P.279
+1609: Kauf des Christoph Dorff, von dem Jockel Wentzel. P.281
+1614: Freispruch zwischen Jockel Wentzel nachgelassener Wittib und Christoph Dorff. P.282
+1609: Kauf des Georg Partsch, Hammermeister, von dem Matz Gross. P.283
+1610: Kauf des Michael Aler, um des Hans Dreiseitel's. (richtig rum?) P.285
+1610: Kauf des Adam Sares von Lodenitz, um des Christoph Dorff's. P.287
+1610: Kauf des Hans Sommer, um des Hans Aler#'s. P.289
+1610: Vertrag zwischen Christoph Schmied und Hans Aler#. P.291
+1610: Hauskauf des Martin Riedel, um des Georg Partsch's.(Name des Käufers richtig?) P.292
+1611: Hauskauf des Valten Franck, um des Hans Aler#'s. P.293
+1688: Hauskauf des Friedrich Walter's, um des Georg Krönes. P.294
+1611: Hauskauf des ???, um der Anna, hinterlassener Wittib des ??? Weigert. P.295
+      - Unten stehen einige Verwandte mit Verwandtschaftsbeziehung genannt. Auch auf der nächsten Seite.
+      - Etwa Nickel Weigert der Sohn.
+1617: Vertrag zwischen Nickel Weigert und Bartel Söldner#. P.296
+1655#: Hauskauf des Hans #kner (Teubner???), um des Gregor Hanschel#'s. P.297
+1695: Hauskauf des Christian Blaschke, um des Christoph Lichtblau's. P.298
+1610: Hauskauf deder Elisabeth, Witwe des Lorenz Franck vom Rat (Erbsache? Kauf des Guts ihres verstorbenen Mannes?). P.301
+1613: Hauskauf des Wentzel Badscheffel, um des Lorentz Franck verlassenen Grund. P.302
+1611: Hauskauf des Georg Nitschmann, um des Andreas Wolff'. P.303
+1612#: Hauskauf des Paul Badscheffel, um des # Rasch's. P.304
+1612: Hauskauf des Thomas Fichtner, um des Paul Badscheffel's (Name des Käufer's richtig?). P.305
+1618#: Freispruch zwischen Paul Badscheffel und MIchael Böhnisch. P.306
+1612: Hauskauf des Michael Partsch (Sohn des Hammermeisters Georg Partsch), um des Bartel #. P.307
 1636: Freispruch zwischen Paul Padscheffel und Michael Kuttler. P.309
 1620: Paul Padscheffel von Seibersdorf verkauft seine Übergebauanfroderung von seinem Stiefvater Adam Schramm's Weib. P.310
      - Schwer lesbar, unsicher.
