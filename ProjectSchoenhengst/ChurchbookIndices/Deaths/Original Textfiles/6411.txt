@@ -1550,6 +1550,357 @@ Tschenkowitz,18.1.,Christoph,-,Feltzmann,- (#)(Ehemann von Anna aus dem vorigen 
 
 DP 42
 
+Tschenkowitz,14.1.,-,Matthäus,Blaschke,- (#)(Ein Kind, es stand ursprünglich des Christoph Feltzmann, wurde durchgestrichen und mit selber Schrift des Matthäus Blaschke hingeschrieben)
+Tschenkowitz,15.1.,Anna,Johann,Hauk,- (#)(Ein Kind)
+Tschenkowitz,14.1.,Maria,Matthäus,Egydi,1
+Waltersdorf,18.1.,Catharina,Jacob,Roczen,3w
+Waltersdorf,18.1.,Anna,Matthäus,Zaubele,1d
+Tschenkowitz,21.1.,-,-,-,- (#)(Eine Frau)
+Oberhermanitz,21.1.,Dorothea,Nicolaus,Janda,35 (Ehefrau,Beruf Incola)
+Oberhermanitz,25.1.,Paul,Benjamin,B#ka,6w
+Oberhermanitz,28.1.,Magdalena,Georg,Zalmann,45 (Ehefrau)
+Tschenkowitz,29.1.,Anna,Michael,Kobliczek,75 (Witwe)
+Waltersdorf,31.1.,Jacob,Johann,Kubin,1.5
+Neudorf,1.2.,Anna,Paul,Wim#,45 (Witwe)
+Hermanitz,3.2.,Wenceslaus,Hans,Barton,4
+Jamnay,5.2.,Dorothea,Jacob,Hor#en,2d
+Waltersdorf,9.2.,Anna,Hans,Susasanek#,45 (Tochter)
+Tschenkowitz,10.2.,Judith,Georg,Naschke# (#)(Nosek?)
+Weypersdorf,11.2.,Catharina,Hans,Hawelka,12w
+Worlitschka,11.2.,Rosina,Georg,Weinlich,9w
+Jablona,12.2.,-,-,-,-
+Jablona,12.2.,Wenceslaus,Paul,Wottawa,12
+Worlitschka#,18.2.,Regina,Hans,Heisler,1y13w
+Weypersdorf,20.2.,Johann,Georg,Ptaczek,3w
+Jablona,20.2.,-,-,-,-
+Waltersdorf,21.2.,-,-,-,-
 
+DP 43
+
+Niederhermanitz,22.2.,Wenceslaus,Hans,Koczaczek,9d
+Hermanitz,22.2.,Dorothea,Paul,Zelynka (Tochter)
+Worlitschka,23.2.,Anna,Christoph,Schlesinger,25w
+Weypersdorf,25.2.,Catharina,Adam,Wottawa,60 (Ehefrau)
+Worlitschka,1.3.,Christoph,Georg,Schlesinger,4w
+Jablona,7.3.,-,-,-,-
+Jablona,8.3.,-,-,-,-
+Waltersdorf,8.3.,Maria,Hans,Kobliczek,3
+Tschenkowitz,13.3.,Franz,Dominik,Schüttke,6
+Tschenkowitz,13.3.,Hans,Christoph,Heisler,2
+Hermanitz,19.3.,-,Wenceslaus,Kubesch,6
+Worlitschka,20.3.,Elisabeth,Matthäus,Koller#,26w
+Weypersdorf,20.3.,Georg,-,Andru#,50 (#)(Andrle?)
+Jablona,21.3.,-,-,-,-
+Jablona,21.3.,-,-,-,-
+Tschenkowitz,25.3.,Maria,Hans,Polaczek,- (Witwe)
+Worlitschka,26.3.,Susanna,Matthäus,Koller#,27 (Ehefrau)
+
+DP 44
+
+Waltersdorf,29.3.,-,-,-,-
+Tschenkowitz,1.4.,Rosina,Georg,Duchaczek,13
+Weypersdorf,1.4.,Anna Judith,Hans,Killar,9m
+Weypersdorf,3.4.,Maria,Jacob,Rzehak,30 (Tochter)
+Tschenkowitz,3.4.,Hans,Dominik,Schüttke,4
+Worlitschka,3.4.,Christoph,Hans,W#,4.5
+Weypersdorf,4.4.,Georg,Georg,Kubelka,3m
+Jablona,8.4.,Anna,Hans,Seibal,- (Ehefrau)
+Tschenkowitz,16.4.,Georg,Hans,Schüll#,4
+Jablona,20.4.,-,-,-,-
+Tschenkowitz,21.4.,Wenceslaus,Matthäus,Schrötter#,39w
+Worlitschka,21.4.,Franz,Hans,W#ert,7d
+Waltersdorf,23.4.,Catharina,Jacob,Killar,9m
+Worlitschka,26.4.,Susanna,Martin,Scholtz,36 (Tochter)
+Ullersdorf,26.4.,-,-,-,- (#)("Ein Bettelweib")
+Tschenkowitz,28.4.,Caspar,Georg,Scholtz,45w
+Waltersdorf,30.4.,-,Simon,Jeczek,- (Ehefrau)
+
+DP 45
+
+Tschenkowitz,1.5.,Johann,Hans,Kobliczek,1y18w
+Neudorf,1.5.,Paul,Georg,Heisler,5w
+Waltersdorf,2.5.,Susanna,Jacob,Jansa,- (Witwe)
+Weypersdorf,4.5.,-,-,-,-
+Tschenkowitz,5.5.,Maria,Paul,Nehyba,3y13w
+Tschenkowitz,10.5.,Johann,Paul,Nehyba,2y7w
+Worlitschka,11.5.,Barbara,Hans,Janesch#,35 (Ehefrau)
+Jablona,12.5.,Anna,-,Sankowa,-
+Waltersdorf,14.5.,Georg,Hans,Ondru#,9m
+Worlitschka,14.5.,Hans,Michael,Moser,14d
+Jamnay,14.5.,Martin,-,Czernohaus,-
+Waltersdorf,14.5.,Georg,Hans,Wondra,36w
+Hermanitz,15.5.,Anna,Wenceslaus,Schem#,- (Tochter)(Gelesen: "Schembken")
+Worlitschka,18.5.,Maria,Hans,Janesch#,7
+Tschenkowitz,21.5.,Maria,Hans,Koller#,66 (Witwe)
+Waltersdorf,26.5.,Maria,Georg,Kaschka,4
+Worlitschka,1.6.,-,-,-,- (#)("Ein Kind von Worlitschka")
+Neudorf,4.6.,-,-,-,- (#)("Ein Kind von Neudorf")
+
+DP 46
+
+Neudorf,6.6.,Catharina,Paul,Pechaczek,40 (Tochter)
+Weypersdorf,9.6.,Maria,Martin,Pawlu,1y2w
+Tschenkowitz,16.6.,Wenceslaus,Tobias,Lang#,1
+Tschenkowitz,17.6.,Susanna,Hans,W#,26 (Ehefrau)
+Worlitschka,20.6.,Franz,Hans,Gabler,5
+Hermanitz,24.6.,Martin,-,Gau#,-
+Tschenkowitz,26.6.,,-,Paul,Polak,26w
+Worlitschka,28.6.,Maria,Martin,Scholtz,- (Tochter)
+Jablona,28.6.,Wenceslaus,Hans,Kozel,-
+Worlitschka,30.6.,Rosina,Hans,Nehyba,8
+Weypersdorf,10.7.,Dorothea,Hans,Greger,6m
+Neudorf,17.7.,Johann,Christoph,Schüll#,-
+Worlitschka,19.7.,Bartholomäus,Bartholomäus,Heisler,2
+Jablona,27.7.,-,Hans,Sch#tz,- (#)(Ein Kind)
+Worlitschka,28.7.,Wenceslaus,Nickel#,Hauk,-
+Weypersdorf,28.7.,Franz,Jacob,Uher#,11w
+Worlitschka,1.8.,Catharina,Christoph,Pfertner,31y26w (Ehefrau)
+
+DP 47
+
+Worlitschka,3.8.,Barbara,Martin,Neugebauer,57 (Tochter)
+Hermanitz,4.8.,Wenceslaus,Georg,Ptaczek,-
+Jablona,4.8.,-,-,Skaliczky,- (Ehefrau)
+Worlitschka,6.8.,Martin,Martin,Neugebauer,59
+Worlitschka,7.8.,Maria,Michael,Heisler,48 (Ehefrau)
+Oberhermanitz,8.8.,Wenceslaus,Hans,Kulhanek,-
+Worlitschka,9.8.,Barbara,Hans,Gabler,75 (Ehefrau)
+Worlitschka,12.8.,Paul,-,Schlesinger#,56
+Worlitschka,16.8.,Christoph,-,Bihr#,37
+Jablona,16.8.,-,Hans,Schütz,- (#)(Heißt das "Mutter von Jablona"?)
+Jablona,27.8.,Catharina,Paul,Sedlarz,- (Ehefrau)
+Worlitschka,27.8.,Maria,Paul,Gabler,33# (Ehefrau)
+Tschenkowitz,28.8.,Maria,Hans,Schüll#,36 (Ehefrau)
+Weypersdorf,1.9.,Catharina,Georg,Brokesch,45 (Witwe)
+Tschenkowitz,3.9.,Matthäus,-,Blaczek#,42
+Jamnay,5.9.,Magdalena,-,#za#kowa,-
+Jablona,6.9.,Justina,Wenceslaus,Klesl,0 (#)("Ein paar Stunden alt")
+
+DP 48
+
+Jablona,7.9.,Magdalena,Jacob,Kobliczek,8
+Jablona,12.9.,Eva,Wenceslaus,Klesl,- (Ehefrau)
+Weypersdorf,16.9.,Catharina,Hans,Sedlaczek,5d
+Worlitschka,20.9.,Maria,Christoph,Weinlich,49 (Ehefrau)
+Worlitschka,24.9.,Hans,-,Weinlich#,56
+Worlitschka,24.9.,-,-,-,- (#)("Ein Kind von Worlitschka")
+Hermanitz,25.9.,-,-,Schwestka,60
+Jablona,25.9.,-,-,-,- (#)("Ein Jüngling von Gabel")
+Waltersdorf,29.9.,-,-,-,9 ("Ein Jüngling von Waltersdorf seines Alters 9 Jahr")
+Jablona,2.10.,-,Hans,Pan#,-
+Jablona,3.10.,Anna,Hans,Sedlarz,- (Ehefrau)
+Hermanitz,3.10.,-,Nickel#,Beran#,- (#)("Ein Kind")
+Niederhermanitz,4.10.,Catharina,Nikolaus,Pechaczek,-
+Jablona,10.10.,Paul,-,-,-
+Weypersdorf,14.10.,Magdalena,Wenceslaus,Ptaczek,6w
+Niederhermanitz,22.10.,Georg,Matthäus,Marek,18
+Weypersdorf,29.10.,Jacob,-,Wottawa,-
+Weypersdorf,29.10.,Georg,-,Kuba,-
+
+DP 49
+
+Jablona,3.11.,Sybilla#,Matthäus,Matz#,- (Tochter)
+Neudorf,6.11.,-,Christoph,Nentvich,0 (#)("Ein Kind, von der Amme getauft")
+Weypersdorf,8.11.,Dorothea,Paul,Lyr#,60 (Ehefrau)(Lyr oder Byr?)
+Lubnik,8.11.,Anna,-,-,- (Ehefrau)
+Weypersdorf,13.11.,Maria,Martin,Schembera,2.5
+Worlitschka,18.11.,-,-,-,- (#)("Ein Kind von Worlitschka")
+Lubnik,19.11.,-,-,-,- (#)("Ein Kind von Lubnik")
+Niederhermanitz,28.11.,Rosina,Wenceslaus,Schembera,49w
+Waltersdorf,28.11.,-,-,-,- (#)("Ein Kind von Waltersdorf")
+Worlitschka,3.12.,Georg,Christoph,Weinlich#,36w
+Tschenkowitz,8.12.,Magdalena,-,Hauenschild,80
+Weypersdorf,8.12.,Johann,Hans,Skaliczky,5d
+Weypersdorf,11.12.,Peter,-,Maczek#,-
+Weypersdorf,12.12.,Martin,-,Skaliczky,-
+Weypersdorf,14.12.,Johann,-,Beschka#,-
+Tschenkowitz,15.12.,Susanna,Matthäus,Wottawa,20w
+Neudorf,19.12.,Veronica,Paul,Duchaczek#,1y50w
+
+DP 50
+
+Waltersdorf,26.12.,Hans,-,Spiczak,-
+Hermanitz,27.12.,-,Hans,Barton,- (#)("Ein Kind")
+
+1695
+
+Worlitschka,2.1.,Elisabeth,Friedrich#,Weypert,8d
+Worlitschka,2.1.,-,-,-,- (#)("Ein Kind von Worlitschka")
+Worlitschka,5.1.,Hans,Wenceslaus,Schlesinger,8d
+Oberhermanitz,10.1.,Jacob,-,Darczilek,-
+Waltersdorf,10.1.,-,-,Spiczak,- (#)("Ein Weib, Spiczakin genannt")
+Niederhermanitz,14.1.,Anna,Paul,Marku#,- (Witwe)(Marku oder Marek?)
+Worlitschka,16.1.,Regina,Adam,Krögler,8
+Worlitschka,17.1.,Maria,Christoph,Langer,1y50w
+Worlitschka,19.1.,Matthäus,Paul,Schlesinger,8
+Weypersdorf,19.1.,Franz,Paul,Sedlarz,1
+Weypersdorf,22.1.,Catharina,-,Worlitschka,60
+Worlitschka,25.1.,Anna,Christoph,Hoffmann,40 (Ehefrau)
+Weypersdorf,25.1.,Hans,-,Jarolym,-
+Worlitschka,26.1.,Maria,Christoph,Schüll,35 (Witwe)
+Jablona,26.1.,-,Matthäus,Skaliczky,- (Witwe)
+
+DP 51
+
+Weypersdorf,28.1.,Catharina,Matthäus,Skaliczky,- (Witwe)
+Worlitschka,31.1.,Regina#,Zacharias,Hoffmann,10 (#)(Regina oder Rosina?)
+Worlitschka,1.2.,-,-,-,- (#)("Ein Kind von Worlitschka")
+Worlitschka,4.2.,Tobias,-,Feltzmann,62
+Weypersdorf,4.2.,Adam,-,Wottawa,-
+Tschenkowitz,5.2.,Hans,Matthäus,Horaczek,8y6m
+Jamnay,7.2.,-,-,-,- (#)("Ein Kind von Jamnay")
+Worlitschka,12.2.,Maria,Christoph,Bihr#,1.5
+Waltersdorf,12.2.,Jacob,Jacob,Kaschka,6m
+Neudorf,16.2.,Georg,Andreas,Pfertner,18w
+Waltersdorf,17.2.,Elisabeth,Hans,Jansa,- (Witwe)
+Neudorf,18.2.,Tobias,Christoph,Heisler,8d
+Neudorf,19.2.,Hans,-,#au#ler,65
+Niederhermanitz,21.2.,Paul,-,Schembera,50
+Worlitschka,21.2.,Rosina#,Paul,Domlatil,45 (Witwe)
+Jamnay,21.2.,-,-,-,- (#)("Ein Kind von Jamnay")
+Jablona,27.2.,-,-,-,- (#)("Ein Weib von Gabel")
+
+DP 52
+
+Jablona,9.3.,-,-,Trampota,-
+Jablona,9.3.,-,Paul,Schüll#,- (#)(Heißt das "Paul Schel's Kind"?)
+Waltersdorf,13.3.,Paul,Georg,Hrdina,4
+Waltersdorf,16.3.,Anna,Hans,Waniczek,1d
+Waltersdorf,18.3.,Susanna,-,-,-
+Jablona,19.3.,-,-,Skaliczky,-
+Worlitschka,21.3.,Hans,-,Nehyba,45
+Tschenkowitz,28.3.,Michael,-,Langhammer#,65 (#)(Heißt das "Langh."?)
+Weypersdorf#,30.3.,Catharina,Paul,Kubelka,- (Ehefrau)
+Jablona,2.4.,Hans,-,Schweda#,40
+Worlitschka,2.4.,Hans,-,Gabel#,92
+Hermanitz,2.4.,- und -,-,-,- (#)(Ein Ehepaar)
+Weypersdorf,9.4.,Matthäus,-,Smeykal,-
+Weypersdorf,10.4.,Hans,Felix,Honical#,8d (#)(Nachname schwer lesbar, unsicher)
+Tschenkowitz,10.4.,Susanna,Wenceslaus,Michalek#,68 (Witwe)(Nachname schwer lesbar, unsicher)
+Worlitschka,11.4.,Maria,Paul,Schüll,28w2d
+
+DP 53
+
+Neudorf,13.4.,Hans,-,Lier,- (#)(Lier oder Bier?)
+Neudorf,13.4.,Dorothea,Hans,Lier,- (#)(Lier oder Bier?)
+Jablona,16.4.,Susanna,-,Schweda#,60 (Ehefrau)(Ehefrau oder Tochter?)
+Worlitschka,20.4.,Elisabeth,Paul,Schlesinger,6w
+Neudorf,23.4.,Barbara,Martin,Koller#,52# (Tochter)
+Hermanitz,26.4.,Susanna,Paul,Taraschka,10w
+Waltersdorf,28.4.,Georg,-,Mach,70
+Jamnay,-,28.4.,Hans,-,Chladek,30#
+Waltersdorf,1.5.,Paul,Jacob#,Jansa,-
+Lubnik,2.5.,Peter,-,Matizka#,-
+Hermanitz,4.5.,-,-,-,0 (#)("Ein Kind, von der Amme getauft")
+Worlitschka,5.5.,Franz,Hans,Heisler,7w
+Waltersdorf,7.5.,Magdalena,Georg,Trampota,2
+Jablona#,7.5.,Dorothea,Georg,Wottawa,60 (Witwe)
+Worlitschka,12.5.,-,Bartel,Schlesinger,5
+Waltersdorf,13.5.,Dorothea,Georg,Pan,1.5
+Waltersdorf,24.5.,Judith,Jacob,Jansa,1
+
+DP 54
+
+Neudorf,26.5.,-,Jacob,Duchaczek,1# (#)(Eine Tochter, Alter 1 oder 11 Jahre ?)
+Worlitschka,30.5.,Rosina#,Martin,Schlesinger,57 (Ehefrau)
+Waltersdorf,31.5.,Jacob,Hans,Beczalek#,-
+Tschenkowitz,1.6.,Georg,-,Sonntag,60
+Tschenkowitz,7.6.,Barbara,Wenceslaus,Heintzl#,30#
+Tschenkowitz,8.6.,Maria,Georg,Bihr,22w
+Jablona,8.6.,Thomas,-,Seibal,40
+Jamnay,11.6.,-,-,Hudecz,- (Witwe)
+Lubnik,12.6.,Georg,-,Koczelek#,-
+Hermanitz,13.6.,Nikolaus,-,Beran,-
+Worlitschka,18.6.,Rosina,Jacob,Czernohaus,40 (Ehefrau)
+Worlitschka,23.6.,Martin,-,Schlesinger,65
+Neudorf,3.7.,Maria,Georg,Polak,1.5
+Herantz #berger Herrschaft,5.7.,Rosina#,Georg,Bihr,76 (Witwe)
+
+DP 55
+
+Jablona,5.7.,Paul,-,Stiastny,70
+Jablona,5.7.,Catharina,Thomas,Seibal,- (Witwe)
+Worlitschka,9.7.,Johann,-,Feltzmann#,65 (Beruf Incola)(Heißt das Feltzmann? Sieht eher wie Petzmahl aus)
+Tschenkowitz,17.7.,Maria,Christoph,Kobliczek,6
+Oberhermanitz,18.7.,Georg,-,Maresch,45
+Worlitschka,24.7.,Judith,Caspar,Heisler,1
+Worlitschka,31.7.,Judith,Michael,Scholtz,8d
+Weypersdorf,30.7.,Catharina,Hans,Mleinek,70 (Witwe)(Steht zwar unter August, aber wohl noch für Juli gemeint)
+Jablona,2.8.,Augustin,Augustin,Wolf,13w
+Jablona,4.8.,Ludmilla,Hans,Seibal,- (Ehefrau)
+Worlitschka,4.8.,Catharina,Tobias,Heisler,64 (Ehefrau)
+Zot# Schönstädtler# Herrschaft,9.8.,Martin,Matthäus,Matiegka#,-
+Waltersdorf,9.8.,Wenceslaus,Georg,Wonawek#,2
+Hermanitz,13.8.,Anna,Georg,Kulhanek,- (Ehefrau)
+Waltersdorf,16.8.,Georg,Georg,Kaschka,3#w
+Neudorf,26.8.,-,Caspar,Nentvich,- (Tochter)
+
+DP 56
+
+Jamnay,2.9.,Jacob,-,Czernohaus,40
+Jamnay,2.9.,Dorothea,Wenceslaus,Bauchal,60 (Ehefrau)
+Waltersdorf,3.9.,Dorothea,Martin,Mach,- (Ehefrau)
+Hermanitz,5.9.,Johann,Hans,Taraschka,21
+Jamnay,6.9.,Georg,-,Czernohorsky,-
+Jamnay,9.9.,-,Hans,Doleschek#,- (#)(Ein Kind)
+Jamnay,10.9.,Susanna,Georg,Bednarz,32 (Ehefrau)
+Tschenkowitz#,11.9.,Susanna,Adam,Krögler,8
+Waltersdorf,13.9.,Wenceslaus,-,Matejka,31
+Jamnay,13.9.,Johann,Jacob,Killar,3
+Waltersdorf,18.9.,Judith,Martin,Mach,- (Tochter)
+Waltersdorf,18.9.,Martin,Jacob,Jeczek,-
+Tschenkowitz,26.9.,Anna,Lorenz,Hainke#,68 (Witwe)
+Hermanitz,26.9.,Jacob,-,Maresch,-
+Worlitschka,27.9.,Susanna,Jeremias#,Schüll#,60 (Ehefrau)
+Jamnay,28.9.,Dorothea,Wenceslaus,Waniczek#,50 (Witwe)
+Weypersdorf,28.9.,-,-,-,- (#)("Ein Bettelweib von Weypersdorf")
+Niederhermanitz,6.10.,Johann,Paul,Schembera,9w
+
+DP 57
+
+Jablona,6.10.,Rosina,Hans,Czernohaus,40 (Ehefrau)
+Jamnay,12.10.,Paul,-,Bihaunek,50
+Waltersdorf,18.10.,Catharina,Paul,Jeczek,30 (Witwe)
+Weypersdorf,18.10.,Paul,Matthäus,Worlitschka,2w
+Hermanitz#,19.10.,Anna,Jacob,Mrazek,70 (Witwe)
+Weypersdorf,19.10.,Magdalena,Hans,Jandegsek#,3
+Tschenkowitz,22.10.,Maria,Hans,Schüll#,5
+Weypersdorf,26.10.,Catharina,Matthäus,Smrzek,40 (Witwe)
+Weypersdorf,26.10.,Martin,Matthäus,Worlitschka,2w
+Neudorf,28.10.,Maria,Christoph,Nentvich,5
+Tschenkowitz,28.10.,Michael,Christoph,Bock#,7w
+Weisswasser Bisenberger# Herrschaft,2.11.,Christoph,-,Busch#,-
+Waltersdorf,5.11.,Georg,-,Waschiczek,35
+Weypersdorf,15#.11.,Martin,David,Skaliczky,8d
+Waltersdorf,19.11.,-,-,Hrdina,- (Ehefrau)
+Hermanitz,20.11.,Maria,Paul,Höhl#,60 (Ehefrau)
+Jamnay,23.11.,Catharina,Paul,Maczek#,55 (Witwe)
+Worlitschka,24.11.,Regina,Jeremias,Schüll,67 (Ehefrau)
+
+DP 58
+
+Worlitschka,26.11.,Tobias,-,Heisler,70
+Waltersdorf,29.11.,Maria,Hans,Chromy,13
+Worlitschka,1.12.,Bartel,-,Schlesinger,53
+Tschenkowitz,2.12.,Wenceslaus,Hans,Schüll#,9w
+Tschenkowitz,2.12.,Justina,Hans,Nosek,78 (Witwe)
+Waltersdorf,7.12.,Jacob,-,Kaschka,40
+Tschenkowitz,11.12.,Wenceslaus,-,Hentzl,55
+Jamnay,12.12.,-,Hans,Girauntz,14 (Tochter)
+Waltersdorf,14.12.,Catharina,Hans,Werczack#,45 (Witwe)
+Jablona,16.12.,Wenceslaus,-,Klesl,40
+Worlitschka,17.12.,Anna,Jeremias,Schüll,35 (Tochter)
+Worlitschka,18.12.,Anton,Andreas,Pohl#,8
+Weypersdorf,20.12.,Martin,Paul,Wondra,5d
+Hermanitz,21.12.,-,Hans,Darczilek,14d
+Waltersdorf,22.12.,Susanna,Martin,Nehyba,70 (Witwe)
+Waltersdorf,25.12.,Marta,Wenceslaus,Kratky,60 (Witwe)
+Worlitschka,26.12.,Johann,Christoph,Krögler,2
+Waltersdorf,29.12.,Hans,-,Teykl,40
+Waltersdorf,31.12.,Christina,Martin,Kuczera,74 (Witwe)
+
+DP 59
+
+1696
 
 
