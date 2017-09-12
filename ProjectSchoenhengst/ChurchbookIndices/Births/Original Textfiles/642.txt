@@ -134,7 +134,7 @@ Dobroucz,22.9.,Tobias,Jacob,Tesarz,Catharina
 Czermny,23.9.,Catharina,Adam,Sponer#,Magdalena
 Czermny,23.9.,Catharina,Martin,Pessyar#,Marianna
 Czermny,27.9.,Wenceslaus,Johann,Wawra,Susanna 
-Jakubowecz,28.9,Catharina,Adam,Benesch,Barbara
+Jakubowicze,28.9,Catharina,Adam,Benesch,Barbara
 Czermny,30.9.,Waczlaw,Paul,Mister,Anna
 Weyprachtitz,30.9.,Martin,Johann,Kozak,Eva
 Unterhermanitz,30.9.,Catharina,Matthäus,Martin,Barbara
@@ -187,13 +187,13 @@ Landsberg,27.12.,Georg,Georg,Drahy,Marianna (Landskron???)
 DP 13
 
 Jamnay,29.12.,Anna Maria,Jacob,Bednarz,Susanna
-Jakubowecz,29.12.,Maria,Johann,Heyl,Anna
+Jakubowicze,29.12.,Maria,Johann,Heyl,Anna
 
 1664
 
 Oberhermanitz,6.1.,Anna,Waczlaw,Beran,Susanna
 Hermanitz,6.1.,Marianna,Paul,Zalmann,Ursula
-Jakubowecz,13.1.,Paul,Georg,Hawel,Catharina
+Jakubowicze,13.1.,Paul,Georg,Hawel,Catharina
 Bystrcze#,13.1.,Paul,-,-,Susanna (Die Mutter ist Tochter des Peter Ambrosch) U: Kind von Susanna Ambrosch
 Wermerovice,17.1.,Dorothea,Waczlaw,Boczek,Dorothea
 Jamnay,20.1.,Johann,Paul,Morawetz,Catharina
@@ -284,7 +284,7 @@ Jamnay,24.5.,Magdalena,Jacob,Filip,Elisabeth
 DP 19
 
 Unterhermanitz,27.5.,Judith,Mathias,Marek,Anna
-Jakubowecz,27.5.,Maria,Thomas,Motl,Justina
+Jakubowicze,27.5.,Maria,Thomas,Motl,Justina
 Weyprachtitz,27.5.,Eva,Georg,Jawurek,Catharina
 Unterhermanitz,31.5.,Magdalena,Paul,Drasal,Catharina
 Jablonne,3.6.,Veronica,Martin,Marek,Marianna
@@ -310,7 +310,7 @@ Czermny,#,-,-,-,- (leerer Eintrag)
 Unterhermanitz,25.7.,Waczlaw,Paul,Michael,Magdalena
 Tschenkowitz,26.7.,Susanna,Georg,Schüll,Susanna
 Bystrcze,27.7.,Martin,Philipp,Posl,Catharina
-Wermerczicze,31.7.,Waczlaw,Johann,Saukup,Anna
+Wermerzowicz,31.7.,Waczlaw,Johann,Saukup,Anna
 Jamnay,3.8.,Marianna,Georg,Krystek,Magdalena
 Worliczky,3.8.,Maria,Paul,Schlesinger,Anna
 Oberhermanitz,4.8.,Waczlaw,Adam,Maresch,Catharina
@@ -462,518 +462,518 @@ Czermny,28.5.,Jacob,Georg,Motl,Catharina
 
 DP 29
 
-Bystrcze,31.5.,Peter,Jacob,Smrzek#,Dorothea (Sehr unsicher bzgl. des Nachnamens, schwer zu lesen)
-Jamnay,4.6.,Jacob,Adam,Jirek#,Susanna (Sehr unsicher bzgl. des Nachnamens, schwer zu lesen)
-#,7.6.,Maria#,Johann,Burian#,Anna (Sehr unsicher bzgl. des Nachnamens, schwer zu lesen)
+Bystrcze,31.5.,Peter,Jacob,Smrczek,Dorothea 
+Jamnay,4.6.,Jacob,Adam,Jirek,Susanna
+Bystrcze,7.6.,Maria,Johann,Burian,Anna 
 Worlyczek,9.6.,Matthäus,Bartholomäus,Hoffmann#,Sabina
-Weyprachtitz,14.6.,Magdalena,#,#,Magdalena (Vater nicht genannt?)
-#,20.6.,Christoph#,Dominik#,#,#
-Dolni Dobrouc,22.6.,Friedrich,Joachim,Schultz,#
-#,28.6.,Magdalena,Paul,Waschiczek#,Catharina (Sehr unsicher bzgl. des Nachnamens, schwer zu lesen)
-#,28.6.,Jacob,Georg#,#,#
-Weyprachtitz#,28.6.,Magdalena,#,Worlyczek#,#
-Jablonne,19.7.,Jacob,Johann,Kos#,Magdalena
-#,7.7.,Magdalena,Jacob,Zalmann,Eva#
-#,14.7.,Michael,Christoph,#,Anna
-#,5.7.,Jacob,Johann,P#,Catharina#
-#,5.7.,Jacob,Martin,Motl#,Anna#
-#hermanitz,5.7.,Magdalena,Waczlaw,Motl,Anna
-Worlyczek,15.7.,Anna,Martin,Scholtz#,Susanna
-#,15.7.,Tobias,Ma#,Schlesinger,Marianna#
-#,17.7.,Anna,Johann,Ma#,Catharina#
-#,21.7.,Rosina,Adam,Sch#l#,#
-Jamnay#,21.7.,Jacob,Wenceslaus#,Bauchal,Dorothea
-Jablonne,31#.7.,Johann,Johann,Pl#,Anna#
+Weyprachtitz,14.6.,Magdalena,Johann,Worlyczek,Magdalena
+Worlyczek,20.6.,Christoph,Dominik,Weinlich,Susanna
+Dolni Dobrouc,22.6.,Friedrich,Joachim,Schultz,Marketa
+Bystrcze,28.6.,Magdalena,Paul,Waschiczek,Catharina 
+Weyprachtitz,28.6.,Jacob,Georg,Mleynek,Dorothea
+Weyprachtitz,28.6.,Magdalena,Georg,Worlyczek,Catharina
+Jablonne,19.7.,Jacob,Johann,Kozel,Magdalena
+Czermny,7.7.,Magdalena,Jacob,Zalmann,Eva
+Worliczky,14.7.,Michael,Christoph,Pfertner,Anna
+Bystrcze,5.7.,Jacob,Johann,Pan,Catharina
+Czermny,5.7.,Jacob,Martin,Motl,Anna
+Hermanitz,5.7.,Magdalena,Waczlaw,Motl,Anna
+Worlyczek,15.7.,Anna,Martin,Scholtz,Susanna
+Jakubowicze,15.7.,Tobias,Mates,Schlesinger,Marianna
+Czermny,17.7.,Anna,Johann,Maczek,Catharina
+Tschenkowitz,21.7.,Rosina,Adam,Schüll,Maria
+Jamnay,21.7.,Jacob,Wenceslaus,Bauchal,Dorothea
+Jablonne,31#.7.,Johann,Johann,Plosky#,Anna
 
 DP 30
 
-21.7.,schwer lesbar#### (Durchgestrichen?)
-21.7.,schwer lesbar####
-Dolni Dobrouc,26.7.,Susanna,Johann,Schwartz#,Anna
-30.7.,Matthäus,Christoph,Kryst#,Marianna
+Worlyczek,21.7.,Wawrzinecz und Susanna,Michael,Heisler,Marianna (Durchgestrichen? Gleicher Text wie nächste Zeile)
+Worlyczek,21.7.,Wawrzinecz und Susanna,Michael,Heisler,Marianna
+Dolni Dobrouc,26.7.,Susanna,Johann,Sterczel#,Anna
+Tschenkowitz,30.7.,Matthäus,Christoph,Keyzler#,Marianna
 Jablonne,4.8.,Susanna,Georg,Jawurek,Anna
-Jamnay,4.8.,Rosina#,Johann,Philipp,Elisabeth
-6.8.,Waczlaw,Waczlaw,Martinow,Marianna (Vorname und Nachname des Vaters verkehrt herum? Oder Martin Waczlaw?)
-Dolni Dobrouc,9.8.,Waczlaw,Paul,#,Dorothea
-Worlyczek,10.8.,Susanna,Johann,S#,Susanna 
-Jamnay,11.8.,Marianna,Christoph,Cankow#,Dorothea
-15.8.,Matthäus#,Johann,Waczek#,Dorothea (Nachname schwer lesbar, unsicher, gelesen als "Waschkowy")
-Weyprachtitz,24.8.,Waczlaw#,Paul,Chalaupka,Dorothea
-Jablonne,6.9.,Waczlaw,Matthäus,#,Dorothea
+Jamnay,4.8.,Rosina,Johann,Philipp,Elisabeth
+Czermny6.8.,Waczlaw,Martin,Waczlaw,Marianna (Wegen der Endung -ow vermutlich Waczlaw Nachname)
+Dolni Dobrouc,9.8.,Waczlaw,Paul,Waczek,Dorothea
+Worlyczek,10.8.,Susanna,Johann,Schlesinger,Susanna 
+Jamnay,11.8.,Marianna,Christoph,Hauk,Dorothea
+Weyprachtitz,15.8.,Matthäus,Johann,Massek,Dorothea (Gelesen: "Masskowy")
+Weyprachtitz,24.8.,Waczlaw,Paul,Chalaupka,Dorothea
+Jablonne,6.9.,Waczlaw,Matthäus,Skaliczky,Dorothea
 
 DP 31
 
-6.9.,Waczlaw,Waczlaw,Mikulowi#,Dorothea
-Weyprachtitz#,6.9.,Waczlaw,Georg,#,Dorothea
-10.9.,Matthäus,Georg#,Schüttke#,Catharina
-Tschenkowitz,16.9.,Waczlaw,Urban,Nosek#,Susanna (Nachname unsicher)
-Worlyczek,16.9.,Rosina,Mathias,Kor#,Anna#
-Bystrcze,20.9.,Catharina,Georg,S#,Naruabba
-Weyprachtitz,20.9.,Matthäus,Johann,Hawel#,Catharina
-Jamnay,20.9.,Waczlaw,Johann,Chladek,Anna#
-Jamnay,22.9.,Rosina#,Waczlaw,Hrubesch#,Marianna
-23.9.,Catharina,Georg,#,Anna
-28.9.,Schwer lesbar####
-30.9.,Catharina,#,#,#
-4.10.,Catharina,Paul,Philipp,Dorothea (heißt das "Ehefrau war Dorothea?")
-4.10.,Maria,Christoph,Weinlich#,Maria# (heißt das "Ehefrau war Maria?")
-Weyprachtitz,4.10.,Martin,Johann,#,Marianna
+Wermirzowicz,6.9.,Waczlaw,Waczlaw,Mikula,Dorothea
+Weyprachtitz,6.9.,Waczlaw,Georg,Rzehak,Dorothea
+Worlyczek,10.9.,Matthäus,Georg,Schüttke,Catharina
+Tschenkowitz,10.9.,Waczlaw,Urban,Nosek,Susanna 
+Worlyczek,16.9.,Rosina,Mathias,Korta,Anna
+Bystrcze,20.9.,Catharina,Georg,Slanina#,Marianna
+Weyprachtitz,20.9.,Matthäus,Johann,Hawelka,Catharina
+Jamnay,20.9.,Waczlaw,Johann,Chladek,Anna
+Jamnay,22.9.,Rosina,Waczlaw,Hrubesch,Marianna
+Bystrcze,23.9.,Catharina,Georg,Nowak,Anna
+Jamnay,28.9.,Waczlaw,Georg,Bernard,Anna
+Jakubowicz,30.9.,Catharina,Nikolaus,Zhrab#,Susanna
+Jamnay,4.10.,Catharina,Paul,Philipp,Dorothea 
+Worlyczek,4.10.,Maria,Christoph,Weinlich,Maria
+Weyprachtitz,4.10.,Martin,Johann,Buzek,Marianna
 
 DP 32
 
-Oberhermanitz,4.10.,Lukas,Waczlaw,Czink,Ursula# (Worsila == Ursula?)
+Oberhermanitz,4.10.,Lukas,Waczlaw,Czink,Ursula
 Jablonne,8.10.,Johann,Georg,Kubek,Catharina
-#,9.10.,Martin#,Johann,#,Marianna
-Oberhermanitz,18.10.,Johann,Paul,Schembera#,Catharina# (heißt das "Ehefrau Catharina"?)
-Dolni Dobrouc,23.10.,Maria#,Tobias,Schultz#,Catharina# (heißt das "Ehefrau war Catharina"?)
-Weyprachtitz,28.10.,Johann,Paul,Brokesch,#
-#,28.10.,Justina,Georg,#,Polexina# (Name der Mutter schwer zu lesen, unsicher)
-#,28.10.,Tobias#,Johann,Feltzmann#,Magdalena
-Bystrcze,1.11.,Johann,Waczlaw,#,Ludmilla
+Jamnay,9.10.,Martin,Johann,Waczek#,Marianna
+Oberhermanitz,18.10.,Johann,Paul,Schembera,Catharina
+Dolni Dobrouc,23.10.,Maria,Tobias,Schultz,Catharina
+Weyprachtitz,28.10.,Johann,Paul,Brokesch,Alyna
+Jakubowicz,28.10.,Justina,Georg,Thomas#,Polexina Barbara# (Balpra == Barbara?)
+Jakubowicz,28.10.,Tobias,Johann,Feltzmann,Magdalena
+Bystrcze,1.11.,Johann,Waczlaw,Hrdina,Ludmilla
 Unterhermanitz,1.11.,Ludwig,Waczlaw,Schembera,Dorothea
-Dolni Dobrouc,1.11.,Johann,Johann,Wawra#,Catharina# (Heißt das "Ehefrau war Catharina"?)
-#,6.11.,Catharina,Johann,Mleinek#,Catharina
-Worlyczek,7.11.,Marianna,#,Schüll,Susanna
-#,8.11.,Maria#,Jacob#,#,#
-#hermanitz,8.11.,Ludwig#,Paul,Zalmann#,#
-#,12.11.,Catharina,Martin,#,Susanna#
+Dolni Dobrouc,1.11.,Johann,Johann,Wawra,Catharina
+Weyprachtitz,6.11.,Catharina,Johann,Mleinek,Catharina
+Worlyczek,7.11.,Marianna,Jeremias,Schüll,Susanna
+Jamnay,8.11.,Maria,Jacob,Prochaska,Catharina
+Oberhermanitz,8.11.,Ludwig,Paul,Zalmann,Ursula
+Bystrcze,12.11.,Catharina,Martin,Ssych,Susanna
 
 DP 33
 
-Worlyczek#,18.11.,Johann,Bartholomäus,H#,Susanna (Heißt das "Ehefrau war Susanna"?)
-Bystrcze,22.11.,Dorothea,Jacob,Hauserku#,#
-Bystr#,22.11.,Johann,Wenceslaus,Seidlmann#,Eva
-Oberhermanitz,22.11.,#stian,Wenceslaus#,Beran#,Susanna# (Heißt das "Beran"?)
-Tschenkowitz,22.11.,Johann,Johann,Nos#,Sabina#
-Czermny,29.11.,Georg,Johann,Fa#,Marianna
-#,29.11.,Andreas,Lorentz,#,Magdalena#
-#,17.12.,-,Johann#,Schembera,Magdalena (Wo steht der Name des Kindes? Johann Name des Vaters oder des Kindes?)
-Landsberg#,17.12.,#,#,#,Magdalena (Wo stehen Vater und Kind?)
-#hermanitz,19.12.,-,Paul,Kubelka,Ludmilla (Wo steht der Name des Kindes?)
-#,25.12.,Dorothea,Johann,Krz#,Magdalena
-#,25.12.,Maria,Thomas,Motl,#
-Dolni Dobrouc,26.12.,Dorothea,Jacob,Stransky#,Magdalena
-Jablonne,27.12.,Paul,Johann,Forman#,Dorothea
-Czermny#,27.12.,Johann,Georg,Nowak#,Dorothea
+Worlyczek,18.11.,Johann,Bartholomäus,Heisler,Susanna 
+Dobroucz,22.11.,Dorothea,Jacob,Hauserek,Alyna
+Bystrcze,22.11.,Johann,Wenceslaus,Seidlmann,Eva
+Oberhermanitz,22.11.,Christian,Wenceslaus,Beran,Susanna
+Tschenkowitz,22.11.,Johann,Johann,Nosek,Sabina
+Czermny,29.11.,Georg,Johann,Farny#,Marianna (Farny oder Czerny?)
+Jakubowicz,29.11.,Andreas,Lorentz,Jilek#,Magdalena
+Hermanitz,17.12.,Johann,Johann,Schembera,Magdalena 
+Landsberg,17.12.,Eva,Matthäus,Duschek,Magdalena 
+Oberhermanitz,19.12.,Jan,Paul,Kubelka,Ludmilla 
+Wermerzowicz,25.12.,Dorothea,Johann,Krczmarz,Magdalena
+Jakubowicz,25.12.,Maria,Thomas,Motl,Anezka
+Dolni Dobrouc,26.12.,Dorothea,Jacob,Stransky,Magdalena
+Jablonne,27.12.,Paul,Johann,Formanek,Dorothea
+Czermny,27.12.,Johann,Georg,Nowak,Dorothea
 
 DP 34
 
-Weyprachtitz,28.12.,Georg,Andreas,Ptaczek#,Catharina
+Weyprachtitz,28.12.,Georg,Andreas,Ptaczek,Catharina
 Weyprachtitz,28.12.,Magdalena,Johann,Kubelka,Anna
-#,28.12.,-,Johann,Motl,#
+Czermna,28.12.,Mandale,Johann,Motl,-
 
 1666
 
-#,1.1.,Paul,Jacob,#,Dorothea
-Jablonne#,6.1.,Anna,Johann,Brokesch,Magdalena#
-Tschenkowitz,6.1.,Marina,Paul,Fischer#,Regina#
-Tschenkowitz,7.1.,Paul,Paul,Christoph,Marianna (Christoph ist der Nachname, richtig?)
-Bystrcze,10.1.,Jacob,Georg,Kubin,Anna
-Weyprachtitz,10.1.,Dorothea,Wenceslaus#,Kub#,Anna
+Wermerzowicze,1.1.,Paul,Jacob,Cukl#,Dorothea
+Jablonne,6.1.,Anna,Johann,Brokesch,Magdalena
+Tschenkowitz,6.1.,Marina,Paul,Fischer,Regina
+Tschenkowitz,7.1.,Paul,Paul,Christoph,Marianna 
+Bystrcze,10.1.,Jacob,Georg,Kubina,Anna
+Weyprachtitz,10.1.,Dorothea,Wenceslaus,Kubiczek,Anna
 
 DP 35
 
-Jamnay,10.1.,Paul,Georg,Ko#rcz#,Marianna
+Jamnay,10.1.,Paul,Georg,Kowarzik,Marianna
 Tschenkowitz,14.1.,Michael,Michael,Bier,Sabina
-Jablonne,18.1.,Dorothea,Johann,Hrubesch#,Catharina
+Jablonne,18.1.,Dorothea,Johann,Hrubesch,Catharina
 Hermanitz,18.1.,Magdalena,Jacob,Zalmann,Magdalena
-Weyprachtitz,18.1.,Susanna,Paul#,Chladek#,Marianna
-#,18.1.,Johann,Michael,H#nz#,Justina#
-#,20.1.,Georg,Martin.Strans#,Eva#
-#,24.1.,Wenceslaus,Wenceslaus,Prachaska#,Anna# (Nachname schwer lesbar, unsicher)
+Weyprachtitz,18.1.,Susanna,Paul,Chladek,Marianna
+Tschenkowitz,18.1.,Johann,Michael,Hansel,Justina
+Tschenkowitz,20.1.,Georg,Martin.Strauss,Eva
+Weyprachtitz,24.1.,Wenceslaus,Wenceslaus,Prachazka,Anna
 Oberhermanitz,24.1.,Magdalena,Georg,Kulhanek,Marianna
-Czermny#,25.1.,Anna,Martin#,#,Marianna
+Czermny,25.1.,Anna,Martin Mathias,Lessyar#,Marianna
 
 DP 36
 
 Jamnay,2.2.,Jacob,Jacob,Bednarz,Susanna
-Czermny#,2.2.,Dorothea,Mathias#,Ma#,Catharina (Ma# oder Wa#?)
-Dolni Dobrouc#,2.2.,Marianna,Nikolaus#,Bur#,Eva#
+Czermny,2.2.,Dorothea,Mathias,Macek#,Catharina 
+Dolni Dobrouc#,2.2.,Marianna,Nikolaus,Buresch,Eva
 Jamnay,7.2.,Johann,Georg,Kyllar,Magdalena
-#,7.2.,Marianna,#,Hrdina#,#
-#,Eintrag kaum lesbar (sehr kurz - unvollständig?)####
-#hermanitz,7.2.,Lud#,Paul#,Kaz#,Magdalena#
+#,7.2.,Marianna,Paul,Hrdina,Catharina
+-,#.#.,Anna Maria,-,-,-
+Oberhermanitz,7.2.,Ludwig,Paul,Kozaczek,Magdalena
 Oberhermanitz,14.2.,Johann,Wenceslaus,Zalmann,Catharina
-#,16.2.,Paul,Johann,Kaz#,Eva#
-Oberhermanitz,21.2.,Anna,Georg,Hawel#,Magdalena
-Oberhermanitz,21.2.,Paul,Nikolaus,Jand#,Anna
-Dolni Dobrouc,21.2.,Anna,Paul,Kad#mann,Marianna
+Weyprachtitz,16.2.,Paul,Johann,Kozak,Eva
+Oberhermanitz,21.2.,Anna,Georg,Hawelka,Magdalena
+Oberhermanitz,21.2.,Paul,Nikolaus,Janda,Anna
+Dolni Dobrouc,21.2.,Anna,Paul,Kadermann,Marianna
 
 DP 37
 
-#,21.2.,Anna,Georg,#,Barbara# (Sehr langer Eintrag, steht da noch etwas weiteres relevantes? Möglicherweise ein zweites Kind? Oder nur viele Zeugen?)
-Bystrcze,21.2.,Anna,Wenceslaus#,G#,Barbara# (Ich lese "Anna, Waczlaw, Grczkowj", ist das so korrekt?)
-Dolni Dobrouc,21.2.,Anna,Paul,Mat#,Dorothea#
-#,7.3.,#,Paul#,#,Dorothea# (Alles schwer zu lesen, unsicher)
-#,7.3.,Magdalena,Paul,J#,Marianna#
-#,7.3.,Magdalena#,Jacob,Marslow#,Marianna
-#,7.3.,Marianna#,Mathias#,Ma#,Anna
-Bystrcze,14.3.,Georg,Martin,Spaczek#,Eva
-Worlyczek#,14.3.,-,Georg#,K#,Eva (Wo steht der Name des Kindes?)
-#,15.3.,#,#,#,# (Ganzer Eintrag kaum zu lesen)
-#,23.3.,Georg,Johann,P#,Marianna
-Czermny#,23.3.,Marianna,Georg,Marek#,Marianna
-Worlyczek,25.3.,Marianna,Johann#,P#,#
-Worlyczek,4.4.,Marianna,Caspar,#obler#,Susanna#
+Tschenkowitz,21.2.,Anna,Georg,Jlegler#,Barbara
+Bystrcze,21.2.,Anna,Wenceslaus,Jezek,Barbara
+Dolni Dobrouc,21.2.,Anna,Paul,Matejiczek,Dorothea
+Unterhermanitz,7.3.,Georg,Paul,Schwestka,Dorothea
+Oberhermanitz,7.3.,Magdalena,Paul,Czerny,Marianna
+-,7.3.,Magdalena,Jacob,Maresch,Marianna
+Weyprachtitz,7.3.,Marianna,Mathias,Marek,Anna
+Bystrcze,14.3.,Georg,Martin,Spaczek,Eva
+Worlyczek,14.3.,-,Georg,Khaus#,Eva 
+Bystrcze,15.3.,Georg,-,-,Catharina ("Catharina nach dem Michael Waczak") U: Kind von Catharina Waczak#
+Czermny,23.3.,Georg,Johann,Peschek,Marianna (Beruf Müller)
+Czermny,23.3.,Marianna,Georg,Marek,Marianna
+Worlyczek,25.3.,Marianna,Johann,Pecziwal,Rosina
+Worlyczek,4.4.,Marianna,Caspar,Jobler#,Susanna (Soll vermutlich Kobler heissen - identisch mit Gabler?)
 
 DP 38
 
 Dolni Dobrouc,4.4.,Johann,Johann,Pirkl,Marianna
-#,7.4.,#,#,#,Marianna (Ganzer Eintrag sehr schwer zu lesen - unsicher, ist das drunter ein zweiter Eintrag oder gehört es zu diesem Eintrag?)
-Worlyczek,11.4.,Georg,Martin,Schlesinger,Rosina#
-#,11.4.,Georg,Adam,B#,Barbara#
-#,11.4.,Georg,Jacob,#,Sabina# (Sehr langer Eintrag, sind das alles Zeugen?)
-Czermny,13.4.,Jacob,Mathias#,Pirkl#,Marianna
-Bystrcze,18.4.,Georg,Georg,Kratky#,Anna
-Bystrcze,23.4.,Anna#,#,Kaschka,Anna
-Jablonne,24.4.,Anna,Wenceslaus,Ha#lo#,Dorothea (Hawel?)
-Dolni Dobrouc#,27.4.,Jacob,Paul,#,Marianna
-#,1.5.,Jacob,Georg,Kad#,- (Name der Ehefrau wird nicht genannt)
-Unterhermanitz,2.5.,Johann,Paul,Pechaczek#,Eva
-Oberhermanitz,2.5.,Johann,Georg,Matejka#,Anna
-Unterhermanitz#,2.5.,Wenceslaus,Mathias#,Czink#,Catharina
-Oberhermanitz,2.5.,Catharina,Paul,Martinek#,Anna
+Jamnay,7.4.,Susanna und Elisabeth,Paul,Biehaunek,Marianna 
+Worlyczek,11.4.,Georg,Martin,Schlesinger,Rosina
+Jakubowicz,11.4.,Georg,Adam,Benesch,Barbara
+Tschenkowitz,11.4.,Georg,Jacob,Brazim,Sabina
+Czermny,13.4.,Jacob,Mathias,Pirkl,Marianna
+Bystrcze,18.4.,Georg,Georg,Kratky,Anna
+Bystrcze,23.4.,Anna,Wawrzinecz,Kaschka,Anna
+Jablonne,24.4.,Anna,Wenceslaus,Hawlena,Dorothea 
+Dolni Dobrouc,27.4.,Jacob,Paul,Schlesinger,Marianna
+Bystrcze,1.5.,Jacob,Georg,Tkadliczek,- 
+Unterhermanitz,2.5.,Johann,Paul,Pechaczek,Eva
+Oberhermanitz,2.5.,Johann,Georg,Matejka,Anna
+Unterhermanitz,2.5.,Wenceslaus,Mathias,Czink,Catharina
+Oberhermanitz,2.5.,Catharina,Paul,Martinek,Anna
 
 DP 39
 
 Tschenkowitz,2.5.,Christoph,Georg,Kobliczek,Eva
 Worlyczek#,5.5.,Susanna,Martin,Schles#,Rosina (Ist Schles# == Schlesinger?)
-Bystrcze,8.5.,Paul,Wenceslaus,Jeczek#,Magdalena
-Jamnay,9.5.,Jacob,Johann,Mor#,Catharina
-Tschenkowitz,9.5.,-,Michael,J#,Regina# (Michael Name des Sohns oder des Vaters?)
-Czermny,11.5.,Johann,Adam,Duschek#,Magdalena#
-#,11.5.,Anna,Jacob,Heyl#,Catharina
-Bystrcze,14.5.,Martin,Georg#,#,Dorothea#
-Dolni Dobrouc,17.5.,Marianna,Mathias#,#,Anna
-Weyprachtitz,17.5.,Anna,Johann,Klem#,#
-#,19.5.,Anna,Georg,Kubek,Magdalena
-#,19.5.,Anna,Georg,#,Rosina#
-#,22.5.,Magdalena,Martin,#,Susanna
-Bystrcze,23.5.,Anna,#,Kyllar,Magdalena
+Bystrcze,8.5.,Paul,Wenceslaus,Jeczek,Magdalena
+Jamnay,9.5.,Jacob,Johann,Morawetz,Catharina
+Tschenkowitz,9.5.,Michael,Georg,Khauss#,Regina
+Czermny,11.5.,Johann,Adam,Duschek,Magdalena
+Czermny,11.5.,Anna,Jacob,Heyl,Catharina
+Bystrcze,14.5.,Martin,Georg,Bieczalek#,Dorothea
+Dolni Dobrouc,17.5.,Marianna,Mathias,Kolarz,Anna
+Weyprachtitz,17.5.,Anna,Johann,Klempir,Catharina
+Wermirzowicz,19.5.,Anna,Georg,Kubek,Magdalena
+Tschenkowitz,19.5.,Anna,Georg,Schüll,Rosina
+Petrovice,22.5.,Magdalena,Martin,Jirasek,Susanna
+Bystrcze,23.5.,Anna,Georg,Kyllar,Magdalena
 
 DP 40
 
 Jablonne,25.5.,Magdalena,Thomas,Neschkudla,Magdalena
-Worlyczek,30.5.,Johann,Martin,Waschaczek#,Regina
-Dolni Dobrouc#,30.5.,Wenceslaus,#,#,Dorothea
+Worlyczek,30.5.,Johann,Martin,Waschaczek,Regina
+Dolni Dobroucz,30.5.,Wenceslaus,Michael,-,Dorothea
 Bystrcze,2.6.,Jacob,Jacob,Kobliczek,Susanna
-Worlyczek,3.6.,Rosina,Mathias#,Schlesinger,Susanna
-Dolni Dobrouc#,6.6.,Johann,Johann,J#,Marianna
-#,7.6.,Mathias#,#,#,#
-Unterhermanitz,14.6.,Catharina,Paul,Kubenka#,Catharina
-Bystrcze,20.6.,Jacob,Georg,Schembera#,Marianna#
-Oberhermanitz,25.6.,Wenceslaus#,Mathias#,#,Eva
-#,25.6.,Wenceslaus#,Georg,Heyl#,Dorothea (Heyl oder Heylek? Heißt das Waczlaw?)
-#,25.6.,Catharina,Johann,Worlyczek#,Magdalena#
-Worlyczek,25.6.,Christoph,Paul,Long#,Catharina
-Jamnay,27.6.,Anna,Paul,Morawetz#,Catharina
-#,1.7.,Judith,Paul,Weinlich,Anna
-Weyprachtitz,1.7.,Franz#,Johann,Resler#,Dorothea (heißt das "Beruf Müller"?)
+Worlyczek,3.6.,Rosina,Mathias,Schlesinger,Susanna
+Dolni Dobrouc#,6.6.,Johann,Johann,Czerny,Marianna
+Czermny#,7.6.,Mathias,-,-,Anna ("Unehelicher Sohn der Anna, Tochter nach dem +Caspar Ruhe#") U: Kind von Caspar Ruhe#
+Unterhermanitz,14.6.,Catharina,Paul,Kubenka,Catharina
+Bystrcze,20.6.,Jacob,Georg,Schembera,Marianna
+Oberhermanitz,25.6.,Wenceslaus,Mathias,Maresch,Eva
+Czermna,25.6.,Wenceslaus,Georg,Heyl,Dorothea
+Weyprachtitz,25.6.,Catharina,Johann,Worlyczek,Magdalena
+Worlyczek,25.6.,Christoph,Paul,Langer,Catharina
+Jamnay,27.6.,Anna,Paul,Morawetz,Catharina
+Tschenkowitz,1.7.,Judith,Paul,Weinlich,Anna
+Weyprachtitz,1.7.,Franz,Johann,Resler,Dorothea (Beruf Müller)
 
 DP 41
 
-Jablonne,2.7.,Magdalena,Thomas,Neschkudla#,Magdalena
-Jablonne,3.7.,Johann Georg#,Paul,Stiastny#,# (Heißt das Johann Georg? Heißt das Stiastny?)
-#,11.7.,Martin,Georg,Martinek,Anna
-#,11.7.,Matthäus#,Johann,P#,Dorothea
-Bystrcze,18.7.,Jacob,Wenceslaus,Waschiczek#,Susanna#
+Jablonne,2.7.,Magdalena,Thomas,Neschkudla,Magdalena
+Jablonne,3.7.,Johann Heinrich,Paul,Stiastny,Helena
+Czermna,11.7.,Martin,Georg,Martinek,Anna
+Wermerzowicz,11.7.,Matthäus,Johann,Pekny#,Dorothea
+Bystrcze,18.7.,Jacob,Wenceslaus,Waschiczek,Susanna
 Jamnay,18.7.,Magdalena,Wenceslaus,Hansliczek,Magdalena
-Bystrcze,22.7.,Anna,Georg,Podhor#,Catharina# (Was heißt das nach Georg? Mlynarz?)
-Jamnay,24.7.,Elisabeth#,Wenceslaus,Waczek#,Barbara# (Was bedeuten die letzten zwei Zeilen? Möglicherweise eine Zwillingsgeburt?)
-Bystrcze,24.7.,Wenceslaus,Wenceslaus,We#,Anna
-Jablonne,26.7.,Jacob,Johann,Wottawa#,Marianna#
-Jamnay,26.7.,Johann,Johann,J#,Catharina
-#,28.7.,Georg,Georg,#u#l#,Sabina#
+Bystrcze,22.7.,Anna,Georg,Podhor#,Catharina (Beruf Müller)
+Jamnay,24.7.,Elisabeth und Rosina,Wenceslaus,Waczek,Barbara
+Bystrcze,24.7.,Wenceslaus,Wenceslaus,Weplach#,Anna
+Jablonne,26.7.,Jacob,Johann,Wottawa,Marianna
+Jamnay,26.7.,Johann,Johann,Jernucz#,Catharina
+Tschenkowitz,28.7.,Georg,Georg,Jukl,Sabina
 Jamnay,29.7.,Jacob,Martin,Doleczal,Anna
 Czermny,1.8.,Marianna,Georg,Chalaupka,Catharina
-Jamnay,6.8.,Wenceslaus,Christoph,Hauk#,Dorothea
-Jablonne,7.8.,Bernhard Ludwig,Johann,Adolph,Marianna#
-#,7.8.,Catharina,Wenceslaus,Bro#,#
-Weyprachtitz,8.8.,Marianna,Johann,Petr#,Catharina
-#,#.8.,Wenceslaus,Lukas#,Czink#,Eva#
-#,#.8.,Susanna,Thomas,#,Magdalena
-#,#.8.,-,Johann,Janku#,Dorothea
+Jamnay,6.8.,Wenceslaus,Christoph,Hauk,Dorothea
+Jablonne,7.8.,Bernhard Ludwig,Johann,Adolph,Marianna
+Wermerzowicz,7.8.,Catharina,Wenceslaus,Brabenecz,Loretha#
+Weyprachtitz,8.8.,Marianna,Johann,Petris#,Catharina
+Hermanitz,9.8.,Wenceslaus,Lukas,Czink,Eva
+Jakubowicz,9.8.,Susanna,Thomas,Jilek,Magdalena
+-,9.8.,-,Johann,Janku,Dorothea
 
 DP 42
 
-#,10.8.,Maria#,Wenceslaus,#
+Czermna,10.8.,Maria,Wenceslaus,Rherig#,Eva
 Tschenkowitz,10.8.,Susanna,Johann,Weinlich Junior,Marianna
-#,12.8.,Catharina,Jacob,Doleczal,Dorothea
-Jamnay,13.8.,Wenceslaus,Jacob,Hansliczek#,Susanna
-#,13.8.,Martin,Wenceslaus,N#st#,Anna
+Wermerzowicz,12.8.,Catharina,Jacob,Doleczal,Dorothea
+Jamnay,13.8.,Wenceslaus,Jacob,Hansliczek,Susanna
+Wermerzowicz,13.8.,Martin,Wenceslaus,Nastoupil#,Anna
 Oberhermanitz,15.8.,Catharina,Paul,Schembera,Magdalena
-Tschenkowitz#,15.8.,Marianna,Christoph,Egydi,Dorothea
-Worlyczek#,15.8.,Maria,Tobias,Heisler#,Catharina
-Weyprachtitz,18.8.,Johann,Martin,Wottawa#,#
-#,21.8.,Regina,Jacob,Bok#,Catharina#
-Dolni Dobrouc#,22.8.,Martin,Mathias#,Podhorsky#,Marianna
-Oberhermanitz#,22.8.,Martin,Georg,Zalmann#,Magdalena
-#,23.8.,Anna Maria#,M#,Schlesinger,Rosina
-Jablonne,24.8.,Marina,Wenceslaus,B#,Anna
-Worlyczek,26.8.,Regina,Georg,Schlesinger#,Anna
-Bystrcze,27.8.,Wenceslaus,Urban,Waczlaw#,#
-#,29.8.,Paul,#,Kobliczek#,Eva
+Tschenkowitz,15.8.,Marianna,Christoph,Egydi,Dorothea
+Worlyczek,15.8.,Maria,Tobias,Heisler,Catharina
+Weyprachtitz,18.8.,Johann,Martin,Wottawa,Dorothea
+Tschenkowitz,21.8.,Regina,Jacob,Bok,Catharina
+Dolni Dobroucz,22.8.,Martin,Mathias,Podhajsky,Marianna
+Oberhermanitz,22.8.,Martin,Georg,Zalmann,Magdalena
+Worlyczek,23.8.,Anna Maria,Michael#,Schlesinger,Rosina (Vorname des Vaters schwer lesbar, unsicher)
+Jablonne,24.8.,Marina,Wenceslaus,Barwarz#,Anna
+Worlyczek,26.8.,Regina,Georg,Schlesinger,Anna
+Bystrcze,27.8.,Wenceslaus,Urban,Waczlawowsky,Catharina
+Tschenkowitz,29.8.,Paul,Christoph,Kobliczek,Eva
 
 DP 43
 
-Weyprachtitz#,29.8.,Catharina#,Paul,#,Anna#
-Weyprachtitz#,1.9.,Matthäus,Jacob#,Sedlaczek#,Magdalena
-Bystrcze,4.9.,Catharina,Johann,#,Catharina#
-#,5.9.,Wenceslaus#,Jacob,Macz#,Magdalena (Heißt das Waczlaw? Heißt das Ma# oder Wa# beim Nachnamen?)
-#,5.9.,Johann,Johann,G#,Catharina
-Worlyczek,8.9.,Christoph,Christoph,#,Anna
-Tschenkowitz,8.9.,Michael,Michael,#,Anna
-#,10.9.,Maria#,Dominik,Weinlich#,Susanna
-Worlyczek,10.9.,Regina,Michael#,Hoffmann,Sabina# (Steht in dem langen Eintrag weiter unten noch etwas relevantes? Oder nur Zeugen?)
-Jamnay,12.9.,Wenceslaus,Wenceslaus,Horaczek#,Catharina
-Worlyczek,25#.9.,Christoph #,Michael,#,Anna  (Was steht nach Christoph?)
-#,25.9.,Martin,Nikolaus#,Waczek#,Barbara (Heißt das Nikolaus oder Michael? Heißt as Waczek? Gelesen "Waczkowj")
-Oberhermanitz,25.9.,Wenceslaus,Matthäus,Mar#sch#,Anna (Heißt das Mar#sch? Gelesen "Marschowj" Oder ist das ein "W" am Anfang?)
-Bystrcze,25.9.,Eintrag kaum lesbar####
-Weyprachtitz,26.9.,Marianna,Johann,#,Anna
-Weyprachtitz,26.9.,Dorothea,Georg,Faltus#,Anna
-Weyprachtitz,26.9.,Dorothea,Adam#,Lyr#,#
-#,26.9.,Dorothea,Martin#,Bednarz#,Catharina#
+Weyprachtitz,29.8.,Catharina,Paul,Toussek,Anna
+Weyprachtitz,1.9.,Matthäus,Jacob,Sedlaczek,Magdalena
+Bystrcze,4.9.,Catharina,Johann,Schüll#,Catharina (Schula == Schüll?)
+Czermny,5.9.,Wenceslaus,Jacob,Wacznak#,Magdalena 
+Wermerovice,5.9.,Johann,Johann,Jeczek,Catharina
+Worlyczek,8.9.,Christoph,Christoph,Kowarz#,Anna
+Tschenkowitz,8.9.,Michael,Michael,Langhammer,Anna
+Worlyczek,10.9.,Maria,Dominik,Weinlich,Susanna
+Worlyczek,10.9.,Regina,Michael,Hoffmann,Sabina
+Jamnay,12.9.,Wenceslaus,Wenceslaus,Horaczek,Catharina
+Worlyczek,25.9.,Michael,Christoph,Moser,Anna 
+Czermny,25.9.,Martin,Nikolaus,Waczek,Barbara 
+Oberhermanitz,25.9.,Wenceslaus,Matthäus,Maresch,Anna 
+Bystrcze,25.9.,Maria,-,-,Dorothea (Dorothea ist Tochter von Johann Kuzelka#) U: Kind von Dorothea Kuzelka#
+Weyprachtitz,26.9.,Marianna,Johann,Czerny,Anna
+Weyprachtitz,26.9.,Dorothea,Georg,Faltus,Anna
+Weyprachtitz,26.9.,Dorothea,Adam,Lyr,Rosina
+Czermny,26.9.,Dorothea,Mathias,Bednarz,Catharina
 
 DP 44
 
-#,5.10.,Maria,Bartholomäus,Weinlich#,Anna#
-#,6.10.,Catharina,Johann,Chladek#,Anna
-Czermny,10.10.,Martin,Jacob,Kubek#,Anna
-Bystrcze,15.10.,Catharina,Johann,#,Dorothea#
-Weyprachtitz,16.10.,Catharina,Matthäus,Jankowu#,Catharina (Gelesen "Jankowu", was ist hier der Nominativ? Jankowy?)
-Unterhermanitz,16.10.,Catharina,Paul,Pechaczek#,Anna (Gelesen "Pechaczkowj")
+Tschenkowitz,5.10.,Maria,Bartholomäus,Weinlich,Anna
+Czermny,6.10.,Catharina,Johann,Chladek,Anna
+Czermny,10.10.,Martin,Jacob,Kubek,Anna
+Bystrcze,15.10.,Catharina,Johann,Tobess,Dorothea
+Weyprachtitz,16.10.,Catharina,Matthäus,Janku,Catharina 
+Unterhermanitz,16.10.,Catharina,Paul,Pechaczek,Anna
 Tschenkowitz,19.10.,Catharina,Johann,Krögler,Susanna
-Worlyczek,22.10.,Catharina#,Paul,Schlesinger,Anna#
-Weyprachtitz,24.10.,Martin,Mathias#,#,Catharina#
-#,7.11.,Maria,-,-,Magdalena (Vater nicht genannt, aber die Mutter wurde als "Ehefrau" bezeichnet, also nicht unehelich?)
+Worlyczek,22.10.,Catharina,Paul,Schlesinger,Anna
+Weyprachtitz,24.10.,Martin,Mathias,Skaliczky,Catharina
+Weyprachtitz,7.11.,Maria,-,-,Magdalena (Vater nicht genannt, aber die Mutter wurde als "Ehefrau" bezeichnet, also eheliche Geburt)
 Dolni Dobrouc,28.10.,Marianna,Johann,Duschek,Catharina
-Czermny,28.10.,Eva,Adam,S#,Magdalena
-Weyprachtitz,1.11.,Martin,Johann,Wanek#,Magdalena (Gelesen: "Wanykowj")
-Czermny,3.11.,-,Martin#,Weyprachtitz#,Anna# (Wo steht der Name der Tochter? Ist das dieses "Catharina", was nach dem Vater genannt ist? Oder heißt das etwas ganz Anderes?)
-Czermny,3.11.,Dorothea#,David,Kubow#,Catharina (Was heißt das Wort vor Dorothea?)
-Bystrcze,7.11.,Dorothea,Martin,Hrdina#,Anna
-Jablonne,13.11.,Elisabeth,Johann,Stiastny#,Dorothea (Heißt ds Stiastny?)
-Jablonne,17.11.,Johann,Paul,#,Catharina
-Oberhermanitz,19.11.,Elisabeth,Adam,M#,Catharina
+Czermny,28.10.,Eva,Adam,Spaner,Magdalena
+Weyprachtitz,1.11.,Martin,Johann,Waniczek,Magdalena
+Weyprachtitz,3.11.,Catharina,Martin#,-,Eva (Beruf Richter)
+Czermny,3.11.,Dorothea,David,Kuba,Catharina 
+Bystrcze,7.11.,Dorothea,Martin,Hrdina,Anna
+Jablonne,13.11.,Elisabeth,Johann,Stiastny,Dorothea
+Jablonne,17.11.,Johann,Paul,Hrubesch,Catharina
+Oberhermanitz,19.11.,Elisabeth,Adam,Marta,Catharina
 
 DP 45
 
-Oberhermanitz,19.11.,Nikolaus,Matthäus,Marek#,Magdalena (Ist "Marek" der Nominativ von "Markowj"?)
-Oberhermanitz,19.11.,Johann,Johann,Mar#sch#,Catharina (Heißt das "Marschowj"?)
-Oberhermanitz,19.11.,Johann,Johann,Kocza#,Catharina
+Oberhermanitz,19.11.,Nikolaus,Matthäus,Marek,Magdalena 
+Oberhermanitz,19.11.,Johann,Johann,Maresch,Catharina
+Oberhermanitz,19.11.,Johann,Johann,Kobza,Catharina
 Dolni Dobrouc,21.11.,Maria,Johann,Kubiczek,Dorothea
-Worlyczek,21.11.,Maria#,Michael#,Schultz#,#
-Jamnay,21.11.,Eva,Johann,Philipp,Elisabeth# (steht in dem langen Eintrag noch etwas relevantes weiter unten? Oder nur Zeugen?)
-Jamnay#,21.11.,Marianna,Paul,Philipp,Dorothea
-#,28.11.,Catharina,Johann,#mann,Apollonia# (KOmmt in dem langen Eintrag weiter unten noch etwas relevantes? Oder nur Zeugen?)
-Weyprachtitz,4.12.,Maria,Johann,#,Dorothea (Was heißt das Wort vor Maria? Nur "heißt"/"getauft"?)
+Worlyczek,21.11.,Maria,Michael,Schultz,-
+Jamnay,21.11.,Eva,Johann,Philipp,Elisabeth
+Jamnay,21.11.,Marianna,Paul,Philipp,Dorothea
+Kysperk,28.11.,Catharina,Johann,Bachmann,Apollonia
+Weyprachtitz,4.12.,Maria,Johann,#,Dorothea 
 Jamnay,5.12.,Dorothea,Wenceslaus,Philipp,Dorothea
 Jamnay,5.12.,Marianna,Paul,Steyskal,Anna
-#,5.12.,Nikolaus,Johann#,P#,Dorothea#
+Wermerzowicz,5.12.,Nikolaus,Johann Jacob#,Pitmann#,Dorothea
 Bystrcze,5.12.,Dorothea,Johann,Nowak,Anna
-#,5.12.,Judith,Wenceslaus#,Kubelka,Catharina# (Heißt das Catharina? Heißt das Wort nach Kubelka möglicherweise "Junior"?)
-Dolni Dobrouc,6.12.,Eva,Mathias#,Hartmann#,Susanna#
-Dolni Dobrouc,6.12.,Dorothea,Paul,P#,Marianna#
-#,7.12.,Mathias,Paul,Heyl,Catharina#
-#,7.12.,Eintrag kaum lesbar####
+-,5.12.,Judith,Wenceslaus,Kubelka Junior,Catharina
+Dolni Dobrouc,6.12.,Eva,Mathias,Hartmann,Susanna
+Dolni Dobrouc,6.12.,Dorothea,Paul,Pitrla#,Marianna
+Czermny,7.12.,Mathias,Paul,Heyl,Catharina
+Czermny,7.12.,Marianna,-,-,Magdalena (unehelich) U: Kind von Magdalena Buresch
 
 DP 46
 
-Jamnay,8.12.,Anna,Paul,#,Marianna
-Jamnay,8.12.,Johann,Johann,Blaczek#,#
-Jablonne,13.12.,Paul,Paul,Podhorsky#,Anna
-#,13.12.,Mathias,Johann,Veith#,Anna (Gelesen "Feytowj")
-Czermny#,13.12.,Maria,Matthäus#,Jand#,Dorothea
-Bystrcze,13.12.,Dorothea,Johann,Czernohorsky#,Dorothea#
-Bystrcze,14.12.,Georg,Georg,Christoph,#
-Jablonne,17.12.,Maria#,Martin,Mart#,Maria# (Heißt das Maria beim Kind? Mutter "Marzena"==Maria)
-Worlyczek,17.12.,Maria,Georg,Schüttke#,Catharina#
-#,19.12.,Anna,Tobias,Polak,Marianna
-Worlyczek,20.12.,Christoph,Georg,Pfertner#,Maria#
-#,20.12.,Christoph,Johann,Kholler#,Sabina
-#,26#.12.,Eva,Paul,Jan#,Catharina
-Tschenkowitz,27.12.,-,Adam,#,- (Name von Kind und Mutter fehlt)
-Dolni# Dobrouc#,28.12.,Dorothea#,Jacob,#,Marianna
+Jamnay,8.12.,Anna,Paul,-,Marianna
+Jamnay,8.12.,Johann,Johann,Blaczek,Alyna
+Jablonne,13.12.,Paul,Paul,Podhajsky,Anna
+Jakubowicz,13.12.,Mathias,Johann,Veith#,Anna (Gelesen "Feytowj")
+Czermny,13.12.,Maria,Matthäus,Jandera,Dorothea
+Bystrcze,13.12.,Dorothea,Johann,Czernohorsky,Dorothea
+Bystrcze,14.12.,Georg,Georg,Krystek,Magdalena
+Jablonne,17.12.,Maria,Martin,Merta,Maria
+Worlyczek,17.12.,Maria,Georg,Schüttke,Catharina
+Tschenkowitz,19.12.,Anna,Tobias,Polak,Marianna
+Worlyczek,20.12.,Christoph,Georg,Pfertner,Maria
+Tschenkowitz,20.12.,Christoph,Johann,Kholler,Sabina
+Czermny,26.12.,Eva,Paul,Jan,Catharina
+Tschenkowitz,27.12.,Adam,-,-,- 
+Dolni Dobroucz,28.12.,Dorothea,Jacob,Pliva,Marianna
 
 1667
 
 DP 47
 
-Jablonne,6.1.,Ludwig,Johann,Sedlarz#,Anna
-Czermny,6.1.,Mathias#,Johann,Weyprachtitz#,Catharina (Heißt das Mathias?)
-#,6.1.,Maria,Johann,#,Catharina#
-Dolni Dobrouc,6.1.,Johann,Stephan,Robowj#,Anna
-Jamnay,9.1.,Maria,Adam,Waczek#,Catharina (Gelesen "Waczkowu")
-#,9.1.,Marianna,Mathias#,Faltus,Susanna# (Heißt das Mathias?)
-Worlyczek,9.1.,Elisabeth,Johann,Wagner#,Marianna
-Worlyczek,15#.1.,Georg,Johann,Schlesinger,Susanna#
-#,17.1.,#,#,#,Dorothea
-Bystrcze,17#.1.,Georg,#,Seidlmann#,Magdalena
-Czermny,17#.1.,Marianna,Paul,Petr#,Anna
-Czermny,29.1.,Anna,Johann,#tl#,Dorothea
-Tschenkowitz,30.1.,Christoph,Mat#,Blaczek,Anna
-Bystrcze,30.1.,Marianna,Jacob,Kyllar#,Susanna (Heißt das nach Jacob "Junior"?)
-Bystrcze,30.1.,Georg,Georg,#,Magdalena
-Bystrcze,30.1.,Georg,Jacob#,#,#
+Jablonne,6.1.,Ludwig,Johann,Sedlarz,Anna
+Czermny,6.1.,Mathias,Johann,Weyprachtitz,Catharina 
+Wermerzicze,6.1.,Maria,Johann,Nestoupil,Catharina
+Dolni Dobrouc,6.1.,Johann,Stephan,Rob,Anna (Gelesen: Robowj)
+Jamnay,9.1.,Maria,Adam,Maczek,Catharina 
+Weyprachtitz,9.1.,Marianna,Mathias,Faltus,Susanna
+Worlyczek,9.1.,Elisabeth,Johann,Wagner,Marianna
+Worlyczek,15.1.,Georg,Johann,Schlesinger,Susanna
+Jamnay,17.1.,Philipp,Jacob,Jirzik#,Dorothea
+Bystrcze,17.1.,Georg,Stepan,Seidlmann,Magdalena
+Czermny,17.1.,Marianna,Paul,Mistr#,Anna
+Czermny,29.1.,Anna,Johann,Kotlas,Dorothea (Kotlas oder Betlas?)
+Tschenkowitz,30.1.,Christoph,Mathaus,Blaczek,Anna
+Bystrcze,30.1.,Marianna,Jacob,Kyllar Junior,Susanna 
+Bystrcze,30.1.,Georg,Georg,Kuczera Junior,Magdalena
+Bystrcze,30.1.,Georg,Jacob,Wonarek,Alyna
 
 DP 48
 
 Weyprachtitz,2.2.,Mathias,Johann,Urban,Justina
-#,2.2.,Rosina,Martin,Schultz#,Susanna
-Worlyczek,2.2.,Susanna,Martin,#,Sabina
-Tschenkowitz#,2.2.,Johann,Johann,#,Rosina#
-Tschenkowitz#,5.2.,Anna,Mathias#,R#,Anna
-Bystrcze,6.2.,Magdalena,Wenceslaus,Kos#,Dorothea
-#,6.2.,Anna,-,-,Dorothea (Vater nicht genannt?)
+Worlyczek,2.2.,Rosina,Martin,Schultz,Susanna
+Worlyczek,2.2.,Susanna,Martin,Neupauer,Sabina
+Tschenkowitz,2.2.,Johann,Johann,Nosek,Rosina
+Tschenkowitz,5.2.,Anna,Mathias,Kordas#,Anna (Gelesen: Kardass)
+Bystrcze,6.2.,Magdalena,Wenceslaus,Kos,Dorothea
+Wermerzicze,6.2.,Anna,-,-,Dorothea (Kind ist ehelich, aber Vater wurde nicht genannt)
 Weyprachtitz,6.2.,Georg,Johann,Jarolym,Magdalena
 Worlyczek,11.2.,Maria,Georg,Nehyba,Sabina
-#,13.2.,Mathias,Georg,#,Dorothea
-Weyprachtitz,13.2.,Paul,Johann,Kubin#,Susanna#
-Weyprachtitz,13.2.,Jacob,Jacob,Hawlena#,Magdalena
-Tschenkowitz,13.2.,Maria#,Johann,Krejczy#,Dorothea (Heißt das Krejczy?)
-Jamnay#,17.2.,Jacob,Johann,Ja#,Anna
-#,17.2.,Tobias,Paul,Bur#,Catharina#
-Czermny,20.2.,Marina,Johann,Ma#,Catharina
-Oberhermanitz,20.2.,#,Wenceslaus,Beran,Susanna
-Weyprachtitz,20.2.,Catharina,Paul,Hawel#,Anna
-Weyprachtitz,27.2.,Dorothea,Nikolaus,#,Dorothea#
+Jakubowicz,13.2.,Mathias,Georg,Bybl,Dorothea
+Bystrcze,13.2.,Paul,Johann,Kubin,Susanna
+Weyprachtitz,13.2.,Jacob,Jacob,Hawlena,Magdalena
+Tschenkowitz,13.2.,Maria,Johann,Krejczy,Dorothea 
+Jamnay,17.2.,Jacob,Johann,Jawurek,Anna
+Petrovice,17.2.,Tobias,Paul,Buresch,Catharina
+Czermny,20.2.,Marina,Johann,Maczek,Catharina
+Oberhermanitz,20.2.,Wenceslaus,Wenceslaus,Beran,Susanna
+Weyprachtitz,20.2.,Catharina,Paul,Hawelka,Anna
+Weyprachtitz,27.2.,Dorothea,Nikolaus,Andrle,Dorothea
 
 DP 49
 
-#,27.2.,Georg,Franz#,S#,Marianna
-#,10.3.,Georg,Martin,Motl#,Anna
-#,12.3.,Magdalena,Mathias,Ma#,#
-Worlyczek,13.3.,Franz,Wenceslaus,Schlesinger#,Rosina#
-#,13.3.,Magdalena,Paul,Chladek,Marianna
-#,13.3.,Magdalena,Jacob,Markow,Dorothea
-Bystrcze,13.3.,Magdalena,Philipp,P#,Dorothea
-Oberhermanitz,13.3.,Georg,Paul,Waczek#,Dorothea (Was ist der Nominativ von "Waczschkowj", ist das Waczek?)
-Oberhermanitz,13.3.,#,#,#,Marianna
-Jamnay,23.3.,Georg#,Martin,Valenta,Ludmilla
-Jamnay,23.3.,Jacob,Georg#,#,Anna
-Worlyczek,24.3.,Susanna,Christoph,Weinlich,Maria#
+Jakubowicz,27.2.,Georg,Franz,Schrom,Marianna
+Czermny,10.3.,Georg,Martin,Motl,Anna
+Czermny,12.3.,Magdalena,Mathias,Maczak,Catharina
+Worlyczek,13.3.,Franz,Wenceslaus,Schlesinger,Rosina
+Wermerzowicze,13.3.,Magdalena,Paul,Chladek,Marianna
+Weyprachtitz,13.3.,Magdalena,Jacob,Markow,Dorothea
+Bystrcze,13.3.,Magdalena,Philipp,Bok,Dorothea
+Oberhermanitz,13.3.,Georg,Paul,Waczek,Dorothea
+Oberhermanitz,13.3.,Maria,Jacob,Maresch,Marianna
+Jamnay,23.3.,Georg,Martin,Valenta,Ludmilla
+Jamnay,23.3.,Jacob,Georg,Prochaska,Anna
+Worlyczek,24.3.,Susanna,Christoph,Weinlich,Maria
 Weyprachtitz,20.3.,Marianna,Georg,Jarolym,Catharina
-#,20.3.,Johann,Johann,Sonntag#,Anna (Heißt das Sonntag?)
-Unterhermanitz,26.3.,Franz,Paul,Kubelka,Ludmilla (Kommt danach noch etwas relevantes in diesem langen Eintrag? Oder nur Zeugen?)
-Unterhermanitz,26.3.,Georg,Matthäus#,#,Barbara
-Unterhermanitz,26.3.,Georg,Jacob,Matr#,Anna
-Weyprachtitz,27.3.,Georg,Georg,Rzehak#,Dorothea
+Wermirzowicz,20.3.,Johann,Johann,Soukup,Anna 
+Unterhermanitz,26.3.,Franz,Paul,Kubelka,Ludmilla 
+Unterhermanitz,26.3.,Georg,Matthäus,Hlucherzich#,Barbara (Hluchy?)
+Unterhermanitz,26.3.,Georg,Jacob,Matron,Anna
+Weyprachtitz,27.3.,Georg,Georg,Rzehak,Dorothea
 Jamnay,31.3.,Johann,Jacob,Kobliczek,Susanna
-Czermny,2.4.,Georg,Wenceslaus,Motl#,Anna
+Czermny,2.4.,Georg,Wenceslaus,Motl,Anna
 
 DP 50
 
-#,3.4.,Georg,Nikolaus#,#,Catharina
-Tschenkowitz#,3.4.,Bartholomäus,Georg,Kau#,Rosina
-Jamnay,6.4.,Georg,Georg,Kyllar,Anna#
-Jamnay,7.4.,Anna,Johann,Chladek,Anna#
-Bystrcze,9.4.,Anna Susanna,Johann,Mu#,Anna (Anna Susanna oder Anna und Susanna?)
-#,9.4.,Georg,Wenceslaus,Adam#,Catharina# (Adam Zweitname oder Nachname? Das nach Adam ist Ortsangabe, denke ich ?)
-Worlyczek,12.4.,#,Christoph,R#,Catharina#
-Bystrcze,14.4.,Jacob,Johann,Lischka#,Catharina# (Heißt das Lischka?)
-Dolni Dobrouc,20.4.,Susanna,Paul,Waczek#,# (Gelesen: "Waczkowy", was ist "Catharina Mari#"? Ehefrau? Zweites Kind?)
-Worlyczek,22#.4.,Rosina,Georg,Khyllar#,Dorothea
-#,24.4.,Catharina,Balczar#,Andr#,Ludmilla
-#,24.4.,Catharina,Wawr#,Jan#,Magdalena# (Heißt das Magdalena?)
-Czermny,25.4.,Marianna,Georg,Ma#,Catharina#
-#,26.4.,Wenceslaus,Wenceslaus,B#,Catharina#
-Bystrcze,1.5.,Catharina#,Paul#,Christoph#,Anna (Heißt das Catharina? Heißt das Christoph?)
+Tschenkowitz,3.4.,Georg,Nikolaus,Arazym,Catharina
+Tschenkowitz#,3.4.,Bartholomäus,Georg,Kupka,Rosina
+Jamnay,6.4.,Georg,Georg,Kyllar,Anna
+Jamnay,7.4.,Anna,Johann,Chladek,Anna
+Bystrcze,9.4.,Anna,-,-,Susanna (Susanna ist Tochter von Johann Michalek) U: Kind von Susanna Michalek
+Wermerzowicze,9.4.,Georg,Wenceslaus,Adam,Catharina
+Worlyczek,12.4.,Susanna,Christoph,Kincl,Catharina
+Bystrcze,14.4.,Jacob,Johann,Lischka,Catharina
+Dolni Dobrouc,20.4.,Susanna,Paul,Waczek,Catharina
+Worlyczek,22.4.,Rosina,Georg,Khyslera#,Dorothea
+Jakubowicz,24.4.,Catharina,Balczar,Andrle,Ludmilla
+Czermny,24.4.,Catharina,Wawrzinecz,Jan,Magdalena
+Czermny,25.4.,Marianna,Georg,Maczak,Catharina
+Wermirzowicz,26.4.,Wenceslaus,Wenceslaus,Boczek,Catharina
+Bystrcze,1.5.,Catharina,Paul,Krystek,Anna 
 Dolni Dobrouc,8.5.,Magdalena,Georg,Bednarz,Catharina
-#,17.5.,Johann,Paul,Blacz#,Susanna
-Dolni Dobrouc,22.5.,Johann,Johann,Chalaupka,Magdalena (Der Name Chalaupka heißt auf deutsch möglicherweise Heisler)
-Worlyczek,24.5.,Maria#,Caspar,Gabler#,Susanna# (Heißt das Maria? Gelesen: "Gobler")
+Landsberg,17.5.,Johann,Paul,Blaczek,Susanna
+Dolni Dobrouc,22.5.,Johann,Johann,Chalaupka,Magdalena (Der Name Chalaupka heißt auf deutsch Heisler)
+Worlyczek,24.5.,Maria,Caspar,Zobler#,Susanna#
 
 DP 51
 
-Worlyczek,27.5.,Christoph,Jacob,#,Regina#
-Bystrcze,29.5.,Johann,Johann,Mraz#,Dorothea
-Oberhermanitz,31.5.,Johann,Johann,Macha#,Dorothea
-Jamnay#,2.6.,Magdalena,Johann,Teykl#,Dorothea
-Tschenkowitz,4.6,schwer lesbar####
-#,4.6.,Martin,Johann,Merta#,Susanna#
-Jablonne,4.6.,Anna,Paul,#,Dorothea
-#,14.6.,Anna Elisabeth,Martin,#,Maria#
-Jablonne,16.6.,Johann,Bartholomäus,Ja#,Catharina#
-Czermny,19.6.,Martin,Martin#,#,Marianna
-Dolni Dobrouc,19.6.,Johann,Peter#,M#,Anna
-#,19.6.,Franz,Georg,Resler,Magdalena# (Beruf Müller)
-Worlyczek,19.6.,Anna,Georg,Kol#,Catharina
+Worlyczek,27.5.,Christoph,Jacob,Plywa,Regina
+Bystrcze,29.5.,Johann,Johann,Mrazek,Dorothea
+Oberhermanitz,31.5.,Johann,Johann,Machanecz,Dorothea
+Jamnay#,2.6.,Magdalena,Johann,Teykl,Dorothea
+Tschenkowitz,4.6,Regina,-,-,Susanna (Susanna ist Tochter von Johann Konecznik) U: Kind von Susanna Konecznik
+Tschenkowitz,4.6.,Martin,Johann,Merta,Susanna
+Jablonne,4.6.,Anna,Paul,Bartha,Dorothea
+Sczelny#,14.6.,Anna Elisabeth,Martin,Rapuda#,Maria
+Jablonne,16.6.,Johann,Bartholomäus,Hawranek,Catharina
+Czermny,19.6.,Martin,Martin,Bessper#,Marianna
+Dolni Dobrouc,19.6.,Johann,Peter,Matejczek,Anna
+Schediwecz#,19.6.,Franz,Georg,Resler,Magdalena (Beruf Müller)
+Worlyczek,19.6.,Anna,Georg,Koler,Catharina
 Worlyczek,28.6.,Christoph,Caspar,Schüll,Rosina
 Jablonne,15.7.,Jacob,Matthäus,Skaliczky,Dorothea
-Jamnay,17.7.,Jacob,Johann,Lischka#,Magdalena
-Jamnay#,29.6.,Jacob,Johann,Michalek#,#
-Bystrcze#,29.6.,Catharina,Wenceslaus#,G#,#
-Worlyczek,30.6.,Wenceslaus#,Johann,#,#
+Jamnay,17.7.,Jacob,Johann,Lischka,Magdalena
+Jamnay,29.6.,Jacob,Johann,Michalek,Magdalena
+Bystrcze,29.6.,Catharina,Wenceslaus,Jezek,Magdalena
+Worlyczek,30.6.,Wenceslaus,Johann,Dlouhy,Eva
 
 DP 52
 
-Jablonne,2.7.,Jacob,Johann,Grus#,Dorothea ("Grusshans" oder was das heißt?)
-#,2.7.,Jacob,-,-,Anna (Uneheliche Geburt? Was steht sonst noch alles da?)
+Jablonne,2.7.,Jacob,Johann,Grushans,Dorothea 
+Worlyczek,2.7.,Jacob,-,-,Anna (Anna ist aus Moravia)
 Worlyczek,3.7.,Johann,Michael,Kobliczek,Anna
-Bystrcze,6.7.,Martin,Georg#,Kylar#,Magdalena
-#,7.7.,Eva,Martin,Heg#,Dorothea
-Worlyczek#,22.7.,Susanna#,Tobias,Feltzmann,Sabina
-Bystrcze,24.7.,Wenceslaus,#,Kaschka,Magdalena
-Worlyczek#,26.7.,Maria#,Johann,Feltzmann,Maria#
-#,26.7.,Jacob,Wenceslaus#,Doleczal#,Dorothea
-#,26.7.,Anna,Michael#,Schüttke#,Anna#
-Worlyczek,29.7.,Bartholomäus,#,Bier#,Anna#
-Bystrcze,1.8.,Maria,Jacob,Kolar#,Anna#
-Worlyczek,2.8.,Bartholomäus,Mathias#,Heisler#,Rosina
-Bystrcze,10.8.,Wenceslaus#,Johann,Matejka#,Anna#
-Worlyczek,10.8.,Elisabeth,Georg,Wo#r,Sabina
-#,10.8.,Eva,Georg#,Schüll,Susanna#
-Bystrcze,14.8.,Wenceslaus#,Paul,Waschiczek#,Catharina#
-Bystrcze,14.8.,Catharina,Johann,Chromy#,Anna
-#,15.8.,Martin,Matthäus,Smeykal,Dorothea
-Czermny#,17.8.,Catharina#,Georg#,S#,Dorothea
-#,21.8.,Marianna,Johann,Mach#,Catharina#
-Jamnay,24.8.,Marianna,#,Trampota,Apollonia
-#,24.8.,Michael,Wenceslaus#,Heyl#,Anna#
-#,28.8.,Catharina,Martin,Kowarz#,#
-#,28.8.,Catharina#,Martin,Hawel#,Catharina#
+Bystrcze,6.7.,Martin,Georg,Kylar,Magdalena
+#,7.7.,Eva,Martin,Heger,Dorothea
+Worlyczek,22.7.,Susanna,Tobias,Feltzmann,Sabina
+Bystrcze,24.7.,Wenceslaus,Georg,Kaschka,Magdalena
+Worlyczek,26.7.,Maria,Johann,Feltzmann,Maria
+Wermerzowicze,26.7.,Jacob,Wenceslaus,Doleczal,Dorothea
+Tschenkowitz,26.7.,Anna,Michael,Schüttke,Anna
+Worlyczek,29.7.,Bartholomäus,Georg,Bier,Anna
+Bystrcze,1.8.,Maria,Jacob,Kolar,Anna
+Worlyczek,2.8.,Bartholomäus,Mathias,Heisler,Rosina
+Bystrcze,10.8.,Wenceslaus,Johann,Matejka,Anna
+Worlyczek,10.8.,Elisabeth,Georg,Wagner#,Sabina (Gelesen: "Wokner", heißt vermutlich "Wagner")
+#,10.8.,Eva,Georg,Schüll,Susanna
+Bystrcze,14.8.,Wenceslaus,Paul,Waschiczek,Catharina
+Bystrcze,14.8.,Catharina,Johann,Chromy,Anna
+Weyprachtitz,15.8.,Martin,Matthäus,Smeykal,Dorothea
+Czermny,17.8.,Catharina,Georg,Stanczel#,Dorothea
+Weyprachtitz,21.8.,Marianna,Johann,Mach,Catharina
+Jamnay,24.8.,Marianna,Wenceslaus,Trampota,Apollonia
+Tschenkowitz,24.8.,Michael,Wenceslaus,Henzel,Anna (Hentzl?)
+Dobroucz,28.8.,Catharina,Martin,Kowarz,Catharina
+Weyprachtitz,28.8.,Catharina,Martin,Hawelka,Catharina
 
 DP 53
 
-Jablonne,1.9.,Elisabeth,Wenceslaus#,Philipp,Marianna
+Jablonne,1.9.,Elisabeth,Wenceslaus,Philipp,Marianna
 Worlyczek,2.9.,Johann,Caspar,Heisler,Marianna
-Dolni Dobrouc,8.9.,Dorothea,Wenceslaus#,St#,Wo#
-Jamnay,8.9.,Anna Maria#,Friedrich,#od#,Susanna (Beruf Soldat#)
-Bystrcze,15.9.,Catharina,Lorentz,Köller#,Dorothea
-Dolni Dobrouc,8.9.,Maria,Simon,Petr#,Susanna
-Worlyczek,10.9.,Rosina,Georg#,Feltzmann,Susanna (Unsicher, ob das Jirzik heißt)
-Worlyczek,10.9.,Rosina,Jeremias,Schüll,Maria#
+Dolni Dobrouc,8.9.,Dorothea,Wenceslaus,Stehlik,Wolpra#
+Jamnay,8.9.,Anna Maria,Friedrich,Bodra#,Susanna (Beruf Soldat)
+Bystrcze,15.9.,Catharina,Lorentz,Köller,Dorothea
+Dolni Dobrouc,8.9.,Maria,Simon,Petr,Susanna
+Worlyczek,10.9.,Rosina,Georg,Feltzmann,Susanna 
+Worlyczek,10.9.,Rosina,Jeremias,Schüll,Maria
 Bystrcze,25.9.,Catharina,Martin,Pauk,-
 Weyprachtitz,25.9.,Martin,Johann,Chladek,Anna
-#,25.9.,Dorothea,Georg#,Johu#,Magdalena
-Unterhermanitz,29.9.,Wenceslaus#,Johann,Schembera# Junior,Magdalena
-Weyprachtitz,29.9.,Marina#,Matthäus,Jan#,Anna
-Jablonne,5.10.,Catharina,Johann,Plo#,Anna#
-#hermanitz,9.10.,Catharina,Johann,W#,Susanna
-Weyprachtitz,9.10.,Maria,Mathias,Lyr#,Susanna
-#,9.10.,-,Paul,Fischer,Regina ("Syn a Dczera" - Sohn und Tochter, aber wo stehen die Namen?)
-Weyprachtitz,16.10.,Johann,Johann,Bu#,Magdalena
-Jablonne,22.10.,Martin#,Wenceslaus#,#,Anna#
-#,23.10.,Tobias,Martin,Jand#,Catharina
-Unterhermanitz,23.10.,Martin,Johann,K#,Catharina
+Wermerzowicze,25.9.,Dorothea,Georg,Johusta#,Magdalena
+Unterhermanitz,29.9.,Wenceslaus,Johann,Schembera Junior,Magdalena
+Weyprachtitz,29.9.,Marianna,Matthäus,Janek,Anna
+Jablonne,5.10.,Catharina,Johann,Plosky,Anna
+Unterhermanitz,9.10.,Catharina,Johann,Wenczel,Susanna
+Weyprachtitz,9.10.,Maria,Mathias,Lyr,Susanna
+Tschenkowitz,9.10.,Adam und Eva,Paul,Fischer,Regina
+Weyprachtitz,16.10.,Johann,Johann,Duschek,Magdalena
+Jablonne,22.10.,Martin,Wenceslaus,Barwirz#,Anna
+Czermny,23.10.,Tobias,Martin,Janda,Catharina
+Unterhermanitz,23.10.,Martin,Johann,Kupka,Catharina
 
 DP 54
 
-Weyprachtitz,23.10.,Johann,Matthäus,Urban,Catharina#
-Tschenkowitz#,27.10.,Regina#,Johann,He#,Barbara
-Dolni Dobrouc,28.10.,Martin,Johann,K#,Ludmilla
+Weyprachtitz,23.10.,Johann,Matthäus,Urban,Catharina
+Tschenkowitz,27.10.,Regina,Johann,Horaczek,Barbara
+Dolni Dobrouc,28.10.,Martin,Johann,Kamenik,Ludmilla
 Oberhermanitz,28.10.,Paul,Wenceslaus,Zalmann,Catharina
-Jablonne,3.11.,Johann,Wenceslaus,Polak#,Dorothea
-Jamnay,3.11.,Paul,Johann,G#,Anna 
-Worlyczek,4.11.,Catharina,Johann,#,Maria#
-Dolni Dobrouc,5.11.,Catharina,Jacob,M#,Susanna
-Bystrcze,13.11.,Catharina,Jacob,Hrdina#,Magdalena
-Oberhermanitz,13.11.,-,#,Zalmann#,# (Der Name des Kindes wurde nicht genannt)
-Worlyczek,13.11.,Andreas#,-,-,Rosina# (Uneheliche Geburt, es steht noch etwas dran, von wem Rosina# Tochter ist, kann ich nicht lesen, Christoph #uß# oder so)
-#,13.11.,Catharina,Martin#,Jansa#,Susanna#
-Tschenkowitz,13.11.,Catharina,Johann,Ko#,Anna
-Dolni Dobrouc,17.11.,Dorothea,Peter,Motl#,Magdalena#
+Jablonne,3.11.,Johann,Wenceslaus,Polak,Dorothea
+Jamnay,3.11.,Paul,Johann,Jurcza#,Anna 
+Worlyczek,4.11.,Catharina,Johann,Zuhner#,Maria
+Dolni Dobrouc,5.11.,Catharina,Jacob,Meihsner#,Susanna
+Bystrcze,13.11.,Catharina,Jacob,Hrdina,Magdalena
+Oberhermanitz,13.11.,-,Paul,Zalmann,Ursula
+Worlyczek,13.11.,Andreas,-,-,Rosina (Rosina ist Tochter von Christoph Rußner) U: Kind von Rosina Rußner
+Czermny,13.11.,Catharina,Martin,Jansa#,Susanna
+Tschenkowitz,13.11.,Catharina,Johann,Kowarz,Anna
+Dolni Dobrouc,17.11.,Dorothea,Peter,Motl,Magdalena
 
 DP 55
 
@@ -1043,7 +1043,7 @@ Bystrcze,25.3.,Johann,Simon,G#,Susanna
 Worlyczek,25.3.,Anna,G#,Schüll#,Susanna#
 #hermanitz,26.3.,Ludmilla,Paul,Zelinka,Barbara
 Czermny,2.4.,Marianna,Martin,Motl#,Anna
-Weyprachtitz,8.4.,Georg,Johann,Mleinek#,Catharina
+Weyprachtitz,8.4.,Georg,Johann,Mleynek#,Catharina
 Hermanitz#,8.4.,Marina,Matthäus,Markow,Magdalena
 #,8.4.,Anna,Michael,P#,Sabina
 Bystrcze,15.4.,Georg,Georg,Gerzabek#,Anna
@@ -1157,7 +1157,7 @@ DP 64
 
 Jablonne,29.9.,Franz,Jacob,Cz#,Catharina
 Jamnay,29.9.,Dorothea,Jacob,Kobliczek,Susanna
-Weyprachtitz,1.10.,Dorothea,Georg,Mleinek,Dorothea
+Weyprachtitz,1.10.,Dorothea,Georg,Mleynek,Dorothea
 #,2.10.,Caspar,Michael,Heisler,Maria#
 Jablonne,6.10.,Catharina,Wenceslaus#,Trampota,Magdalena
 Jablonne,6.10.,Martin,kaum lesbar####
@@ -2084,7 +2084,7 @@ Bystrcze,18.3.,Georg,Martin,Hrdina,Magdalena
 Jamnay,18.3.,Johann,Urban,Jeronymu#,Susanna
 Tschenkowitz,18.3.,Johann,Clemens,Kobliczek,Marta
 Worlyczek,18.3.,Regina,Johann,Podhajsky,Rosina
-Weyprachtitz,22.3.,Magdalena,Johann,Mleinek,Catharina (Beruf Richter)
+Weyprachtitz,22.3.,Magdalena,Johann,Mleynek,Catharina (Beruf Richter)
 Weyprachtitz,24.3.,Dorothea,-,Janiczar#,- (Unehelich, Elternteil als "dem Janiczar#" genannt)
 Oberhermanitz,26.3.,Georg,Johann,Czerny,Magdalena
 Worlyczek,26.3.,Johann,Paul,Schlesinger,Rosina
