@@ -1,9 +1,9 @@
 Sterbe
-Böhmen
+BÃ¶hmen
 Tschechien
 Kirchenmatrik r.k
 Gabel an der Adler
-Jablonné nad Orlicí
+JablonnÃ© nad OrlicÃ­
 rk
 1681-1716
 
@@ -12,7 +12,7 @@ rk
 DP 3
 
 Bystrcze,5.9.,Catharina,Michael,W#,- (Ehefrau)
-Worlitschka,7.9.,Regina,Johann,Krögler,- (#)(Heißt das Tochter?)
+Worlitschka,7.9.,Regina,Johann,KrÃ¶gler,- (#)(HeiÃŸt das Tochter?)
 Weyprachtitz,8.9.,-,Peter,Waczek#,- (#)(Ein Kind)
 #,18.9.,Wenceslaus,#,#,- (#)(Schwer lesbar)
 #,4.10.,Nicolaus,#,#,- (#)(Schwer lesbar)
@@ -23,14 +23,14 @@ Weyprachtitz,10.10.,Johann,Paul,Hawel,-
 Hermanitz,17.10.,Dorothea,Johann,Matausch,-
 #,19.10.,Catharina,Georg,Rzehak,- 
 Jamnay,21.10.,#,#,#,- (#)(Ein Kind)
-Jablonné,21.10.,Catharina,Mathias,Wottawa,- 
-#,22.10.,Marina,-,-,- (#)(Ein Kind, die Kindsmutter ist Tochter von Martin Nehyba, gehören die nächsten zwei Zeilen noch zu diesem Eintrag oder ist dies ein neuer Eintrag?) U: Kind von Catharina Nehyba
+JablonnÃ©,21.10.,Catharina,Mathias,Wottawa,- 
+#,22.10.,Marina,-,-,- (#)(Ein Kind, die Kindsmutter ist Tochter von Martin Nehyba, gehÃ¶ren die nÃ¤chsten zwei Zeilen noch zu diesem Eintrag oder ist dies ein neuer Eintrag?) U: Kind von Catharina Nehyba
 #,22.10.,Magdalena,Martin,Pauk,- 
 Oberhermanitz,1.11.,Wenceslaus,Johann,Li#,- 
 Tschenkowitz,1.11.,Anna Maria,Johann,Weinlich,-
 Weyprachtitz,1.11.,Catharina,Martin,#esa#,-
-#,5.11.,Dorothea,Matthäus,Jansa,-
-Bystrcze#,9.11.,#,Georg,Gira#,- (#)(Was heißt das nach "Syn"?)
+#,5.11.,Dorothea,MatthÃ¤us,Jansa,-
+Bystrcze#,9.11.,#,Georg,Gira#,- (#)(Was heiÃŸt das nach "Syn"?)
 Weyprachtitz,12.11.,Martin,-,Hrdina,- (Nachbar)
 Weyprachtitz,12.11.,Martin,Georg,Kubin,- (Nachbar)
 Jablona,15.11.,Catharina,Johann,Pl#,-
@@ -40,15 +40,15 @@ Worlitschka,27.11.,Johann,Michael,Heisler#,-
 Worlitschka,1.12.,Anna,Johann,Janek,- (Ehefrau,Nachbar)
 Jablona,5.12.,Catharina,Mathias,Mlinarz#,- (Nachbar)(Ein Kind)
 Oberhermanitz,5.12.,Dorothea,Paul,Kubesch,- (Ehefrau)
-Tschenkowitz,6.12.,Susanna,Tobias,Schüll,- (Nachbar)
+Tschenkowitz,6.12.,Susanna,Tobias,SchÃ¼ll,- (Nachbar)
 Tschenkowitz,7.12.,Susanna,Michael,Osmann#,- (#)(Ein Kind)
 Tschenkowitz,8.12.,Paul,Johann,Weinlich,- (Nachbar)
-Worlitschka,9.12.,Michael,-,Schüll,- (Nachbar)
-Worlitschka,12.12.,Dominik,-,Schlesinger,- (#)("Geschätzter Mann")
+Worlitschka,9.12.,Michael,-,SchÃ¼ll,- (Nachbar)
+Worlitschka,12.12.,Dominik,-,Schlesinger,- (#)("GeschÃ¤tzter Mann")
 Tschenkowitz,14.12.,Anna,Mathias,Heisler#,- (Ehefrau,Nachbar)
 Jablona,16.12.,Johann,Johann,Zaubele,-
 Worlitschka,19.12.,-,Mathias#,Rusner,- (Ehefrau,Nachbar)
-Worlitschka,20.12.,Mathias,-,Schlesinger,- (Nachbar)("Geschätzter Mann")
+Worlitschka,20.12.,Mathias,-,Schlesinger,- (Nachbar)("GeschÃ¤tzter Mann")
 Hermanitz,20.12.,Johann,Johann,H#,- (Nachbar)
 Worlitschka,20.12.,Friedrich,Friedrich,Weypert,- (Nachbar)
 Jablona,21.12.,Franz,Johann,Gir#,- (Nachbar)
@@ -59,7 +59,7 @@ Bistrcze#,29.12.,Dorothea,Nikolaus,#,- (Ehefrau,Nachbar)
 
 1682
 
-Bistrcze#,5.1.,Anna,Matthäus,Gira#,- (Ehefrau,Nachbar)
+Bistrcze#,5.1.,Anna,MatthÃ¤us,Gira#,- (Ehefrau,Nachbar)
 Jamnay,5.1.,Jacob,Martin,Bauchal,-  (Nachbar)
 Worlitschka,5.1.,Christoph,Mathias,Rusner,-
 
@@ -72,15 +72,15 @@ Oberhermanitz,9.1.,Paul,Wenceslaus,Mach,- (Nachbar)
 Jamnay,17.1.,Catharina,Wenceslaus,Doleczek,- (Ehefrau,Nachbar)
 Jamnay,19.1.,Catharina,Martin,Bauchal,- (Nachbar)
 Tschenkowitz,19.1.,Johann,Peter,Heisler,- (Nachbar)
-Tschenkowitz,24.1.,Johann,-,Heisler,- (Nachbar)("Geschätzter Mann")
+Tschenkowitz,24.1.,Johann,-,Heisler,- (Nachbar)("GeschÃ¤tzter Mann")
 Worlitschka,27.1.,Anna,Christoph,Nehyba,-
 Worlitschka,29.1.,Paul,Christoph,Nehyba,-
-Worlitschka,29.1.,Martin,-,Weber,- (Nachbar)("Geschätzter Mann")
+Worlitschka,29.1.,Martin,-,Weber,- (Nachbar)("GeschÃ¤tzter Mann")
 Tschenkowitz,4.2.,-,Johann,Nosek,- (Nachbar)(Ein Kind)
 Tschenkowitz,4.2.,Judith,Tobias,Langhammer,- (Nachbar)
-Tschenkowitz,4.2.,Judith,Johann,#ü#tzla,- (Nachbar)
+Tschenkowitz,4.2.,Judith,Johann,#Ã¼#tzla,- (Nachbar)
 Weyprachtitz,26.1.,Catharina,Georg,Chladek,- (Nachbar)
-Worlitschka,1#.2.,Mathias#,Matthäus,Rusner,-
+Worlitschka,1#.2.,Mathias#,MatthÃ¤us,Rusner,-
 Tschenkowitz,4.2.,-,Johann,Nosek,- (Nachbar)(Ein Kind)
 Tschenkowitz,5.2.,Judith,Tobias,Langhammer,-
 Tschenkowitz,5.2.,Judith,Johann,H#lu,- (Nachbar)
@@ -90,16 +90,16 @@ Weyprachtitz,7.2.,#,Martin,Chladek,- (#)(Ein Kind)
 Tschenkowitz,8.2.,Susanna,Peter,Heisler,-
 Tschenkowitz,9.2.,Catharina,Christoph,Hauenschild,- (Nachbar)
 Oberhermanitz,12.2.,-,Wenceslaus,Kubesch,- (Nachbar)
-Tschenkowitz,12.2.,Justina,Matthäus,Heisler,- (Ehefrau,#)
+Tschenkowitz,12.2.,Justina,MatthÃ¤us,Heisler,- (Ehefrau,#)
 #,15.2.,Catharina#,Johann,Wottawa,- (Nachbar)
-Tschenkowitz,15.2.,Adam,-,Frömer#,- (Nachbar#)("Geschätzter Mann")
+Tschenkowitz,15.2.,Adam,-,FrÃ¶mer#,- (Nachbar#)("GeschÃ¤tzter Mann")
 Worlitschka,20.2.,Anna,Zacharias,Hauff,-
 Bistrcze#,23.2.,Magdalena,Jacob,Schih#,- (Ehefrau)
 Bistrcze#,23.2.,Susanna,Georg,Chromy,- (Ehefrau,Nachbar)
 Tschenkowitz,24.2.,Dorothea,Michael,Hauenschild,- (Nachbar)
 Tschenkowitz,24.2.,#,#,#,- (#)(Schwer zu lesen)
-Unterhermanitz,27.2.,Dorothea,Johann,Rösler#,- (Nachbar)
-#,1.3.,Catharina,Bartholomäus,H# (Nachbar)
+Unterhermanitz,27.2.,Dorothea,Johann,RÃ¶sler#,- (Nachbar)
+#,1.3.,Catharina,BartholomÃ¤us,H# (Nachbar)
 Jablona,2.3.,-,Jeremias,Kulhanek (#)(Ein Kind)
 Worlitschka,3.3.,Maria,Johann,Weinlich,- (Nachbar)
 Tschenkowitz,6.3.,Michael,Georg,Egydi,- (Nachbar)
@@ -111,42 +111,42 @@ DP 5
 Oberhermanitz,9.3.,Wenceslaus,Benesch#,Zalmann,- (Nachbar)
 Weyprachtitz,12.3.,Dorothea,Johann,Kubow#,- (Witwe)(Nominativ von Kubow, Kubin?)
 Jamnay,18.3.,Johann,Wenceslaus,Bauchal,- 
-Oberhermanitz,25.3.,Wenceslaus,-,Mach,- ("Geschätzter Mann")
+Oberhermanitz,25.3.,Wenceslaus,-,Mach,- ("GeschÃ¤tzter Mann")
 Hermanitz,27.3.,Maria,Wenceslaus,Maresch#,- (Ehefrau)
-Worlitschka,28.3.,Susanna,Wenceslaus,Schüttke,- (Nachbar)
-Tschenkowitz,30.3.,Christoph,-,Egydi,- ("Geschätzter Mann")
+Worlitschka,28.3.,Susanna,Wenceslaus,SchÃ¼ttke,- (Nachbar)
+Tschenkowitz,30.3.,Christoph,-,Egydi,- ("GeschÃ¤tzter Mann")
 Unterhermanitz,6.4.,Catharina,Paul,Schembera,- (Ehefrau)
 Hermanitz,6.4.,Paul,Georg,Czink,9w (Nachbar)
-Worlitschka,7.4.,-,Johann,Schüttke,2 (#)(Ein Kind)
+Worlitschka,7.4.,-,Johann,SchÃ¼ttke,2 (#)(Ein Kind)
 Worlitschka,7.4.,Mathias#,Johann,Nosek,2 (Nachbar)
 Jamnay,13.4.,Magdalena,Martin,Bauchal,- (Ehefrau,Nachbar)
 Worlitschka,14.4.,Augustin,Tobias,Heisler,- (Nachbar)
 Tschenkowitz,14.4.,Justina,Elias,Wottawa,- (Ehefrau,Nachbar)
 Tschenkowitz,18.4.,Wenceslaus,Georg,Polaczek,2w (Nachbar)
 Hermanitz#,19.4.,-,-,-,- (#)(Ein Kind)
-Bistrcze#,22.4.,Martin,-,Mach,- (Nachbar)("Geschätzter Mann")
+Bistrcze#,22.4.,Martin,-,Mach,- (Nachbar)("GeschÃ¤tzter Mann")
 Oberhermanitz,25.4.,Maria,Paul,Kubesch,- (Nachbar)
 Worlitschka,25.4.,-,Paul,Schlesinger,- (#)(Ein Kind)
 Unterhermanitz,26.4.,Catharina,Johann,Maresch#,- (Nachbar)
 Worlitschka,27.4.,Rosina,Tobias,Wagner,- (Nachbar)
 Oberhermanitz,27.4.,Johann,Johann,Kordas,- (#)
-Jamnay,28.4.,Johann,-,Duchaczek,- (Nachbar)("Geschätzter Mann")
+Jamnay,28.4.,Johann,-,Duchaczek,- (Nachbar)("GeschÃ¤tzter Mann")
 Tschenkowitz,28.4.,Maria,Johann,Fischer,2 (Nachbar)
 Bistrcze#,28.4.,Catharina,Georg,Kubin,- (Nachbar)
-Tschenkowitz,8.5.,Michael,Michael,Schüttke,- (Nachbar)
+Tschenkowitz,8.5.,Michael,Michael,SchÃ¼ttke,- (Nachbar)
 Oberhermanitz,9.5.,Catharina,Georg,Kubesch,- (Ehefrau,Nachbar)
 #,11.5.,Marianna,Georg,Schimek,- (Ehefrau,Nachbar)
 Jablona,14.5.,Anna,Martin,Wottawa,- (Ehefrau)
-Tschenkowitz,23.5.,Maria,Adam,Schüll,- (Witwe)
+Tschenkowitz,23.5.,Maria,Adam,SchÃ¼ll,- (Witwe)
 Jamnay,25.5.,Anna,Martin,Czernohaus,- (Ehefrau,Nachbar)
 Jamnay,29.5.,Johann,Martin,Czernohaus,- (Nachbar)
-Worlitschka,4.6.,Georg,-,Bier,50 (Nachbar)("Geschätzter Mann")
+Worlitschka,4.6.,Georg,-,Bier,50 (Nachbar)("GeschÃ¤tzter Mann")
 Jablona,7.6.,Peter,Wenceslaus,Klesl,- (Nachbar)
 Jamnay,22.6.,Martin,Johann,Chladek#,- (Nachbar)
 Weyprachtitz,4.7.,-,-,-,-
 Bistrcze#,11.7.,-,Johann,Kubin,- (Nachbar)
 Tschenkowitz,18.7.,-,Michael,Hauenschild,- (Nachbar)
-Weyprachtitz,19.7.,Andreas,-,#,- ("Geschätzter Mann")
+Weyprachtitz,19.7.,Andreas,-,#,- ("GeschÃ¤tzter Mann")
 Hermanitz,23.7.,Georg,Mathias,Heyl,- (Nachbar)
 Worlitschka,25.7.,Susanna,Paul,Schlesinger,- (Nachbar)
 
@@ -155,11 +155,11 @@ DP 6
 Hermanitz,28.7.,Judith,Johann,#,6# (Nachbar)
 Oberhermanitz,1.8.,-,Johann,Dur#,-
 Tschenkowitz,6.8.,Judith,Christoph,Heisler,8# (Nachbar)
-Weyprachtitz,25.8.,Jacob,Marek,- (Nachbar)("Geschätzter Mann")
+Weyprachtitz,25.8.,Jacob,Marek,- (Nachbar)("GeschÃ¤tzter Mann")
 Jablona,29.8.,Catharina,Paul,Merta,2d 
 Bistrcze#,2.9.,Catharina,Jacob,Ptaczek,10w (Nachbar)
 Worlitschka,18.9.,-,Johann,Gabler,- (#)(Ein Kind)
-Weyprachtitz,27.9.,Dorothea,Matthäus,Waczek (#)(Dorothea wird als "alte Jungfer" bezeichnet)
+Weyprachtitz,27.9.,Dorothea,MatthÃ¤us,Waczek (#)(Dorothea wird als "alte Jungfer" bezeichnet)
 Worlitschka,1.10.,Augustin,Caspar,Dittrich#,1.5
 Worlitschka,5.10.,Wenceslaus,Michael,Schlesinger,2w (Nachbar)
 Tschenkowitz,13.10.,-,-,-,2.5
@@ -172,24 +172,24 @@ Tschenkowitz,11.11.,Johann,Johann,Blaczek#,- (Nachbar)
 Bistrcze#,12.11.,-,Johann,Ro#,- (#)(Ein Kind)
 #,13.11.,Dorothea,Johann,Czurdy#,3d 
 Tschenkowitz,15.11.,Mathias#,Johann,Blaczek#,- (Nachbar)
-Tschenkowitz,22#.11.,Magdalena,Matthäus,Chromy,- (Witwe)
+Tschenkowitz,22#.11.,Magdalena,MatthÃ¤us,Chromy,- (Witwe)
 Jablona,24.11.,Elisabeth,Lukas,Fibiger#,4.5
-Oberhermanitz,4.12.,Wenceslaus,-,Zalmann,- (Nachbar)("Geschätzter Mann")
+Oberhermanitz,4.12.,Wenceslaus,-,Zalmann,- (Nachbar)("GeschÃ¤tzter Mann")
 Tschenkowitz,13.12.,-,#,#,- (#)(Schwer lesbar, Ein Kind)
-Jablona,22.12.,Johann,Johann,Schüll#,1.5
+Jablona,22.12.,Johann,Johann,SchÃ¼ll#,1.5
 Bistrcze#,23.12.,-,Johann,Krcziwohlawek,- (Nachbar)
 Tschenkowitz,26.12.,Barbara,Jacob,Waczek,- (Ehefrau)
 Jablona,28.12.,Johann,Georg,Pechaczek,2
 Bystrcze,29.12.,Martin,Jacob,Jeczek#,2.5
-Worlitschka,30.12.,Tobias,Bartholomäus,Heisler,-
+Worlitschka,30.12.,Tobias,BartholomÃ¤us,Heisler,-
 Tschenkowitz,31.12.,Georg,-,Sonntag,-
 
 1683
 
 Tschenkowitz,1.1.,-,Paul,Weinlich,-
-Tschenkowitz,4.1.,Caspar,-,Dittrich,80 (#)("Geschätzter Mann")
+Tschenkowitz,4.1.,Caspar,-,Dittrich,80 (#)("GeschÃ¤tzter Mann")
 Jamnay,14.1.,Dorothea,Nikolaus,#,-
-Worlitschka,15.1.,Georg,-,Hauk,- (#)("Geschätzter Mann")
+Worlitschka,15.1.,Georg,-,Hauk,- (#)("GeschÃ¤tzter Mann")
 Jamnay,16.1.,Jacob,Georg,Czernohaus,9m 
 Weyprachtitz,17.1.,Augustin,Martin,Skaliczky,- (Nachbar)
 Weyprachtitz,21.1.,Franz,Martin,Skaliczky,6 
@@ -197,7 +197,7 @@ Weyprachtitz,21.1.,Franz,Martin,Skaliczky,6
 DP 7
 
 Tschenkowitz,22.1.,Caspar,Peter,Heisler,1.5
-Weyprachtitz,24.1.,Matthäus,Martin,Skaliczky,5.5
+Weyprachtitz,24.1.,MatthÃ¤us,Martin,Skaliczky,5.5
 Oberhermanitz,26.1.,Marina#,Johann,Jansky,5w 
 Jablona,27.1.,Dorothea,Peter,Martinek,7w 
 Weyprachtitz,27.1.,Catharina,Mathias#,Petr#,- (Witwe)
@@ -207,31 +207,31 @@ Oberhermanitz,3.2.,Catharina,Wenceslaus,Zalmann,- (Witwe)
 Jablona,3.2.,Sybilla,Jacob,Jelinek#,- (Witwe)
 Weyprachtitz,4.2.,Paul,Martin,Skaliczky,10#
 Weyprachtitz,6.2.,Anna,Jacob,Victorin,- (Ehefrau,Rektor#)
-Weyprachtitz,6.2.,Martin,Matthäus,Urban,-
+Weyprachtitz,6.2.,Martin,MatthÃ¤us,Urban,-
 Weyprachtitz,9.2.,Wenceslaus,Martin,Skaliczky,4
-Tschenkowitz,9.2.,Augustin,Matthäus,Byr,4
+Tschenkowitz,9.2.,Augustin,MatthÃ¤us,Byr,4
 Weyprachtitz,11.2.,#,#,#,- (#)(Schwer zu lesen)
-Tschenkowitz,13.2.,Susanna,Matthäus,Byr#,8w
+Tschenkowitz,13.2.,Susanna,MatthÃ¤us,Byr#,8w
 Bystrcze,15.2.,Marketa,Georg,Mlanick#,- (Nachbar)
 Tschenkowitz,23.2.,#,#,#,- (#)(Schwer zu lesen)
 Jamnay,23.2.,Georg,Johann,Stryk#,3d (Nachbar)
 Tschenkowitz,26.2.,Franz,Jacob,Steffler#,2w 
 Oberhermanitz,4.3.,Paul,-,Drazal#,- (Nachbar)
 Worlitschka,6.3.,Christoph,Johann,Schlesinger,-
-Weyprachtitz,11.3.,Martin,-,Sedlaczek,- (#)("Geschätzter Mann")
+Weyprachtitz,11.3.,Martin,-,Sedlaczek,- (#)("GeschÃ¤tzter Mann")
 Oberhermanitz,16.3.,Paul,Johann,Jansky,- (Nachbar)
 Bistrcze,22.3.,Georg,-,Zahradnik#,- (Nachbar)
-Weyprachtitz,24.3.,Mathias#,-,Skaliczky,- (#)("Geschätzter Mann")
+Weyprachtitz,24.3.,Mathias#,-,Skaliczky,- (#)("GeschÃ¤tzter Mann")
 Tschenkowitz,27.3.,Christina,Georg,Steffek#,- (Witwe)
 Tschenkowitz,5.4.,Maria,Johann,Feltzmann,-
 Tschenkowitz,7.4.,Adam,Georg,Duchaczek,- (Nachbar)
 Bistrcze,8.4.,Magdalena,Georg,Jeczek,- (Nachbar)
-Tschenkowitz,10.4.,Christoph,-,Hauenschild,94 (Nachbar)("Geschätzter Mann")
+Tschenkowitz,10.4.,Christoph,-,Hauenschild,94 (Nachbar)("GeschÃ¤tzter Mann")
 Tschenkowitz,14.4.,Dorothea,Johann,Czernohaus,- (Ehefrau)
 #,14.4.,#,#,#,- (#)(Schwer zu lesen, ein Kind)
 Tschenkowitz,15.4.,Susanna,Johann,H#,- (Nachbar)
 Oberhermanitz,20.4.,Catharina,Martin,Durstky#,- (#)(Als "Jungfrau" bezeichnet, also unverheiratet)
-Jablona,26.4.,Anna,Jacob,Wottawa,- (Ehefrau)("manzelka slowutnyho Muze" -> "Die Geschätzte Ehefrau")
+Jablona,26.4.,Anna,Jacob,Wottawa,- (Ehefrau)("manzelka slowutnyho Muze" -> "Die GeschÃ¤tzte Ehefrau")
 Bistrcze,27.4.,Jacob,-,Nehyba,3 (Nachbar)
 Weyprachtitz,27.4.,Marianna,Martin,Ma#ek,- (Ehefrau,Nachbar)
 Jamnay,29.4.,Magdalena,Georg,Kobliczek,- (Ehefrau,Nachbar)
@@ -241,35 +241,35 @@ DP 8
 
 Oberhermanitz,14.5.,Franz,Tobias,Daczilek,8w
 Bistrcze,15.5.,-,Georg,Macha,- (#)(Ein Kind)
-Weyprachtitz,16.5.,Lukas,-,Jarolym,- (Nachbar)("Geschätzter Mann")
+Weyprachtitz,16.5.,Lukas,-,Jarolym,- (Nachbar)("GeschÃ¤tzter Mann")
 -,17.5.,Catharina,Georg,Mach,- (Ehefrau,Nachbar)
 -,17.5.,-,-,-,- (#)(Ein Kind)
 Tschenkowitz,24.5.,-,-,-,- (#)(Ein Kind)
 Oberhermanitz,25.5.,Jacob,-,Mrazek,-
 Weyprachtitz,29.5.,Magdalena,Johann,Koczak,- (Ehefrau)
 -,29.5.,-,-,- (#)(Ein Kind)
-Worlitschka,31.5.,Christoph,-,Schüll,- (Nachbar)
-Oberhermanitz,1.6.,Wenceslaus,-,Schembera,- (Nachbar)("Geschätzter Mann")
+Worlitschka,31.5.,Christoph,-,SchÃ¼ll,- (Nachbar)
+Oberhermanitz,1.6.,Wenceslaus,-,Schembera,- (Nachbar)("GeschÃ¤tzter Mann")
 Tschenkowitz,16.6.,Susanna,Georg,Feltzmann,- (Ehefrau)
 Tschenkowitz,23.6.,Anna,Johann,Nosek,- (Nachbar)
 Weyprachtitz,24.6.,Peter,Johann,Kubiczek,-
 Hermanitz,26.6.,Wenceslaus,Paul,Kubesch,-
 Weyprachtitz,15.7.,Johann,Nikolaus,Janek,-
-Worlitschka,17.7.,Maria,Georg,Krögler,-
-Tschenkowitz,19.7.,Ludwig,Georg,Schüll,- (Nachbar)
+Worlitschka,17.7.,Maria,Georg,KrÃ¶gler,-
+Tschenkowitz,19.7.,Ludwig,Georg,SchÃ¼ll,- (Nachbar)
 Unterhermanitz,29.7.,-,-,Kreiczy#,- (#)(Ein Kind)
 Jablona,4.8.,Dorothea,Georg,Schwedy#,-
 Weyprachtitz,5.8.,Eva,Georg,Kubelka,- (Nachbar)
 Worlitschka,7.8.,Maria,Paul,Kauff,- (Witwe)
 Weyprachtitz,12.8.,-,Georg,Kubelka,- (Nachbar)
-Worlitschka,2.9.,-,Caspar,Schüll,- (#)(Ein Kind)
+Worlitschka,2.9.,-,Caspar,SchÃ¼ll,- (#)(Ein Kind)
 Tschenkowitz,6.9.,-,Georg,Kobliczek,- (#)(Ein Kind)
 Tschenkowitz,12.9.,Susanna,Georg,Feltzmann,10w (Nachbar)
 Weyprachtitz,4.10.,-,Wenceslaus,Dostalek#,-
 Bystrcze,10.10.,Catharina,Johann#,-,Kowarz,- (#)(Was bedeutet das Wort nach "Jana"?)
 Weyprachtitz,13.10.,Magdalena,Paul,Wondra,-
 Bystrcze,19.10.,Catharina,Martin,Jeczek#,-
-Weyprachtitz,23.10.,Martin,Paul,Resler,- (Müller)
+Weyprachtitz,23.10.,Martin,Paul,Resler,- (MÃ¼ller)
 Jamnay,24.10.,Jacob,Johann,Valenta,-
 Weyprachtitz,3.11.,Magdalena,Johann,Stromek#,-
 Weyprachtitz,5.11.,Wenceslaus,Johann,Kyllar,- (Nachbar)
@@ -280,22 +280,22 @@ DP 9
 
 Jamnay,10.11.,-,Martin,#,- (#)(Ein Kind)
 Oberhermanitz,17.11.,Johann,Johann,Darczilek,15d
-Bystrcze,23.11.,Jacob,-,G#,80 (#)("Geschätzter Mann")
-Tschenkowitz,23.11.,Georg,-,Krögler,# (Nachbar)(Was genau ist die Altersangabe?)
-Weyprachtitz,25.11.,-,David,Rösler,-
+Bystrcze,23.11.,Jacob,-,G#,80 (#)("GeschÃ¤tzter Mann")
+Tschenkowitz,23.11.,Georg,-,KrÃ¶gler,# (Nachbar)(Was genau ist die Altersangabe?)
+Weyprachtitz,25.11.,-,David,RÃ¶sler,-
 Jamnay,26.11.,Susanna,Jacob,Seidlmann,- (Witwe)
 Jablona,6.12.,Magdalena,Georg,Jawurek,80 (Witwe)
 Walterczitz#,12.12.,Paul,Martin,Andrle,-
-Worlitschka,14.12.,Susanna,Andreas,Krögler,- (Ehefrau,Nachbar)
+Worlitschka,14.12.,Susanna,Andreas,KrÃ¶gler,- (Ehefrau,Nachbar)
 Bistrcze,15.12.,Johann,Johann,Wondra,- (Nachbar)
 Walterczitz,17.12.,Wenceslaus,Martin,Andrle,-
 Tschenkowitz,26.12.,Paul,-,Heisler,- (Nachbar)
-Weyprachtitz,31.12.,Johann,-,Faltus,- (#)("Geschätzter Mann")
-Weyprachtitz,31.12.,Georg,-,Chladek,- (#)("Geschätzter Mann")
+Weyprachtitz,31.12.,Johann,-,Faltus,- (#)("GeschÃ¤tzter Mann")
+Weyprachtitz,31.12.,Georg,-,Chladek,- (#)("GeschÃ¤tzter Mann")
 
 1684
 
-Weyprachtitz,2.1.,Paul,-,Brokesch,- (Nachbar)("Geschätzter Mann")
+Weyprachtitz,2.1.,Paul,-,Brokesch,- (Nachbar)("GeschÃ¤tzter Mann")
 Jamnay,2#.1.,Paul,-,Steyskal,-
 Worlitschka,2#.1.,Christian,-,-,- (Nachbarin) U: Kind von Josepha Weinlich
 Jablona,7.1.,Georg#,-,Czerwenka,-
@@ -304,20 +304,20 @@ Hermanitz,11.1.,Paul,Jacob,#,-
 Jamnay,11.1.,Georg,-,Morawetz#,-
 Jablona,13.1.,Dorothea,Peter,Kyllar,3#d (Nachbar)(3 oder 13?)
 Jablona,16.1.,Georg,Georg,Jawurek,-
-Jamnay,23.1.,-,-,-,90 (#)("Geschätzter Mann")
+Jamnay,23.1.,-,-,-,90 (#)("GeschÃ¤tzter Mann")
 Tschenkowitz,25.1.,Susanna,Mathias#,Polaczek,- (Nachbar)
-Unterhermanitz,2.2.,Matthäus,-,Heyl,100 (#)("Geschätzter alter Mann")
-Oberhermanitz,3.2.,Johann,-,Durstky#,- (#)("Geschätzter Mann")
+Unterhermanitz,2.2.,MatthÃ¤us,-,Heyl,100 (#)("GeschÃ¤tzter alter Mann")
+Oberhermanitz,3.2.,Johann,-,Durstky#,- (#)("GeschÃ¤tzter Mann")
 Walterczitz,3.2.,Franz,Christoph,Nentvich,- (Nachbar)
-Jablona,7.2.,Paul,-,Betlach,103 (#)("Geschätzter alter Mann")
-Bistrcze,7.2.,Johann,-,Kuczilek,- (#)("Geschätzter alter Mann")
+Jablona,7.2.,Paul,-,Betlach,103 (#)("GeschÃ¤tzter alter Mann")
+Bistrcze,7.2.,Johann,-,Kuczilek,- (#)("GeschÃ¤tzter alter Mann")
 Bistrcze,8.2.,Dorothea,Johann,Smey#,- (Ehefrau,Nachbarin)
 Bistrcze,13.2.,Rosina,Martin,Wasch#,-
 Bistrcze,15.2.,-,Johann,Seidlmann,1.5 (Nachbar)
 Bistrcze,15.2.,-,Johann,Kyllar,- (Nachbar)
 Bistrcze,15.2.,-,-,-,- (Ehefrau,Nachbarin)
 Bistrcze,20.2.,-,-,-,- (Nachbar)
-Jablona,22.2.,Georg,-,Her#,- (#)("Geschätzter Mann")
+Jablona,22.2.,Georg,-,Her#,- (#)("GeschÃ¤tzter Mann")
 Bistrcze,26.2.,Georg,Jacob,Kyllar,2w (Nachbar)
 Jamnay,27.2.,Anna,Georg,Steyskal,- (Witwe)
 -,28.2.,Magdalena,Thomas,#,# (Ehefrau)
@@ -330,28 +330,28 @@ Bistrcze,13.3.,Dorothea,Jacob,G#,- (Witwe)
 Unterhermanitz,13.3.,Johann,-,U#,- (Nachbar)
 Jamnay,20.3.,-,-,-,1# (#)(1 Jahr weniger 1 Woche?)
 Tschenkowitz,20.3.,-,-,-,- (Nachbar)
-Worlitschka,25.3.,-,Christoph,Schüll,- (Nachbar)(Christoph Schüll der Vater oder der Verstorbene?)
+Worlitschka,25.3.,-,Christoph,SchÃ¼ll,- (Nachbar)(Christoph SchÃ¼ll der Vater oder der Verstorbene?)
 Tschenkowitz,26.3.,Catharina,Johann,Heisler,- (Witwe)
 Tschenkowitz,28.3.,Augustin,Caspar,Nentvich,2w (Nachbar)
 Jamnay,29.3.,Johann,Johann,Doleczek,- (Nachbar)
-Worlitschka,1.4.,Johann,-,Schüttke,- (#)("Geschätzter alter Mann")
+Worlitschka,1.4.,Johann,-,SchÃ¼ttke,- (#)("GeschÃ¤tzter alter Mann")
 Weyprachtitz,4.4.,Catharina,Johann,Hawel,- (Witwe,Nachbarin)
-Tschenkowitz,4.4.,Georg,Johann,Schüll,- (Nachbar)
+Tschenkowitz,4.4.,Georg,Johann,SchÃ¼ll,- (Nachbar)
 Bistrcze,9.4.,Nikolaus,Philipp,Waczek,14 (Nachbar)
 Tschenkowitz,10.4.,Paul,Nikolaus,Osmann,- (Nachbar)
 Unterhermanitz,12.4.,Paul,Johann,Matiegka#,-
 Unterhermanitz,13.4.,Judith,Paul,Ptaczek,- (Nachbar)
-Tschenkowitz,13.4.,-,Georg,Schüll,- (Nachbar)(Ein Kind)
+Tschenkowitz,13.4.,-,Georg,SchÃ¼ll,- (Nachbar)(Ein Kind)
 Worlitschka,24.4.,Georg,Johann,Weinlich,4
 Jablona,29.4.,Catharina,Jacob,Bednarz,12#
 Jablona,11.5#.,-,-,-,- (Nachbar)(Ein Sohn)
 Unterhermanitz,14.5#.,-,-,-,- (Witwe)
 Jablona,26.5#.,Susanna,-,Czerwenka,- (Witwe,Nachbarin)
 Unterhermanitz,29.5#.,Rosina,Paul,Schembera,2w2d (Nachbar)
-Worlitschka,5.6.,Susanna,Christoph,Schüll,-
+Worlitschka,5.6.,Susanna,Christoph,SchÃ¼ll,-
 Worlitschka,13.6.,Johann,-,Weinlich,- ("Mann")
-Worlitschka,20.6.,Anna,Christoph,Schüll,-
-Jamnay,23.6.,Wenceslaus,-,Philipp,- (Nachbar)("Geschätzter Mann")
+Worlitschka,20.6.,Anna,Christoph,SchÃ¼ll,-
+Jamnay,23.6.,Wenceslaus,-,Philipp,- (Nachbar)("GeschÃ¤tzter Mann")
 Jamnay,23.6.,-,-,-,5 (Nachbar)
 Oberhermanitz,28.6.,Anna,Nikolaus,Kubesch,-
 Walterczitz#,29.6.,Johann,Johann,Feltzmann,-
@@ -365,34 +365,34 @@ DP 11
 
 Bystrcze,11.8.,Anna,-,-,- (Witwe)
 Hermanitz,22.8.,#,-,-,-
-Worlitschka,4.9.,Georg,-,Schüll#,-
+Worlitschka,4.9.,Georg,-,SchÃ¼ll#,-
 Hermanitz,6.9.,-,-,-,-
 Worlitschka,11.9.,Maria,Nikolaus,Hauk#,-
 Bistrcze,14#.9.,Wenceslaus,-,Kratky#,-
 Bistrcze,19.9.,Catharina,Johann,Hrdina,#
 Jablona,2.10.,Magdalena,Jacob,Betlach,- (Ehefrau)
-Tschenkowitz,5.10.,Christian,Georg#,Schüll#,- (Nachbar)
+Tschenkowitz,5.10.,Christian,Georg#,SchÃ¼ll#,- (Nachbar)
 Worlitschka,6.10.,Tobias,Johann,Nehyba,- (Nachbar)
-Worlitschka,8.10.,-,Georg,Krögler,- (#)(Ein Kind)(Heißt das "Robatko"?)
+Worlitschka,8.10.,-,Georg,KrÃ¶gler,- (#)(Ein Kind)(HeiÃŸt das "Robatko"?)
 Jablona,8.10.,Regina#,Jacob,Jelinek#,- (Tochter oder Witwe?)
-Jablona,11.10.,Johann,-,# (#)("Geschätzter Mann")
+Jablona,11.10.,Johann,-,# (#)("GeschÃ¤tzter Mann")
 Bistrcze,14.10.,Jacob,Philip,Wag#,-
 Jamnay,19.10.,Georg,-,-,- (#)("Mann")
 Bistrcze,20.10.,Wenceslaus,-,#,- (#)("Mann")
-Schöndörfl,25.10.,Susanna,Georg#,Feltzmann,-
+SchÃ¶ndÃ¶rfl,25.10.,Susanna,Georg#,Feltzmann,-
 Weyprachtitz,29.10.,Catharina,Paul,Bauchal,- (Ehefrau)
 Tschenkowitz,18.11.,Johann,-,Fidl#,-
 Tschenkowitz,24.11.,#,Johann,Polak,- (Ehefrau)
 Oberhermanitz,26.11.,Dorothea,Jacob,Kubin,- (Witwe)
 Tschenkowitz,29.11.,Anna,Johann,Fischer,- (Nachbar)
-Lubnik,30.11#.,#,-,-,12 (#)(Heißt vermutlich "Dzera" - Tochter - Eintrag kaum lesbar und unvollständig, zwischen die Zeilen eingefügt)
-Worlitschka,3.12.,Tobias,Georg,Schüll,-
-Oberhermanitz,4.12.,Matthäus,-,Lyr#,- (Nachbar)
+Lubnik,30.11#.,#,-,-,12 (#)(HeiÃŸt vermutlich "Dzera" - Tochter - Eintrag kaum lesbar und unvollstÃ¤ndig, zwischen die Zeilen eingefÃ¼gt)
+Worlitschka,3.12.,Tobias,Georg,SchÃ¼ll,-
+Oberhermanitz,4.12.,MatthÃ¤us,-,Lyr#,- (Nachbar)
 Oberhermanitz,4.12.,-,Paul,Barton,- (#)(Ein Kind)
 Jamnay,6.12.,-,-,-,-
 Jamnay,20.12.,Jacob,Johann,Bauchal,2
 Weyprachtitz,23.12.,Catharina,J#,Smeybal#,- (Ehefrau)
-Bistrcze,28.12.,Martin,-,Stef#,- (#)("Geschätzter alter Mann")
+Bistrcze,28.12.,Martin,-,Stef#,- (#)("GeschÃ¤tzter alter Mann")
 Weyprachtitz,28.12.,-,Johann,Koczla#,- (#)(Ein Kind)
 Jablona,29.12.,Anna,Johann,Pe#,- (Ehefrau)
 
@@ -401,8 +401,8 @@ Jablona,29.12.,Anna,Johann,Pe#,- (Ehefrau)
 Jamnay,2.1.,Anna,Martin,Doleczal,- (Witwe)
 Weyprachtitz,2.1.,Magdalena,Jacob,Lyr#,- (Witwe)
 Hermanitz,2.1.,-,-,-,-
-Bistrcze,4.1.,Martin,-,Pauk,- (Nachbar)("Geschätzter Mann")
-Bistrcze,5.1.,Johann,-,#,- (Nachbar)("Geschätzter Mann")
+Bistrcze,4.1.,Martin,-,Pauk,- (Nachbar)("GeschÃ¤tzter Mann")
+Bistrcze,5.1.,Johann,-,#,- (Nachbar)("GeschÃ¤tzter Mann")
 Walterczitz,6.1.,Maria,Georg,Kirch#,- (Witwe)
 Bistrcze,8.1.,Magdalena,Wenceslaus,Hrdina#,12#
 
@@ -410,26 +410,26 @@ DP 12
 
 Weyprachtitz,11.1.,Judith,Johann,Smeykal,7# (Nachbar)("Sept Les Stara" == "7 Jahre alt"?)
 Oberhermanitz,9.1.,Johann,Johann,Sedlaczek (Nachbar)
-Worlitschka,14.1.,Johann,-,Nehyba,80 (Nachbar)("Geschätzter Mann")
-Weyprachtitz,23.1.,Johann,-,Tauschek,- (#)("Geschätzter Mann")
+Worlitschka,14.1.,Johann,-,Nehyba,80 (Nachbar)("GeschÃ¤tzter Mann")
+Weyprachtitz,23.1.,Johann,-,Tauschek,- (#)("GeschÃ¤tzter Mann")
 Tschenkowitz,3.2.,Anna Maria,Johann,Hoffmann,- (Witwe)
-Tschenkowitz,4.2.,Johann,-,Polak,- (#)("Geschätzter Mann")
-Hermanitz,12.2.,Martin,-,Bily,- (#)("Geschätzter Mann")
-Hermanitz,18.2.,Wenceslaus,-,#entzl,90 (#)("Geschätzter Mann")
+Tschenkowitz,4.2.,Johann,-,Polak,- (#)("GeschÃ¤tzter Mann")
+Hermanitz,12.2.,Martin,-,Bily,- (#)("GeschÃ¤tzter Mann")
+Hermanitz,18.2.,Wenceslaus,-,#entzl,90 (#)("GeschÃ¤tzter Mann")
 Jamnay,22.2.,-,#,#,- (#)(Ein Kind)
-Worlitschka,28.2.,Elisabeth,Mathias#,Schüll,-
+Worlitschka,28.2.,Elisabeth,Mathias#,SchÃ¼ll,-
 Jablona,2.3.,Dorothea,Johann,Koczel,- (Nachbar)
 Bistrcze,4.3.,Ludmilla,Martin,Jeczek#,- (Ehefrau)
-Bistrcze,15.3.,Paul,-,Charwat,- (Nachbar#)("Geschätzter Mann")
-Tschenkowitz,6.3.,Michael,-,Hamaczek#,- (#)("Geschätzter Mann")
+Bistrcze,15.3.,Paul,-,Charwat,- (Nachbar#)("GeschÃ¤tzter Mann")
+Tschenkowitz,6.3.,Michael,-,Hamaczek#,- (#)("GeschÃ¤tzter Mann")
 Weyprachtitz,12.3.,Paul,Martin,Wottawa,-
 Waltersdorf,4.3.,Ludmilla,Martin,Jeczek# (Incola)
 -,15.3.,An#,Georg,Patzl,-
 Jablona,1.4.,Catharina,Johann,Pan,- (Witwe,Incola)
 Tschenkowitz,1.4.,Eva,Johann,Hamaczek,- (Witwe,Incola)
 Waltersdorf,2.4.,Anna,Jacob,Kyllar,-
-Weypersdorf,2.4.,Martha#,Matthäus,Matiegka#,- (Ehefrau,Bauer)
-Schöndörfl,3.4.,Anna,Georg,Pechaczek,- (Incola)
+Weypersdorf,2.4.,Martha#,MatthÃ¤us,Matiegka#,- (Ehefrau,Bauer)
+SchÃ¶ndÃ¶rfl,3.4.,Anna,Georg,Pechaczek,- (Incola)
 Weypersdorf,5.4.,Maria,Mathias,Smeybal#,-
 Weypersdorf,6.4.,Paul,-,Tauschek,-
 Jamnay,8.4.,Dorothea,Johann,Stepan,-
@@ -451,9 +451,9 @@ DP 13
 
 Tschenkowitz,5.5.,-,Johann,Gabler,- (Incola)(Ein Kind)
 Tschenkowitz,5.5.,-,Johann,Kobliczek,- (Incola)(Ein Kind)
-Tschenkowitz,6.5.,Maria,Johann,Krögler,- (Incola)
+Tschenkowitz,6.5.,Maria,Johann,KrÃ¶gler,- (Incola)
 Hermanitz,9.5.,Dorothea,Georg,Brokesch,- (Incola)
-Schöndörfl,29.4.,-,Martin,Duschek,- (Incola)(Ein Kind)
+SchÃ¶ndÃ¶rfl,29.4.,-,Martin,Duschek,- (Incola)(Ein Kind)
 Jablona,10.5.,Georg,Jacob,Schweyda,- (Incola)
 Waltersdorf,11#.5.,Magdalena,Marc#,Seidlmann,- (Ehefrau,Inwohner)(coniunxim == Ehepartner)
 Niederhermanitz,14.5.,Magdalena,Wenceslaus,Kosaczek#,80 (Witwe,Inwohner)
@@ -462,39 +462,39 @@ Weypersdorf,21.5.,Johann,-,Rzehak,83 (Incola)
 Weypersdorf,31.5.,Catharina,Georg,Kubelka,2d (Inwohner)
 Tschenkowitz,13.6.,Georg,Caspar,Wagner,7
 Worlitschka,22.6.,Jacob,Jacob,Hauk,6w (Incola)
-Tschenkowitz,23.6.,Susanna,Johann,Schüll,- (#)("aliquot horis")
+Tschenkowitz,23.6.,Susanna,Johann,SchÃ¼ll,- (#)("aliquot horis")
 Weypersdorf,24.6.,Johann,-,Hawlena,84 (Incola)
 Jamnay,1#.7.,Georg,-,Prokopecz,- (Bauer)
 Worlitschka,7.7.,Susanna,Jacob,Czernohorsky,- (Ehefrau)
 Tschenkowitz,6.7.,Franz,Georg,Duchaczek Senior,4w
 Weypersdorf,16.7.,Paul,Martin,Chladek,- (#)(Ein Kind)
 Tschenkowitz,7.7.,Franz,Georg,Duchaczek,4w
-Schöndörfl,22.7.,Christian,Jacob,Ste#,1
+SchÃ¶ndÃ¶rfl,22.7.,Christian,Jacob,Ste#,1
 Tschenkowitz,28.7.,Georg,-,Simon,- (Incola)
 Oberhermanitz,28.7.,Anna,Georg,Matiegka,- (Ehefrau,Incola)
 Tschenkowitz,30.7.,Johann,-,Simon,- (Inwohner)
-Worlitschka,30.7.,Georg,Bartholomäus,Schlesinger,7
-Schöndörfl,8.8.,Anna,Georg,Nehyba,3
-Schöndörfl,10.8.,Wenceslaus,Georg,Nehyba,5
+Worlitschka,30.7.,Georg,BartholomÃ¤us,Schlesinger,7
+SchÃ¶ndÃ¶rfl,8.8.,Anna,Georg,Nehyba,3
+SchÃ¶ndÃ¶rfl,10.8.,Wenceslaus,Georg,Nehyba,5
 Jablona,26#.8.,Rosina,Peter,Kyllar,6w (Incola)
-Jablona,2.9.,Johann,-,Schüll,- (Incola)
+Jablona,2.9.,Johann,-,SchÃ¼ll,- (Incola)
 Weypersdorf,16.9.,Georg,-,Krcziwohlawek,- (Inwohner)
 Tschenkowitz,26.9.,Johann,-,Bok,- (Inwohner)
-Jablona,2.10.,Judith,Hieram#,Kulhanek,5# (#)(Heißt das 5? 5.5?)
-Tschenkowitz,12.10.,Michael,Georg,Nosek,1# (#)(Heißt das 1?)
-Worlitschka,17.10.,Wenceslaus,Johann,Schüll,4 (Incola)
+Jablona,2.10.,Judith,Hieram#,Kulhanek,5# (#)(HeiÃŸt das 5? 5.5?)
+Tschenkowitz,12.10.,Michael,Georg,Nosek,1# (#)(HeiÃŸt das 1?)
+Worlitschka,17.10.,Wenceslaus,Johann,SchÃ¼ll,4 (Incola)
 Worlitschka,18.10.,Elisabeth,Johann,Pecziwal,2 (Incola)
 Jablona,25.10.,Anna,Johann,Kozel Junior,19w (Incola)
 Niederhermanitz,26.10.,Maria,Jacob,Jeczek#,11w (Incola)
 
 DP 14
 
-Worlitschka,9.11.,Rosina,Johann,Schüttke,60 (#)(Sie war Jungfrau)
+Worlitschka,9.11.,Rosina,Johann,SchÃ¼ttke,60 (#)(Sie war Jungfrau)
 Waltersdorf,16.11.,Maria,Martin,Mach,1 (Bauer)
 Jamnay,30.11.,Catharina,Paul,Morawetz,- (Ehefrau,Bauer)
 Worlitschka,4.12.,Dorothea,Adam,Pfertner,85 (#)(Dorothea war Jungfrau)
 Waltersdorf,12.12.,Catharina,Nicolaus,Petr,2 (Inwohner)
-Weypersdorf,12.12.,Augustin,Georg,Rösler,2#w (Gärtner)
+Weypersdorf,12.12.,Augustin,Georg,RÃ¶sler,2#w (GÃ¤rtner)
 Worlitschka,17.12.,-,Mathias,Veith,3d (Inwohner)("Halbe Woche")
 Worlitschka,17.12.,Regina,Martin,Pfertner,38
 Oberhermanitz,20.12.,Anna,Johann,Sedlaczek,6d (Bauer)
@@ -509,28 +509,28 @@ Tschenkowitz,15.1.,Anna,Marc#,Polak,13d (Bauer)
 Weypersdorf,15.1.,Maria,Georg,Chromy,40w (Inwohner)
 Tschenkowitz,22.1.,-,Paul,Heisler,- (Incola)(Ein Kind)
 Jamnay,24.1.,Dorothea,Georg,Trampo#,2w (Inwohner)
-Hermanitz,30.1.,Martin,Johann,Rösler,10# (Müller)
+Hermanitz,30.1.,Martin,Johann,RÃ¶sler,10# (MÃ¼ller)
 Worlitschka,4.2.,Franz,Paul,Langer,8w (Bauer)
 Tschenkowitz,7.2.,Michael,Paul,Heisler,2.5w
-Niederhermanitz,7.2.,Georg,Jacob,Zalmann,6# (Bauer)(Was heißt das zwischen 6 und anno?)
-Schöndörfl,14.2.,Marcus,-,Beichl,60 (Inwohner)
+Niederhermanitz,7.2.,Georg,Jacob,Zalmann,6# (Bauer)(Was heiÃŸt das zwischen 6 und anno?)
+SchÃ¶ndÃ¶rfl,14.2.,Marcus,-,Beichl,60 (Inwohner)
 Worlitschka,17.2.,Tobias,Johann,Nehyba,2w (Inwohner)
-Worlitschka,21.2.,Georg,Christoph,Hauk,9#m (Incola)(Heißt das 3 Viertel Jahre?)
+Worlitschka,21.2.,Georg,Christoph,Hauk,9#m (Incola)(HeiÃŸt das 3 Viertel Jahre?)
 Jamnay,21.2.,Susanna,Adam,Lyr,53 (Ehefrau,Incola)
 Waltersdorf,21.2.,Maria,Jacob,Kos,9w (Bauer)
-Unterhermanitz,26.2.,Georg,Matthäus,Hlucheych#,15 (Bauer)
+Unterhermanitz,26.2.,Georg,MatthÃ¤us,Hlucheych#,15 (Bauer)
 Jamnay,27.2.,Catharina,Adam,Valenta,1 (Inwohner)
 Waltersdorf,2.3.,Dorothea,Johann,Kuczilek,70 (Witwe,Inwohner)
 Waltersdorf,3.3.,Maria,Jacob,Kratky,2.5 (Bauer)
-Waltersdorf,9.3.,Karl#,Martin,Charvat,1# (Häusler)
+Waltersdorf,9.3.,Karl#,Martin,Charvat,1# (HÃ¤usler)
 Weypersdorf,11.3.,Wenceslaus,Johann,Kosak,13 (Bauer)
-Worlitschka,11.3.,Paul,Martin,Schlesinger,1d (Häusler)
+Worlitschka,11.3.,Paul,Martin,Schlesinger,1d (HÃ¤usler)
 Oberhermanitz,11.3.,Georg,-,Machanetz#,56 (Inwohner)
-Worlitschka,15.3.,Adam,-,Krögler,55 (Incola)
+Worlitschka,15.3.,Adam,-,KrÃ¶gler,55 (Incola)
 Waltersdorf,18.3.,Magdalena,Mathias,Jeczek#,50 (Witwe,Inwohner)(Was bedeutet Famina?)
-Tschenkowitz,21.3.,Georg,Martin,Stöhr,1w (Incola)
+Tschenkowitz,21.3.,Georg,Martin,StÃ¶hr,1w (Incola)
 Worlitschka,23.3.,Susanna,Martin,Scholtz,60# (Witwe,Incola)(Was bedeutet das Wort nach "anno 60"?)
-Oberhermanitz,25.3.,Martin,Johann,Kubin,2d (Häusler)
+Oberhermanitz,25.3.,Martin,Johann,Kubin,2d (HÃ¤usler)
 
 DP 15
 
@@ -538,32 +538,32 @@ Tschenkowitz,25.3.,Maria,Nicolaus,Pitsch,32 (Ehefrau,Richter)
 Worlitschka,30.3.,Michael,Johann,Weinlich,9 (Incola)
 Niederhermanitz,5.4.,Franz,Johann,Koczaczek,4 (Incola)
 Weypersdorf,6.4.,Johann,Johann,Lyr,1# (Incola)
-Jamnay,14.4.,Dorothea,Georg,Horaczek,39#w (Gärtner)(Sind das Wochen? Da Kind, Wochen oder Tage)
+Jamnay,14.4.,Dorothea,Georg,Horaczek,39#w (GÃ¤rtner)(Sind das Wochen? Da Kind, Wochen oder Tage)
 Jablona,16.4.,Potentiana#,Peter,Wentzl,28# (Inwohner)
 Waltersdorf,17.4.,Georg,-,Pats#,80 (Inwohner)
-Oberhermanitz,21.4.,Georg,Johann,Darczilek,1d (Müller)
+Oberhermanitz,21.4.,Georg,Johann,Darczilek,1d (MÃ¼ller)
 Worlitschka,23.4.,Rosina,Johann,Heisler,8d (Incola)
-Worlitschka,25.4.,Wenceslaus,Paul,Schlesinger,39#w (Incola)(Da Kind, heißt das wohl Wochen)
+Worlitschka,25.4.,Wenceslaus,Paul,Schlesinger,39#w (Incola)(Da Kind, heiÃŸt das wohl Wochen)
 Worlitschka,27.4.,Johann und Sybilla,Christoph,Weinlich,19d (Incola)
-Schöndörfl,27.4.,Maria,Georg,Feltzmann,4 (Incola)
-Schöndörfl,30.4.,Susanna,Michael,Hauenschild,3 (Incola)
-Schöndörfl,6.5.,-,Johann,Nosek,5 (Incola)
+SchÃ¶ndÃ¶rfl,27.4.,Maria,Georg,Feltzmann,4 (Incola)
+SchÃ¶ndÃ¶rfl,30.4.,Susanna,Michael,Hauenschild,3 (Incola)
+SchÃ¶ndÃ¶rfl,6.5.,-,Johann,Nosek,5 (Incola)
 Jamnay,6.5.,Maria,Wenceslaus,Kwasnicka#,60 (Ehefrau,Inwohner)
 Tschenkowitz,11.5.,Franz,Nicolaus,Osmann,14d
 Weypersdorf,5.5.,Eva,Georg,Chromy,- (Incola)(Ein Kind)
 Tschenkowitz,14.5.,Anna,Michael,Langhammer,60 (Ehefrau,Bauer)
-Schöndörfl,15.5.,Johann,Georg,Heisler,8#d (Incola)(Heißt das "diem"?)
+SchÃ¶ndÃ¶rfl,15.5.,Johann,Georg,Heisler,8#d (Incola)(HeiÃŸt das "diem"?)
 Tschenkowitz,12.6.,Jacob,-,Osmann,77 (Inwohner)
 Worlitschka,16.6.,Susanna,Paul,Scholtz,5w (Incola)
-Jamnay,15.6.,Matthäus,Georg,Czernohaus,3d (Bauer)
+Jamnay,15.6.,MatthÃ¤us,Georg,Czernohaus,3d (Bauer)
 Jamnay,16.6.,Johann,-,Kwasnicka#,33 (Incola)
 Waltersdorf,19.6.,Johann,Georg,Trampota,1# (Inwohner)
 Weypersdorf,19.6.,Catharina,Georg,Jarolym,15 (Inwohner)
-Niederhermanitz,26.6.,Rosina,Johann,Kaupka,1# (Incola)(Was heißt das? Ein halber Tag?)
-Worlitschka,8.7.,Rosina,Georg,Schüttke,6#m (Bauer)("anno medio" == Halbes Jahr?)
+Niederhermanitz,26.6.,Rosina,Johann,Kaupka,1# (Incola)(Was heiÃŸt das? Ein halber Tag?)
+Worlitschka,8.7.,Rosina,Georg,SchÃ¼ttke,6#m (Bauer)("anno medio" == Halbes Jahr?)
 Tschenkowitz,16.7.,Wenceslaus,Peter,Hawel,3 (Incola)
 Oberhermanitz,20.7.,Franz,Nicolaus,Beran,5w2d (Richter)
-Weypersdorf,20.7.,Martin,Tobias,Rösler,1d
+Weypersdorf,20.7.,Martin,Tobias,RÃ¶sler,1d
 Tschenkowitz,16.8.,Rosina,Caspar,Nentvich,4w (Incola)
 Jamnay,29.8.,Eva,Johann,Heylek,65 (Ehefrau,Incola)(Was bedeutet "Famina"?)
 Jamnay,6.9.,Dorothea,Johann,Doleczek,1 (Bauer)
@@ -575,46 +575,46 @@ Tschenkowitz,1.10.,Dorothea,Wenceslaus,Simon,70 (Witwe)
 
 DP 16
 
-Worlitschka,3.10.,Regina,Christoph,Schüll,24 (Ehefrau,Incola)
+Worlitschka,3.10.,Regina,Christoph,SchÃ¼ll,24 (Ehefrau,Incola)
 Jablona,4.10.,Johann,Paul,Sheybal,25w
 Worlitschka,13.10.,Anna,Nicolaus,Heisler,4.5
 Tschenkowitz,14.10.,Anna,Jacob,Jansa,1.5 (Incola)
 Waltersdorf,19.10.,-,Jacob,Nehyba,0 (Ein Kind)
-Schöndörfl,23.10.,Johann,Christoph,Nentvich,1 (Incola)
+SchÃ¶ndÃ¶rfl,23.10.,Johann,Christoph,Nentvich,1 (Incola)
 Tschenkowitz,27.10.,Susanna,Georg,Langhammer,3 (Incola)
-Schöndörfl,26.10.,Wenceslaus,Johann,Feltzmann,1 (Incola)
+SchÃ¶ndÃ¶rfl,26.10.,Wenceslaus,Johann,Feltzmann,1 (Incola)
 Jablona,28.10.,Balthasar,Jacob,Stiastny,2.5 (Incola)
 Tschenkowitz,28.10.,Paul,Georg,Polak,2.5 (Incola)
 Tschenkowitz,28.10.,Anna Elisabeth,Franz,Peter,2.5 (Lehrer)
 Tschenkowitz,3.11.,Judith,Georg,Langhammer,4 (Incola)
 Jablona,10.11.,Franz,Augustin,Adolf,5 (Incola)
-Waltersdorf,11.11.,Magdalena,Matthäus,Jansa,4.5 (Bauer)
-Waltersdorf,13.11.,Matthäus,-,Jansa,40 (Bauer)
+Waltersdorf,11.11.,Magdalena,MatthÃ¤us,Jansa,4.5 (Bauer)
+Waltersdorf,13.11.,MatthÃ¤us,-,Jansa,40 (Bauer)
 Waltersdorf,16.11.,Paul,Georg,Nehyba,30d (Bauer)
 Tschenkowitz,21.11.,Wenceslaus,Johann,Zaubele,1 (Incola)
 Niederhermanitz,22.11.,Catharina,Paul,Czapl,13 (Inwohner)
 Jablona,20.11.,Karl Ignatz,Augustin,Adolph,5w1d (Incola)
-Worlitschka,22.11.,Maria,Michael,Krögler,40 (Witwe)
+Worlitschka,22.11.,Maria,Michael,KrÃ¶gler,40 (Witwe)
 Waltersdorf,24.11.,Georg,-,Chromy,90 (Inwohner)
 Hermanitz,30.11.,Martin,Johann,Czanzal#,1 (Incola)
 Waltersdorf,2.12.,Paul,Paul,Waschiczek,3.5 (Bauer)
-Jablona,2.12.,Georg,Matthäus,Skaliczky,8 (Inwohner)
+Jablona,2.12.,Georg,MatthÃ¤us,Skaliczky,8 (Inwohner)
 Jamnay,3.12.,Martin,Johann,Filip,5.5
 Jablona,4.12.,Johann,Paul,Stiastny,21 (Incola)
 Oberhermanitz,6.12.,Wenceslaus,Michael,Resnik#,1w6d (#)("2 hebd. sine die" -> "weniger 1 Tag"?)
 Oberhermanitz,6.12.,-,Johann,#auzal,- (Incola)(Ein Kind)
 Tchenkowitz,8.12.,Johann,Georg,Polak,5 (Incola)
 Waltersdorf,8.12.,Georg,Johann,Burian,2 (Incola)
-Waltersdorf,10.12.,Johann,Jacob,Kaschka,2w (Gärtner)
+Waltersdorf,10.12.,Johann,Jacob,Kaschka,2w (GÃ¤rtner)
 Weypersdorf,11.12.,Catharina,Johann,Marku,50 (Ehefrau,Bauer)
 Tschenkowitz,12.12.,Judith,Michael,Kobliczek,1y6w (Incola)
-Worlitschka,15.12.,-,Matthäus,Schüll,7w
+Worlitschka,15.12.,-,MatthÃ¤us,SchÃ¼ll,7w
 Jablona,16.12.,Mathias,-,Betlach,55 (Incola)
 Jamnay,17.12.,Augustin,Martin,Czernohaus,5d (Incola)
 Waltersdorf,19.12.,Wenceslaus,-,Jeczek#,- (Inwohner)
 Oberhermanitz,20.12.,Catharina,Johann,Lyr,9m (Faber)
 Tschenkowitz,23.12.,Georg,-,Kauff,80# (Inwohner)
-Weypersdorf,24.12.,Rosina,Matthäus,Janku,8w (Bauer)
+Weypersdorf,24.12.,Rosina,MatthÃ¤us,Janku,8w (Bauer)
 Waltersdorf,28.12.,Catharina,Georg,Kubin,4 (Incola)
 
 1687
@@ -643,10 +643,10 @@ Worlitschka,14.2.,Maria,Johann,Wagner,65 (Witwe,Incola)
 Jablona,15.2.,Wenceslaus,Paul,Sedlarz,6m (Incola)("medio anno" == Halbes Jahr?)
 Waltersdorf,15.2.,Catharina,Johann,W#czak,-
 Weypersdorf,15.2.,Paul,-,Pau#ek,50 (Incola)
-Weypersdorf,18.2.,Catharina,Johann,Hamaczek,106 (Ehefrau,Incola)(Was heißt "Famina"?)
+Weypersdorf,18.2.,Catharina,Johann,Hamaczek,106 (Ehefrau,Incola)(Was heiÃŸt "Famina"?)
 Oberhermanitz,20.2.,Georg,-,Matiegka,65 (Incola)
 Weypersdorf,24.2.,Anna,Mathias,Skaliczky,8 (Bauer)
-Schöndörfl,4.3.,Martin,Mathias,Chalaupka,5w5d (Incola)(Chalaupka heißt auf deutsch "Häusler", möglicherweise identisch mit "Heisler"?)
+SchÃ¶ndÃ¶rfl,4.3.,Martin,Mathias,Chalaupka,5w5d (Incola)(Chalaupka heiÃŸt auf deutsch "HÃ¤usler", mÃ¶glicherweise identisch mit "Heisler"?)
 Hermanitz,9.3.,Anna,Martin,Potsch,- (Witwe)("Vulgo Wurtzl")
 Oberhermanitz,9.3.,Magdalena,Georg,Hnatek,9d (Incola)
 Weypersdorf,12.3.,Georg,Martin,Wahslu#,4 (Incola)
@@ -657,32 +657,32 @@ Weypersdorf,19.3.,Wenceslaus#,Jacob,Marek#,25 (Bauer)
 Oberhermanitz,18.3.,Eva,Georg,Hnatek,16d (Incola)
 Jamnay,20.3.,Dorothea,Martin,Hawlu#,27 (Ehefrau,Inwohner)
 Jamnay,22.3.,Maria,Paul,Doleczal,50 (Ehefrau,Inwohner)
-Worlitschka,24.3.,Christian,Johann,Schüll,27w (Incola)
+Worlitschka,24.3.,Christian,Johann,SchÃ¼ll,27w (Incola)
 Weypersdorf,29#.3.,Mattias#,-,Matiegka,40 (Bauer)
 Jablona,2.4.,Catharina,Georg,Mladosch#,85 (Witwe,Soldat)
 Waltersdorf,10.4.,Jacob,-,Kyllar,52 (Bauer)
 
 DP 18
 
-Tschenkowitz,10.4.,Anna,Bartholomäus,Weinlich,44 (Witwe,Bauer)
+Tschenkowitz,10.4.,Anna,BartholomÃ¤us,Weinlich,44 (Witwe,Bauer)
 Worlitschka,12.4.,Franz,Michael,Pfertner,3w (Incola)
 Jablona,29.4.,Johann,Mathias,Wottawa,6m (Incola)("anno medio" == Halbes Jahr?)
 Weypersdorf,7.5.,Paul,-,Skaliczky,45 (Bauer)
-Schöndörfl,10.5.,Christoph,Christoph,Heisler,1 (Incola)
+SchÃ¶ndÃ¶rfl,10.5.,Christoph,Christoph,Heisler,1 (Incola)
 Oberhermanitz,11.5.,Catharina,Paul,Barton,6m (Incola)
 Oberhermanitz,19.5.,Johann,Johann,Spevaczek#,1 (Inwohner)
-Schöndörfl,23.5.,-,Georg,Schüttke,0 (Incola)
-Schöndörfl,25.5.,Johann,Georg,Schitbe#,2d (Incola)
+SchÃ¶ndÃ¶rfl,23.5.,-,Georg,SchÃ¼ttke,0 (Incola)
+SchÃ¶ndÃ¶rfl,25.5.,Johann,Georg,Schitbe#,2d (Incola)
 Worlitschka,30.5.,Christoph,Christoph,Langer,6d (Incola)
 Worlitschka,3.6.,Rosina,Dominik,Schlesinger,50 (Witwe,Incola)
 Tschenkowitz,4.6.,Georg,-,Kobliczek,45 (Incola)
-Worlitschka,9.6.,-,Dominik,Schüttke,0 (Incola)
+Worlitschka,9.6.,-,Dominik,SchÃ¼ttke,0 (Incola)
 Oberhermanitz,9.6.,Paul,-,Zalmann,58 (Bauer)
 Waltersdorf,10.6.,Georg,-,Kubin,- (Inwohner)
-Worlitschka,10.6.,Rosina,Dominik,Schüttke,29 (Ehefrau,Inwohner)
-Waltersdorf,17.6.,Ludwig,Christoph,Schüll,25w (Müller)
+Worlitschka,10.6.,Rosina,Dominik,SchÃ¼ttke,29 (Ehefrau,Inwohner)
+Waltersdorf,17.6.,Ludwig,Christoph,SchÃ¼ll,25w (MÃ¼ller)
 Tschenkowitz,17.6.,Maria,Michael,Bok,18w (Incola)
-Weypersdorf,19.6.,Paul,-,Rösler,40 (Müller)
+Weypersdorf,19.6.,Paul,-,RÃ¶sler,40 (MÃ¼ller)
 Jamnay,22.6.,Wenceslaus,Wenceslaus,Filip,2#w (Inwohner)
 Weypersdorf,22.6.,Anna,Paul,Tauschek,45 (Ehefrau,Bauer)
 Tschenkowitz,6.7.,Anna,Christoph,Langer,29# (Ehefrau,Inwohner)
@@ -694,7 +694,7 @@ Tschenkowitz,12.8.,Sabina,Christoph,Heisler,21 (Incola)(Sabina war Jungfrau)
 Waltersdorf,17.8.,Anna,Wenceslaus,Roczen,- (Incola)
 Oberhermanitz,18.8.,Magdalena,Georg,Hawel#,40 (Witwe,Incola)
 Weypersdorf,22.8.,Martin,-,Marku,65 (Incola)
-Weypersdorf,22.8.,Maria,Adam,Lyr,47 (Ehefrau,Gärtner)
+Weypersdorf,22.8.,Maria,Adam,Lyr,47 (Ehefrau,GÃ¤rtner)
 Waltersdorf,24.8.,Martin,Johann,Je#ku,7# (Incola)
 Worlitschka,27.8.,Judith,Christoph,Weinlich,3 (Incola)
 Oberhermanitz,29.8.,Anna,Johann,Spevaczek#,1.5 (Inwohner)
@@ -711,30 +711,30 @@ Waltersdorf,9.9.,Magdalena,Johann,Jeczek#,50 (Ehefrau,Incola)
 Worlitschka,16.9.,Regina,Johann,Schimpl#,1.5 (Inwohner)
 Jamnay,19.9.,Maria,Johann,Steyskal,4 (Bauer)
 Worlitschka,20.9.,Rosina,Dominik,Schlesinger,- (Incola)(Rosina war Jungfrau)
-Worlitschka,21.9.,Susanna,Johann,Krögler,4 (Incola)
+Worlitschka,21.9.,Susanna,Johann,KrÃ¶gler,4 (Incola)
 Worlitschka,23.9.,Susanna,Tobias,Nehyba,4 (Incola)
 Jamnay,25.9.,Dorothea,Jacob,Kyllar,1w (Inwohner)
-Worlitschka,29.9.,Maria,Johann,Krögler,6 (Incola)
+Worlitschka,29.9.,Maria,Johann,KrÃ¶gler,6 (Incola)
 Worlitschka,6.10.,Wenceslaus,Georg,Heisler,3w (Incola)
 Worlitschka,9.10.,Maria,Johann,Heisler,2# (Incola)("2 anno e hebd #")
 Worlitschka,14.10.,Martin,-,Neugebauer,100 (Incola)
 Worlitschka,15.10.,Ferdinand,Andreas,Pohl,6 (Incola)
 Worlitschka,16.10.,Rosina,Andreas,Gabler,4 (Incola)
-Tschenkowitz,16.10.,Catharina,Johann,Schüll,55 (Ehefrau,Incola)
-Worlitschka,18.10.,Judith,Christoph,Schüll,1 (Incola)
+Tschenkowitz,16.10.,Catharina,Johann,SchÃ¼ll,55 (Ehefrau,Incola)
+Worlitschka,18.10.,Judith,Christoph,SchÃ¼ll,1 (Incola)
 Niederhermanitz,18.10.,Wenceslaus,-,Doleczal,45 (Incola)
 Weypersdorf,19.10.,Paul,Georg,Koczak,6#m (Inwohner)("anno medio e #")
 Worlitschka,19.10.,Georg,-,Langer,43# (Incola)
 Worlitschka,19.10.,Sabina,Johann,Gabler,1d (Incola)
 Worlitschka,20.10.,Catharina,Georg,Koller,50 (Witwe,Incola)
 Jamnay,28.10.,Eva,Johann,Morawetz#,13 (Bauer)
-Weypersdorf,13.11.,Johann,Matthäus,Mastik,3d (Bauer)
+Weypersdorf,13.11.,Johann,MatthÃ¤us,Mastik,3d (Bauer)
 Weypersdorf,15.11.,Adam,Mathias,Mastik,5d (Bauer)
 Oberhermanitz,14.11.,Regina,Nicolaus,Beran,25#d
 Oberhermanitz,25.11.,Dorothea,Wenceslaus,Zelynka#,3d
-Weypersdorf,28.11.,Georg und Maria,Tobias,Rösler,2d
+Weypersdorf,28.11.,Georg und Maria,Tobias,RÃ¶sler,2d
 Jamnay,29.11.,Wenceslaus,Jacob,Kyllar,12w
-Waltersdorf,4.12.,Matthäus,Georg,Chudecz#,15w (Incola)
+Waltersdorf,4.12.,MatthÃ¤us,Georg,Chudecz#,15w (Incola)
 Oberhermanitz,13.12.,Paul,Georg,Hawlu#,6m (Incola)
 Jamnay,20.12.,Adam,-,Giru,80 (Incola)
 Jablona,20.12.,Thomas,Jacob,Kobliczek,# (Incola)(1 Jahr? 1 Woche? Vor dem Eintrag steht ein leerer Eintrag - derselbe?)
@@ -765,8 +765,8 @@ Waltersdorf,3.2.,Marcus,-,Seidlmann,80 (Inwohner)
 Oberhermanitz,3.2.,Eva,Mathias,Heyl,40 (Ehefrau,Incola)
 Oberhermanitz,8.2.,Anna,Tobias,Zelynka,6m (Incola)("1 anno medio" == Halbes Jahr?)
 Waltersdorf,15.2.,Catharina,Jacob,Jeczek,34 (Ehefrau,Bauer)
-Worlitschka,15.2.,Georg,-,Schüll,70 (Incola)
-Waltersdorf,16.2.,Susanna,Johann,Matiegka#,50 (Ehefrau,Bauer)(Heißt das "Uxor"?)
+Worlitschka,15.2.,Georg,-,SchÃ¼ll,70 (Incola)
+Waltersdorf,16.2.,Susanna,Johann,Matiegka#,50 (Ehefrau,Bauer)(HeiÃŸt das "Uxor"?)
 Waltersdorf,16.2.,Jacob,Johann,Kubin,22 (Incola)
 Weypersdorf,17.2.,Judith,Johann,Buczek,8 (Bauer)
 Tschenkowitz,23.2.,Johann,-,Feltzmann,45 (Incola)
@@ -780,18 +780,18 @@ Niederhermanitz,26.2.,Dorothea,Wenceslaus,Doleczal,5w (Incola)
 Oberhermanitz,2.3.,Wenceslaus,-,Zelynka,30 (Incola)
 Tschenkowitz,5.3.,Wenceslaus,Paul,Bin#,5d (Incola)
 Waltersdorf,5.3.,Johann,-,Kubin,65 (Incola)
-Oberhermanitz,8.3.,Wenceslaus,Georg,Kubin,4 (Gärtner)
+Oberhermanitz,8.3.,Wenceslaus,Georg,Kubin,4 (GÃ¤rtner)
 Tschenkowitz,10.3.,Maria#,Paul,Kobliczek,1 (Incola)
 Oberhermanitz,15.3.,Paul,Wenceslaus,Kubesch,6 (Incola)
 Jamnay,18.3.,Peter,Johann,Michalek,11d (Incola)
 
 DP 21
 
-Waltersdorf,26.3.,-,Christoph,Schüll,0 (Müller)
-Waltersdorf,26.3.,Jacob,Matthäus,Kuczilek,2 (Incola)
+Waltersdorf,26.3.,-,Christoph,SchÃ¼ll,0 (MÃ¼ller)
+Waltersdorf,26.3.,Jacob,MatthÃ¤us,Kuczilek,2 (Incola)
 Weypersdorf,27.3.,Catharina,Jacob,Wottawa,55 (Ehefrau,Inwohner)
-Schöndörfl,30.3.,Jacob,-,Sm#ek,45# (Incola)
-Schöndörfl,4.4.,Susanna,Paul,Hudecz,42 (Ehefrau,Incola)
+SchÃ¶ndÃ¶rfl,30.3.,Jacob,-,Sm#ek,45# (Incola)
+SchÃ¶ndÃ¶rfl,4.4.,Susanna,Paul,Hudecz,42 (Ehefrau,Incola)
 Tschenkowitz,12.4.,Michael,-,Weinlich,80 (Incola)
 Oberhermanitz,14.4.,Anna,Johann,Mach,50 (Witwe,Bauer)
 Hermanitz,14.4.,Johann,-,Rzehak,45 (Incola)
@@ -819,40 +819,40 @@ Weypersdorf,16.8.,Martin,-,Wottawa,55 (Incola)
 
 DP 22
 
-Weypersdorf,19.8.,Magdalena,Martin,Skaliczky,55# (Ehefrau,Bauer)(Heißt das 55? Könnte auch 53 oder generell >50 heißen)
-Worlitschka,31.8.,-,Dominik,Schüttke,0
+Weypersdorf,19.8.,Magdalena,Martin,Skaliczky,55# (Ehefrau,Bauer)(HeiÃŸt das 55? KÃ¶nnte auch 53 oder generell >50 heiÃŸen)
+Worlitschka,31.8.,-,Dominik,SchÃ¼ttke,0
 Waltersdorf,4.9.,Jacob und #,Georg,Mach,0 (#)(Sohn und Tochter)
-Waltersdorf,5.9.,Anna,Georg,Mach,1 (#)(Möglicherweise die Tochter aus dem letzten Eintrag?)
+Waltersdorf,5.9.,Anna,Georg,Mach,1 (#)(MÃ¶glicherweise die Tochter aus dem letzten Eintrag?)
 Weypersdorf,18.9.,Maria,Johann,Chladek,2# (Incola)
 Letowitz#,23.9.,#,Adam,Thomas,- (#)(Namen richtig zugeordnet?)
 Weypersdorf,23.9.,Anna,Johann,Morawetz,65 (#)(Tochter)
 Weypersdorf,23.9.,Paul,David,Hawelka,2w (Incola)
 Tschenkowitz,26.9.,Dorothea,Georg,Simon,40 (Witwe)
-Schöndörfl,27.9.,Eva,Johann,Weinlich,16
-Jablona,4.10.,Catharina,Tobias,Zaubele,9# (Incola)(Heißt das 9?)
+SchÃ¶ndÃ¶rfl,27.9.,Eva,Johann,Weinlich,16
+Jablona,4.10.,Catharina,Tobias,Zaubele,9# (Incola)(HeiÃŸt das 9?)
 Linsdorf,4.10.,-,-,-,- (Keine Daten zur verstorbenen Person werden genannt)
 Oberhermanitz,6.9.,Martin,Nicolaus,Hansliczek,18d
 Waltersdorf,9.9.,Marina#,Johann,Girasek,- (Witwe)
-Jablona,12.9.,Dominik,-,Schüll,- (Incola)
+Jablona,12.9.,Dominik,-,SchÃ¼ll,- (Incola)
 Jamnay,15.9.,-,Johann,Doleczal,2
-Tschenkowitz,15#.9.,Johann,-,Schüll,- (#)("Vulgo Hama#")
-Oberhermanitz,22.9.,Catharina,Johann,Rösler,1d (Incola)
-Schöndörfl,3.11.,Wenceslaus,Bartholomäus,Nehyba,4d (Incola)
+Tschenkowitz,15#.9.,Johann,-,SchÃ¼ll,- (#)("Vulgo Hama#")
+Oberhermanitz,22.9.,Catharina,Johann,RÃ¶sler,1d (Incola)
+SchÃ¶ndÃ¶rfl,3.11.,Wenceslaus,BartholomÃ¤us,Nehyba,4d (Incola)
 Jamnay,5.11.,Catharina,Jacob,Giruntz,5#w (Incola)("5 hebd. sine diem" -> 5 Wochen weniger ein Tag?)
 Tschenkowitz,9.11.,-,Caspar,Nentvich,0
 Weypersdorf,21.11.,Rosina,Martin,Sedlaczek,50 (Witwe)
 Worlitschka,1.12.,Wenceslaus,Wenceslaus,Schlesinger,6w3d
 Tschenkowitz,30.11.,-,Michael,Osmann,0
-Oberhermanitz,5.12.,Dorothea,Martin,Jansky#,50 (Ehefrau,Incola)(Heißt das Jansky?)
-Jablona,16.12.,Matthäus,-,Skaliczky,75 (Incola)
+Oberhermanitz,5.12.,Dorothea,Martin,Jansky#,50 (Ehefrau,Incola)(HeiÃŸt das Jansky?)
+Jablona,16.12.,MatthÃ¤us,-,Skaliczky,75 (Incola)
 Tschenkowitz,19.12.,Maria Magdalena,Tobias,Thomas,25 (Incola)(Tochter)
 Jamnay,24.12.,Maria,Georg,Horaczek,28 (Ehefrau,Incola)
 
 1689
 
-Weypersdorf,2.1.,Mathias,David,Rösler,9#m (Incola)(Heißt das "3 Viertel Jahre?")
+Weypersdorf,2.1.,Mathias,David,RÃ¶sler,9#m (Incola)(HeiÃŸt das "3 Viertel Jahre?")
 Niederhermanitz,6.1.,Martin,-,Mrazek,38# (Incola)
-Tschenkowitz,10.1.,Georg,Johann,Feltzmann,9m (Incola)(Heißt das "3 Viertel Jahre?")
+Tschenkowitz,10.1.,Georg,Johann,Feltzmann,9m (Incola)(HeiÃŸt das "3 Viertel Jahre?")
 Worlitschka,11.1.,Georg,-,Feltzmann,62
 
 DP 23
@@ -861,18 +861,18 @@ Oberhermanitz,10.1.,Paul,Paul,Zalmann,15
 Niederhermanitz,18.1.,Augustin,Jacob,Horaczek,10d (Incola)
 Weypersdorf,18.1.,Maria,Paul,Chladek,15w (Incola)
 Weypersdorf,18.1.,Paul,-,Chladek,32 (Inwohner)
-Tschenkowitz,27.1.,Michael,-,Bün,90 (Incola)
-Schöndörfl,28.1.,Johann,Michael,Feltzmann,0
+Tschenkowitz,27.1.,Michael,-,BÃ¼n,90 (Incola)
+SchÃ¶ndÃ¶rfl,28.1.,Johann,Michael,Feltzmann,0
 Weypersdorf,29.1.,Catharina,Martin,Ondra,- (Incola)(Ein Kind)
-Oberhermanitz,2#.2.,Dorothea,Matthäus,Sedlaczek,65 (Witwe)
+Oberhermanitz,2#.2.,Dorothea,MatthÃ¤us,Sedlaczek,65 (Witwe)
 Niederhermanitz,6.2.,Jacob,-,Zalmann,40 (Incola)
 Weypersdorf,8.2.,Johann,Georg,Ondra,3 (Incola)
-Schöndörfl,13.2.,Eva,Georg,Heisler,70 (Ehefrau,Incola)
+SchÃ¶ndÃ¶rfl,13.2.,Eva,Georg,Heisler,70 (Ehefrau,Incola)
 Waltersdorf,17.2.,Wenceslaus,Wenceslaus,Kuczera,21w (Incola)
 Weypersdorf,19.2.,Magdalena,Paul,Marku,2w (Incola)
 Weypersdorf,24.2.,Susanna,Johann,Kubelka#,97 (Witwe,Incola)
 Waltersdorf,2.3.,Anna,Georg,Kratky,65 (Ehefrau,Incola)
-Worlitschka,6.3.,Franz#,Johann,Schüll,22w
+Worlitschka,6.3.,Franz#,Johann,SchÃ¼ll,22w
 Tschenkowitz,8.3.,Anna,Johann,Hamaczek,30 (Ehefrau)
 Weypersdorf,11#.3.,Georg,Paul,Ptaczek,8#d
 Jablona,12.3.,Johann,-,Adolf,69 (Lehrer)
@@ -889,7 +889,7 @@ Weypersdorf,10.4.,Martin,-,Rzehak,40 (Incola)
 Weypersdorf,10.4.,Wenceslaus,Georg,Brokesch,80 (Incola)
 Weypersdorf,21.4.,Paul,Georg,Kubelka,7w (Incola)
 Lubnik#,22.4.,Maria,Mathias,Koczel#,9#
-Worlitschka,26.4.,Wenceslaus,Michael,Schüll,2.5
+Worlitschka,26.4.,Wenceslaus,Michael,SchÃ¼ll,2.5
 Oberhermanitz,1.5.,Martin,Johann,Martinek,3 (Incola)
 
 DP 24
@@ -905,31 +905,31 @@ Tschenkowitz,28.5.,Ludmilla,Martin,Rosprawka#,64 (Witwe)
 Tschenkowitz,29.5.,Magdalena,Georg,Hudecz,16w (Incola)
 Jamnay,30.5.,Georg,Johann,Wottawa,25w (Incola)
 Waltersdorf,31.5.,Catharina,#,#,14w (#)(Catharina ist Tochter von Anna Hor#) U: Kind von Anna Hor#
-Worlitschka,31.5.,Rosina,Tobias,Wagner,33 (Ehefrau,Müller)
+Worlitschka,31.5.,Rosina,Tobias,Wagner,33 (Ehefrau,MÃ¼ller)
 Tschenkowitz,31.5.,Eva,Georg,Duchaczek,1y20w (Incola)
 Waltersdorf,3.6.,Juliana,Wenceslaus,Jeczek,55 (#)(Tochter)
-Schöndörfl,3.6.,Catharina,Jacob,Duchaczek,9m
+SchÃ¶ndÃ¶rfl,3.6.,Catharina,Jacob,Duchaczek,9m
 Jablona,5.6.,Elisabeth,Thomas,Kobliczek,1y21w (Incola)
 Jamnay,5.6.,Catharina,Johann,Kubesch#,10w (Incola)(Kubesch oder Hrubesch?)
-Schöndörfl,6.6.,Maria#,Johann,Lyr,2 (Incola)
+SchÃ¶ndÃ¶rfl,6.6.,Maria#,Johann,Lyr,2 (Incola)
 Jablona,6.6.,Maria,Georg,Jansa,75 (Ehefrau,Incola)
 Weypersdorf,7.6.,Susanna,Paul,Marku#,10w (Incola)
-Schöndörfl,10.6.,Wenceslaus,Paul,Steffek#,3w
-Schöndörfl,10.6.,Johann,Johann,Nosek,37w
-Weypersdorf,12.6.,Johann,Matthäus,Ptaczek,4#w (Incola)
+SchÃ¶ndÃ¶rfl,10.6.,Wenceslaus,Paul,Steffek#,3w
+SchÃ¶ndÃ¶rfl,10.6.,Johann,Johann,Nosek,37w
+Weypersdorf,12.6.,Johann,MatthÃ¤us,Ptaczek,4#w (Incola)
 Weypersdorf,15.6,Paul,Lucas,Kubin,39w
 Waltersdorf,15.6.,Johann,-,Kopeczky,82 (Incola)
-Weypersdorf,21.6.,Wenceslaus,Matthäus,Janku,1w (Incola)
-Worlitschka,21.6.,Rosina,Adam,Krögler,5 (Incola)
+Weypersdorf,21.6.,Wenceslaus,MatthÃ¤us,Janku,1w (Incola)
+Worlitschka,21.6.,Rosina,Adam,KrÃ¶gler,5 (Incola)
 Waltersdorf,1.7.,Wenceslaus,-,Waschiczek,50 (Incola)
 Tschenkowitz,4.7.,Catharina,#,Nehyba,54 (Ehefrau,Incola)(Jacob oder Johann?)
-Schöndörfl,5.7.,Matthäus,-,Mauschke#,99 (Incola)
+SchÃ¶ndÃ¶rfl,5.7.,MatthÃ¤us,-,Mauschke#,99 (Incola)
 Tschenkowitz,11.7.,Georg,Jacob,Fi#er,3#m (Incola)
-Waltersdorf,11.7.,Judith,Johann,Dittrich,3#m (Müller)
+Waltersdorf,11.7.,Judith,Johann,Dittrich,3#m (MÃ¼ller)
 Weypersdorf,11.7.,Catharina,Wenceslaus,Morawetz,14 (Incola)
 Jablona,11.7.,Sebastian,Georg,Grus#,23w (Incola)
 Niederhermanitz,14.7.,Christina,Paul,Jamensky#,55 (Witwe)
-Schöndörfl,23.7.,Wenceslaus,Michael,Hauenschild,26w
+SchÃ¶ndÃ¶rfl,23.7.,Wenceslaus,Michael,Hauenschild,26w
 Jablona,27#.7.,Wenceslaus,-,Klesl,27w (Incola)
 Weypersdorf,30.7.,Dorothea,Wenceslaus,Czernohorsky#,17w (Incola)
 
@@ -955,7 +955,7 @@ Oberhermanitz,28.10.,Anton,Mathias,Heyl,19d (Incola)
 Oberhermanitz,11.11.,Magdalena,Johann,Barton,35 (Ehefrau)
 Waltersdorf,14.11.,Catharina,Georg,Mrazek,0 (#)("# Stunden"?)
 Oberhermanitz,14.11.,Ma#,Johann,Spevaczek#,11d (#)(Ein Sohn)
-Schöndörfl,18.11.,Catharina,Marc,Österreicher#,1.5#
+SchÃ¶ndÃ¶rfl,18.11.,Catharina,Marc,Ã–sterreicher#,1.5#
 Niederhermanitz,18.11.,Maria,Martin,Kubelka,13w
 Weypersdorf,30.11.,Georg,-,Marek,75
 Worlitschka,2.12.,Christoph,-,Nehyba,40# (#)(40 oder 90?)
@@ -981,16 +981,16 @@ Weypersdorf,30.12.,Maria,-,Barton,50# (Bettlerin)(Barton war der Nachname ihres 
 
 1690
 
-Weypersdorf,1.1.,Magdalena,Tobias,Rösler,6m
+Weypersdorf,1.1.,Magdalena,Tobias,RÃ¶sler,6m
 Worlitschka,3.1.,Franz,Johann,Koller,16d
 Neudorf,3.1.,Maria,Johann,Nehyba,4# (Incola)
 Tschenkowitz,6.1.,Dorothea,Johann,Fischer,40 (Ehefrau,Incola)
 Waltersdorf,9.1.,Catharina,Georg,Kos,17 (Incola)
 Jamnay,9.1.,Paul,Johann,Bednarz,8w
 Jablona,14.1.,Georg,-,Kupka,63# (Incola)
-Tschenkowitz,14.1.,Magdalena,Matthäus,Zaubele,62 (Incola)
+Tschenkowitz,14.1.,Magdalena,MatthÃ¤us,Zaubele,62 (Incola)
 
-Oberhermanitz,20.1.,Magdalena,Matthäus,Seykora,80 (Ehefrau)
+Oberhermanitz,20.1.,Magdalena,MatthÃ¤us,Seykora,80 (Ehefrau)
 Oberhermanitz,21.1.,Dorothea,Boleslav#,Maresch,13d (Incola)
 Worlitschka,22.1.,Anna Rosina,Johann,Gabler,9m (Incola)
 Tschenkowitz,24.1.,Anna,Johann,Bok,64 (Witwe)
@@ -1006,7 +1006,7 @@ Tschenkowitz,4.2.,Maria,Georg,Blaschke,6w
 Oberhermanitz,9.2.,Georg,Jacob,Maresch,14d
 Worlitschka,9.2.,-,Christoph,Nehyba,- (#)(Ein Kind)
 Waltersdorf,12.2.,Susanna,Peter,Kowarz,60 (Ehefrau)
-Schöndörfl,13.2.,Johann,-,Nehyba,31 (Incola)
+SchÃ¶ndÃ¶rfl,13.2.,Johann,-,Nehyba,31 (Incola)
 Weypersdorf,19#.2.,-,Wenceslaus,Ptaczek,0
 
 DP 27
@@ -1019,11 +1019,11 @@ Worlitschka,23.2.,Johann,-,Nehyba,0
 Weypersdorf,23.2.,Paul,-,Ban#,70
 Niederhermanitz,24.2.,Johann,Georg,Sedlarz,5d (Incola)
 Waltersdorf,25.2.,Susanna,Johann,Kamin#,55 (Ehefrau)("Vulgo Hamaczek")
-Tschenkowitz,27.2.,Eva,Christoph,Schüll,80 (Ehefrau)
+Tschenkowitz,27.2.,Eva,Christoph,SchÃ¼ll,80 (Ehefrau)
 Weypersdorf,27.2.,Maria,Paul,Ptaczek,30 (Ehefrau)
-Schöndörfl,1.3.,Paul,-,Nehyba,29 (Incola)
+SchÃ¶ndÃ¶rfl,1.3.,Paul,-,Nehyba,29 (Incola)
 Tschenkowitz,1.3.,Nicolaus,-,Osmann,40# (Incola)
-Weypersdorf,9#.3.,Judith,Matthäus,Holomek,13w
+Weypersdorf,9#.3.,Judith,MatthÃ¤us,Holomek,13w
 Hermanitz,9.3.,Georg,-,Kubesch,97#
 Jamnay,13.3.,Susanna,Nicolaus,Kwasnicka#,35 (Ehefrau)
 Worlitschka,13.3.,Judith,Johann,Pecziwal,7w
@@ -1043,21 +1043,21 @@ Tschenkowitz,13.4.,Maria,Christoph,Langhammer,3w
 Oberhermanitz,10.4.,Benjamin,-,Zalmann,41 (Bauer)
 Weypersdorf,15.4.,Magdalena,Martin,Skaliczky,72 (Witwe)
 Waltersdorf,15.4.,Wenceslaus,-,Nehyba,83 (Incola)
-Waltersdorf,16.4.,Caspar,Johann,Dittrich,8 (Müller)
+Waltersdorf,16.4.,Caspar,Johann,Dittrich,8 (MÃ¼ller)
 Niederhermanitz,20.4.,Anna,Wenceslaus,Prochaschka,65 (Witwe,Incola)(Wenceslaus war aus Dolni Dobrouc)
 Jamnay,21.4.,Dorothea,MArtin,Kwasnicka#,40 (Ehefrau,Bauer)
 
 DP 28
 
 Jamnay,24.4.,Magdalena,Martin,Kwasnicka#,12d (Incola)
-Lubnik,2.5.,Jacob,-,Doleczek,40# (Müller)
+Lubnik,2.5.,Jacob,-,Doleczek,40# (MÃ¼ller)
 Weypersdorf,8.5.,Anna,Paul,Tauschek,42 (Witwe)
 Weypersdorf,10.5.,Anna,Adam,Kubin,40 (Ehefrau,Incola)
 Weypersdorf,12.5.,Dorothea,Georg,Smeyskal#,50 (Ehefrau,Incola)
 Oberhermanitz,15.5.,Dorothea,Johann,Sedlaczek,29w
 Oberhermanitz,18.5.,Anna,Nicolaus,Janda,50 (Ehefrau,Incola)
-Weypersdorf,20.5.,Judith,Paul,Darczilek,29w (Müller)
-Weypersdorf,22.5.,Anna,Paul,Darczilek#,3.5 (Müller)
+Weypersdorf,20.5.,Judith,Paul,Darczilek,29w (MÃ¼ller)
+Weypersdorf,22.5.,Anna,Paul,Darczilek#,3.5 (MÃ¼ller)
 Jamnay,23.5.,Wenceslaus,-,Kwasnicka#,98 (Bettler)
 Weypersdorf,26.5.,Dorothea,Georg,Skaliczky,39w (Incola)
 Waltersdorf,29.5.,Paul,Jacob,Jansa,2#d (Incola)
@@ -1071,7 +1071,7 @@ Waltersdorf,9.6.,Catharina,Johann,Ptaczek,90 (Witwe)
 Niederhermanitz,8.6.,Helena,Wenceslaus,Jawurek,52 (Witwe)
 Tschenkowitz,9.6.,Wenceslaus,Tobias,Langhammer,5d (Incola)
 Weypersdorf,11.6.,Michael,-,Hamaczek,80 (Incola)
-Worlitschka,14.6.,Christoph,Johann,Schüll,17w
+Worlitschka,14.6.,Christoph,Johann,SchÃ¼ll,17w
 Waltersdorf,16.6.,Johann,-,Jansa,80
 Weypersdorf,19.6.,Adam,-,Lyr,60 (Incola)
 Waltersdorf,22.6.,Dorothea,Georg,W#nek,50 (Ehefrau,Incola)
@@ -1080,7 +1080,7 @@ Weypersdorf,21.7.,Wenceslaus,Georg,Smeykal,1
 Jamnay,23.7.,Paul,-,Valenta,70 (Incola)
 Weypersdorf,15.8.,Georg,-,Rzehak,55 (Incola)
 Oberhermanitz,23#.8.,Catharina,Wenceslaus,Kubin,5
-Jablona,30.8.,Matthäus,-,Zaubele,80
+Jablona,30.8.,MatthÃ¤us,-,Zaubele,80
 Weypersdorf,3.9.,Dorothea,Martin,Skaliczky,32# (Ehefrau,Bauer)
 Oberhermanitz,6.9.,Anna,Wenceslaus,Kubin,13w
 
@@ -1095,20 +1095,20 @@ Tschenkowitz,6.10.,-,Johann,Hawel#,- (Witwe,Incola)
 Oberhermanitz,6.10.,Magdalena,Nicolaus,Durstky#,45 (Ehefrau,Incola)
 Worlitschka,11.10.,Johann,Franz,Langer,3w
 Jablona#,13.10.,Georg,-,-,# (#)(Ein Jugendlicher# - "Juvenis", wenn ich das richtig entziffert habe)
-Jablona,19.10.,Jacob,Matthäus,Skaliczky,20
-Jablona,25.10.,Magdalena,Dominik,Schüll#,50 (Witwe)
+Jablona,19.10.,Jacob,MatthÃ¤us,Skaliczky,20
+Jablona,25.10.,Magdalena,Dominik,SchÃ¼ll#,50 (Witwe)
 Neudorf,26.10.,Sabina,Jacob#,Duchaczek#,3 (hier steht "uxor filia", aber aufgrund der Altersangabe war "filia" richtig - oder es war gemeint "Tochter der Ehefrau von Jacob Duchaczek")
 Oberhermanitz,31.10.,Dorothea,Paul,Schwestka,42 (Ehefrau,Incola)
 Neudorf,5.11.,Marc,Martin,Lyr,6#m (#)("anno medio" == Halbes Jahr?)
-Worlitschka,7.11.,Augustin,Tobias,Wagner,3w (Müller)
+Worlitschka,7.11.,Augustin,Tobias,Wagner,3w (MÃ¼ller)
 Weypersdorf,18.11.,Marianna,David,Skaliczky,26 (Ehefrau,Incola)
-Tschenkowitz,21.11.,Barbara,Martin,Bartion#,65 (Witwe)(Heißt das "Barton"?)
+Tschenkowitz,21.11.,Barbara,Martin,Bartion#,65 (Witwe)(HeiÃŸt das "Barton"?)
 Waltersdorf,23.11.,Dorothea,Johann,Chladek,- (Witwe)
 Oberhermanitz,23.11.,Anton,Nicolaus,Beran,20w (Richter)
 Hermanitz,30.11.,Catharina,Johann,Matiegka,5w
-Weypersdorf,30.11.,Anna,Laurenz,Rösler,65 (Witwe,Müller)
+Weypersdorf,30.11.,Anna,Laurenz,RÃ¶sler,65 (Witwe,MÃ¼ller)
 Worlitschka,1.12.,Judith,Paul,Gabler,14w
-Worlitschka,2.12.,Andreas,-,Krögler,67 (Incola)
+Worlitschka,2.12.,Andreas,-,KrÃ¶gler,67 (Incola)
 Worlitschka,6.12.,Johann,-,Weinlich,74# (Incola)
 Waltersdorf,9#.12.,Franz,Jacob,Lischka,12d
 Neudorf,10.12.,Martin,Johann,Girczabek,6w (Incola)
@@ -1130,7 +1130,7 @@ DP 30
 Jablona,25.1.,Anna,Johann,Kulha#,60# (Witwe,Incola)(Nur die 6 ist von der Altersangabe zu lesen, aber da Familienstand "Witwe" muss es sich um 60-69 handeln)
 Oberhermanitz,25.1.,Martin,-,Kubin,- (Incola)
 Tschenkowitz,26.1.,Veronica,Christoph,Heisler,15d 
-Weypersdorf,28.1.,Matthäus,Tobias,Rösler,2d
+Weypersdorf,28.1.,MatthÃ¤us,Tobias,RÃ¶sler,2d
 Weypersdorf,2.2.,Catharina,Martin,Ptaczek,70 (Witwe)
 Weypersdorf,2.2.,Catharina,Georg,Ond#,59 (Witwe)
 Oberhermanitz,11.2.,Georg,-,Kulhanek,52
@@ -1145,7 +1145,7 @@ Niederhermanitz,15.3.,Wenceslaus,Paul,Ptaczek,5
 Weypersdorf,24.3.,Georg,Martin,Girasek,2#w
 Oberhermanitz,26.3.,Anna,Georg,Mach,4# (Incola)(Jahre? Wochen? Tage? Buchstabe nach "4" sieht wie ein "a" aus)
 Jablona,26.3.,Magdalena,Peter,Kyllar,9m36#d
-Tschenkowitz,6.4.,Johann,Paul,Polaczek,1#y39w (Heißt das "Uno Anno 39 hebd."?)
+Tschenkowitz,6.4.,Johann,Paul,Polaczek,1#y39w (HeiÃŸt das "Uno Anno 39 hebd."?)
 Waltersdorf,8.4.,Barbara,Jacob,Waschiczek,82 (Witwe)
 Waltersdorf,2.4.,Dorothea,Mathias,Jeczek#,6
 Neudorf,11.4.,Johann,Peter,Heisler,3
@@ -1154,9 +1154,9 @@ Waltersdorf,14.4.,Wenceslaus,-,Seidlmann,97# (Incola)
 Waltersdorf,14.4.,Magdalena,-,-,15 (Soldat)
 Jamnay,18.4.,Nicolaus,Johann,Trampota,13w
 Waltersdorf,20.4.,Susanna,Georg,Kubin,1y6#m ("Anno et Medio" == 1.5 Jahre?)
-Worlitschka,20.4.,Wenceslaus,Matthäus,Veith,39w
+Worlitschka,20.4.,Wenceslaus,MatthÃ¤us,Veith,39w
 Tschenkowitz,20.4.,Marina#,Paul,Langhammer,9#y5m20d
-Tschenkowitz,24.4.,Paul,Martin,Stör,23w
+Tschenkowitz,24.4.,Paul,Martin,StÃ¶r,23w
 Jamnay,24.4.,Johann,-,Filip,75# (Incola)(75 oder 95?)
 Neudorf,24.4.,Adam,Martin,Janesch,10m
 Waltersdorf,27.4.,Paul,Johann,Schimek,13#w (#)("13 sept. et die" -> 13 Wochen und Tage ???)
@@ -1172,7 +1172,7 @@ Weypersdorf,15.5.,Marianna,Mathias,Mastik,40 (Ehefrau,Bauer)
 Waltersdorf,16.5.,Catharina,Georg,Klempl#,11
 Jablona,19.5.,Agnes,Jacob,Doleczal,35 (Ehefrau)
 Weypersdorf,21.5.,Anna,Lucas,Kubin,39w
-Weypersdorf,25.5.,Franz,Bartholomäus,Nehyba,0 (#)(Einige Stunden?)
+Weypersdorf,25.5.,Franz,BartholomÃ¤us,Nehyba,0 (#)(Einige Stunden?)
 Michl#dorf,27.5.,Andreas,Johann,-,12w (Faber)
 Weypersdorf,11.6.,Johann,Johann,Hrabacz,7m
 Oberhermanitz,13.6.,Susanna,Tobias,Zelynka,39w
@@ -1182,19 +1182,19 @@ Jamnay,18.6.,Wenceslaus,-,Hudecz,46 (Incola)
 Weypersdorf#,19.6.,Paul,-,Hawelka,40 (Incola)(Nur "Wey" als Ort zu lesen, vermutlich Weypersdorf, "Vulgo Hamaczek")
 Neudorf,22.6.,Michael,Paul,Staffek#,13w2d
 Weypersdorf,28.6.,Johann,David,Skaliczky,12
-Weypersdorf,5#.7#.,Judith,Georg,Rösler,16
-Tschenkowitz#,5.7.,Maria,Johann,Schüll,3d
+Weypersdorf,5#.7#.,Judith,Georg,RÃ¶sler,16
+Tschenkowitz#,5.7.,Maria,Johann,SchÃ¼ll,3d
 Weypersdorf,8.7.,Wenceslaus,Georg,Chromy,6# (Jahre? Wochen? Tage?)
 Worlitschka,18.7.,Rosina,Wenceslaus,Simon,31 (#)(Rosina war Jungfrau)
 Jablona,20.7.,Johann,Gallus,Kulhanek,25 (Incola)
 Oberhermanitz,22.7.,Marina,Georg,Hlauczel#,75 (Witwe)
 Tschenkowitz,3.8.,Michael,Clemens,Kobliczek,2
 Weypersdorf,27.7.,Marina,Johann,Hrabacz,10#
-Jablona,10.8.,Bartholomäus,Georg,Waczek,11d
-Tschenkowitz,12.8.,Michael,Matthäus,Blaschke,2#d
+Jablona,10.8.,BartholomÃ¤us,Georg,Waczek,11d
+Tschenkowitz,12.8.,Michael,MatthÃ¤us,Blaschke,2#d
 #hermanitz,15.8.,Johann,Adam,Rzehak,21w
 Jamnay,26.8.,Dorothea,Jacob,Bek#,60 (Witwe)
-Neudorf,27.8.,Adam,Matthäus,Krczenek,6
+Neudorf,27.8.,Adam,MatthÃ¤us,Krczenek,6
 Jablona,31.8.,Johann,-,Pittmann,- (Incola)
 Oberhermanitz,4.9.,Elisabeth,Georg,Hawlu#,1
 Weypersdorf,9#.9.,Wenceslaus,Johann,Hawlena,24d
@@ -1209,12 +1209,12 @@ DP 32
 Weypersdorf,22.9.,Wenceslaus,Martin,Krczenek,16d
 Waltersdorf,26.9.,Johann,Georg,Beczalek,3
 Weypersdorf,30.9.,Johann,-,Buczek,59 (Incola und Bauer)
-Worlitschka,2.10.,Christoph,Johann,Schüll,6#d
+Worlitschka,2.10.,Christoph,Johann,SchÃ¼ll,6#d
 Waltersdorf,9.10.,Maria,Georg,Krystek,2d
 Jamnay,13.10.,Johann,Georg,Czernohaus,9m
 Weypersdorf,14.10.,-,Johann,Sedlaczek,0
 Neudorf,21.10.,-,Johann,Czisnik#,13w (Incola)
-Worlitschka,14#.10.,Rosina,Johann,Schüll,12d
+Worlitschka,14#.10.,Rosina,Johann,SchÃ¼ll,12d
 Waltersdorf,23.10.,Johann,Peter,Kowarz,2d
 Waltersdorf,27.10.,Anna,Paul,Mach,85 (Ehefrau)
 Weypersdorf,29#.10.,Franz,Paul,Darczilek,22d
@@ -1222,21 +1222,21 @@ Weypersdorf,6.11.,Martin,Johann,Lyr,2d
 Waltersdorf,9.11.,Susanna,Nicolaus,Wanku#,40 (Ehefrau)(Nominativ von Wanku ist Wanek? Oder Wanku?)
 Weypersdorf,9.11.,Maria,Johann,Lyr,40 (Ehefrau,Incola)
 Weypersdorf,11.11.,Rosina,Adam,Lyr,60 (Witwe)
-Neudorf,13.11.,Elisabeth,Wenceslaus,Schüttke,7
+Neudorf,13.11.,Elisabeth,Wenceslaus,SchÃ¼ttke,7
 Neudorf,15.11.,Sabina,Georg,Vogl,59 (Witwe)
 Weypersdorf,22.11.,Catharina,Jacob,Mleinek,8w
-Worlitschka,23.11.,Franz,Matthäus,Schüll,2.5
+Worlitschka,23.11.,Franz,MatthÃ¤us,SchÃ¼ll,2.5
 Waltersdorf,27.11.,Catharina,Wenceslaus,Charvat,60-70 (Ehefrau)
-Worlitschka,30.11.,Paul,Friedrich,Krögler,1# (#)("1 Jahr minus 4 Wochen")
+Worlitschka,30.11.,Paul,Friedrich,KrÃ¶gler,1# (#)("1 Jahr minus 4 Wochen")
 Tschenkowitz,30.11.,Johann,-,Hauk,56 (Incola)
-Worlitschka,5.12.,Friedrich,Matthäus,Schüll,13w
-Neudorf,7.12.,Catharina,Johann,Schüll,56 (Witwe)
-Worlitschka,10.12.,Justina,Jeremias,Schüll,41 (Ehefrau)
+Worlitschka,5.12.,Friedrich,MatthÃ¤us,SchÃ¼ll,13w
+Neudorf,7.12.,Catharina,Johann,SchÃ¼ll,56 (Witwe)
+Worlitschka,10.12.,Justina,Jeremias,SchÃ¼ll,41 (Ehefrau)
 Worlitschka,11.12.,Anna,Johann,Nehyba,50 (Witwe)
 Jablona,11.12.,Catharina,Georg,Grushammer#,1.5
 Waltersdorf,13.12.,Catharina,Johann,Pan,70 (Witwe)
 Worlitschka,18.12.,Christoph,Georg,Ha#l,2d
-Worlitschka,19.12.,Bartholomäus,-,Heisler,59 (Incola)
+Worlitschka,19.12.,BartholomÃ¤us,-,Heisler,59 (Incola)
 Worlitschka,22.12.,Christian,Tobias,Heisler,9d
 Worlitschka,22.12.,Elisabeth,Gottfried,Hanischke,55 (Ehefrau)
 
@@ -1257,7 +1257,7 @@ Waltersdorf,18.1.,Judith,Martin,Waschiczek,5w
 Jablona#,19.1.,Ludmilla,Paul,Appl,67 (Witwe)(Ist das die Mutter des Schreibers, verstehe ich das richtig?)
 Neudorf,24.1.,Eva,Jacob,Steffek#,4
 Waltersdorf,24.1.,Magdalena,Jacob,Jeczek,5
-Tschenkowitz,25.1.,Marina#,Martin,Krögler,70 (#)(Tochter)
+Tschenkowitz,25.1.,Marina#,Martin,KrÃ¶gler,70 (#)(Tochter)
 Jamnay,26.1.,Elisabeth,Johann,Steyskal,2
 Jamnay,26.1.,Catharina,Jacob,Doleczal,1
 Neudorf,27.1.,Franz,Adam,Duschek,10#d
@@ -1269,8 +1269,8 @@ Worlitschka,4.2.,Wenceslaus,Christoph,Langer,6m
 Worlitschka,5.2.,Johann,-,Gabler,35 (Incola)
 Worlitschka,5.2.,Wenceslaus,Christoph,Pfertner,1w
 Jamnay,6.2.,Maria,Paul,Czernohaus,1y9m
-Weypersdorf,4.2.,Adam,David,Rösler,8d
-Weypersdorf,7.2.,Eva,David,Rösler,11d
+Weypersdorf,4.2.,Adam,David,RÃ¶sler,8d
+Weypersdorf,7.2.,Eva,David,RÃ¶sler,11d
 Tschenkowitz,7.2.,Elias,-,Wottawa,70 (Incola)
 Waltersdorf,8.2.,Jacob,-,Kratky,40 (Incola)
 Tschenkowitz,8.2.,Catharina,Georg,Hudecz,7 (#)("Vulgo Hamaczek")
@@ -1284,17 +1284,17 @@ Worlitschka,12.2.,Eva,Michael,Pfertner,9m
 Weypersdorf,11.2.,Dorothea,Paul,Sedlarz,30 (Ehefrau)
 Waltersdorf,13.2.,Barbara,Wenceslaus,Kubin,45 (Ehefrau)
 Tschenkowitz,15.2.,Michael,Johann,Kobliczek,32#w
-Worlitschka,15.2.,Franz,Georg,Schüll,14w
+Worlitschka,15.2.,Franz,Georg,SchÃ¼ll,14w
 Jamnay,21.2.,Johann,Dominik,Schlesinger,12d (Richter)
 Weypersdorf,21.2.,Martin,-,Koczak,42 (Incola)
 Waltersdorf,23.2.,Johann,-,Sm#czek,56 (Incola)
 Worlitschka,23#.2.,Johann,-,Schlesinger,35 (Incola)
 Worlitschka,25.2.,Judith,Johann,Nehyba,1y13w
 Oberhermanitz,28.2.,Elisabeth,Martin,Kubin,50 (Witwe)
-Waltersdorf,3.3.,Dorothea,Matthäus,Kuczilek#,1y10w
+Waltersdorf,3.3.,Dorothea,MatthÃ¤us,Kuczilek#,1y10w
 Jamnay,8.3.,Johann,-,Janaczek#,- (Incola)
 Worlitschka,12.3.,Anna,Johann,Janele#,9d
-Tschenkowitz,14.3.,Matthäus,-,Polaczek,46# (Incola)(46 oder 96?)
+Tschenkowitz,14.3.,MatthÃ¤us,-,Polaczek,46# (Incola)(46 oder 96?)
 Jablona,19.3.,Johann,Mathias,Mlinarz#,9
 Jablona,20.3.,Augustin,Paul,Sedlarz,6#m (#)("Anno Medio" == Halbes Jahr?)
 Niederhermanitz,24.3.,Wenceslaus,Paul,Markow#,# (#)(Ein Kind, Jahresangabe schwer zu lesen, aber wohl < 10)
@@ -1308,18 +1308,18 @@ Worlitschka,31.3.,Caspar,-,Rusner,50 (Incola)
 Oberhermanitz,3.4.,-,Adam,Rzehak,0
 Jablona,3.4.,Catharina,Augustin,Adolf,14w3d
 Waltersdorf,3.4.,Anna,Georg,Kubin,54 (Witwe)
-Oberhermanitz,3#.4.,Martin,Michael,Maczaczu#,1m (#)(Da am "27." begraben, wohl eher Ende März verstorben)
+Oberhermanitz,3#.4.,Martin,Michael,Maczaczu#,1m (#)(Da am "27." begraben, wohl eher Ende MÃ¤rz verstorben)
 Jablona,1.4.,Georg,-,Filip,79
-Worlitschka,2.4.,Elisabeth,Johann,Schüll,10w
-Worlitschka,5.4.,Maria,Dominik,Schüll,- (#)(Ein Kind)
+Worlitschka,2.4.,Elisabeth,Johann,SchÃ¼ll,10w
+Worlitschka,5.4.,Maria,Dominik,SchÃ¼ll,- (#)(Ein Kind)
 Tschenkowitz,6.4.,Georg,Michael,Bok,1
 Tschenkowitz,6.4.,Peter,-,Zaubele,35 (Incola)("Vulgo Hamaczek")
 
 DP 35
 
-Tschenkowitz,8.4.,Wenceslaus,Christoph,Hauenschild,1.5# (Heißt "Semialtero" 1.5?)
+Tschenkowitz,8.4.,Wenceslaus,Christoph,Hauenschild,1.5# (HeiÃŸt "Semialtero" 1.5?)
 Worlitschka,9.4.,Rosina,Michael,Pfertner,2w
-Weyprachtitz,8.4.,-,Tobias,Rösler,0
+Weyprachtitz,8.4.,-,Tobias,RÃ¶sler,0
 Jamnay,10.4.,Dorothea,Paul,Filip,56 (Ehefrau,Bauer)
 Waltersdorf,11.4.,Paul,-,Mach,70 (Incola)
 Jamnay,13.4.,Marianna,Jacob,Kreyczj,70 (Ehefrau)(Hier steht noch "defuncti", also Witwe?)
@@ -1340,9 +1340,9 @@ Neudorf,21.5.,Maria,Michael,Nehyba,8d
 Worlitschka,2.6.,Tobias,-,Bartosch,32 (Incola)
 Jablona,6.6.,Georg,-,Kobliczek,70
 Waltersdorf,9.6.,Johann,Jacob,Hrdina,10#d
-Worlitschka,13.6.,Tobias,Tobias,Wagner,2w5d (Müller)
+Worlitschka,13.6.,Tobias,Tobias,Wagner,2w5d (MÃ¼ller)
 Jablona,21.6.,Johann,Paul,Polak,42w
-Worlitschka,21.6.,Anna,Matthäus,Koller,50 (Ehefrau)
+Worlitschka,21.6.,Anna,MatthÃ¤us,Koller,50 (Ehefrau)
 #,28.6.,Maria,Christoph,Neugebauer,12d
 Neudorf,28.6.,Georg,Martin,Girczabek,2
 Neudorf,4.7.,Caspar,Caspar,Nentvich,5d (Richter)
@@ -1352,29 +1352,29 @@ Tschenkowitz,13.7.,Jacob,-,Waczek,58
 DP 36
 
 Waltersdorf,17.7.,Judith,Johann,Kubin Senior,15w
-Niederhermanitz,21.7.,Ludmilla,Paul,Kubelka,45 (Ehefrau,Zöllner#)(Telonary/Telonarius heißt Zöllner, oder?)
-Worlitschka,25.7.,Wenceslaus,Matthäus,Schlesinger,18d
-Jablona,3.8.,Bartholomäus,Matthäus,Polaczek,8
+Niederhermanitz,21.7.,Ludmilla,Paul,Kubelka,45 (Ehefrau,ZÃ¶llner#)(Telonary/Telonarius heiÃŸt ZÃ¶llner, oder?)
+Worlitschka,25.7.,Wenceslaus,MatthÃ¤us,Schlesinger,18d
+Jablona,3.8.,BartholomÃ¤us,MatthÃ¤us,Polaczek,8
 Jablona,10.8.,Anna,Jacob,Kupka,- (Incola)
 Worlitschka,11.8.,Maria,Georg,Heisler,13w
 Worlitschka,13.8.,Wenceslaus,Christoph,Pfertner,30w
 Tschenkowitz,17.8.,Wenceslaus,Jacob,Hawlu,5d
-Worlitschka,23.8.,Christoph,Matthäus,Veith,14w
+Worlitschka,23.8.,Christoph,MatthÃ¤us,Veith,14w
 Tschenkowitz,31.8.,Paul,Paul,Hawelka,- (#)(Ein Kind, "Vulgo: Hamaczek")
 Weypersdorf,1.9.,Maria,Johann,Koczak Senior,42# (#)(Tochter, war Jungfrau)
-Worlitschka,9.9.,Wenceslaus,Christoph,Schüll,5d
+Worlitschka,9.9.,Wenceslaus,Christoph,SchÃ¼ll,5d
 Worlitschka,13.9.,Christian,Christoph,Scholtz,6m (#)("Anno medeo" == Halbes Jahr?)
 Weypersdorf,10.9.,-,-,Worlitschka,1d
 Oberhermanitz,14.9.,Johann,-,Lyr,40# (Faber)
 Tschenkowitz,29.9.,Wenceslaus,Urban,Nosek,29#
 Oberhermanitz,16.9.,Judith,Georg,Hawlu,3
-Oberhermanitz,5.10.,Anna,Johann,Darczilek,3 (Müller)
+Oberhermanitz,5.10.,Anna,Johann,Darczilek,3 (MÃ¼ller)
 Waltersdorf,8.10.,Wenceslaus,Johann,Hadliczek#,14d (#)(Oder: Tzadliczek?)
 Waltersdorf,11.10.,Jacob,Johann,Tzadliczek#,15d
 Weypersdorf,18.10.,Dorothea,Georg,Rzehak,56 (Witwe)
-Worlitschka,22.10.,Maria,Georg,Schüll,14d
-Oberhermanitz,22.10.,Ludmilla oder# Rosina#,Georg,Hawlu,15d ("vel" heißt "oder",aber was soll das im Zusammenhang bedeuten?)
-Niederhermanitz,26.10.,Wenceslaus,Johann,Rösler,28 (Müller)
+Worlitschka,22.10.,Maria,Georg,SchÃ¼ll,14d
+Oberhermanitz,22.10.,Ludmilla oder# Rosina#,Georg,Hawlu,15d ("vel" heiÃŸt "oder",aber was soll das im Zusammenhang bedeuten?)
+Niederhermanitz,26.10.,Wenceslaus,Johann,RÃ¶sler,28 (MÃ¼ller)
 Waltersdorf,13.11.,Jacob,Johann,Schimek,26w
 Worlitschka,19.11,Michael,-,Hoffmann,60 (Incola)
 Weypersdorf,21.11.,Martin,-,Holomek,70 (Incola)
@@ -1383,12 +1383,12 @@ Waltersdorf,23.11.,Jacob,-,Kratky,52 (Incola)
 DP 37
 
 Worlitschka,28.11.,Rosina,Christoph,Pfertner,20 (#)(Rosina war Jungfrau)
-Worlitschka,30.11.,Christina,Michael,Schüll,80 (Witwe)
+Worlitschka,30.11.,Christina,Michael,SchÃ¼ll,80 (Witwe)
 Jamnay,14.12.,Anna,Johann,Bauchal,65 (Witwe)
 Neudorf,16.12.,Veronica,Martin,Feltzmann,5w6d
 Niederhermanitz,20.12.,Johann,-,Maresch,50 (Bauer)
 Weypersdorf,19.12.,Anna,Johann,Faltus,60 (Witwe)
-Jamnay,19.12.,Dorothea,Georg,Schüttke,37#w (3 oder 37?)
+Jamnay,19.12.,Dorothea,Georg,SchÃ¼ttke,37#w (3 oder 37?)
 Waltersdorf,29.12.,Jacob,-,Peter,50 (Lehrer)
 
 1693
@@ -1405,13 +1405,13 @@ Tschenkowitz,17.1.,Ursula,Georg,Weinlich,95 (Witwe)
 Jablona,17#.1.,Johann,-,Bek#,80 (Incola)
 Weypersdorf,22.1.,Mathias,David,Skaliczky,3d
 Worlitschka,26.1.,Nicolaus,-,Hauk,55 (Incola)
-Worlitschka,28.1.,Susanna,Christoph,Schüll,22d (Incola)
+Worlitschka,28.1.,Susanna,Christoph,SchÃ¼ll,22d (Incola)
 Oberhermanitz,9#.2.,Wenceslaus,Nicolaus,Hawelka,4d (Incola)
 Waltersdorf,9.2.,Wenceslaus,Johann,Jeczek,6w
 Jamnay,9.2.,Martin,Paul,Steyskal,7#w (Incola)
 Niederhermanitz,11.2.,Magdalena,Johann,Maresch,12 (Incola)(Magdalena war Jungfrau)
 Waltersdorf,11.2.,-,Georg,Schimek,0 (Incola)
-Waltersdorf,18.2.,Anton,Johann,Dittrich,13d (Müller)
+Waltersdorf,18.2.,Anton,Johann,Dittrich,13d (MÃ¼ller)
 Lubnik,20.2.,Johann,Martin,Doleczek,20w
 Worlitschka,21.2.,Paul,-,Domlatil,54
 
@@ -1425,22 +1425,22 @@ Weypersdorf,4.3.,Judith,Lucas,Kubow,11d
 Waltersdorf,11.3.,Dorothea,Wenceslaus,Kuczera,19d
 Oberhermanitz,14.3.,Maria,Nicolaus,Janda,14w (Incola)
 Waltersdorf,14.3.,Johann,-,Lischka,65
-Waltersdorf,15.3.,Matthäus,-,Mistru,100# (Incola)("centesimo" == 100?)
+Waltersdorf,15.3.,MatthÃ¤us,-,Mistru,100# (Incola)("centesimo" == 100?)
 Weypersdorf,16.3.,Maria,Martin,Smeykal,45# (Ehefrau)
 Weypersdorf,21.3.,Anna,-,Hrabacz,60 (Witwe)
-Waltersdorf,26.3.,Magdalena,Matthäus,Mistru,50 (Ehefrau,Incola)
+Waltersdorf,26.3.,Magdalena,MatthÃ¤us,Mistru,50 (Ehefrau,Incola)
 Jablona,26.3.,Dorothea,Johann,Merthu,10d
 Jamnay,27.3.,Maria,Georg,Czernohaus,4
 Tschenkowitz,31.3.,Maria,Christoph,Heisler,30 (Ehefrau)
 Waltersdorf,4.4.,Catharina,-,-,-
 Waltersdorf,9#.4.,Anna,Wenceslaus,Roczen,0
-Worlitschka,9#.4.,Johann,Dominik,Schüll,2d
+Worlitschka,9#.4.,Johann,Dominik,SchÃ¼ll,2d
 Neudorf,6.4.,Judith,Adam,Pfertner,47 (Ehefrau)
 Jablona,12.4.,-,-,-,- (#)(Ein Kind)
 Neudorf,18.4.,Franz,Martin,Janesch,2
 Waltersdorf,22.4.,Jacob,-,Jansa,- (Incola)
 Oberhermanitz,26.4.,Johann,-,Kobsa,- (Incola)
-Weypersdorf,28.4.,Franz,Franz,Rösler,9m
+Weypersdorf,28.4.,Franz,Franz,RÃ¶sler,9m
 Neudorf,4.5.,Tobias,Martin,Janesch,3# (#)("anno 3 et quid #")
 Niederhermanitz,3.5.,Wenceslaus,Tobias,Kubelka,2w (Incola)
 Niederhermanitz,20.5.,Paul,-,Marku,50 (Incola)
@@ -1448,7 +1448,7 @@ Weypersdorf,21.5.,Dorothea,Felix,Hlauczal#,60 (Ehefrau,Incola)
 Tschenkowitz,23.5.,Susanna,Georg,Blaschke,27 (Ehefrau,Incola)
 Tschenkowitz,29.5.,Dorothea,Michael,Hamaczek,70 (Witwe)
 Neudorf,30.5.,Michael,Christoph,Nentvich,2w
-Weypersdorf,24.5.,Magdalena,Matthäus,Sedlaczek,6m
+Weypersdorf,24.5.,Magdalena,MatthÃ¤us,Sedlaczek,6m
 
 DP 39
 
@@ -1464,7 +1464,7 @@ Waltersdorf,25.6.,Georg,-,Wa#ek,65 (Incola)
 Worlitschka,27.6.,Rosina,Johann,Heisler,37# (Ehefrau)
 Oberhermanitz,29.6.,Johann,Paul,Kulhanek,30 (#)(Tochter)
 Worlitschka,22.6.,Gottfried,Gottfried,Hanuschke#,30d
-Tschenkowitz,24.6.,Johann,Martin.Stöhr,5
+Tschenkowitz,24.6.,Johann,Martin.StÃ¶hr,5
 Waltersdorf,1.7.,Anna,Johann,Krystek,18w
 Niederhermanitz,2.7.,Marina,Martin,Chromy,39w
 Jablona,4.8.,Wenceslaus,Martin,Wottawa,40#d (40 oder 10?)
@@ -1475,8 +1475,8 @@ Worlitschka,23.8.,Johann,Christoph,Pfertner,19w (Incola)
 Weypersdorf,25.8.,Catharina,Paul,Marek,26w (Incola)
 Jamnay,26.8.,Anna,Martin,Czernohaus,5w
 Tschenkowitz,27.8.,Wenceslaus,Johann,Heisler,5w (Incola)
-Weypersdorf,30.8.,Anna,Matthäus,Worlitschka,4d (Incola)
-Tschenkowitz,4.9.,Anna,Matthäus,Blaschke,3d (Incola)
+Weypersdorf,30.8.,Anna,MatthÃ¤us,Worlitschka,4d (Incola)
+Tschenkowitz,4.9.,Anna,MatthÃ¤us,Blaschke,3d (Incola)
 Waltersdorf,6.9.,Marina,Georg,Nehyba,1#w (Incola)
 Weypersdorf,9.9.,-,-,-,- (Witwe)
 Weypersdorf,5.9.,Maria,Paul,Ondra,6d (Incola)
@@ -1485,8 +1485,8 @@ Tschenkowitz,9#.9.,Wenceslaus,Christoph,Hauenschild,26w (Incola)
 DP 40
 
 Weypersdorf,14.9.,Martin,Nicolaus,Janku#,4w (Incola)
-Weypersdorf,19.9.,Matthäus,Wenceslaus,Czak,3w (Incola)
-Worlitschka,20.9.,Barbara,Georg,Schüll,70 (Witwe)
+Weypersdorf,19.9.,MatthÃ¤us,Wenceslaus,Czak,3w (Incola)
+Worlitschka,20.9.,Barbara,Georg,SchÃ¼ll,70 (Witwe)
 Niederhermanitz,23.9.,Wenceslaus,-,Czink,90# (Incola)
 Worlitschka,29#.9.,Susanna,Friedrich,Weypert,35 (Ehefrau)
 Tschenkowitz,8.10.,Andreas,Johann,Binn#,9m
@@ -1497,15 +1497,15 @@ Weypersdorf,31.10.,Augustin,Johann,Marku,1y3#m (Incola)
 Jablona,3.11.,-,-,-,-
 Tschenkowitz,4.11.,-,-,-,-
 Oberhermanitz,4.11.,Marina,Johann,S#baczek,18# (Incola)(Marina war Jungfrau, "decimo octavo" == 18?)
-Worlitschka,9.11.,Anna,Bartholomäus,Heisler,40 (Ehefrau,Incola)
+Worlitschka,9.11.,Anna,BartholomÃ¤us,Heisler,40 (Ehefrau,Incola)
 Weypersdorf,10.11.,Johann,-,Mleinek,50 (Richter)
-Oberhermanitz,12.11.,Magdalena,Johann,Darczilek,30 (Ehefrau,Müller)
+Oberhermanitz,12.11.,Magdalena,Johann,Darczilek,30 (Ehefrau,MÃ¼ller)
 Waltersdorf,14.11.,Johann,-,Charvat,54 (Incola)
 Worlitschka,16.11.,Judith,Georg,Pfertner,2 (Incola)
 Tschenkowitz,18.11.,Maria,Georg,Hentzl,13m
 Tschenkowitz,22.11.,Susanna,Michael,Bok,5 (Incola)
 Worlitschka,22.11.,Christoph,-,Schlesinger,33# (Incola)
-Tschenkowitz,22.11.,Christoph,-,Schüll,97 (Incola)
+Tschenkowitz,22.11.,Christoph,-,SchÃ¼ll,97 (Incola)
 Tschenkowitz,25.11.,Johann,Paul,Nehyba,6 (Incola)
 Tschenkowitz,26.11.,Maria,Johann,Hentzl,6#m (Incola)("Anno Medio" == Halbes Jahr?)
 Tschenkowitz,29.11.,Susanna,Christoph,Kobliczek,- (Incola)(Ein Kind)
@@ -1517,13 +1517,13 @@ DP 41
 
 Tschenkowitz,5.12.,Wenceslaus,Michael,Nosek,5
 Tschenkowitz,8.12.,Ferdinand,Michael,Kobliczek,4
-Worlitschka,9.12.,Christoph,Johann,Schüttke,60 (Incola)
+Worlitschka,9.12.,Christoph,Johann,SchÃ¼ttke,60 (Incola)
 Tschenkowitz,11.12.,Anna,Georg,Egydi,- (#)(Ein Kind)
-#,11.12.,Sabina,Tobias,Schüll,- (Ein Kind)
+#,11.12.,Sabina,Tobias,SchÃ¼ll,- (Ein Kind)
 Tschenkowitz,3.12.,Franz,Georg,Weinlich,13 (Incola)
 Niederhermanitz,6.12.,Anna,Martin,Cordas,4
 Tschenkowitz,10.12.,Georg,-,Duchaczek,94# (Incola)(94 oder 44?)
-Oberhermanitz,13.12.,Matthäus,-,Maresch#,55 (Incola)
+Oberhermanitz,13.12.,MatthÃ¤us,-,Maresch#,55 (Incola)
 Tschenkowitz,13.12.,Dorothea,Michael,Steffan,50 (Witwe)
 Waltersdorf,16.12.,Georg,Nicolaus,Petr,1.5 (#)("1 anno medio" == 1.5?)
 Worlitschka,16.12.,Andrewas,Wenceslaus,Koller,17d
@@ -1550,11 +1550,11 @@ Tschenkowitz,18.1.,Christoph,-,Feltzmann,- (#)(Ehemann von Anna aus dem vorigen 
 
 DP 42
 
-Tschenkowitz,14.1.,-,Matthäus,Blaschke,- (#)(Ein Kind, es stand ursprünglich des Christoph Feltzmann, wurde durchgestrichen und mit selber Schrift des Matthäus Blaschke hingeschrieben)
+Tschenkowitz,14.1.,-,MatthÃ¤us,Blaschke,- (#)(Ein Kind, es stand ursprÃ¼nglich des Christoph Feltzmann, wurde durchgestrichen und mit selber Schrift des MatthÃ¤us Blaschke hingeschrieben)
 Tschenkowitz,15.1.,Anna,Johann,Hauk,- (#)(Ein Kind)
-Tschenkowitz,14.1.,Maria,Matthäus,Egydi,1
+Tschenkowitz,14.1.,Maria,MatthÃ¤us,Egydi,1
 Waltersdorf,18.1.,Catharina,Jacob,Roczen,3w
-Waltersdorf,18.1.,Anna,Matthäus,Zaubele,1d
+Waltersdorf,18.1.,Anna,MatthÃ¤us,Zaubele,1d
 Tschenkowitz,21.1.,-,-,-,- (#)(Eine Frau)
 Oberhermanitz,21.1.,Dorothea,Nicolaus,Janda,35 (Ehefrau,Beruf Incola)
 Oberhermanitz,25.1.,Paul,Benjamin,B#ka,6w
@@ -1585,15 +1585,15 @@ Worlitschka,1.3.,Christoph,Georg,Schlesinger,4w
 Jablona,7.3.,-,-,-,-
 Jablona,8.3.,-,-,-,-
 Waltersdorf,8.3.,Maria,Hans,Kobliczek,3
-Tschenkowitz,13.3.,Franz,Dominik,Schüttke,6
+Tschenkowitz,13.3.,Franz,Dominik,SchÃ¼ttke,6
 Tschenkowitz,13.3.,Hans,Christoph,Heisler,2
 Hermanitz,19.3.,-,Wenceslaus,Kubesch,6
-Worlitschka,20.3.,Elisabeth,Matthäus,Koller#,26w
+Worlitschka,20.3.,Elisabeth,MatthÃ¤us,Koller#,26w
 Weypersdorf,20.3.,Georg,-,Andru#,50 (#)(Andrle?)
 Jablona,21.3.,-,-,-,-
 Jablona,21.3.,-,-,-,-
 Tschenkowitz,25.3.,Maria,Hans,Polaczek,- (Witwe)
-Worlitschka,26.3.,Susanna,Matthäus,Koller#,27 (Ehefrau)
+Worlitschka,26.3.,Susanna,MatthÃ¤us,Koller#,27 (Ehefrau)
 
 DP 44
 
@@ -1601,13 +1601,13 @@ Waltersdorf,29.3.,-,-,-,-
 Tschenkowitz,1.4.,Rosina,Georg,Duchaczek,13
 Weypersdorf,1.4.,Anna Judith,Hans,Killar,9m
 Weypersdorf,3.4.,Maria,Jacob,Rzehak,30 (Tochter)
-Tschenkowitz,3.4.,Hans,Dominik,Schüttke,4
+Tschenkowitz,3.4.,Hans,Dominik,SchÃ¼ttke,4
 Worlitschka,3.4.,Christoph,Hans,W#,4.5
 Weypersdorf,4.4.,Georg,Georg,Kubelka,3m
 Jablona,8.4.,Anna,Hans,Seibal,- (Ehefrau)
-Tschenkowitz,16.4.,Georg,Hans,Schüll#,4
+Tschenkowitz,16.4.,Georg,Hans,SchÃ¼ll#,4
 Jablona,20.4.,-,-,-,-
-Tschenkowitz,21.4.,Wenceslaus,Matthäus,Schrötter#,39w
+Tschenkowitz,21.4.,Wenceslaus,MatthÃ¤us,SchrÃ¶tter#,39w
 Worlitschka,21.4.,Franz,Hans,W#ert,7d
 Waltersdorf,23.4.,Catharina,Jacob,Killar,9m
 Worlitschka,26.4.,Susanna,Martin,Scholtz,36 (Tochter)
@@ -1649,8 +1649,8 @@ Worlitschka,28.6.,Maria,Martin,Scholtz,- (Tochter)
 Jablona,28.6.,Wenceslaus,Hans,Kozel,-
 Worlitschka,30.6.,Rosina,Hans,Nehyba,8
 Weypersdorf,10.7.,Dorothea,Hans,Greger,6m
-Neudorf,17.7.,Johann,Christoph,Schüll#,-
-Worlitschka,19.7.,Bartholomäus,Bartholomäus,Heisler,2
+Neudorf,17.7.,Johann,Christoph,SchÃ¼ll#,-
+Worlitschka,19.7.,BartholomÃ¤us,BartholomÃ¤us,Heisler,2
 Jablona,27.7.,-,Hans,Sch#tz,- (#)(Ein Kind)
 Worlitschka,28.7.,Wenceslaus,Nickel#,Hauk,-
 Weypersdorf,28.7.,Franz,Jacob,Uher#,11w
@@ -1667,12 +1667,12 @@ Oberhermanitz,8.8.,Wenceslaus,Hans,Kulhanek,-
 Worlitschka,9.8.,Barbara,Hans,Gabler,75 (Ehefrau)
 Worlitschka,12.8.,Paul,-,Schlesinger#,56
 Worlitschka,16.8.,Christoph,-,Bihr#,37
-Jablona,16.8.,-,Hans,Schütz,- (#)(Heißt das "Mutter von Jablona"?)
+Jablona,16.8.,-,Hans,SchÃ¼tz,- (#)(HeiÃŸt das "Mutter von Jablona"?)
 Jablona,27.8.,Catharina,Paul,Sedlarz,- (Ehefrau)
 Worlitschka,27.8.,Maria,Paul,Gabler,33# (Ehefrau)
-Tschenkowitz,28.8.,Maria,Hans,Schüll#,36 (Ehefrau)
+Tschenkowitz,28.8.,Maria,Hans,SchÃ¼ll#,36 (Ehefrau)
 Weypersdorf,1.9.,Catharina,Georg,Brokesch,45 (Witwe)
-Tschenkowitz,3.9.,Matthäus,-,Blaczek#,42
+Tschenkowitz,3.9.,MatthÃ¤us,-,Blaczek#,42
 Jamnay,5.9.,Magdalena,-,#za#kowa,-
 Jablona,6.9.,Justina,Wenceslaus,Klesl,0 (#)("Ein paar Stunden alt")
 
@@ -1685,21 +1685,21 @@ Worlitschka,20.9.,Maria,Christoph,Weinlich,49 (Ehefrau)
 Worlitschka,24.9.,Hans,-,Weinlich#,56
 Worlitschka,24.9.,-,-,-,- (#)("Ein Kind von Worlitschka")
 Hermanitz,25.9.,-,-,Schwestka,60
-Jablona,25.9.,-,-,-,- (#)("Ein Jüngling von Gabel")
-Waltersdorf,29.9.,-,-,-,9 ("Ein Jüngling von Waltersdorf seines Alters 9 Jahr")
+Jablona,25.9.,-,-,-,- (#)("Ein JÃ¼ngling von Gabel")
+Waltersdorf,29.9.,-,-,-,9 ("Ein JÃ¼ngling von Waltersdorf seines Alters 9 Jahr")
 Jablona,2.10.,-,Hans,Pan#,-
 Jablona,3.10.,Anna,Hans,Sedlarz,- (Ehefrau)
 Hermanitz,3.10.,-,Nickel#,Beran#,- (#)("Ein Kind")
 Niederhermanitz,4.10.,Catharina,Nikolaus,Pechaczek,-
 Jablona,10.10.,Paul,-,-,-
 Weypersdorf,14.10.,Magdalena,Wenceslaus,Ptaczek,6w
-Niederhermanitz,22.10.,Georg,Matthäus,Marek,18
+Niederhermanitz,22.10.,Georg,MatthÃ¤us,Marek,18
 Weypersdorf,29.10.,Jacob,-,Wottawa,-
 Weypersdorf,29.10.,Georg,-,Kuba,-
 
 DP 49
 
-Jablona,3.11.,Sybilla#,Matthäus,Matz#,- (Tochter)
+Jablona,3.11.,Sybilla#,MatthÃ¤us,Matz#,- (Tochter)
 Neudorf,6.11.,-,Christoph,Nentvich,0 (#)("Ein Kind, von der Amme getauft")
 Weypersdorf,8.11.,Dorothea,Paul,Lyr#,60 (Ehefrau)(Lyr oder Byr?)
 Lubnik,8.11.,Anna,-,-,- (Ehefrau)
@@ -1714,7 +1714,7 @@ Weypersdorf,8.12.,Johann,Hans,Skaliczky,5d
 Weypersdorf,11.12.,Peter,-,Maczek#,-
 Weypersdorf,12.12.,Martin,-,Skaliczky,-
 Weypersdorf,14.12.,Johann,-,Beschka#,-
-Tschenkowitz,15.12.,Susanna,Matthäus,Wottawa,20w
+Tschenkowitz,15.12.,Susanna,MatthÃ¤us,Wottawa,20w
 Neudorf,19.12.,Veronica,Paul,Duchaczek#,1y50w
 
 DP 50
@@ -1730,24 +1730,24 @@ Worlitschka,5.1.,Hans,Wenceslaus,Schlesinger,8d
 Oberhermanitz,10.1.,Jacob,-,Darczilek,-
 Waltersdorf,10.1.,-,-,Spiczak,- (#)("Ein Weib, Spiczakin genannt")
 Niederhermanitz,14.1.,Anna,Paul,Marku#,- (Witwe)(Marku oder Marek?)
-Worlitschka,16.1.,Regina,Adam,Krögler,8
+Worlitschka,16.1.,Regina,Adam,KrÃ¶gler,8
 Worlitschka,17.1.,Maria,Christoph,Langer,1y50w
-Worlitschka,19.1.,Matthäus,Paul,Schlesinger,8
+Worlitschka,19.1.,MatthÃ¤us,Paul,Schlesinger,8
 Weypersdorf,19.1.,Franz,Paul,Sedlarz,1
 Weypersdorf,22.1.,Catharina,-,Worlitschka,60
 Worlitschka,25.1.,Anna,Christoph,Hoffmann,40 (Ehefrau)
 Weypersdorf,25.1.,Hans,-,Jarolym,-
-Worlitschka,26.1.,Maria,Christoph,Schüll,35 (Witwe)
-Jablona,26.1.,-,Matthäus,Skaliczky,- (Witwe)
+Worlitschka,26.1.,Maria,Christoph,SchÃ¼ll,35 (Witwe)
+Jablona,26.1.,-,MatthÃ¤us,Skaliczky,- (Witwe)
 
 DP 51
 
-Weypersdorf,28.1.,Catharina,Matthäus,Skaliczky,- (Witwe)
+Weypersdorf,28.1.,Catharina,MatthÃ¤us,Skaliczky,- (Witwe)
 Worlitschka,31.1.,Regina#,Zacharias,Hoffmann,10 (#)(Regina oder Rosina?)
 Worlitschka,1.2.,-,-,-,- (#)("Ein Kind von Worlitschka")
 Worlitschka,4.2.,Tobias,-,Feltzmann,62
 Weypersdorf,4.2.,Adam,-,Wottawa,-
-Tschenkowitz,5.2.,Hans,Matthäus,Horaczek,8y6m
+Tschenkowitz,5.2.,Hans,MatthÃ¤us,Horaczek,8y6m
 Jamnay,7.2.,-,-,-,- (#)("Ein Kind von Jamnay")
 Worlitschka,12.2.,Maria,Christoph,Bihr#,1.5
 Waltersdorf,12.2.,Jacob,Jacob,Kaschka,6m
@@ -1763,21 +1763,21 @@ Jablona,27.2.,-,-,-,- (#)("Ein Weib von Gabel")
 DP 52
 
 Jablona,9.3.,-,-,Trampota,-
-Jablona,9.3.,-,Paul,Schüll#,- (#)(Heißt das "Paul Schel's Kind"?)
+Jablona,9.3.,-,Paul,SchÃ¼ll#,- (#)(HeiÃŸt das "Paul Schel's Kind"?)
 Waltersdorf,13.3.,Paul,Georg,Hrdina,4
 Waltersdorf,16.3.,Anna,Hans,Waniczek,1d
 Waltersdorf,18.3.,Susanna,-,-,-
 Jablona,19.3.,-,-,Skaliczky,-
 Worlitschka,21.3.,Hans,-,Nehyba,45
-Tschenkowitz,28.3.,Michael,-,Langhammer#,65 (#)(Heißt das "Langh."?)
+Tschenkowitz,28.3.,Michael,-,Langhammer#,65 (#)(HeiÃŸt das "Langh."?)
 Weypersdorf#,30.3.,Catharina,Paul,Kubelka,- (Ehefrau)
 Jablona,2.4.,Hans,-,Schweda#,40
 Worlitschka,2.4.,Hans,-,Gabel#,92
 Hermanitz,2.4.,- und -,-,-,- (#)(Ein Ehepaar)
-Weypersdorf,9.4.,Matthäus,-,Smeykal,-
+Weypersdorf,9.4.,MatthÃ¤us,-,Smeykal,-
 Weypersdorf,10.4.,Hans,Felix,Honical#,8d (#)(Nachname schwer lesbar, unsicher)
 Tschenkowitz,10.4.,Susanna,Wenceslaus,Michalek#,68 (Witwe)(Nachname schwer lesbar, unsicher)
-Worlitschka,11.4.,Maria,Paul,Schüll,28w2d
+Worlitschka,11.4.,Maria,Paul,SchÃ¼ll,28w2d
 
 DP 53
 
@@ -1820,16 +1820,16 @@ DP 55
 
 Jablona,5.7.,Paul,-,Stiastny,70
 Jablona,5.7.,Catharina,Thomas,Seibal,- (Witwe)
-Worlitschka,9.7.,Johann,-,Feltzmann#,65 (Beruf Incola)(Heißt das Feltzmann? Sieht eher wie Petzmahl aus)
+Worlitschka,9.7.,Johann,-,Feltzmann#,65 (Beruf Incola)(HeiÃŸt das Feltzmann? Sieht eher wie Petzmahl aus)
 Tschenkowitz,17.7.,Maria,Christoph,Kobliczek,6
 Oberhermanitz,18.7.,Georg,-,Maresch,45
 Worlitschka,24.7.,Judith,Caspar,Heisler,1
 Worlitschka,31.7.,Judith,Michael,Scholtz,8d
-Weypersdorf,30.7.,Catharina,Hans,Mleinek,70 (Witwe)(Steht zwar unter August, aber wohl noch für Juli gemeint)
+Weypersdorf,30.7.,Catharina,Hans,Mleinek,70 (Witwe)(Steht zwar unter August, aber wohl noch fÃ¼r Juli gemeint)
 Jablona,2.8.,Augustin,Augustin,Wolf,13w
 Jablona,4.8.,Ludmilla,Hans,Seibal,- (Ehefrau)
 Worlitschka,4.8.,Catharina,Tobias,Heisler,64 (Ehefrau)
-Zot# Schönstädtler# Herrschaft,9.8.,Martin,Matthäus,Matiegka#,-
+Zot# SchÃ¶nstÃ¤dtler# Herrschaft,9.8.,Martin,MatthÃ¤us,Matiegka#,-
 Waltersdorf,9.8.,Wenceslaus,Georg,Wonawek#,2
 Hermanitz,13.8.,Anna,Georg,Kulhanek,- (Ehefrau)
 Waltersdorf,16.8.,Georg,Georg,Kaschka,3#w
@@ -1844,14 +1844,14 @@ Hermanitz,5.9.,Johann,Hans,Taraschka,21
 Jamnay,6.9.,Georg,-,Czernohorsky,-
 Jamnay,9.9.,-,Hans,Doleschek#,- (#)(Ein Kind)
 Jamnay,10.9.,Susanna,Georg,Bednarz,32 (Ehefrau)
-Tschenkowitz#,11.9.,Susanna,Adam,Krögler,8
+Tschenkowitz#,11.9.,Susanna,Adam,KrÃ¶gler,8
 Waltersdorf,13.9.,Wenceslaus,-,Matejka,31
 Jamnay,13.9.,Johann,Jacob,Killar,3
 Waltersdorf,18.9.,Judith,Martin,Mach,- (Tochter)
 Waltersdorf,18.9.,Martin,Jacob,Jeczek,-
 Tschenkowitz,26.9.,Anna,Lorenz,Hainke#,68 (Witwe)
 Hermanitz,26.9.,Jacob,-,Maresch,-
-Worlitschka,27.9.,Susanna,Jeremias#,Schüll#,60 (Ehefrau)
+Worlitschka,27.9.,Susanna,Jeremias#,SchÃ¼ll#,60 (Ehefrau)
 Jamnay,28.9.,Dorothea,Wenceslaus,Waniczek#,50 (Witwe)
 Weypersdorf,28.9.,-,-,-,- (#)("Ein Bettelweib von Weypersdorf")
 Niederhermanitz,6.10.,Johann,Paul,Schembera,9w
@@ -1861,46 +1861,400 @@ DP 57
 Jablona,6.10.,Rosina,Hans,Czernohaus,40 (Ehefrau)
 Jamnay,12.10.,Paul,-,Bihaunek,50
 Waltersdorf,18.10.,Catharina,Paul,Jeczek,30 (Witwe)
-Weypersdorf,18.10.,Paul,Matthäus,Worlitschka,2w
+Weypersdorf,18.10.,Paul,MatthÃ¤us,Worlitschka,2w
 Hermanitz#,19.10.,Anna,Jacob,Mrazek,70 (Witwe)
 Weypersdorf,19.10.,Magdalena,Hans,Jandegsek#,3
-Tschenkowitz,22.10.,Maria,Hans,Schüll#,5
-Weypersdorf,26.10.,Catharina,Matthäus,Smrzek,40 (Witwe)
-Weypersdorf,26.10.,Martin,Matthäus,Worlitschka,2w
+Tschenkowitz,22.10.,Maria,Hans,SchÃ¼ll#,5
+Weypersdorf,26.10.,Catharina,MatthÃ¤us,Smrzek,40 (Witwe)
+Weypersdorf,26.10.,Martin,MatthÃ¤us,Worlitschka,2w
 Neudorf,28.10.,Maria,Christoph,Nentvich,5
 Tschenkowitz,28.10.,Michael,Christoph,Bock#,7w
 Weisswasser Bisenberger# Herrschaft,2.11.,Christoph,-,Busch#,-
 Waltersdorf,5.11.,Georg,-,Waschiczek,35
 Weypersdorf,15#.11.,Martin,David,Skaliczky,8d
 Waltersdorf,19.11.,-,-,Hrdina,- (Ehefrau)
-Hermanitz,20.11.,Maria,Paul,Höhl#,60 (Ehefrau)
+Hermanitz,20.11.,Maria,Paul,HÃ¶hl#,60 (Ehefrau)
 Jamnay,23.11.,Catharina,Paul,Maczek#,55 (Witwe)
-Worlitschka,24.11.,Regina,Jeremias,Schüll,67 (Ehefrau)
+Worlitschka,24.11.,Regina,Jeremias,SchÃ¼ll,67 (Ehefrau)
 
 DP 58
 
 Worlitschka,26.11.,Tobias,-,Heisler,70
 Waltersdorf,29.11.,Maria,Hans,Chromy,13
 Worlitschka,1.12.,Bartel,-,Schlesinger,53
-Tschenkowitz,2.12.,Wenceslaus,Hans,Schüll#,9w
+Tschenkowitz,2.12.,Wenceslaus,Hans,SchÃ¼ll#,9w
 Tschenkowitz,2.12.,Justina,Hans,Nosek,78 (Witwe)
 Waltersdorf,7.12.,Jacob,-,Kaschka,40
 Tschenkowitz,11.12.,Wenceslaus,-,Hentzl,55
 Jamnay,12.12.,-,Hans,Girauntz,14 (Tochter)
 Waltersdorf,14.12.,Catharina,Hans,Werczack#,45 (Witwe)
 Jablona,16.12.,Wenceslaus,-,Klesl,40
-Worlitschka,17.12.,Anna,Jeremias,Schüll,35 (Tochter)
+Worlitschka,17.12.,Anna,Jeremias,SchÃ¼ll,35 (Tochter)
 Worlitschka,18.12.,Anton,Andreas,Pohl#,8
 Weypersdorf,20.12.,Martin,Paul,Wondra,5d
 Hermanitz,21.12.,-,Hans,Darczilek,14d
 Waltersdorf,22.12.,Susanna,Martin,Nehyba,70 (Witwe)
 Waltersdorf,25.12.,Marta,Wenceslaus,Kratky,60 (Witwe)
-Worlitschka,26.12.,Johann,Christoph,Krögler,2
+Worlitschka,26.12.,Johann,Christoph,KrÃ¶gler,2
 Waltersdorf,29.12.,Hans,-,Teykl,40
 Waltersdorf,31.12.,Christina,Martin,Kuczera,74 (Witwe)
 
 DP 59
 
 1696
+
+Jablona,1.1.,-,Wenceslaus,Klesl,- (#)(Ein Kind)
+Waltersdorf,2.1.,-,-,-,-
+Worlitschka#,2.1.,Franz,Christoph,Hoffmann,3
+Jablona,3.1.,-,Wenceslaus,Klesl,- (#)(Ein Kind)
+Neudorf,4.1.,Anna,Martin,Doleczal#,80 (Witwe)
+Worlitschka,5.1.,Rosina,Hans,HÃ¶hl#,54 (Ehefrau)
+Neudorf,9.1.,-,Hans,Lier,3w
+Waltersdorf,9.1.,Catharina,Jacob,Jansa,2w
+Hermanitz,10.1.,-,Georg,#,6m (#)(2/1 soll wohl 1/2 heiÃŸen?)
+Jablona,12.1.,-,Jacob,Hawlu,- (#)(Ein Kind)
+Waltersdorf,14.1.,Catharina,Georg,Martin,25 (Tochter)
+Waltersdorf,24.1.,Anna,Wenceslaus,Nehyba,80 (Witwe)
+Neudorf,25.1.,Wenceslaus,-,Ptaczek,95
+Worlitschka,26.1.,Friedrich,-,KrÃ¶gler,32
+Worlitschka,27.1.,Wenceslaus,MatthÃ¤us,KrÃ¶gler,1d
+Waltersdorf,1.2.,Wenceslaus,Wenceslaus,Kratky#,6m
+Weypersdorf,1.2.,Hans,-,Lier,50
+Jablona,6.2.,-,Hans,Sch#el,- (#)(Ein Kind)
+Jablona,9.2.,Hans,-,Sch#l,60
+Jablona,9.2.,Wenceslaus,-,Hawlu,50
+Waltersdorf,9.2.,Elisabeth,Martin,Waschiczek,4w 
+
+DP 60
+
+Worlitschka,9.2.,Rosina,Georg,SchÃ¼ll,49 (Ehefrau)
+Waltersdorf,10.2.,Dorothea,Martin,Waschiczek,35 (Ehefrau)
+Waltersdorf,10.2.,Nickel#,-,P#czika#,90
+Neudorf,10.2.,Michael,Christoph,Heisler,9m
+Jablona,12.2.,Dorothea,Georg,Beran,30 (Tochter)
+Waltersdorf,13.2.,Hans,Georg,Kratky#,8w
+Waltersdorf,14.2.,Dorothea,Wenceslaus,Killar,60 (Ehefrau)
+Hermanitz,15.2.,Anna,Paul,Martinek,40 (Ehefrau)
+Neudorf,16.2.,Martin,-,Gerzabek,35
+Hermanitz,22.2.,Ursula,Paul,Zalmann,50 (Witwe)
+Worlitschka,26.2.,Jeremias,-,SchÃ¼ll,76
+Jablona,26.2.,Jacob,Paul,Sedlarz,8
+Waltersdorf,28.2.,Anna,Georg,Kubin,- (Tochter)
+Jablona,29.2.,Maria,Hans,#ubs#,13w
+Tschenkowitz,30.2.,Catharina,MatthÃ¤us,Egydi,46 (Ehefrau)
+Jamnay,3.3.,Hans,-,Beker,40
+Neudorf,3.3.,Franz,Georg,Heisler,7.5
+Jamnay,6.3.,Maria,-,Koloigkin#,- (#)("Die alte Koligkin#")
+Worlitschka,12.3.,Andreas,Andreas,Pohl,12
+Jamnay,12.3.,Catharina,Georg,Kreyczj#,30 (Ehefrau)
+          
+DP 61
+
+Worlitschka,12.3.,MatthÃ¤us,-,Veith,80
+Tschenkowitz,14.3.,Michael,Michael,Pfertner,4
+Wurtzler Hoff,14.3.,Maria,Thomas,E#an,35 (Ehefrau)		  
+Worlitschka,15.3.,Michael,-,Heisler,66
+Worlitschka,15.3.,Christoph,Hans,Behr,3
+Waltersdorf,17.3.,Catharina,Hans,Jansa,14
+Tschenkowitz,19.3.,Maria,Georg,SchÃ¼ll,7
+Worlitschka,20.3.,Michael,-,Kobliczek#,60 (HeiÃŸt das Kobliczek?)
+Hermanitz,22.3.,Catharina,Paul,Kubesch#,1
+Hermanitz,23.3.,Wenceslaus,Paul,Barton,8d
+Waltersdorf,23.3.,Georg,Hans,Karliczek,15
+Waltersdorf,25.3.,Paul,-,Michalek#,60
+Worlitschka,25.3.,Rosina,MatthÃ¤us,Schlesinger,25 (Ehefrau)
+Worlitschka,1.4.,Judith,Christoph,Weigel,3
+Jamnay,1.4.,Anna,Hans,Trampota,7
+Worlitschka,1.4.,Susanna,Hans,SchÃ¼ll,48 (Ehefrau)
+Worlitschka,3.4.,Susanna,Michael,Heisler,35 (Ehefrau)
+Waltersdorf,9.4.,Catharina,Georg,Czlamn#,60 (Witwe)(Sehr unsicher Ã¼ber den Nachnamen, schwer lesbar)
+
+DP 62
+
+Jamnay,9.4.,MatthÃ¤us,Georg,Czernohaus,10w
+Weypersdorf,10.4.,Magdalena,-,-,25 (Ehefrau)
+Tschenkowitz,12.4.,Elisabeth,Franz,Petr,4y9w3d
+Hermanitz,13.4.,Dorothea,Hans,Kulhanek,30 (Ehefrau)
+Hermanitz,14.4.,Catharina,Wenceslaus,S#zek,40 (Ehefrau)
+Jamnay,15.4.,Rosina,Hans,Hansliczek,26 (Ehefrau)
+Weypersdorf,15.4.,Judith,Georg,Mleinek,8w
+Weypersdorf,15.4.,Maria,Nickel,Worlitschka,6w
+Hermanitz,16.4.,Franz,Hans,Kulhanek,4w
+Waltersdorf,17.4.,Ester#,MatthÃ¤us,#hak,2.5
+Tschenkowitz,18.4.,Franz,Hans,HÃ¶hl,20w
+Worlitschka,21.4.,Sabina,Tobias,Feltzmann,62 (Witwe)
+Weypersdorf,23.4.,Hans,Lucas,Kubow,4
+Worlitschka,23.4.,Wenceslaus,Zacharias,Hoffmann,7
+Waltersdorf,24.4.,Hans,Georg,Pauk#,3
+Hermanitz,24.4.,Jacob,-,Martinek,50
+Waltersdorf,25.4.,Jacob,Wenceslaus,Killar,20
+Jablona,27.4.,Anna,Hans,Czernohaus,2
+
+DP 63
+
+Weypersdorf,29.4.,-,Paul,Chladek,- (#)(Ein Kind)
+Weypersdorf,30.4.,-,David,Resler,- (#)(Ein Kind)
+Tschenkowitz,30.4.,Hans,-,Fischer#,85
+Worlitschka,30.4.,Rosina,Hans,SchÃ¼ll,19# (Tochter) (13 oder 19?)
+Hermanitz,4.5.,Magdalena,Wenceslaus,Kubesch,40 (Ehefrau)
+Tschenkowitz,5.5.,Justina,Christoph,Heisler,45 (Ehefrau)
+Weyprachtitz,6.5.,Catharina,MatthÃ¤us,Wondr#,2 (Tochter)
+#,9.5.,Wenceslaus,Georg,Krcziwohlawek,9w2d
+Weyprachtitz,10.5.,Augustin,David,Hawelka,2w
+Hermanitz,10.5.,Elisabeth,Paul,Schwestka,1d
+Weyprachtitz,12.5.,Johann,-,#aud#sek,38
+Oberhermanitz,12.5.,Paul,Paul,Kubesch,10
+Oberhermanitz,14.5.,Johann,Jacob,Hnatek,10d
+Oberhermanitz,15.5.,Elisabeth,Paul,Schwestka Junior,26 (Ehefrau)
+Bystrcze#,16.5.,Georg,Peter,Kowarz,1y13w
+Weyprachtitz,16.5.,Johann,Paul,Markow,8d
+Unterhermanitz,16.5.,#,#,#,47 (#)(Name Martin Kubelka ist zu lesen, schwer zu lesen, ob der Verstorbene oder der Verwandte des Toten)
+
+DP 64
+
+1703
+
+DP 105
+    
+Bystrcze,19.4.,Johann,Wenceslaus,Kuczera,8w
+Walterczitz,22.4.,Rosina#,Georg,Nehyba,30 (Witwe) (HeiÃŸt das "Witwe"?)
+Jablona,9.7.,Johann#,Anton#,K#ka#,12 (#)(Namen richtig zugeordnet? Schwer lesbar, unsicher!)
+Tschenkowitz,19.7.,Christoph,Christoph,Kobliczek,1d
+Worlitschka,24.7.,Paul,BartholomÃ¤us,Schlesinger,14
+Worlitschka,30.7.,Elisabeth,Johann,Fe#,6w (Beruf HÃ¤usler)
+Worlitschka,23.4.,Christoph,BartholomÃ¤us,Heisler,6m (#) ("Mesio Anni" == "Halbes Jahr"?)
+Worlitschka,25.4.,Christoph,Dominik,SchÃ¼ll,7
+-,8.6.,Maria,Adam,KrÃ¶gler,55 (Witwe)
+Worlitschka,15.6.,Christoph,Georg,Weinlich#,5w
+Tschenkowitz,22.6.,Judith,Paul,Hansel#,# (#)(Nachname unsicher, schwer lesbar, "semitertio Annio")
+Worlitschka,26.6.,Johann,Johann,KrÃ¶gler,# (#)("Semiquinto Annio")
+Worlitschka,30.6.,Veronica,Georg,#,1d
+Worlitschka,4.7.,Christoph,-,Pfertner,78
+Jablona,1.8.,Marina,-,Wawrz#,35 (Beruf Inwohnerin) (Worauf bezieht sich der Name Martin Bauchal?)
+Unterhermanitz,9.5.,Anna,Martin,Schembera,41# (Ehefrau)
+Unterhermanitz#,16.5.,Johann,Martin,Schembera,2w (#)(Vermutlich bezogen auf den Sterbefall der Anna Schembera, daher Annahme, auch aus Unterhermanitz)
+Oberhermanitz,26.6.,Blasius,-,Pechaczek,51
+Oberhermanitz,28.6.,Anna,Paul,Taraschka,20w
+Oberhermanitz,12.7.,Wenceslaus,Paul,Janda#,2w
+Oberhermanitz,13.7.,Wenceslaus,-,Spiczak,67
+#,11.8.,Catharina,Jacob,Duchaczek,2d (Beruf Inwohner)
+Neudorf,13.8.,Christoph,-,Pfertner,- (Beruf HÃ¤usler#)
+-,17.8.,Wenceslaus#,Georg#,Kaschka,34 (#)(Namen richtig zugeordnet?)
+Oberhermanitz,21.8.,Franz,Wenceslaus,Schembera,17d
+Tschenkowitz#,26.8.,Augustin,Martin,Czern#,7#d (Beruf Inwohner)
+Worlitschka,30.8.,Wenceslaus,Wenceslaus,Schlesinger,21d
+Bystrcze#,4.9.,Martin#,-,Bieczalek,40 (Beruf Inwohner)
+Jamnay,6.9.,Anton,Johann,Doleczal,10d
+Hermanitz,7.9.,Wenceslaus,Martin,Maresch,18
+Worlitschka,14.9.,Elisabeth,Christoph,Weinlich,3#d (Beruf HÃ¤usler)
+Weyprachtitz,17.9.,Anna,Georg,Buczek,18 (Tochter)
+Weyprachtitz,23.9.,Eva,Johann,Jarolym,70 (Witwe)
+Weyprachtitz,26.9.,Eva,David,Skaliczky,11d (Beruf HÃ¤usler)
+Tschenkowitz,28.9.,Catharina,Thomas,Weigel,32 (Ehefrau,Beruf HÃ¤usler)
+Tschenkowitz,1.10.,Rosina,Thomas,Weigel,4w
+Weyprachtitz,2.10.,Paul#,MatthÃ¤us,Skaliczky,1w
+Jablona,2.10.,Mathias,-,Gregor,- (Beruf MÃ¼ller)
+Weyprachtitz,2.10.,Johann,David,Resler,20 (Beruf Inwohner)
+Weyprachtitz,7.10.,Marina,Georg,Kubelka,12# (Beruf Inwohner)
+Weyprachtitz,12.10.,Catharina,Mathias,Falta,30 (Ehefrau,Beruf Inwohner)
+Tschenkowitz,13.10.,Johann,-,SchÃ¼ttke,80 (Beruf Inwohner)
+Oberhermanitz,25.10.,Franz,Wenceslaus,Zalmann,8d
+Jamnay,25.10.,Anna,Georg,Prokopecz,80 (Witwe)
+Worlitschka,25.10.,Susanna,Johann,Schlesinger,5w (Beruf Inwohner)
+Weyprachtitz,11.11.,Wenceslaus,Johann,Hawlena,2w (Beruf Inwohner)
+Neudorf,16.11.,Magdalena,Martin,Krenik#,30w
+Bystrcze,18.11.,Catharina,-,-,80 (Witwe)
+Weyprachtitz,27.11.Paul,-,Beczek#,-
+Bystrcze,28.11.,Maria Magdalena,Nicolaus,Pekarz#,- (Beruf HÃ¤usler)(Tochter oder Ehefrau oder Witwe? Schwer lesbar!)
+Jamnay,28.11.,Johann,Paul,Doleczal,#d
+
+DP 106
+
+Bystrcze,4.12.,Catharina,Nicolaus,Wani#,4 (Beruf Inwohner)
+Neudorf,6.12.,Christian,Johann,Kholler,2d (Beruf Inwohner)
+Weyprachtitz,18.12.,Susanna,Johann,Podhaisky,26 (Tochter)
+Weyprachtitz,21.12.,Magdalena,Wenceslaus,Kubin,50 (Tochter)(Wird als Jungfrau bezeichnet)
+Bystrcze,22.12.,Dorothea,Wenceslaus,Kos,80 (Ehefrau,Beruf Exemplary Rustici)
+
+1704
+
+Neudorf,4.1.,Marina,Johann,SchÃ¼ll#,50# (Ehefrau,Beruf Inwohner)
+Bystrcze,5.1.,Johann,-,Reczen#,104 (Beruf Exempt#)
+Oberhermanitz,5.1.,Wenceslaus,Tobias,Martinek,14w (Beruf Bauer)
+Neudorf,11.1.,Justina,Johann,Krczenek,70 (Witwe)
+Jamnay,20.1.,Johann,Johann,Kreyczj#,19d (Beruf Inwohner)
+Neudorf,21.1.,Georg,Wenceslaus,Ptaczek,28w (Beruf HÃ¤usler)
+Jamnay,22.1.,Wenceslaus,Johann,Kreiczy#,22d (Beruf Inwohner)
+Tschenkowitz,26.1.,Judith,Johann,BÃ¼n,- (Beruf HÃ¤usler)(Nach Taufe begraben)
+Bystrcze,28.1.,Georg,Georg,Charvat,7d (Beruf Bauer)
+Neudorf,4.2.,Dorothea,Tobias,Kubesch,50 (Ehefrau,Beruf MÃ¼ller)
+Weyprachtitz,7.2.,Martin,-,Skaliczky,40 (Beruf Inwohner)
+Hermanitz,8.2.,Dorothea,Paul,Schwestka,7m (Beruf HÃ¤usler)
+Weyprachtitz,8.2.,Martin,-,Hrubesch,70 (Beruf Inwohner)
+Bystrcze,10.2.,Paul,Johann,Waniczek,10 (Beruf Inwohner)
+Worlitschka,12.2.,Anna,Franz,Wagner,11d (Beruf Inwohner)
+Neudorf,12.2.,Judith,Georg,Kuczera,6w (Beruf HÃ¤usler)
+Weyprachtitz,17.2.,Johann,-,Ptaczek,80 (Beruf Exemptuary Rustico)
+Bystrcze,23.2.,Catharina,Jacob,Waschiczek,16w (Beruf Bauer)
+Jamnay,25.2.,Johann,MatthÃ¤us,Philip,7w (Beruf Bauer)
+Worlitschka,26.2.,Susanna,Johann,Langer#,70 (Witwe)
+Tschenkowitz,6.3.,Catharina,Johann,Stefl#,53 (Ehefrau)
+Worlitschka,8.3.,Anna Rosina,Paul,Polak,50w
+Weyprachtitz,9.3.,MatthÃ¤us,-,LeÃŸler#,59 (Beruf Schneider)
+Worlitschka,15.3.,Rosina,Georg,Schlesinger,50 (Ehefrau)
+Jablona,16.3.,Dorothea,Georg,Janek,70 (Ehefrau,Beruf Inwohner)
+Jamnay,17.3.,Catharina,Georg,Waczek,0 (Beruf HÃ¤usler)
+Worlitschka,21.3.,Franz,Christoph,Dittrich,12d (Beruf Inwohner)
+Bystrcze,21.3.,Dorothea,Jacob,Roczen#,6m (Beruf HÃ¤usler)(HeiÃŸt das "halbes Jahr"?)
+Bystrcze,27.3.,Mathias,-,Ryll#,- (Beruf HÃ¤usler)(Was heiÃŸt das vor "Mathias"?)
+Tschenkowitz,1.4.,Marina,Paul,Hoffmann,7# (heiÃŸt das Jahre?)
+Worlitschka,17.4.,Maria,Georg,SchÃ¼ll,3 (Beruf HÃ¤usler
+Weyprachtitz,1.5.,Judith,Georg,Smeykal,21d (Beruf HÃ¤usler)
+Bistrcze,4.5.,Judith,Georg,Lischka,21d (Beruf HÃ¤usler)
+Tschenkowitz,15.5.,Thomas,Wenceslaus,Ptaczek,14d
+Tschenkowitz,17.5.,Johann Heinrich,Wenceslaus,Schlesinger,1#y14d (#)(HeiÃŸt das 1 oder 4 Jahre?)
+Worlitschka,28.5.,Franz,Christoph,Neugebauer,8d
+Tschenkowitz,1.6.,Augustin,Johann,Kobliczek,8 (#)("Annis octo")
+Worlitschka,13.6.,Rosina,Johann,Pfertner,25 (Ehefrau)
+Neudorf,14.6.,Franz,Johann,Naschke,7
+Worlitschka,26.6.,Andreas,Georg,Heisler,2d (Beruf HÃ¤usler)
+Czerm#,26.6.,Johann,-,Wondr#,70 (Beruf Inwohner)
+Bystrcze,23.7.,Paul,Georg,Hrdina,10d (Beruf HÃ¤usler)
+
+DP 107
+
+Weyprachtitz,24.7.,Anna,-,SchÃ¼ll,30# (#)("Elternteil hiess SchÃ¼ll")
+Weyprachtitz,30.7.,Martin,Wenceslaus,Skaliczky,3d
+Worlitschka,2.8.,Maria,Johann,TÃ¶pper,# (Beruf Inwohner)(Kind oder Ehefrau?)
+Hermanitz,6.8.,Anna,Paul,Czink,- (Beruf HÃ¤usler)(Kind oder Ehefrau?)
+Neudorf,8.8.,Wenceslaus,Wenceslaus,Veith#,10 (Beruf HÃ¤usler)(Gelesen: "Ffeitu")
+Worlitschka,9.8.,Dorothea,Georg,KrÃ¶gler,- (Ehefrau)
+Worauf,20.8.,Veronica,Christian,Wagner,1 (Beruf HÃ¤usler)
+Neudorf,28.8.,Johann,Johann,Schmidek#,4.5#w
+Tschenkowitz,29.8.,Augustin,Georg,Seidlmann,32w (Beruf Inwohner)
+Bystrcze,29.8.,Johann,-,Krcziwohlawek,50 (Beruf Inwohner)
+Bystrcze,31.8.,Johann,Martin,Kaschka,11m (Beruf Inwohner)
+Bystrcze,3.9.,Anna,Georg,Mistr,12 (Beruf Exemptity#)
+Worlitschka,4.9.,Veronica,Michael,Pfertner,14d (Beruf HÃ¤usler)
+Tschenkowitz,4.9.,Johann,-,SchÃ¼ll,50 (Beruf Inwohner)
+Weyprachtitz,10.10.,Catharina,Wenceslaus,Burian,30 (Ehefrau)
+Oberhermanitz,15.10.,Anna,Johann,Schwestka,11d (Beruf Inwohner)
+Bystrcze,31.10.,Maria Magdalena,Jacob,Jansa,- (Beruf Bauer)
+Worlitschka,10.11.,Veronica,Mathias,Hoffmann,6#m (#)(HeiÃŸt das "halbes Jahr"?)
+Worlitschka,11.11.,Wenceslaus,Dominik,Schuster,20
+Tschenkowitz,11.11.,Wenceslaus,Paul,Hauk,9w
+Unterhermanitz#,19.11.,Anna,Johann,Chromy,2w
+Worlitschka,25.11.,Rosina,Georg,Heisler,36 (Ehefrau)
+Lubnik,26.11.,Anton,Johann,Doleczal,2w (Beruf MÃ¼ller)
+Weyprachtitz,27.11.,Wenceslaus,Gregor,Luding#,16d
+Weyprachtitz,14.11.,Anna,-,Wondra#,90 (Witwe)
+Weyprachtitz,1.12.,Johann,Paul,Ptaczek,18
+Weyprachtitz.4.12.,Catharina,Nicolaus,Skaliczky,1 (Beruf Bauer)
+Bystrcze,5.12.,Johann,Jacob,Krcziwohlawek,9w (Beruf Inwohner)
+Worlitschka,5.12.,Christoph,-,Schuster#,74 (Beruf Bettler)
+Neudorf,14.12.,Jacob,-,Duchaczek,50
+Worlitschka,14.12.,Judith,Georg,Schi#,- (#)(Schirr?)
+Hermanitz,13.12.,Judith,Nicolaus,SchÃ¼ttke,42 (Ehefrau)
+Hermanitz,17.12.,Johann,-,SchÃ¼ttke,92
+Hermanitz,18.12.,Paul,-,Kulhanek,45
+Hermanitz,19.12.,Catharina,Johann,Jeczek,70 (Witwe)
+Tschenkowitz,26.12.,Anna,Mathias,Blaczek,80 (Witwe)
+Weyprachtitz,28.12.,Marianna,-,Faltl#,3
+Oberhermanitz,31.12.,Catharina,Jacob,Hnatek,40# (Witwe)
+-,7.11.,Catharina,-,Luca#,#
+
+DP 108
+
+1705
+
+Neudorf,2.1.,Rosina,Michael,Haynel#,4
+Oberhermanitz,3.1.,Mathias#,#,Maresch#,90# (Beruf Inwohner)(Es steht zum Einen "Filium", zum Anderen "90 Jahre" - unsicher, ob richtig entziffetrt!)
+Tschenkowitz,4.1.,Rosina,Georg,Langhammer,8
+Weyprachtitz,4.1.,Anton,Paul,RÃ¶sler,12w
+Oberhermanitz,6.1.,Eva,Mathias,Kyll#,70 (Witwe)(Kyll, Ryll, SchÃ¼ll?)
+Hermanitz,6.1.,Marina,Johann,Kobsa,4d (Beruf HÃ¤usler)
+Jamnay,9.1.,Susanna,Johann,Rubesch,2#d
+Hermanitz,12.1.,-,-,Schwestka,- (#)("Junioris Schwestka")
+Jamnay,12.1.,Susanna,Jacob,Kobliczek,80 (Ehefrau)
+Jablona,13.1.,Eva#,Johann#,Heyl#,80 (Ehefrau,Beruf Inwohnerin)(HeiÃŸt das "Eva"? Sterbematrikel von ihr oder ihm? Ehefrau?)
+Oberhermanitz,16.1.,Wenceslaus,Johann,Zalmann,5d
+Worlitschka,17.1.,Rosina,Johann,Pecziwal,70 (Witwe)
+Hermanitz,18.1.,Marina,Martin,SchÃ¼ttke,70 (Ehefrau)
+Oberhermanitz,20.1.,Franz,Christian,Beran,12
+Bystrcze,24.1.,Magdalena,Wenceslaus,Mrazek,80 (Witwe)
+Hermanitz,2.2.,Anna,Georg,Brokesch,3m (Beruf Inwohner)
+Tschenkowitz,3.2.,Christoph,-,Bock,42
+Jablona,3.2.,Daniel,-,Czerwenka,- (Beruf Schuhmacher)
+Jablona,7.2.,Polexina Theresia,Johann,Schwantzar,16d (Beruf BÃ¤cker)
+Oberhermanitz,12.2.,Anna,Paul,Schwestka,4# (#)(4, 14 oder 40? Falls 40, Tochter oder Ehefrau?)
+Worlitschka,12.2.,Mathias,-,Schlesinger,40
+Tschenkowitz,8.2.,Wenceslaus,Michael,Fischer,6d
+Worlitschka,9.2.,Elisabeth,Georg,KrÃ¶gler,14d
+Neudorf,12.2.,Johann,-,Weinlich,50 (Beruf Schuhmacher)
+Oberhermanitz,13.2.,Wenceslaus,-,Mach,40 (Beruf HÃ¤usler)
+Worlitschka,16.2.,Mathias,-,Schlesinger,40
+Weyprachtitz,16.2.,Catharina,Johann,Sedlaczek,3w
+Weyprachtitz,16.2.,Dorothea,Wenceslaus,Morawetz,52 (Ehefrau)(HeiÃŸt das "Uxor"?)
+Weyprachtitz,17.2.,Wenceslaus,Paul,Petr,5.5
+Hermanitz,19.2.,Marina,Johann,Taraschka,65 (Ehefrau)
+Jamnay,20.2.,Martin,Wenceslaus,Blaczek,20
+Hermanitz,24.2.,Johann und Catharina,Martin,Jansky,- (Beruf HÃ¤usler)
+Oberhermanitz,2.3.,Georg,-,Hawel,41#
+Oberhermanitz,2.3.,Johann und Dorothea,Martin,Jansky,0
+Worlitschka,3.3.,Rosina,Tobias,Nehyba,57 (Ehefrau)
+Worlitschka,3.3.,Maria,Johann,Moser,4y3m
+Worlitschka,11.3.,Laurenz,Georg,Harmert#,15m (BEruf HÃ¤usler)
+Weyprachtitz,13.3.,Georg,-,Koczak,40#
+Jablona,14.3.,Anna#,Adam#,Domlatil,6
+
+DP 109
+
+Weyprachtitz,17.3.,Victorin,Martin,Skaliczky,7d (Beruf HÃ¤usler)
+Weyprachtitz,19.3.,Magdalena,Georg,Kozak,40# (Witwe)(40,46 oder 48?)
+Worlitschka,19.3.,Judith,Johann,Czernohorsky,18d
+Worlitschka,25.3.,Johann,Johann,Schlesinger,3m
+Worlitschka,29.3.,Elisabeth,Johann,SchÃ¼ttke,70 (Witwe)
+Tschenkowitz,30.3.,Anna,Mathias,Polak,60 (Ehefrau)(HeiÃŸt das "Uxor"?)
+Tschenkowitz,4.4.,Judith,Johann,Seidlmann,9m (Beruf Inwohner)
+Jablona,4.4.,Anna,Wenceslaus,Cziczar,64 (Ehefrau)(Tochter,Ehefrau oder Witwe? Steht nicht dran!)
+Tschenkowitz,4.4.,27.3.,Georg,Johann,Kobliczek,4
+Tschenkowitz,5.4.,Paul,Paul,Kratky,10w
+Worlitschka,6.4.,Michael,-,SchÃ¼ll,60
+Bystrcze,12.4.,Wenceslaus,Georg,Spiczak,15#
+Tschenkowitz,26.4.,Augustin,Johann,Kobliczek,6m (#)(HeiÃŸt das "Halbes Jahr"?)
+Jamnay,26.4.,Catharina,Johann,Waczek,0 (Beruf Inwohner)
+Tschenkowitz,3.5.,Johann,Wenceslaus Franz,Nentvich,-
+Bystrcze,5.5.,Catharina,Martin,Matiegka,- (Beruf HÃ¤usler)
+Bystrcze,11.5.,Paul,Wenceslaus,Hrdina,39w
+Weyprachtitz,14.5.,Catharina,Johann,Koczak,40# (Ehefrau,Beruf HÃ¤usler)
+Worlitschka,20.5.,Rosina,Dominik,SchÃ¼ll,36 (Ehefrau)
+Jablona,20.5.,Johann,Paul,Hawel,13w (Beruf BÃ¤cker)
+Jablona,23.5.,Joseph,Nicolaus,Trampota,1 (Beruf HÃ¤usler)
+Worlitschka,23.5.,Veronica,Wenceslaus,Heisler,14w
+Bystrcze,26.5.,Judith,Martin,Kaschka,5m (Beruf Inwohner)(HeiÃŸt das "Halbes Jahr"?)
+Tschenkowitz,28.5.,Veronica,Georg,Feldtmann#,8d (Beruf HÃ¤usler)
+Tschenkowitz,28.5.,Anna,Andreas,Klein,1.75
+Worlitschka,2.6.,Maria,Wenceslaus,Pfertner,5w (Beruf HÃ¤usler)
+Worlitschka,8.6.,Christina,Christoph,Schlesinger,78 (Witwe)
+Worlitschka,8.6.,Susanna,Wenceslaus,Schlesinger,41# (Ehefrau)
+Hermanitz,5.6.,Martin,-,Kobsa,70
+Weyprachtitz,10.6.,Dorothea,-,Markow,23 (#)(Sie war Jungfrau)
+Jamnay,11.6.,Anna,Wenceslaus,Morawetz,2d (Beruf Bauer)
+Tschenkowitz,21.6.,Johann,Augustin,Heisler,0 (Beruf HÃ¤usler)
+Bystrcze,22.6.,Johanna Ludmilla,Johann,Veith,6 (Witwe)
+Worlitschka,24.6.,Anton,Andreas,Schlesinger,42w
+Jamnay#,27.6.,#,Johann,Prokopecz,16d
+Jamnay,28.6.,Johann,MatthÃ¤us,Kobliczek,15d (Beruf Inwohner)
+Hermanitz,29.6.,Ludwig,-,Koczaczek,40
+Weyprachtitz,3.7.,David,-,Rectoru#,80 (#)(Rectoru der Name oder der Beruf?)
+Bystrcze,5.7.,Susanna,Jacob,Kyllar,2#
+Worlitschka,6.7.,Andreas,Wenceslaus,Schlesinger,7w
+Bystrcze,6.7.,Wenceslaus,Wenceslaus,Andrle,1 (Beruf Inwohner)
+Hermanitz,6.7.,Paul,-,Barton,42 (Beruf Inwohner)
+Tschenkowitz,8.7.,Catharina,Dominik,SchÃ¼ttke,50 (Ehefrau)
+Bystrcze,10.7.,Marina,Jacob,Waniczek,6m (Beruf Bauer)(HeiÃŸt das "Halbes Jahr"?)
+
+DP 110
+
 
 
