@@ -2422,6 +2422,299 @@ Bystrcze,30.12.,Paul,Martin,Kuczera#,14d (Beruf Inwohner)(Ist die Zeile darunter
 
 DP 114
 
+1707
 
+Bystrcze,5.1.,Wenceslaus,-,Kos,80 (Beruf Häusler)
+Worlitschka,12.1.,Anton,Michael,Pecziwal,21w
+Jablona,16.1.,Maria Magdalena,Martin,Merta,90 (Witwe)
+Bystrcze,27.1.,Elisabeth,Johann,Kubin,- (Tochter)
+Weyprachtitz,27.1.,Veronica,Martin,Schembera,# (Tochter)
+-,27.1.,Johann Georg,Franz,Weinlich,-
+Worlitschka,30.1.,Susanna,Johann,Schlesinger,60 (Ehefrau)
+Hermanitz,1.2.,Johann,-,Zalmann,60
+Weyprachtitz,2.2.,Wenceslaus#,Martin#,Kubin,- (#)(Heißt "begraben Wenceslaus Kubu, Martiny" "begraben ist Wenceslaus, der Sohn des Martin Kubin" (Genetiv bei Martin!)?)
+Jamnay,2.2.,Margaretha,Jacob,Jeczek,1 (Beruf Inwohner)
+Bystrcze,14.2.,-,Jacob,Kos,14d
+Neudorf,14.2.,Adam und Eva,Caspar,Duschek,0 (#)(Neudorf oder Jabloné?)
+-,16.2.,Franz,Johann,Byr,36w
+Worlitschka,25.2.,Anna,Michael,Pfertner,25 (Ehefrau)
+Worlitschka,26.2.,Veronica Maria#,-,Schüttke,11w (Witwe)
+Bystrcze,2.3.,Jacob,Johann,Schimek,4d (Beruf Inwohner)
+Worlitschka,3.3.,Anton,Johann,Moser,3.5
+-,3.3.,Susanna,Tobias,Polaczek,- (Beruf Häusler)(Tochter oder Ehefrau?)
+Jablona,4.3.,Theresia,Anton,Stiastny,2 (Beruf Häusler)
+Jablona,6.3.,Joseph,Paul,Hawel#,9m (Beruf Bäcker)(Nominativ von Hawlu ist Hawel?)
+Weyprachtitz,7.3.,Magdalena,Georg,Czerny,80 (Witwe)
+#,9.3.,Dorothea,Samuel,Duschek#,78 (Witwe,Beruf Dulciary#)
+Oberhermanitz,9.3.,Wenceslaus,-,Maresch,40 (Beruf Faber Fr#)
+Weyprachtitz,9.3.,Judith,Johann,Skaliczky,18w
+Bystrcze,11.3.,Tobias,-,Zelynka,50 (Beruf Lehrer)
+Hermanitz,13.3.,Johann,Georg,Roczen,3d
+Worlitschka,14.3.,Christoph,Franz,Harmert,6#m (#)(Heißt das "1 halbes Jahr"?)
+Unterhermanitz,17.3.,Florian,Johann,Morawetz,11d
+Neudorf,19.3.,Marina,Georg,Nehyba,6d
+Weyprachtitz,20.3.,-,Paul,Petr,6d
+Weyprachtitz,21.3.,Johann,Georg,Pawel#,7d (#)(Nominativ von Pawlu ist Pawel?)
+Jablona,21.3.,Johann,Augustin,Czerwenka,6#m (#)(Heißt das "Halbes Jahr"?)
 
+DP 115
+
+Weyprachtitz,25.3.,Paul,Wenceslaus,Bednar,17w
+Neudorf,25.3.,Johann,Tobias,Naschke,5w
+Grulich,27.3.,Rosina,Elias,Pecker,- (Tochter)(Rosina war Jungfrau)
+Jablona,28.3.,Catharina,Wenceslaus,Skaliczky,6#m (Beruf Bäcker)(Heißt das "Halbes Jahr"?)
+Tschenkowitz,29.3.,Maria,Johann,Feltzmann,60 (Witwe)
+Neudorf,29.3.,Adam und Eva,Paul,Hoffmann,0
+Tschenkowitz,29.3.,Veronica,Mathias,Heisler,14d
+Worlitschka,29.3.,Matthäus,-,Schlesinger,87
+Jamnay,3.4.,Paul,-,Morawetz,90 (Beruf Exempti#)
+Jablona,5.4.,Anna#,Anton#,Stiastny,6#m (#)(Anna Namen des Kindes? Heißt das "Halbes Jahr"?)
+Unterhermanitz,7.4.,Johann Georg,Wenceslaus,Heyl,3m
+Jamnay,7.4.,Georg,Wenceslaus,Valenta,28w
+Bystrcze,10.4.,Martin,-,Kyllar,30
+Bystrcze,11.4.,Catharina,Martin,Marek,1 (Beruf Häusler)
+Bystrcze,27.4.,Judith,Jacob,Jeczek,10w (Beruf Inwohner)
+Worlitschka,28.4.,Ferdinand,Franz,Wagner,14d
+Worlitschka,29.4.,Franz,Johann,Heisler,3w
+Bystrcze,29.4.,Paul,-,-,12w U: Kind von Magdalena Smrczkowa#
+Weyprachtitz,29.4.,Martin,Martin,Hawlena,13d
+Jamnay,29.4.,Judith,Johann,Stepan,3
+Weyprachtitz,1.5.,Dorothea,-,Wawrowa,40# (Beruf Inwohnerin)
+Weyprachtitz,2.5.,Martin,-,Chladek Junior,30 (Beruf Häusler)
+Worlitschka,8.5.,Christoph,Christoph,Langer,14w
+Unterhermanitz,10.5.,Anna,Martin,Kobsa,26 (Ehefrau,Beruf Häusler)
+Bystrcze,11.5.,Johann,-,Mrazek,40 (Beruf Bauer)
+-,17.5.,Caspar,-,Schüll,26
+Bystrcze,21.5.,Susanna,Johann,Kubin,70 (Witwe)
+Weyprachtitz,22.5.,Joseph# und #,Martin#,Jansa#,0 (#)(Joseph Namen des ersten der beiden Kinder? Martin Jansa Name des Vaters?)
+Neudorf,23.5.,Wenceslaus,Johann,Kuczera#,6m
+Tschenkowitz,23.5.,Marina,Johann,Schlesinger,1.5 (Beruf Häusler)
+Neudorf,1.6.,Catharina,Johann,Schüll,4w
+Bystrcze,4.6.,Dorothea,Georg,Hrdina,20w (Beruf Inwohner)
+Hermanitz,5.6.,Michael,Wenceslaus,Brokesch,7d (Beruf Inwohner)
+Tschenkowitz,9.6.,Georg,-,Noschke,50
+Unterhermanitz,9.6.,Paul,-,Ptaczek,56
+Hermanitz,9.6.,Marina,Martin,Brokesch,5d
+Hermanitz,9.6.,Michael,Wenceslaus,Brokesch,2w
+
+DP 116
+
+Unterhermanitz,9.6.,Marina,Paul,Maresch,32 (Ehefrau)
+Weyprachtitz,12.6.,Georg,Georg,Skaliczky,15w
+Worlitschka,17.6.,Maria,Christoph,Kobliczek,10d
+Worlitschka,21.6.,Catharina,Georg,Schüll,72 (Ehefrau)(Heißt das "Uxor"?)
+Neudorf,22.6.,Bartholomäus,-,Weinlich,50
+Weyprachtitz,29.6.,Anna,Georg,Kyllar,10w (Beruf #otary)
+Tschenkowitz,1.7.,Rosina,Johann,Rosner#,80 (Witwe,Beruf Inwohnerin)
+Bystrcze,13.7.,Anna,Johann,Dittrich,6#m (#)(Heißt das "Halbes Jahr"?)
+Tschenkowitz,21.7.,Judith,Mathias,Chladek,1 (Beruf Häusler)
+Worlitschka,22.7.,Andreas,Franz,Krögler,10d (Beruf Inwohner)
+Tschenkowitz,22.7.,Franz,Franz,Petr,6 (Beruf Lehrer)
+Worlitschka,29.7.,Maria,Wenceslaus,Schüll,12d
+Jamnay,31.7.,Mathias,Johann,Doleczek,25w
+Weyprachtitz,9.8.,Johann,Johann,Rösler,8d
+Hermanitz,13.8.,Catharina,Paul,Taraschka,4w (Beruf Inwohner)
+Jamnay,13.8.,Dorothea,Paul,Behaunek,2 (Beruf Inwohner)
+Jamnay,14.8.,Dorothea,Georg,Kreyczj,# (Beruf Inwohner)(Tochter oder Ehefrau?)
+Oberhermanitz,19.8.,Marina,Martin,Kuba,24# (#)(Tochter oder Ehefrau? Alter in Jahren?)
+Jamnay,20.8.,Paul,Georg,Krejczy,15w (Beruf Häusler)
+Tschenkowitz,21.8.,Rosina,Wenceslaus,Morawetz,18 (Ehefrau)
+Weyprachtitz,22.8.,Catharina,Wenceslaus,Dlauhy#,1y3m (Beruf Häusler)
+Unterhermanitz,22.8.,Marina,Nicolaus,Filip,14d
+Jamnay,23.8.,Johann,Johann,Urban,2#w (Beruf Inwohner)
+Jamnay,24.8.,Dorothea,Johann,Prokopecz,0 (Beruf Häusler)
+Weyprachtitz,30.8.,Anna,Georg,Marek,2# (Beruf Bauer)
+Unterhermanitz,31.8.,Anna,Johann,Maresch,- (Witwe)
+Bystrcze,31.8.,Johann,Wenceslaus,Bednarz#,2
+Worlitschka,4.9.,Johann,Georg,Heisler,6
+Tschenkowitz,4.9.,Rosina,Wenceslaus,Morawetz,3w
+Weyprachtitz,6.9.,Johann,Georg,Buczek,14
+Weyprachtitz,8.9.,Paul,Georg,Chladek,6#m (#)(Heißt das "Halbes Jahr"?)
+Jamnay,11.9.,Jacob#,-,Kobliczek,70 (Witwer,Beruf Exempt#)
+Weyprachtitz,21.9.,Magdalena,Martin,Chladek,6#m (#)(Heißt das "Halbes Jahr"?)
+
+DP 117
+
+Neudorf,21.9.,Tobias,-,Nehyba,35 (Beruf Inwohner)
+Tschenkowitz,23.9.,Johann,Paul,Pck#,7w
+Weyprachtitz,25.9.,Anna,Johann,Marek,1 (Beruf Inwohner)
+Jamnay,25.10.,Wenceslaus,Paul,Prokopecz,1
+Jamnay,30.10.,Martin,-,Czernohaus,50
+Worlitschka,17.11.,Franz,Wenceslaus,Pecziwal,14d (Beruf Häusler)
+Worlitschka,7.12.,Judith,Paul,Polak,6#w (Beruf Häusler)
+Worlitschka,8.12.,Veronica,Christoph,Heisler,54w
+Worlitschka,10.12.,Elisabeth,Mathias,Krögler,2.5
+Unterhermanitz,12.12.,Wenceslaus,Johann,Kubelka,3w3d
+Oberhermanitz,15.12.,Marina,Georg,Koubek,3# (Beruf Häusler)
+Weyprachtitz,23.12.,Marina,Johann,Ptaczek,50 (Witwe)
+Jablona#,25.12.,Anna,Johann,Doleczek,1.5 (Beruf Müller)(Was bedeutet die Zeile darunter? Aber vermute kein weiteres Matrikel!)
+
+1708
+
+Weyprachtitz,11.1.,Marina#,Paul,Chladek,60 (Witwe)
+Bystrcze,14.1.,Paul,Martin,Kaschka,1.5
+Jamnay,20.1.,Johann,Augustin,Schlesinger,1.5
+Worlitschka,21.1.,Dominik,-,Schüttke,60 (Beruf Bettler)
+Worlitschka,21.1.,Susanna,Wenceslaus,Krögler,1.5
+Tschenkowitz,26.1.,Marina,Johann,Kobliczek,1
+Weyprachtitz,27.1.,Veronica,Franz,Rösler,10w
+Jablona,28.1.,Polexina,Karl,Grus,13d
+Tschenkowitz,31.1.,Maria,Georg,Noschke,55 (Witwe)
+Hermanitz,6.2.,Martin,Johann,Roczen,4d
+Worlitschka,8.2.,Maria,Paul,Heisler,12
+Bystrcze,8.2.,Judith,Wenceslaus,Krystek,10d (Beruf Inwohner)
+Worlitschka,8.2.,Susanna,Christoph,Schüll,10
+Jablona,14.2.,Johann,-,Seybal,67
+Tschenkowitz,23.2.,Catharina,Wenceslaus,Waczek#,80 (Witwe)
+Weyprachtitz,26.2.,Martin,Nicolaus,Heyl,3d (Beruf Häusler)
+Jablona,26.2.,Ignatz,Johann,Grus,16w4d (Beruf Dulciary#)
+
+DP 118
+
+Tschenkowitz,2.3.,Veronica,Paul,Heisler,7w
+Hermanitz,7.3.,Anna,Johann,Schwestka,18d (Beruf Inwohner)
+Weyprachtitz,8.3.,Martin Anton,Martin,Wottawa,6d (Beruf Bauer)
+Jablona,8.3.,Johann,-,Klesl,40 (Beruf Bürger)
+Hermanitz,8.3.,Georg,-,Pawlas,40
+Tschenkowitz,9.3.,Paul,Georg,Kratky,6m
+Weyprachtitz,9.3.,Paul,-,Girasek,25 (Beruf Ehemaliger# Soldat#)
+Jablona,11.3.,Joseph,Paul,Sedlar,15#d (#)(Heißt das "dies"?)
+Unterhermanitz,16.3.,Catharina,Paul,Kubenka#,- (Witwe)
+Weyprachtitz,16.3.,Johann,Wenceslaus,Hawlena,4d
+Jablona,16.3.,Paul,-,Czernohorsky,80 (Beruf Benefactor # Faber)
+Neudorf,18.3.,Paul,Johann,Kholler,4w
+Czermna,18.3.,Laurenz,-,Heyl,80
+Weyprachtitz,21.3.,Eva,Martin,Wottawa,35 (Ehefrau)
+Worlitschka,24.3.,Johann,Johann,Heisler,2 (Beruf Inwohner)
+-,31.3.,Marianna,Georg,Kubin,50 (Ehefrau,Beruf Bauer)
+Bystrcze,4.4.,Elisabeth,Jacob,Roczen,6m (Beruf Inwohner)
+Worlitschka,6.4.,Veronica,Franz,Pecziwal,9m
+Bystrcze,11#.4.,Catharina,Georg,Kaschka,40 (Ehefrau)
+#,18.4.,Paul,-,Waschiczek,40 (Beruf Häusler)
+Weyprachtitz,21.4.,Johann,Georg,Jarolym,0 (Beruf Häusler)("12 Stunden")
+Weyprachtitz,25.4.,Judith,Johann,Gerabek#,10d
+Tschenkowitz,29.4.,-,Paul,Bock,0 (#)(Zwillinge)
+Weyprachtitz,8.5.,Johann,-,Doleczal,80 (Beruf Inwohner)
+Jablona,11.5.,Jacob,-,Wottawa,73 (Beruf Faber)
+Weyprachtitz,13.5.,Anton,Paul,Marek,4d
+Bystrcze,16.5.,Maria Magdalena,Johann,Kubin,40 (Ehefrau)(Tochter oder Ehefrau?)
+Worlitschka,16.5.,Christoph,Dominik,Weinlich,28
+Jablona,17.5.,Anna,Paul,Sedlar,2.5
+Hermanitz,19.5.,Johann,-,Kubelka,60 (Witwer)
+-,20.5.,-,Franz,Grus,0
+Worlitschka,21.5.,Christoph,Christoph,Weinlich,11
+Neudorf,15.6.,Anna,Christoph,Schüll,42 (Ehefrau)
+Worlitschka,16.6.,Elisabeth,Georg,Schier#,8d
+Hermanitz,20.6.,Catharina,Georg,Zalmann,8d
+Jablona,25.6.,Ignatz,Nicolaus,Chladek,51#w (Beruf Vesp#onis)
+Tschenkowitz,4#.7.,Mathias,-,Heisler,75 (Witwer)
+Jablona,7.7.,Joseph,Franz,Kulhanek,6m (Beruf Incola)
+Hermanitz,8.7.,Maria Magdalena,Georg,Kulhanek,50# (Ehefrau)(50 oder 90?)
+
+DP 119
+
+Tschenkowitz,10.7.,Susanna,Michael,Asmann,57 (Ehefrau)(Heißt das "Uxor"?)
+Worlitschka,16.7.,Anton,Christoph,Worlitschka,6d
+Jamnay,18.7.,Marianna,Martin,Hansliczek,40 (Ehefrau)
+Worlitschka,20.7.,Rosina,Christoph,Kholler,1d
+Tschenkowitz,20.7.,Regina,Paul,Heisler,40 (Ehefrau)(Heißt das "Uxor"?)
+Hermanitz,27.7.,Martin,Nicolaus,Marek,20w
+Hermanitz,27.7.,Johann,-,Rösler,20 (Beruf Inwohner)
+Tschenkowitz,10.8.,Elisabeth,Paul,Heisler,2.5
+Weyprachtitz,17.8.,Martin,-,Ptaczek,50 (Beruf Häusler)
+#,23.8.,-,Wenceslaus,Netuschil#,5
+Worlitschka,2.9.,Georg,-,Schüll,65
+Worlitschka,10.9.,Anton,Christoph,Schlesinger,14d
+Jablona,15.9.,-,Wenceslaus,Jelinek,0 (#)(Zwillinge)
+Weyprachtitz,30.9.,Johann,Paul,Rösler,6w
+Weyprachtitz,2.10.,Dorothea,Paul,Kubu,80 (Ehefrau)
+Benatek#,9.10.,Anna,Johann,Blaczek,10 (Beruf Häusler)
+Worlitschka,10.10.,Maria#,Georg#,Langer#,26d (#)(Namen richtig zugeordnet?)
+Unterhermanitz,29.10.,Johann,Paul,Maresch,3w
+Tschenkowitz,1.11.,Wenceslaus,Christoph,Sonntag,30d
+Tschenkowitz,2.11.,Justina,Michael,Hentzl,80 (Witwe)
+Neudorf,14.11.,Johann,Johann,Schüll,19d
+Jamnay,14.11.,Paul,Johann,Prokopecz,11d
+Jablona,16.11.,Catharina,Jacob,Wottawa,9m (Beruf Häusler)
+Worlitschka,16.11.,Wenceslaus,Michael,Schlesinger,- (Beruf Inwohner)
+Weyprachtitz,4.12.,Magdalena,-,Sedlar,70 (Witwe,Beruf Inwohnerin)
+Bystrcze,6#.12.,Matthäus,-,Kuczilek#,70 (Beruf Häusler)
+Oberhermanitz,10.12.,Mathias,-,Mrazek,60
+Tschenkowitz,13.12.,Johann,-,Nehyba,65 (Beruf Häusler)
+Jablona,21.12.,Rosalia,Paul,Hawel,9#m  (Beruf Bäcker)(Heißt das 3/4 Jahre oder 34 Jahre? Tochter oder Ehefrau?)
+Worlitschka,23.12.,Anna,Michael,Pecziwal,8
+Neudorf,27.12.,Johann,Georg,Pechaczek,6m (Beruf Inwohner)
+Worlitschka,29.12.,Apollonia,Georg,Pfertner,3w
+Hermanitz,30.12.,Dorothea,Martin,Kordas,50# (Ehefrau)(Heißt das "Uxor"? Heißt das "50"?)
+
+DP 120
+
+1709
+
+Hermanitz,4.1.,Franz,Wenceslaus,Netuschil#,8d (Beruf Inwohner)
+Jamnay,5.1.,Ludmilla,Johann,Behaunek,- (Tochter)
+Neudorf,6.1.,Rosina,Martin,Feltzmann#,50 (Ehefrau)(Heißt das "Uxor"?)
+Worlitschka,9.1.,Michael,-,Pecziwal,37
+Jamnay,12.1.,Anna,Johann,Prokopecz,7.5#
+Unterhermanitz,16.1.,Polexina,Johann,Morawetz,1 (Tochter)("Apoplexia", also Schlaganfall bei einer 1jährigen? Damals hat man es wohl mit den Todesursachen nicht so genau genommen... Plötzlicher Kindstod, evtl.?)
+Hermanitz,16.1.,Franz,Wenceslaus,Mach,8w
+Oberhermanitz,20.1.,Johann,-,Spiczak,45#
+Hermanitz,20.1.,Paul,Georg,Roczen,3m
+Hermanitz,22.1.,Marina,Tobias,Schwestka,19 (Ehefrau)
+Jablona,27.1.,-,Martin,Hansliczek,3# 
+Jablona,29.1.,Dorothea,Johann,Doleczal,12d
+Tschenkowitz,30.1.,Caspar,Mathias,Polaczek#,3w
+Hermanitz,31.1.,Anna,Johann,Kulhanek,9m
+Hermanitz,5.2.,Anna,Paul,Maresch,45 (Ehefrau)
+Bystrcze,6.2.,Anna,Johann,Kobliczek,55 (Ehefrau)
+Worlitschka,6.2.,-,Franz,Wagner,7w
+Bystrcze,9.2.,Georg,Georg,Kub#,15d
+Weyprachtitz,11.2.,Anton,Georg,Marek,9w
+Hermanitz,28.2.,Marina,Wenceslaus,Hluchy#,35 (Ehefrau,Beruf Häusler)
+Worlitschka,6.3.,Susanna,-,Weinlich,60 (Witwe)
+Jablona,12.3.,Martin,Johann,Sedlar,30
+Weyprachtitz,14.3.,Magdalena,Johann,Buczek,68 (Witwe)
+Oberhermanitz,16.3.,Franz,Johann,Heyl,26w
+Neudorf,17.3.,Susanna,Georg,Polaczek,40# (Ehefrau)
+Worlitschka,18.3.,Tobias#,-,-,4 (#)(Vater war der Müller von Worlitschka - Tobias Name des Kindes oder des Vaters?)
+Bystrcze,19.3.,-,Wenceslaus,Kobliczek,- 
+-,21.3.,Anna,Johann,Heybal#,30 (Tochter)
+Worlitschka,21.3.,Anna,Christoph,Gabler,1.5
+Neudorf,22.3.,Dorothea,Johann,Streker,45 (Ehefrau)
+Bystrcze,22.3.,Marina,Johann,Wondra#,8
+Weyprachtitz,23.3.,Franz,Georg,Mleinek,1m
+Hermanitz,25.3.,Magdalena,Paul,Schwestka,- (Ehefrau)(Heißt das "Uxor"?)
+Worlitschka,29.3.,Judith,Caspar,Dittrich,30 (Ehefrau)
+Hermanitz,29.3.,Catharina,Paul,Pecziwal,60 (Ehefrau)
+Neudorf,29.3.,-,Johann,Naschke,7 
+Tschenkowitz,30.3.,Martin,Martin,Horaczek,6m
+
+DP 121
+
+Hermanitz,1.4.,-,Johann,Brokesch,0 (Beruf Häusler)
+Weyprachtitz,2.4.,Matthäus,-,Skaliczky,70 (Beruf Bauer)
+Bystrcze,9.4.,Johann,Johann,Czernohorsky,6w (Beruf Häusler)
+Neudorf,9.4.,Dorothea,Mathias,Duschek,25 (Ehefrau)(steht hier "und ihr Kind"?)
+Hermanitz,10.4.,-,Wenceslaus,Zalmann,9m (Beruf Inwohner)(Eine Tochter)
+Jamnay,12.4.,Johann,Paul,Doleczal,10d
+Hermanitz,14.4.,Dorothea,Tobias,Mrazek,60 (Witwe)
+Tschenkowitz,15.4.,Maria,Tobias,Polak,80 (Witwe)
+Tschenkowitz,17.4.,Regina,Paul,Noschke,50 (Ehefrau)
+Oberhermanitz,28.4.,Anna,Paul,Taraschka,13w (Beruf Inwohner)
+Weyprachtitz,30.4.,Magdalena,-,Stepanek#,60 (Witwe)
+Bystrcze,1.5.,Jacob,-,Waczlaw#,50 (Beruf Inwohner)(Nachname schwer zu lesen, unsicher)
+Jamnay,1.5.,Jacob,-,Hansliczek,- (Beruf Bettler)
+Bystrcze,1.5.,Augustin,Georg,Krystek,4d (Beruf Häusler)
+Jablona,12.5.,Dorothea,Wenceslaus,Sedlar,4w
+Oberhermanitz,13.5.,Paul,-,Koczaczek,70 (Beruf Arcularius)
+Tschenkowitz,14.5.,Catharina,Andreas,Kleiner#,- (Ehefrau)
+Bystrcze,16.5.,Joseph,Franz,Rösler,2w (Beruf Häusler)
+Hermanitz,6.10.,Johann,Wenceslaus,Maresch,5
+Tschenkowitz,8.10.,Judith,Johann,Beran,3
+Jablona,10.10.,Magdalena,Nikolaus,Trampota,78 (Witwe)(Heißt das "Witwe"?)
+Bystrcze,9.10.,Johann,Nikolaus,Petr#,21
+Worlitschka,11.10.,Johann,Franz,Schlesinger,21
+Walterczitz,12.10.,Wenceslaus,Paul,Hentzl#,4 (#)(Heißt das "Hentzl"?)
+#,17.10.,Maria,Franz#,He#,3
+Weyprachtitz,18.10.,Christina,Johann,Tauschek,80 (Ehefrau)(Hier steht "Manz." für Manzelka, also Ehefrau, richtig?)
 
