@@ -522,7 +522,7 @@ Unterhermanitz,26.2.,Georg,Matthäus,Hlucheych#,15 (Bauer)
 Jamnay,27.2.,Catharina,Adam,Valenta,1 (Inwohner)
 Waltersdorf,2.3.,Dorothea,Johann,Kuczilek,70 (Witwe,Inwohner)
 Waltersdorf,3.3.,Maria,Jacob,Kratky,2.5 (Bauer)
-Waltersdorf,9.3.,Karl#,Martin,Charvat,1# (Häusler)
+Waltersdorf,9.3.,Karl#,Martin,Charwat,1# (Häusler)
 Weypersdorf,11.3.,Wenceslaus,Johann,Kosak,13 (Bauer)
 Worlitschka,11.3.,Paul,Martin,Schlesinger,1d (Häusler)
 Oberhermanitz,11.3.,Georg,-,Machanetz#,56 (Inwohner)
@@ -1226,7 +1226,7 @@ Neudorf,13.11.,Elisabeth,Wenceslaus,Schüttke,7
 Neudorf,15.11.,Sabina,Georg,Vogl,59 (Witwe)
 Weypersdorf,22.11.,Catharina,Jacob,Mleinek,8w
 Worlitschka,23.11.,Franz,Matthäus,Schüll,2.5
-Waltersdorf,27.11.,Catharina,Wenceslaus,Charvat,60-70 (Ehefrau)
+Waltersdorf,27.11.,Catharina,Wenceslaus,Charwat,60-70 (Ehefrau)
 Worlitschka,30.11.,Paul,Friedrich,Krögler,1# (#)("1 Jahr minus 4 Wochen")
 Tschenkowitz,30.11.,Johann,-,Hauk,56 (Incola)
 Worlitschka,5.12.,Friedrich,Matthäus,Schüll,13w
@@ -1500,7 +1500,7 @@ Oberhermanitz,4.11.,Marina,Johann,S#baczek,18# (Incola)(Marina war Jungfrau, "de
 Worlitschka,9.11.,Anna,Bartholomäus,Heisler,40 (Ehefrau,Incola)
 Weypersdorf,10.11.,Johann,-,Mleinek,50 (Richter)
 Oberhermanitz,12.11.,Magdalena,Johann,Darczilek,30 (Ehefrau,Müller)
-Waltersdorf,14.11.,Johann,-,Charvat,54 (Incola)
+Waltersdorf,14.11.,Johann,-,Charwat,54 (Incola)
 Worlitschka,16.11.,Judith,Georg,Pfertner,2 (Incola)
 Tschenkowitz,18.11.,Maria,Georg,Hentzl,13m
 Tschenkowitz,22.11.,Susanna,Michael,Bok,5 (Incola)
@@ -2012,6 +2012,110 @@ Unterhermanitz,16.5.,#,#,#,47 (#)(Name Martin Kubelka ist zu lesen, schwer zu le
 
 DP 64
 
+Walterczitz,19.5.,Franz,Christoph,Heisler,3
+Bystrcze,21.5.,Marina,Marianna,Matiegka,5
+Bystrcze,25.5.,Paul,Wenceslaus,#aschiczek,34w
+Tschenkowitz,26.5.,Friedrich,Johann,Kobliczek#,9m
+Oberhermanitz,26.5.,Paul,-,Kubesch,45
+Jamnay,2.6.,Anna,Martin,Hansliczek,7w
+Oberhermanitz,2.6.,Johann,-,Jansky,42
+Jamnay,6.6.,Johann,Wenceslaus,Prokopecz,2w
+Oberhermanitz,7.6.,Wenceslaus,Paul,Martinek,22
+Unterhermanitz,9.6.,Marina,Nikolaus,Pechaczek,2w
+Tschenkowitz,9.6.,Franz,Mathias,Heisler,6
+Bystrcze,9.6.,Johann,Martin,Matiegka#,9m (#)(Sieht eher wie "Mateyky" aus)
+Weyprachtitz#,11.6.,Maria,Paul,Sedlarz#,2w
+Worlitschka#,14.6.,Maria,Andreas#,Polla#,7# (#)(Jahre? Wochen? Tage?)
+Worlitschka,16.6.,Judith,Tobias,Heisler,12w
+Unterhermanitz,17.6.,Franz,Franz,Jeczek,2w
+
+DP 65
+
+#,22.6.,Michael,Michael,Heisler,6#m
+Bystrcze#,22.6.,Paul,Johann,Kubin,16w
+Worlitschka,23.6.,Tobias,-,Heisler,52
+Bystrcze,25.6.,Paul,Johann,Mrazek,16w
+Unterhermanitz,25.6.,Anna,Jacob,Horaczek,2
+Worlitschka,26.6.,Franz,Johann,Pecziwal,6
+Walterczitz,27.6.,Johann,-,Kröhn#,60
+Weyprachtitz,1.7.,Johann,Martin,Smeykal,2y8w
+Worlitschka,4.7.,Catharina,Nikolaus,Heisler,51 (Ehefrau)
+Tschenkowitz,9.7.,Maria,Christoph,Bock,9
+Tschenkowitz,10.7.,Andreas,Nikolaus,Polak,34w
+Worlitschka,15.7.,Wenceslaus,Michael,Pecziwal,13w
+Jamnay,23.7.,Johann,-,Lischka,85
+Bystrcze,23.7.,Dorothea,Nikolaus,Petr,40 (Ehefrau)
+Tschenkowitz,23.7.,Maria,Georg,Fischer,6
+Bystrcze,24.7.,Marina,Johann,K#liczek,14 (#)(Ist das ein "K" am Anfang des Nachnamen?)
+Worlitschka,25.7.,Rosina,Christoph,Schüll,2
+
+DP 66
+
+Bystrcze,30.7.,Jacob,-,Krcziwohlawek,75
+Weyprachtitz,1.8.,Mathias,Felix#,Hlauczal#,8d (Gelesen: "Stiastnyho", was tschechisch für den Namen "Felix" ist)
+Bystrcze#,1.8.,Catharina #,Nikolaus,#yzkowj#,45 (Tochter)
+Bystrcze,4.8.,Wenceslaus,-,Kratky,40
+Worlitschka,4.8.,Michael,-,Schüttke,55
+#,4.8.,Rosina,Christoph,Schüll,8d
+Worlitschka,11.8.,Christoph,Martin,Krögler,26#w (#)(Heißt das Wochen?)
+Worlitschka,15.8.,Christoph,-,Schüll,36
+Unterhermanitz,19.8.,Rosina,Franz,Resler,5w
+#,20.8.,Anna #,Georg,Mach,25w
+Jamnay,31.8.,Johann,Peter,Czernohaus,1#d (#)(Heißt das "Tage"?)
+Unterhermanitz,4.9.,Johann,Georg,Schembera,12d
+Worlitschka,8.9.,Susanna,Caspar#,Schüll,39 (Ehefrau)
+Jamnay,16.9.,Susanna,Wenceslaus,Filip,38 (Ehefrau)
+Jamnay,23.9.,Judith,Paul,Stryk#,4d
+Oberhermanitz,23.9.,Marta,Tobias,Rosberger#,16
+Oberhermanitz,23.9.,Rosina,Michael,#asar#,4
+Jamnay,28.9.,Anna,Paul,Stryk#,1.5w
+Jamnay,12.10.,Elisabeth,Martin,Czernohaus,2w
+Walterczitz,17.10.,Tobias,Christoph,Schüll,6y39w
+Oberhermanitz,19.10.,Johann,Georg,Kaupka,3
+Bystrcze,27.10.,Paul,Matthäus,#ausowi,8
+
+DP 67
+
+Jablona,4.11.,Catharina,Tobias,Zaubele,3
+Oberhermanitz,10.11.,Anna,Georg,Paczl#,6m
+Worlitschka,13.11.,Christoph,Christoph,Hoffmann,7
+Worlitschka,19.11.,Susanna,Adam,Frobrych#,72 (Witwe)(Nachname schwer zu lesen)
+Oberhermanitz,21.11.,Michael,-,#zy#larz,37
+Walterczitz,24.11.,Dorothea,Martin,Jan#schek,1.5
+Tschenkowitz,26.11.,Justina,Jacob,Kobliczek,72 (Witwe)
+Walterczitz,29.11.,Adam,-,Duschek,49
+Worlitschka,4.12.,Susanna,Georg,Schüttke,10# (#)(Heißt das "Jahre"?)
+Worlitschka,12.12.,Maria,Georg,Schüttke,37 (Ehefrau)
+Walterczitz,14.12.,Christoph,-,Heisler,45
+Bystrcze,17.12.,Dorothea,Georg,Schimek,4
+Bystrcze,18.12.,Catharina,Georg,#laup#,53 (Ehefrau)
+Tschenkowitz,23.12.,Rosina,Thomas,Weigel,2
+Worlitschka,26.12.,Anna,Dominik,Weinlich,11
+
+1697
+
+Worlitschka,2.1.,Johann,Wenceslaus,Langer#,1.5
+Bystrcze,2.1.,Dorothea,Georg,Krystek,6d
+Jamnay,10.1.,Anna,Wenceslaus,Krupkowj#,72 (Witwe)
+Worlitschka,15.1.,Johann,Michael,Scholtz,18w
+Oberhermanitz,16.1.,Wenceslaus,Paul,Jand#,1y2w
+Worlitschka,16.1.,Georg,-,Weinlich,46
+Bystrcze,17.1.,Georg,Martin,Mach,5#d (#)(Heißt das "Dni" == Tage?)
+
+DP 68
+
+Bystrcze,18.1.,Paul,Martin,Charwat,10w
+Worlitschka,24.1.,Wenceslaus,Dominik,Schüll,2y13w
+Tschenkowitz,27.1.,Augustin,Johann,Osmann,12w2d
+Oberhermanitz,27.1.,Nikolaus,-,Dursky#,48
+Jamnay,28.1.,Jacob,Martin,Kwasnicka#,8
+Worlitschka,1.2.,Maria,Johann,Czernohorsky,6d
+Unterhermanitz,1.2.,Paul,Nikolaus,Maresch#,4w (#)(Nachname schwer zu lesen, unsicher)
+Bystrcze,2.2.,August,Johann,Dittrich,10w3d
+Tschenkowitz,2.2.,Paul,Martin,Horaczek,1
+Worlitschka,7.2.,Maria,Barton#,Heisler,11d (#)(Bartholomäus?)
+
+
 1703
 
 DP 105
@@ -2086,7 +2190,7 @@ Jamnay,20.1.,Johann,Johann,Kreyczj#,19d (Beruf Inwohner)
 Neudorf,21.1.,Georg,Wenceslaus,Ptaczek,28w (Beruf Häusler)
 Jamnay,22.1.,Wenceslaus,Johann,Kreiczy#,22d (Beruf Inwohner)
 Tschenkowitz,26.1.,Judith,Johann,Bün,- (Beruf Häusler)(Nach Taufe begraben)
-Bystrcze,28.1.,Georg,Georg,Charvat,7d (Beruf Bauer)
+Bystrcze,28.1.,Georg,Georg,Charwat,7d (Beruf Bauer)
 Neudorf,4.2.,Dorothea,Tobias,Kubesch,50 (Ehefrau,Beruf Müller)
 Weyprachtitz,7.2.,Martin,-,Skaliczky,40 (Beruf Inwohner)
 Hermanitz,8.2.,Dorothea,Paul,Schwestka,7m (Beruf Häusler)
