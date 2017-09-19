@@ -3588,5 +3588,8 @@ Bystrcze,9.10.,Johann,Nikolaus,Petr#,21
 Worlitschka,11.10.,Johann,Franz,Schlesinger,21
 Walterczitz,12.10.,Wenceslaus,Paul,Hentzl#,4 (#)(Heißt das "Hentzl"?)
 #,17.10.,Maria,Franz#,He#,3
-Weyprachtitz,18.10.,Christina,Johann,Tauschek,80 (Ehefrau)(Hier steht "Manz." für Manzelka, also Ehefrau, richtig?)
+Weyprachtitz,18.10.,Catharina,Johann,Tauschek,80 (Ehefrau)(Hier steht "Manz." für Manzelka, also Ehefrau, richtig?)
+
+DP 122
+
 
