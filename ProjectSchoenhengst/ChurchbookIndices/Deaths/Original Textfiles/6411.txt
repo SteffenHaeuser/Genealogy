@@ -3592,4 +3592,16 @@ Weyprachtitz,18.10.,Catharina,Johann,Tauschek,80 (Ehefrau)(Hier steht "Manz." fü
 
 DP 122
 
-
+Worlitschka,19.10.,Michael,-,Scholtz,45
+Hermanitz,22.10.,Anna,Georg,Schwestka,52# (Ehefrau)(32 oder 52?)
+#,26.10.,Anna,Wenceslaus,Kratky,19# (Tochter)(Heißt das "Jahre"?)
+Worlitschka#,3.11.,Wenceslaus,Paul,Polak,2
+Weyprachtitz,4.11.,Marianna,Paul,Hawlena,1
+Bystrcze,5.11.,Georg,-,Kyllar,35
+Worlitschka,10.11.,Judith,Tobias,Krögler,3
+#,14.11.,Wenceslaus,David,Skaliczky,18
+Tschenkowitz#,19.11.,Judith,Mathias,Zaubele,1.5
+Bystrcze#,22.11.,Paul,-,Chromy,64
+Jablonné,22.11.,Barbara,Wenceslaus,Sedlarz#,3 (#)(Nachname schwer zu lesen, unsicher)
+Jablonné,27.11.,Catharina,Thomas,Czerny,38 (Ehefrau)
+Worlitschka
