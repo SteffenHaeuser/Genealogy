@@ -49,7 +49,7 @@ Bystrcze,22.02.,Jacob,Martin,Kuczera,Theresia#
 #,25.02.,Marianna,Georg,Bednarz,Catharina
 Jamnay,03.03.,Anna,Adam,Maczek,Catharina
 Hermanitz,04.03.,Franz,Paul,Zelinka,Barbara
-Weyprachtitz,04.03.,Weyprachtitz,Paul,Paul,Hawelka,Anna
+Weyprachtitz,04.03.,Paul,Paul,Hawelka,Anna
 Worlyczek,04.03.,Rosina,Christoph,Pfertner,Anna
 Czermny,06.03.,Marianna,Christoph,Drtina,Magdalena
 Worlyczek,09.03.,Marianna,Johann,Woknar,Marianna (Wok == Bock?)
@@ -977,59 +977,59 @@ Dolni Dobrouc,17.11.,Dorothea,Peter,Motl,Magdalena
 
 DP 55
 
-Jablonne,20.11.,Johann,Georg,Jan#,Anna
+Jablonne,20.11.,Johann,Georg,Jawurek,Anna
 Bystrcze,20.11.,Dorothea,Georg,#,Catharina
-Bystrcze,20.11.,Georg,Georg,#,Marianna
+Bystrcze,20.11.,Georg,Georg,Slanina,Marianna
 Tschenkowitz,20.11.,Nikolaus,Michael,Langhammer,Anna
-Czermny,25.11.,Catharina,Johann,Waczek#,Maria# (Heißt das "Marzena" bei der Mutter? Ich denke ja, also "Maria")
+Czermny,25.11.,Catharina,Johann,Waczek,Maria
 Czermny,25.11.,Catharina,Georg,Bednarz,Anna
-Jamnay,27.11.,Dorothea,Georg,Klem#,Catharina
-Unterhermanitz,5.12.,Maria#,Paul,#,Catharina
-Jamnay#,6.12.,Marianna,Johann,Blaczek,Alyna# (Heißt das Alyna? Den Namen kenne ich nicht, steht sonst noch etwas ausser Zeugen in dem langen Eintrag?)
-Weyprachtitz,11.12.,Paul,Paul,Lyr#,Dorothea
-Bystrcze,11.12.,Rosina,Georg,G#,Anna
-Jamnay,13.12.,Paul,Johann,Hrdina#,Catharina
-Bystrcze,18.12.,Johann,Johann,Kaschka#,Marianna
-Worlyczek,20.12.,Rosina,Abraham,Schüll,Catharina (Steht sonst noch etwas Relevantes ausser Zeugen in dem langen Eintrag?)
+Jamnay,27.11.,Dorothea,Georg,Klempirz,Catharina
+Unterhermanitz,5.12.,Maria,Paul,Drasal#,Catharina
+Jamnay#,6.12.,Marianna,Johann,Blaczek,Alyna
+Weyprachtitz,11.12.,Paul,Paul,Lyr,Dorothea
+Bystrcze,11.12.,Rosina,Georg,Jezek#,Anna
+Jamnay,13.12.,Paul,Johann,Hrdina,Catharina
+Bystrcze,18.12.,Johann,Johann,Kaschka,Marianna
+Worlyczek,20.12.,Rosina,Abraham,Schüll,Catharina 
 
 DP 56
 
-Oberhermanitz,20.12.,Johann,Wenceslaus#,Gira#,Magdalena
-#,22.12.,Johann,Thomas,Mat#,Catharina#
-Worlyczek,22.12.,Rosina#,ChristophS#,Marianna (Steht sonst noch etwas relevantes in dem langen Eintrag? Oder nur Zeugen?)
-Dolni Dobrouc,23.12.,Paul,#,#,Anna (Steht der Vater irgendwo?)
-Czermny,27.12.,Johann,#,Kubek,Catharina (Gelesen "Kobowj", Nominativ "Kubek"?) (Sind die letzten zwei Zeilen in Eintrag nur Zeugen, oder noch etwas Relevantes für den Index?)
-Czermny,27.12.,Johann,Johann,Heyl,Anna#
-#,27.12.,Johann,Georg,Czyzarz#,Catharina (Unsicher bzgl. Czyzarz#)
+Oberhermanitz,20.12.,Johann,Wenceslaus,Gira#,Magdalena
+Landsberg,22.12.,Johann,Thomas,Mataus,Catharina
+Worlyczek,22.12.,Rosina,Christoph,Suchel#,Marianna 
+Dolni Dobrouc,23.12.,Paul,Johann#,Staryl#,Anna 
+Czermny,27.12.,Johann und Magdalena,David,Kuba,Catharina 
+Czermny,27.12.,Johann,Johann,Heyl,Anna
+Czermny,27.12.,Johann,Georg,Lzyczarz,Catharina 
 
 1668
 
-Weyprachtitz,10.1.,Marianna#,Georg,Czer#,Magdalena
-#,10.1.,Paul,Georg,Worlyczek#,Catharina
-#,10.1.,Paul,Simon,Jan#,Maria
-Oberhermanitz#,16.1.,Paul,Johann,Thomas#,Marianna
-#,16.1.,Dorothea,Jacob,Cz#,Dorothea
-Worlyczek,19.1.,Rosina,Friedrich,Weypert,Marianna#
-Dolni Dobrouc,21.1.,Marianna#,Mathias#,#,Anna
-Tschenkowitz,22.1.,Anna,Paul,Heisler,Marianna#
-Czermny,24.1.,Magdalena,Martin,#,Anna
+Weyprachtitz,10.1.,Marianna,Georg,Czerny,Magdalena
+Weyprachtitz,10.1.,Paul,Georg,Worlyczek,Catharina
+Jakubowicz,10.1.,Paul,Simon,Junek#,Maria
+Oberhermanitz#,16.1.,Paul,Johann,Tauschek#,Marianna
+-,16.1.,Dorothea,Jacob,Czerny,Dorothea
+Worlyczek,19.1.,Rosina,Friedrich,Weypert,Marianna
+Dolni Dobrouc,21.1.,Marianna,Mathias,Meysner#,Anna
+Tschenkowitz,22.1.,Anna,Paul,Heisler,Marianna
+Czermny,24.1.,Magdalena,Martin,Richter#,Anna (#)(Unklar, ob Richter Nachname oder Beruf ist.)
 
 DP 57
 
-Jamnay,29.1.,Johann,Georg,Philipp#,Dorothea
-Czermny,29.1.,Dorothea,Christoph,#,Magdalena
-Worlyczek,30.1.,Caspar,Andreas,#,Susanna
-#,30.1.,Dorothea,Georg,#,Dorothea
+Jamnay,29.1.,Johann,Georg,Filip,Dorothea
+Czermny,29.1.,Dorothea,Christoph,Drtina,Magdalena
+Worlyczek,30.1.,Caspar,Andreas,Sleyler#,Susanna
+Wermerzowicz,30.1.,Dorothea,Georg,Holeczek,Dorothea
 Tschenkowitz,5.2.,Karl,Paul,Weinlich,Catharina
-Bystrcze,5.2.,Marina,Rest kann ich nicht lesen####
-Weyprachtitz,8.2.,Marianna,Rest kann ich nicht lesen####
-#,12.2.,Johann,Christoph,#mann,# (Beruf Soldat#, Sonst noch etwas relevantes in dem langen Eintrag?)
-Dolni Dobrouc,12.2.,Mathias#,Johann,Pirkl,Marianna
+Bystrcze,5.2.,Marina,-,-,Susanna (Die Kindsmutter ist die Tochter des verstorbenen Johann Schimek aus Bystrcze) 
+Weyprachtitz,8.2.,Marianna,-,-,Dorothea (Die Kindsmutter ist die Witwe des Johann Janku) 
+Weyprachtitz,12.2.,Johann,Christoph,Robmann,Catharina (Soldat, Kindsmutter ist Catharina, seine Verwandte)
+Dolni Dobrouc,12.2.,Mathias,Johann,Pirkl,Marianna
 Oberhermanitz,18.2.,Ludwig,Georg,Zalmann,Magdalena
 Worlyczek,26.2.,Georg,Johann,Weinlich,Anna
-Dolni Dobrouc,26.2.,Magdalena,Jacob,T#,Catharina
-Worlyczek,28.2.,Johann,Wenceslaus#,G#,Marianna
-Jablonne,29.2.,Marina,Johann,Brokesch#,Magdalena
+Dolni Dobrouc,26.2.,Magdalena,Jacob,Tesarz,Catharina
+Worlyczek,28.2.,Johann,Wenceslaus,Jeczek#,Marianna
+Jablonne,29.2.,Marina,Johann,Brokesch,Magdalena
 
 DP 58
 

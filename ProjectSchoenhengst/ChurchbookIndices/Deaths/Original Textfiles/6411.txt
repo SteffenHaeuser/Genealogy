@@ -2057,7 +2057,7 @@ Bystrcze#,1.8.,Catharina #,Nikolaus,#yzkowj#,45 (Tochter)
 Bystrcze,4.8.,Wenceslaus,-,Kratky,40
 Worlitschka,4.8.,Michael,-,Schüttke,55
 #,4.8.,Rosina,Christoph,Schüll,8d
-Worlitschka,11.8.,Christoph,Martin,Krögler,26#w (#)(Heißt das Wochen?)
+Worlitschka,11.8.,Christoph,Martin,Krögler,26w
 Worlitschka,15.8.,Christoph,-,Schüll,36
 Unterhermanitz,19.8.,Rosina,Franz,Resler,5w
 #,20.8.,Anna #,Georg,Mach,25w
@@ -2161,7 +2161,7 @@ Bystrcze,9.4.,Wenceslaus,Johann,Waschiczek,2
 Jamnay,10.4.,Matthäus,-,Urban,80
 Jamnay,12.4.,Wenceslaus,-,Trampota,62
 Bystrcze,18.4.,Marina,Matthäus,Mistr,1y8w
-Bystrcze,25.4.,Johann,Jacob,Krcziwohlawek,9#w2d (#)(Heißt das "Wochen"?)
+Bystrcze,25.4.,Johann,Jacob,Krcziwohlawek,9w2d 
 Worlitschka,1.5.,Christoph,-,Weigel,36
 Worlitschka,8.5.,Regina#,Georg#,Harten#,60 (Ehefrau)(Ist "Harten#" der Nachname, oder "Schneydra#", was dahinter steht? Oder gehört beides zusammen? "Gartenschneider"?)
 Walterczitz,8.5.,Wenceslaus,Johann,S#era,1.5
@@ -2215,7 +2215,7 @@ Tschenkowitz,4.10.,Maria,Bartholomäus,Weinlich,4
 Tschenkowitz#,13.10.,Anna,Matthäus,Rösner,42 (Witwe)
 Jamnay,14.10.,Elisabeth,Johann,Bednarz#,1d
 Walterczitz,21.10.,Michael,-,Bok,44
-Weyprachtitz,23.10.,Martin,Johann,Hawlena,1y4#m (#)(Monate oder Wochen?)
+Weyprachtitz,23.10.,Martin,Johann,Hawlena,1y4m 
 Worlitschka,28.10.,Paul,-,Hornig,54
 Jablonné,28.10.,Jacob,-,Mlynarz#,86 (Ist Mlynarz, also Müller, Beruf oder Nachname?)
 Oberhermanitz,1.11.,Catharina,-,Zyukowa#,36
@@ -2305,7 +2305,7 @@ Tschenkowitz,19.5.,Augustin,Georg,Feltzmann,6m
 Jamnay,20.5.,Wenceslaus,-,Waczek,88
 Worlitschka,22.5.,Adam,Christoph,Krögler,2d
 Worlitschka,23.5.,Eva,Christoph,Krögler,11d
-Worlitschka,23.5.,Regina#,Georg,Heisler,5#w (#)(Heißt das "Nedil./Wochen"?)
+Worlitschka,23.5.,Regina#,Georg,Heisler,5w
 Walterczitz,1.6.,Franz,Christoph,Nentvich,5w
 Walterczitz,8.6.,Franz,Georg,Feltzmann,1
 Worlitschka,8.6.,Georg,Christoph,Schlesinger,10
@@ -2381,7 +2381,7 @@ Weyprachtitz,6.1.,Martin,-,Morawetz,70
 Weyprachtitz,6.1.,Anna,Martin,#ichy#,2
 Weyprachtitz,8.1.,Dorothea,Johann,Jarolym,30 (Ehefrau)
 Tschenkowitz,8.1.,Christoph,-,Kobliczek,31
-Weyprachtitz,14.1.,Maria,Martin,Skaliczky Junior,3#m (#)(Heißt das "ml." Junior? Heißt das Jahre, Monate, Wochen? Vermutlich mesic, also Monat?)
+Weyprachtitz,14.1.,Maria,Martin,Skaliczky Junior,3m (#)(Heißt das "ml." Junior?)
 Bystrcze,15.1.,Johann,Georg,Kubin,1
 Weyprachtitz,19.1.,Augustin,Georg,Hubany#,2 (#)(Kubin?)
 Worlitschka,19.1.,Christoph,-,Moser,79
@@ -2441,15 +2441,15 @@ Jamnay,19.5.,Rosina,Paul,Gironcz#,1.5w (#)(Nachname schwer zu lesen, unsicher)
 
 DP 82
 
-Jamnay,22.5.,Johann,Paul,Kyllar,1#w (#)("Tryden" - Heißt das Tage/Wochen/Monate?)
+Jamnay,22.5.,Johann,Paul,Kyllar,1w
 Worlitschka,26.5.,Antonia#,Christian,Wagner,9#w (#)(Gelesen: "Wogner")
 Worlitschka,28.5.,Martin,-,Krögler,28
 Tschenkowitz,1.6.,Maria,Johann,Weinlich,22 (Ehefrau)
-Jamnay,4.6.,Catharina,Georg,Waczek,1#w (#)("Tryden" - Heißt das Tage/Wochen/Monate? Es steht "Jully", aber wohl "Juni" gemeint)
+Jamnay,4.6.,Catharina,Georg,Waczek,1w (#)(Es steht "Jully", aber wohl "Juni" gemeint)
 Worlitschka,9.6.,Judith,Paul,Hauk,15w
 Oberhermanitz#,13.6.,Georg,-,Roczen,13
 Hermanitz,15.6.,Dorothea,Paul,Kubesch,50 (Witwe)
-Worlitschka,15.6.,Veronica,Georg,Spiczak#,4#w (#)(Nachname schwer zu lesen, unsicher. Heißt das "Nedel./Wochen"?)
+Worlitschka,15.6.,Veronica,Georg,Spiczak#,4.5 (#)(Nachname schwer zu lesen, unsicher)
 Hermanitz,26.6.,Anna,Jacob,Hnatek,1
 Hermanitz,29.6.,Wenceslaus,Johann,Kobsa,3
 Tschenkowitz,30.6.,Anna,Georg,Blaschke,5#d (#)(Heißt das "Dnj/Tage"? Heißt das "5"?)
@@ -3104,7 +3104,7 @@ Jablonné,20.5.,Johann,Paul,Hawel,13w (Beruf Bäcker)
 Jablonné,23.5.,Joseph,Nicolaus,Trampota,1 (Beruf Häusler)
 Worlitschka,23.5.,Veronica,Wenceslaus,Heisler,14w
 Bystrcze,26.5.,Judith,Martin,Kaschka,5m (Beruf Inwohner)(Heißt das "Halbes Jahr"?)
-Tschenkowitz,28.5.,Veronica,Georg,Feldtmann#,8d (Beruf Häusler)
+Tschenkowitz,28.5.,Veronica,Georg,Feldtmann#,8d (Beruf Häusler)(Feltzmann?)
 Tschenkowitz,28.5.,Anna,Andreas,Klein,1.75
 Worlitschka,2.6.,Maria,Wenceslaus,Pfertner,5w (Beruf Häusler)
 Worlitschka,8.6.,Christina,Christoph,Schlesinger,78 (Witwe)
@@ -3781,7 +3781,7 @@ DP 132
 
 1711
 
-Worlitschka,4.1.,Judith,Michael,Schlesinger,1#w (#)(Was bedeutet "Tryden"? Eine andere Bezeichung für "Wochen"?)
+Worlitschka,4.1.,Judith,Michael,Schlesinger,1w 
 Weyprachtitz,5.1.,Magdalena,Paul,Skaliczky,35 (Ehefrau)
 Oberhermanitz,6.1.,Marianna,Paul,Kubesch,18 (Tochter)
 Weyprachtitz,9.1.,Johann,-,Buryan,80
@@ -3810,7 +3810,7 @@ Worlitschka,20.2.,Magdalena,Georg,Pfertner,3#d
 Tschenkowitz,22.2.,Anna,Johann,Hauk,70 (Witwe)
 Walterczitz,25.2.,Anna,Tobias,Nosek,30 (Ehefrau)
 Tschenkowitz,28.2.,Catharina,Georg,Schüll,50 (Witwe)
-Jablonné,7.3.,Judith,Georg,Jawurek,1#w (#)(Was heißt "Tryden" - Wochen?)
+Jablonné,7.3.,Judith,Georg,Jawurek,1w 
 Weyprachtitz,10.3.,Johann,Johann,Resler,2w
 Weyprachtitz,13.3.,Mathias,-,Mastik#,72
 Walterczitz,23.3.,Susanna,Georg,Kuczera,3
@@ -3827,7 +3827,7 @@ Oberhermanitz,11.4.,Regina#,Franz,Beran,6m
 Tschenkowitz#,13.4.,Nikolaus,-,Duchaczek,35
 #,15.4.,Susanna,Michael,Schlesinger,33 (Ehefrau)
 Unterhermanitz,16.4.,Martin,-,Cordas,54
-Jamnay,19.4.,Wenceslaus,Wenceslaus,Doleczal,1#w (#)(Was heißt "Tryden" - Wochen?)
+Jamnay,19.4.,Wenceslaus,Wenceslaus,Doleczal,1w 
 Oberhermanitz,20.4.,Anna,Johann,Jansky,58 (Ehefrau)
 Unterhermanitz,26.4.,Andreas#,Johann,Kubin#,2#m (#)(Heißt das "Monate"? Name Gelesen: "Kubinky".)
 Oberhermanitz,28.4.,Anna,Johann,Pechaczek,5#m (#)(Heißt das "Monate"?)
@@ -4003,6 +4003,667 @@ Weyprachtitz,19.1.,Johann,-,Kuba,26
 Unterhermanitz,19.1.,Barbara,Matthäus,Hluchy#,59 (Ehefrau)(Heißt das "Ml." Mazelka/Ehefrau? Heißt das "Hluchy"?)
 
 DP 144
+
+Worlitschka,20.1.,Tobias,Hans,Schlesinger,1.5
+Worlitschka,22.1.,Johannes,Wenceslaus,Heisler,2.5
+Bystrcze,23.1.,Paul,Georg,Waczek,13w
+Bystrcze,26.1.,Magdalena,Jacob,Bezalek,50 (Ehefrau)
+Worlitschka#,8.2.,Johann,Matthäus,Hoffmann,5w (#)(Sieht eher aus wie Wodlitschka)
+Bystrcze,14.2.,Martin,Johann,Kaschka,1y19w
+Worlitschka,15.2.,Maria Elisabeth,Franz,Wagner,2w
+Oberhermanitz,18.2.,Judith,Johann,Resler,21 (Tochter)
+Worlitschka,22.2.,Franz,Franz,Heisler,1w (#)(Sieht eher aus wie Wodlitschka)
+Bystrcze,26.2.,Johann,-,Bezalek,52y13w
+Worlitschka#,2.3.,Johannes,Johannes,Waniba#,2 (Sieht eher aus wie Wodlitschka. Nachname schwer lesbar, unsicher)
+Tschenkowitz,5.3.,Marcus,-,Polak,65
+Bystrcze,6.3.,Georg,-,Schimek,89
+Oberhermanitz,10.3.,Catharina,Wenceslaus,Maresch#,2w (#)(Heißt das "Ml." "Junior"?)
+Bystrcze,15.3.,Magdalena,Georg,Hawlena
+
+DP 145
+
+Jablonné,18.3.,Johann,-,Heyl,51
+Tschenkowitz,20.3.,Caspar,Johannes,Bin#,1y13w (Nachname schwer zu lesen, unsicher)
+Tschenkowitz,21.3.,Franz,Paul,Feltzmann,2w
+Walterczitz,21.3.,Marina,Jacob,Victorin,48 (Ehefrau)(Bedeutet das zwischen Marina und Jacob "Manzelka/Ehefrau", oder ist es die Tochter?)
+Oberhermanitz,22.3.,Catharina,Paul#,Matiegka,54 (Ehefrau)(Bedeutet das nach Catharina "Manzelka/Ehefrau", oder ist es die Tochter?)
+Unterhermanitz,22.3.,Marian#,Wenceslaus,Waschiczek#,3w
+Bystrcze,26.3.,Anton,Ferdinand,Klein,1
+Worlitschka,30.3.,Caspar,Johannes,Langer,1w (#)(Sieht eher aus wie "Wodlitschka")
+Tschenkowitz,31.3.,Maria,Johannes,Seidlmann,1.5
+Weyprachtitz,1.4.,Eva,-,Smeykal,70
+Bystrcze,3.4.,Georg,-,Andrle,70# (#)(20 oder 70?)
+Bystrcze,8.4.,Anna,-,Ambrosch,50
+Walterczitz,12.4.,Wenceslaus,Caspar,Byer#,1w 
+Tschenkowitz#,12.4.,Paul,-,Fischer,76
+
+DP 146
+
+Tschenkowitz,19.4.,Susanna,Paul,Nehyba,50 (Ehefrau)
+Bystrcze,22.4.,Dorothea,Wenceslaus,Waschiczek,30 (Ehefrau)
+Weyprachtitz,24.4.,Paul,-,Heyl,70
+Tschenkowitz,26.4.,Maria,Martin,Smeykal,55 (Ehefrau)
+Oberhermanitz,28.4.,Christina,Jacob,Maresch#,49 (Witwe)(Nachname schwer zu lesen, unsicher)
+#,30.4.,Wenceslaus,Wenceslaus#,#og,15
+Bystrcze,2.5.,Martin,Georg,Kubin,3
+Bystrcze,6.5.,Georg,Jacob,Charwat,2w
+Tschenkowitz,12.5.,Paul,-,Noschke,75
+Walterczitz,12.5.,Johannes,-,Zaubele,50
+#,13.5.,Veronica,Johannes,#intra,15 (#)(Nachname schwer zu lesen, unsicher)
+Bystrcze,15.5.,Franz,Paul,Matausch,15
+
+DP 147
+
+Bystrcze,16.5.,Johann,-,Czurda,64
+Wodlitschka,19.5.,Maria,Johann,Langer,43 (Ehefrau)(Heißt das zwischen Maria und Johann "Manzelka/Ehefrau"? Ort sieht eher aus wie "Wodlitschka")
+#,20.5.,Johann,-,Buczek,20
+Jamnay,24.5.,Catharina,Georg,Sowa#,15 (#)(Nachname schwer zu lesen, unsicher)
+Unterhermanitz,29.5.,Catharina,Paul,Chromy,73 (Ehefrau)
+Walterczitz,29.5.,Franz,Tobias,Nosek,1.5
+Tschenkowitz,31.5.,Susanna,-,-,6 (#) U: Kind von Johanna Kobliczek
+Tschenkowitz,31.5.,Georg,-,Schüll,70
+Bystrcze,5.6.,Maria,St#,Krcziwohlawek,20 (Tochter)
+Weyprachtitz,6.6.,Anna,Paul,Merta,26 (Tochter)
+Weyprachtitz,9.6.,Wenceslaus,-,Petr,85
+Weyprachtitz,10.6.,-,Georg,Sedlarz,9d
+
+DP 148
+
+#,11.6.,Johann,-,Waschiczek#,54
+#,13.6.,Johannes,Johannes,Rolka#,3y25w (#)(Nachname schwer zu lesen, unsicher)
+Jamnay,16.6.,Dorothea,Jacob,Stepan#,70 (Witwe)
+Worlitschka#,19.6.,Anna,Georg,Heisler,40 (Witwe)(Sieht eher aus wie "Wodlitschka")
+Weyprachtitz,22.6.,Anna,Paul,Pawel,45 (Witwe)(Gelesen: "Pawlu")
+Unterhermanitz,2.7.,Johann,-,Chromy,56
+Bystrcze,3.7.,Anna,Georg,Czink# (Ehefrau)(Nachname schwer zu lesen, unsicher)
+Bystrcze,5.7.,Catharina,Georg,Krcziwohlawek,15 (Tochter)
+Worlitschka,13.7.,Sybilla,Wenceslaus,Heisler,3 (#)(Sieht eher aus wie "Wodlitschka")
+Weyprachtitz,19.7.,Anton,Franz,Podhorny#,12w
+Unterhermanitz,19.7.,Anton,Nikolaus,Markow,3w
+Tschenkowitz,21.7.,Johann,-,Wawra,32
+Lubnik,25.7.,Catharina,Martin,Doleczek,40 (Ehefrau)(Bedeutet das vor Martin "Manzelka/Ehefrau" ?)
+Bystrcze,25.7.,Anna,Johann,Seidlmann,1
+
+DP 149
+
+Tschenkowitz,25.7.,Caspar,Georg,Blaczek,35w
+Tschenkowitz,26.7.,Franz,Franz,Feltzmann,w
+Unterhermanitz,28.7.,Ludwig,Georg,Roz#,1
+Oberhermanitz,5.8.,Anna,Mathias,Taraschka,3
+Oberhermanitz,11.8.,Anton,Georg,Zalmann#,2w
+Unterhermanitz,12.8.,Paul,-,Maresch,43
+Tschenkowitz,18.8.,Hans,-,Krögler,58
+Bystrcze,20.8.,Jacob,-,Waschiczek,30
+Tschenkowitz,23.8.,Susanna,Wa#,Teykl,2d
+Bystrcze,29.8.,Franz,Georg,Klempyrz#,5
+Unterhermanitz,29.8.,Anton,Wenceslaus,Heylek,3w
+Oberhermanitz,31.8.,Maria,Johann,Beran,3
+Oberhermanitz,1.9.,Anna,Wenceslaus,Taraschka,3w
+Oberhermanitz,6.9.,Franz,Franz,Sedlarz#,39w
+
+DP 150
+
+Bystrcze,7.9.,Catharina,Johann,Jaukl#,3.5 (#)(Nachname schwer zu lesen, unsicher)
+Oberhermanitz,8.9.,Ludwig,Johann,Ku#esch#,6m (Nachname schwer zu lesen, unsicher. Kubesch?)
+Oberhermanitz,8.9.,Franz,Martin,Schw#sky,7
+Oberhermanitz,9.9.,Maria,Nikolaus,Schüttke,8
+Oberhermanitz,10.9.,Wenceslaus,Wenceslaus,Brokesch,3
+Unterhermanitz,11.9.,Judith,Georg,Zalmann,1.5
+Unterhermanitz,12.9.,Rosina,Wenceslaus,Zalmann,3w
+Bystrcze,13.9.,Nikolaus,-,Petr#,52 (#)(Nachname schwer zu lesen, unsicher)
+Oberhermanitz,16.9.,Anna,Paul,Zalmann,12w
+#,16.9.,Tobias,-,Nehyba,55
+Oberhermanitz,17.9.,Paul,Paul,Maresch,6
+Oberhermanitz,19.9.,Regina,Franz,Beran,1y2w
+Unterhermanitz,20.9.,Wenceslaus,Johann,Chromy,1y8w
+Worlitschka#,20.9.,Magdalena,Georg,Pfertner,2#w (#)(Sieht eher wie "Wodlitschka" aus)
+
+DP 151
+
+Oberhermanitz,20.9.,Anna,Johann,Kulhanek,9w (#)(Heißt das "Ml." "Junior" ?)
+Oberhermanitz,21.9.,Maria,Wenceslaus,Schembera,1y8w (#)(Heißt das "Ml." "Junior" ?)
+Unterhermanitz,21.9.,Heinrich,Johann,Kubelka,5 (#)(Heißt das "Ml." "Junior" ?)
+Oberhermanitz,21.9.,Johann,Johann,Seykora,1
+Oberhermanitz,21.9.,Franz,Georg,Kubin,4
+Worlitschka#,28.9.,Maria,Christoph,Heisler,40 (Ehefrau)(Heißt das "Ml." nach Maria "Manzelka/Ehefrau" ? Ortsname sieht eher nach "Wodlitschka" aus.)
+Oberhermanitz,4.10.,Polexina,Augustin,Dittrich,1
+Walterczitz,7.10.,Michael,-,Weinlich,77
+#,8.10.,Anton,Nikolaus,Duchaczek,3
+Walterczitz,9.10.,Wenceslaus,Jacob,Victorin,18
+Oberhermanitz,13.10.,Marina,Wenceslaus,Maresch Senior,5#
+Unterhermanitz,15.10.,Marina,Martin,Kubiczek,3
+Bystrcze,16.10.,Jacob,-,Waniczek,54
+
+DP 152
+
+Worlitschka,18.10.,Rosina#,Wenceslaus,Schlesinger,26w (#)(Vor Rosina steht noch irgendetwas, das wie Christian aussieht ???)
+Worlitschka,20.10.,Michael,-,Pfertner,60
+Worlitschka,20.10.,Anna,Michael,Pfertner,55 (Ehefrau)(Ehefrau oder Tochter?)
+Walterczitz,21.10.,Maria,Anton,Polak,23 (Ehefrau)(Ehefrau oder Tochter?)
+Bystrcze,22.10.,Catharina,Wenceslaus,Kaschka,1.5
+Tschenkowitz,23.10.,Paul,Nikolaus,Egydi,1
+Worlitschka,23.10.,Susanna,Matthäus,Schr#,50 (Ehefrau)(Ehefrau oder Tochter? Nachname schwer lesbar, unsicher)
+Bystrcze,24.10.,Anna,Martin,Bednarz,2w
+#hermanitz,26.10.,Dorothea,Paul,Schembera,2
+Walterczitz,29.10.,Anna,Martin,Sedlarz,13w
+Walterczitz,30.10.,Veronica,Franz,Pfertner,1
+Walterczitz,31.10.,Wenceslaus,Martin,Sedlarz,2
+Worlitschka,1.11.,Hans,-,Rösner#,40
+Worlitschka,2.11.,Sybilla,Hans,Krögler,50 (Ehefrau)
+
+DP 153
+
+Worlitschka,4.11.,Christoph,Michael,Schlesinger,2
+Tschenkowitz,8.11.,Joseph,Hans,Langhammer,1y45w
+Worlitschka,10.11.,Wenceslaus,Wenceslaus,Koller#,1y23w
+Bystrcze,11.11.,Paul,Martin,#Mrazek,2.5
+Worlitschka,12.11.,Catharina,-,Schultz,49
+Oberhermanitz,12.11.,Jira#,-,Kubin,49 (#)(Was ist "Jira" für ein Name - Georg?)
+Bystrcze,12.11.,Anna,Johann,Hrdina,2w
+Worlitschka,16.11.,Heinrich,Christoph,Heyl,1#
+Worlitschka,16#.11.,Maria,Matthäus,Schürr#,10
+#liczek,20.11.,Hans,-,Weypert,45
+Worlitschka,20.11.,Franz,Christoph,Langer,20
+Bystrcze,23.11.,Anna,Johann,Hrdina Junior,2w
+Worlitschka,24.11.,Heinrich,Wenceslaus,Wagner,10w
+Tschenkowitz,25.11.,Michael,Hans,Bok#,12w (#)(Nachname schwer zu lesen, unsicher)
+
+DP 154
+
+Tschenkowitz,26.11.,Elisabeth,Michael,Weinlich,1y13w
+#,26.11.,Anna,Hans,Stoltz,1y26w
+Tschenkowitz,26.11.,Veronica,Paul,Langhammer,2
+Tschenkowitz,26.11.,Franz,Franz,Ajmann#,45w
+Tschenkowitz,3.12.,Anna Rosina,Hans,Kob#,3 (#)(Kobliczek?)
+Bystrcze,5.12.,Catharina,-,Jan#rowa,40 (#)(Nachname schwer zu lesen, unsicher)
+Tschenkowitz,11.12.,Judith,Franz,Stoltz,35w
+Tschenkowitz#,12.12.,Hans,Wenceslaus#,Kob#,20w (#)(Kobliczek?)
+Worlitschka,13.12.,Georg,-,Krögler,80
+Worlitschka,13.12.,Anna,Christoph,Schlesinger,50 (Ehefrau)
+Worlitschka,26.12.,Maria,Jacob,Czern#,7#
+Tschenkowitz,28.12.,Johann,Georg,Sonntag,39w
+
+DP 155
+
+1714
+
+Bystrcze,6.1.,Johann,-,Hrdina,46
+Worlitschka,8.1.,Elisabeth,Christoph,Hauk,38
+Bystrcze,10.1.,Johann,-,Mach#,1 (#)(Nachname schwer zu lesen, unsicher)
+Weyprachtitz,11.1.,Anna,Johann,Worliczek,52 (Ehefrau)
+Oberhermanitz,13.1.,Wenceslaus,Giro#,Resler,18# (#)(Giro# == Georg?)
+Jamnay,14.1.,Dorothea,Tobias,Pirkl,1w
+Jablonné,15.1.,Rosina,Paul,Merta,19 (Tochter)(Ganz am Ende steht "19 Jahre", aber davor steht "1/2 Jahr" - bezieht sich 1/2 Jahr auf etwas Anderes als das Alter?)
+Unterhermanitz,15.1.,Paul,-,Chromy,84
+Walterczitz,16.1.,Michael,-,Schüll,56
+Bystrcze,16.1.,Johann,Paul,Kratky,6m
+Jablonné,18.1.,Anna,Johann,Dittrich,1
+Jablonné,18.1.,Anna,Paul,Valenta,60 (Ehefrau)
+
+DP 156
+
+Jablonné,20.1.,Anna,Anton,Stiastny,1
+Worlitschka,20.1.,Hans,-,Majer,30#
+Tschenkowitz,20.1.,Rosina,Hans,Bok,40 (Tochter)
+Unterhermanitz,20.1.,Dorothea,Wenceslaus,Hluchy#,14 (Tochter)
+Tschenkowitz,29.1.,Dorothea,#är#,67# (#)(Nachname schwer zu lesen, unsicher, Anfangsbuchstabe "H"?)
+Worlitschka,31.1.,Wenceslaus,Paul,Scholtz,19
+Bystrcze,31.1.,Georg,-,Bezalek,54
+Tschenkowitz,6.2.,Paul,-,Heyl#,78 (#)(Nachname schwer zu lesen, unsicher)
+Worlitschka#,7.2.,Rosina,Hans,Bok,29# (Ehefrau)(Jahre? Wochen? Ehefrau oder Tochter?)
+Bystrcze,16.2.,Anna,Johann,Kratky,2 (#)(Hier stimmt was nicht - es steht "Manzelka", also Ehefrau, aber bei Alter steht "2". Entweder Ehefrau oder die Altersangabe ist falsch)
+Tschenkowitz,17.2.,Peter,-,Hawel,70 (#)(Gelesen: "Hawlu")
+Oberhermanitz,17.2.,Anna,Matthäus,Maresch,79 (Witwe)(49 oder 79?)
+
+DP 157
+
+Jamnay,22.2.,Nikolaus,-,Spaczek#,60
+Jablonné,23.2.,Johann,-,Grus,30 (#)(Heißt das vor "Grus" "Junior" ?)
+Jamnay,24.2.,Martin,-,Spaczek#,65 
+Worlitschka,25.2.,Maria,Hans,Langa#,34 (Ehefrau)(Ehefrau oder Tochter? Langa == Langer?)
+#,25.2.,Franz,Franz,Nentvich,1#d
+Weyprachtitz,1.3.,Nikolaus,Nikolaus,Janka#,10
+Worlitschka,7.3.,Marina,Christoph,Scholtz,3
+Worlitschka,9.3.,Georg,-,Pfertner,75
+Oberhermanitz,12.3.,Elisabeth,Paul,Martinek,14d
+Walterczitz,17.3.,Marina,Michael,Schüll,50 (Ehefrau)(Ehefrau oder Tochter?)
+#,20.3.,Gira#,Gira#,Smey#,1.5 (#)(Eintrag schwer lesbar, unsicher)
+Bystrcze,28.3.,Georg,-,Mistr,74
+Worlitschka,3.4.,Marina,Christoph,Hauk#,5
+Weyprachtitz,4.4.,Martin,Johann,Prochaschka Junior,7d
+Worlitschka,7.4.,Franz,Franz,Pecziwal,3d
+Worlitschka,8.4.,Rosina,Georg,Krögler,52 (Ehefrau)(Ehefrau oder Tochter?)
+
+DP 158
+
+Bystrcze,8.4.,Martin,Martin,Kotliczek#,1y26w (#)(Kobliczek?)
+Jamnay,10.4.,Anna,Johann,Pekaczkowj#,50 (Witwe)(Pechaczek?)
+Jamnay,11.4.,Catharina,Wenceslaus,Valenta,35 (Ehefrau)("Ml." nach Catharina == "Manzelka/Ehefrau" ?)
+Jablonné,12.4.,Johann,-,Grus,70
+Tschenkowitz,12.4.,Johann,Franz,Kob#,7d (#)(Kobliczek?)
+Jablonné,13.4.,Magdalena,Georg,Schweyda,10
+Jamnay,14.4.,Georg,-,Trampota,60
+#,14.4.,Susanna,Michael#,Kobliczek#,60# (Ehefrau)(Schwer zu lesen, unsicher)
+Weyprachtitz,14.4.,Martin,Georg,Jelinek,3w 
+Oberhermanitz,14.4.,Johann#,-,Kulhanek,65
+Worlitschka,15.4.,Michael,Dominik,Schüll,50
+Worlitschka,17.4.,Maria,Hans#,Majer#,4
+Worlitschka,20.4.,Andreas,-,Gabler,64
+Oberhermanitz,20.4.,Marina,Mathias,Brokesch,72 (Ehefrau)(Ehefrau oder unverheiratete Tochter?)
+Jamnay,28.4.,Martin,-,B#chal,70
+Jamnay,28.4.,Paul,-,Steyskal,84
+Walterczitz,29.4.,Anna,Hans,Fröb#,80 (Ehefrau)
+Bystrcze,30.4.,Magdalena,Wenceslaus,Kaschka#,41 (Ehefrau)
+Weyprachtitz,2.5.,Adam,-,Kubu,72
+Weyprachtitz,9.5.,Marta#,Martin,Ondra,60 (Ehefrau)
+
+DP 159
+
+#,9.5.,#,#,#,1 (#)(Kaum lesbar)
+Jamnay,9.5.,Veronica,Wenceslaus,Morawek,3w
+Jablonné,9.5.,Jacob,-,Jelinek,54
+Jamnay,13.5.,Jacob,-,Gronig#,60
+Jamnay,1.6.,Elisabeth,Wenceslaus,Srschen#,60 (Witwe)(Nachname schwer zu lesen, unsicher)
+Oberhermanitz,9.6.,Nikolaus,-,Jansky,58
+Tschenkowitz,16.6.,Marina,Nikolaus,#i#a,1 (#)(Nachname schwer zu lesen)
+Bystrcze,22.6.,Catharina,Johann,Wanek#,1w
+Unterhermanitz,22.6.,Johann,-,Koczaczek,74
+Tschenkowitz,25.6.,Hans,Paul,Weinlich,1w2d
+#,5.7.,Sabina#,Dominik,Weinlich,10
+Weyprachtitz,6.7.,Magdalena,Johann,Skaliczky,6w3d
+Tschenkowitz,7.7.,Adam,-,Bier,86
+Jablonné,14.7.,#,#,#,5 (#)(Eintrag schwer zu lesen, am Ende steht nochmal 37 Jahre???)
+
+DP 160
+
+Weyprachtitz,19.7.,Paul,Martin,Pechaczek,17#
+#,27.7.,Martin,-,Kubu#,65
+Jamnay,30.7.,Johann,-,Heylek,97
+Oberhermanitz,5.8.,Eva,Wenceslaus,Hegerlik#,56 (Ehefrau)(Nachname schwer zu lesen, unsicher)
+Bystrcze,6.8.,Anna,Anna,Krystek,70 (Ehefrau)
+Bystrcze,10.8.,Martin,Wenceslaus,Hrdina,4
+Bystrcze,13.8.,Georg,Johann,Seidlmann,23
+Hermanitz,14.8.,Dorothea,Paul,Barton,58 (Ehefrau)
+Bystrcze,16.8.,Marianna,Nikolaus,Petrow#,6
+Bystrcze,23.8.,Susanna,Georg,Kratky,50 (Witwe)
+Bystrcze,25.8.,Dorothea,Johann,Hrdina,70 (Witwe)
+Tschenkowitz,26.8.,Adam,-,Byr,85
+Tschenkowitz,28.8.,Franz,Wenceslaus,Polak,3w
+
+DP 161
+
+Bystrcze,2.9.,Anna,Georg,Schimek#,4
+Bystrcze,10.9.,Dorothea,Jacob,Hrdina,5
+Oberhermanitz,11.9.,Magdalena,Johann,Rzehak,15 (Tochter)
+Hermanitz,15.9.,Paul,Johann,Kulhanek,27
+Bystrcze,17.9.,Judith,Johann,Teykl,2
+Bystrcze,26.9.,Catharina,Thomas,Bezalek,# (Tochter)
+Bystrcze,29.9.,Johann,Franz,Kubiczek,5
+#,3.10.,Christina,Peter,Heisler,70 (Witwe)
+Tschenkowitz,6.10.,Barbara,Georg,Krögler#,84 (Witwe)
+Bystrcze,8.10.,Franz,Paul,Spiczak,1
+Tschenkowitz,15.10.,Susanna,Urban,Nosek#,85 (Witwe)
+Worlitschka,21.10.,Wenceslaus,Christoph,Harmert#,8d
+Bystrcze,21.10.,Georg,Johann,Waschiczek,1
+Bystrcze,23.10.,Magdalena,-,Kubinky,35
+
+DP 162
+
+Bystrcze,23.10.,Anna,Andreas#,Kobliczek,2
+Worlitschka,26.10.,Mathias,Johann,Heisler,9
+Tschenkowitz,29.10.,Clemens,Paul,Kobliczek,2
+Worlitschka,6.11.,Maria,Wenceslaus,Schlesinger,38 (Ehefrau)
+Bystrcze,8.11.,Wenceslaus,Jacob,Ptaczek,25
+Bystrcze,10.11.,Dorothea,Wenceslaus,Jeczek#,70 (Tochter)
+#,14.11.,Mathias,-,#,60 (#)(Welches der Worte ist der Nachname? "Maly#", "Z#bruk#","#sky")
+#,21.11.,Ferdinand,Anton,Polak,2
+Worlitschka,21.11.,Wenceslaus,Christoph,Weinlich,12
+Bystrcze,27.11.,Judith,Georg,Mrazek,2
+Worlitschka,1.12.,Wenceslaus,-,Schlesinger,42
+#,2.12.,Tobias,-,Heisler,32
+#,2.12.,Susanna,Christoph,Nentvich,45 (Ehefrau)
+
+DP 163
+
+Bystrcze,7.12.,Martin,-,Schimek,30
+Bystrcze,9.12.,Elisabeth,Georg,Kuczera,4
+Bystrcze,10.12.,Paul,Martin,K#dliczek,5 (#)(Nachname schwer zu lesen, unsicher)
+Tschenkowitz,12.12.,Gotthard,Wenceslaus,Asmann,10d
+#,20.12.,Franz,Johann,Schmid,3
+Tschenkowitz,26.12.,Maria,Mathias,Chladek,2
+
+1715
+
+Unterhermanitz,2.1.,Tobias,-,Kubelka,75
+Jamnay,2.1.,Johann,Wenceslaus,Valenta,6
+Tschenkowitz,3.1.,Veronica,Mathias,Chladek,26w
+Jamnay,4.1.,Martin,Wenceslaus,Hrdina,10w
+Jablonné,10.1.,Judith,Georg,Schwantzar,1
+#,11.1.,Magdalena,Paul,Lyr,17#w (#)(11 oder 17?)
+Hermanitz,12.1.,Magdalena,Johann,Martinek,68 (Ehefrau)
+
+DP 164
+
+Tschenkowitz,13.1.,Marianna,Johann,Schüll,8
+Bystrcze,25.1.,Anton,Johann,Zelynka,1y12w
+Bystrcze,30.1.,Catharina,Paul,Charwat,24 (Tochter)
+Jablonné,31.1.,Marianna,Georg,Jansa,2w
+Tschenkowitz,1.2.,Franz,Johann,Weinlich,34
+Tschenkowitz,2.2.,Michael,Nikolaus,Egydi,7
+Weyprachtitz,2.2.,Catharina,Martin,Skaliczky,65 (Ehefrau)
+Oberhermanitz,5.2.,Wenceslaus,-,Kubesch,64
+Weyprachtitz,7.2.,Jacob,-,Morawetz,50
+Bystrcze,9.2.,Catharina,Urban,#rz#oy,86 (Witwe)(Nachname kaum lesbar)
+Hermanitz,12.2.,Magdalena,Johann,Martinek,68 (Ehefrau)
+Jamnay,13.2.,Marianna,Wenceslaus,Hrdina,30 (Tochter)
+
+DP 165
+
+Tschenkowitz,20.2.,Martin,-,Lyr,50
+Bystrcze,21.2.,Anna,Franz,Wawra,35 (Ehefrau)
+Worlitschka,23.2.,Anna,Michael,Pfertner,1.5
+Hermanitz,26.2.,Barbara,Wenceslaus,Brokesch,2m
+Jamnay,26.2.,Anna,Martin,Valenta,65 (Witwe)
+Bystrcze,26.2.,Georg,-,Uher,77
+Jablonné,2.3.,Wenceslaus,-,Blaczek,68
+Bystrcze,7.3.,Catharina,Johann,Krcziwohlawek,63 (Witwe)
+Worlitschka,8.3.,Wenceslaus,Christoph,Nehyba,30
+Worlitschka,8.3.,Andreas,Christoph,Schultz,8
+Jablonné,8.3.,Johann,Wenceslaus,Czaslawsky,10w
+#,10.3.,Wenceslaus,Christoph,Schüll,6m
+Weyprachtitz,11.3.,Anna,Paul,Skaliczky,63 (Witwe)
+
+DP 166
+
+Bystrcze,11.3.,Jacob,Martin,Kuczera,4
+Hermanitz,13.3.,Paul,-,Schwestka,43
+Jamnay,13.3.,Augustin,Matthäus,Steyskal,1
+Worlitschka,15.3.,Judith,Johann,Feltzmann,45 (Tochter)
+Worlitschka,19.3.,Marianna,Johann,Heisler,1
+Jablonné,19.3.,Marianna,Johann,Wottawa,30 (Witwe)
+Worlitschka,1.4.,Johann,-,Schultz,30
+Oberhermanitz,1.4.,Marianna,Paul,Kulhanek,50 (Ehefrau)
+Unterhermanitz,6.4.,Anna,Johann,Hluchy,47 (Ehefrau)
+Jablonné,8.4.,Dorothea,Franz,Kulhanek,15 (Tochter)
+Worlitschka,10.4.,Rosina,Caspar,Schüll,30 (Ehefrau)
+Jablonné,11.4.,Catharina,Wenceslaus,Jelinek,5
+Jablonné,11.4.,Joseph,Wenceslaus,Skaliczky,2w
+
+DP 167
+
+Jamnay,11.4.,Catharina,Martin,Behaunek,35 (Ehefrau)
+Oberhermanitz,14.4.,Marianna,Johann,Jansky,6
+#,15.4.,Rosina,Christoph,Pfertner,40 (Ehefrau)
+Worlitschka,15.4.,Christoph,-,Hauk,86
+Worlitschka,17.4.,Veronica,Paul,Bartosch,5d
+Bystrcze,26.4.,Anna,Martin#,Pauk#,45 (Tochter)(Name des Vaters schwer zu lesen, unsicher)
+#,5.5.,Marianna,Paul,Weinlich,40 (Ehefrau)
+Jamnay,7.5.,Georg,-,Filip,57
+Jamnay,7.5.,Anton,Augustin,Schlesinger,1d
+Worlitschka,8.5.,Catharina,Christoph,Schüll,45 (Witwe)
+#,10.5.,Magdalena,Georg,Pechaczek,7
+Bystrcze,17.5.,Wenceslaus,-,Wawra,60
+Jablonné,23.5.,Ignatz,Johann,Grus,5
+
+DP 168
+
+Hermanitz,24.5.,Magdalena,Johann,Martinek,25 (Tochter)
+Bystrcze,25.5.,Johann,-,Schimek,56
+Bystrcze,26.5.,Anna,Georg,Martinek,76 (Ehefrau)
+Worlitschka,26.5.,Christoph,Michael#,Pfertner,24
+Tschenkowitz,3.6.,Marianna,Christoph,Langhammer,45 (Ehefrau)
+#,8.6.,Barbara,Johann,Cordas,9m
+Weyprachtitz,9.6.,Mathias,Paul,Petr,2
+Weyprachtitz,11.6.,Anna,Paul,Petr,1
+Tschenkowitz,10.6.,Johann,-,Heisler,45
+Tschenkowitz,11.6.,Wenceslaus,Christoph,Hauk,3
+Bystrcze,17.6.,Wenceslaus,-,Kratky,64
+Bystrcze,3.7.,Judith,Johann,Kos,2
+Jamnay,10.7.,Mathias,Paul,Kreyczj,8
+
+DP 169
+
+Tschenkowitz,22.7.,Paul,-,Nehyba,70
+Worlitschka,26.7.,Elisabeth,Franz,Pfertner,# (Tochter)
+Jamnay,5.8.,Wenceslaus,-,Stepan,20
+Tschenkowitz,6.8.,Paul,-,Weinlich,76
+Worlitschka,10.8.,Regina,Jacob,Czernohorsky,37 (Witwe)
+Jamnay,21.8.,Catharina,-,Gironcz,94
+Bystrcze,22.8.,Johann,-,Waw#,54
+Jamnay,23.8.,Georg,Georg,Filip,5w
+#,23.8.,Susanna,Augustin,Heisler,2
+Bystrcze,27.8.,Anna,Johann,Wawrowa#,40 (Witwe)
+Bystrcze,31.8.,Dorothea,Johann,Bednarz,25 (Ehefrau)
+Tschenkowitz,4.9.,Maria,Paul,Weinlich,1
+Jamnay,7.9.,Catharina,-,-,Hrdina,36 (#)(Gelesen: "Hrdinka")
+
+DP 170
+
+Bystrcze,10.9.,Georg,-,Pauk#,56
+Weyprachtitz,11.9.,Augustin,Georg,Mleinek,2w
+#,14.9.,Eva,Martin,Janosch#,38 (Ehefrau)
+#,20.9.,Magdalena,Tobias,Polak#,50 (Tochter)
+Jablonné,26.9.,Wenceslaus,-,Krcziwohlawek,35
+Worlitschka,1.10.,Marianna,Franz,Krögler,30 (Ehefrau)
+Worlitschka,2.10.,Georg,-,Langer,40
+Bystrcze,3.10.,Wenceslaus,Martin,Kratky,1w
+Bystrcze,4.10.,Martin,Wenceslaus,Wawrowa#,12
+Weyprachtitz,8.10.,Franz,Franz,Ptaczek,4w
+Bystrcze,13.10.,Franz,Paul,Spiczak,5w
+Bystrcze,21.10.,Johann,-,Kaschka,60
+Worlitschka,28.10.,Judith,Christoph,Pfertner,38 (Tochter)
+
+DP 171
+
+Tschenkowitz,9.11.,Wenceslaus,Georg,Schilog#,20 (#)(Schüll? Oder ein anderer Name?)
+Worlitschka,22.11.,Marina,Christoph,Koller#,44 (Ehefrau)
+Tschenkowitz,1.12.,Matthäus,-,Polak,66
+Unterhermanitz,5.12.,Dorothea,Johann,Markow,69 (Witwe)
+Oberhermanitz,13.12.,Johann,-,Pechaczek,34
+Weyprachtitz,15.12.,Anna,Johann,Czernohorsky,6w
+#,20.12.,Susanna,Augustin,Heisler,30 (Witwe)
+#,24.12.,Christian,Christoph,Nentvich,2w
+
+1716
+
+Worlitschka,4.1.,Veronica,Johann,Schlesinger,1w
+Walterczitz,5.1.,Catharina,Paul,Schüll,5w
+Oberhermanitz,6.1.,Catharina,Matthäus,Skorpil#,65 (Ehefrau)
+Unterhermanitz,7.1.,Gottfried,Wenceslaus,Kubenka,6
+
+DP 172
+
+Walterczitz,9.1.,Veronica,Johann,Weinlich,25 (Tochter)
+Weyprachtitz,10.1.,Paul,-,Doleczal,52
+Bystrcze,15.1.,Catharina,Georg,Kos,54 (Ehefrau)
+Bystrcze,28.1.,Anna,Jacob,Maryschek#,65 (Witwe)(Nachname schwer zu lesen, unsicher)
+#,3.2.,Elisabeth,Wenceslaus,Byr,1
+Bystrcze,4.2.,Dorothea,Johann,Kaschka,61 (Witwe)
+Oberhermanitz,6.2.,Dorothea,Jacob,Darczilek#,100 (Witwe)
+Tschenkowitz,7.2.,Dorothea,Martin,Lyr,25 (Tochter)
+#,14.2.,Magdalena,Wenceslaus,Morawetz#,5
+Unterhermanitz,17.2.,Catharina,Paul,Kubelka,13d
+Weyprachtitz,18.2.,Martin,Martin,Ptaczek,5w
+Tschenkowitz,21.2.,Susanna,Paul,Kobliczek,75 (Ehefrau)
+#,22.2.,Veronica,Johann,Langer,3d
+
+DP 173
+
+Unterhermanitz,22.2.,Catharina,Paul,Ptaczek,48 (Witwe)
+Weyprachtitz,23.2.,Anna,Johann,Wottawa#,2
+Tschenkowitz,24.2.,Paul,-,Kobliczek,79
+#,27.2.,Rosina,Christoph,Egydi,72 (Witwe)
+Tschenkowitz#,28.2.,Justina,Georg,Scholtz,60 (Witwe)(Scholtz oder Stoltz ?)
+Jablonné,28.2.,Judith,Georg,Czerwenka#,65 (Ehefrau)
+Oberhermanitz,28.2.,Johann,-,Jansky#,72
+Tschenkowitz#,29.2.,Johann,-,Kobliczek,65
+Walterczitz,29.2.,Judith,Paul,Schittke,1w
+Bystrcze,2.3.,Magdalena,Georg,Wanek,6
+#,4.3.,Caspar,Christoph,Heisler,1#w
+Tschenkowitz#,5.3.,Jacob,-,Kobliczek,40
+#,5.3.,Georg,-,Czernohaus,56
+
+DP 174
+
+Jamnay,10.3.,Susanna,Jacob,Wottawa,81 (Witwe)
+Bystrcze,11.3.,Catharina,Georg,Waschiczek,54 (Ehefrau)
+Bystrcze,12.3.,Paul,Georg,Doleczal,5w
+Walterczitz,12.3.,Johann,Caspar,Bün#,54
+Jablonné,14.3.,Dorothea,Jacob,Seybal,41 (Tochter)
+Weyprachtitz,14.3.,Catharina,Paul,Sedlaczek,5
+Hermanitz,16.3.,Jacob,-,Horaczek,52
+Walterczitz,16.3.,Anna Maria,Michael,Hauenschild,70 (Ehefrau)
+Bystrcze,16.3.,Anna,Georg#,Klempyrz#,35# (Witwe)(Gelesen: "Klempyrowj")
+Tschenkowitz#,17.3.,Catharina,Marek#,Polak#,65 (Witwe)
+Walterczitz,17.3.,Susanna,Christoph,Schüll,60 (Witwe)
+Tschenkowitz,18.3.,Matthäus,-,Chladek,45
+Bystrcze,18.3.,Waw#zym#,-,Kaschka,95
+Walterczitz,23.3.,Wenceslaus,Georg,Schüttke,28
+Hermanitz,23.3.,Dorothea,Johann,Rösler,58 (Witwe)
+
+DP 175
+
+Jablonné,24.3.,Marianna,Jacob,Hawel#,54 (Ehefrau)(Gelesen: "Hawlowa")
+Walterczitz,25.3.,Wenceslaus,Paul,Lyr,2d
+Tschenkowitz#,26.3.,Susanna,Franz,Nentvich,40 (Ehefrau)
+Hermanitz,29.3.,Magdalena,Michael,Katzer#,49 (Ehefrau)
+Bystrcze,29.3.,Catharina,Georg,Krcziwohlawek,24 (Tochter)
+Worlitschka,29.3.,Anna,Johann,Krögler,49 (Ehefrau)
+Walterczitz,30.3.,Susanna,Georg,Schüttke,55 (Witwe)
+Hermanitz,31.3.,Dorothea,Matthäus,Heyl,53 (Witwe)
+Tschenkowitz#,31.3.,Susanna,Jeremias,Polak,70 (Witwe)
+Bystrcze,2.4.,Judith,Wenceslaus,Hrdina,2
+Worlitschka,3.4.,Maria,Paul,Schüll,45 (Ehefrau)
+Tschenkowitz#,4.4.,Sybilla,Wenceslaus,Osmann,26 (Ehefrau)
+Bystrcze,8.4.,Elisabeth,Paul,Hrdina#,23 (Ehefrau)
+
+DP 176
+
+Walterczitz,9.4.,Michael,-,#wen#schil#,46 (#)(Hauenschild ?)
+Worlitschka,11.4.,Regina,Christoph,Appl#,56 (Ehefrau)
+Walterczitz,11.4.,Wenceslaus,-,Schittke,65
+Worlitschka,15.4.,Rosina,Johann,Pecziwal,60 (Witwe)
+Tschenkowitz#,15.4.,Michael,-,Osmann,65
+Worlitschka,15.4.,Joseph#,-,Weinlich,65
+Tschenkowitz,16.4.,Anna,Jacob,Komink#,45 (Ehefrau)
+Bystrcze,16.4.,Anna,Georg,Wanek#,50 (Tochter)
+Jamnay,16.4.,Maria,Johann,Doleczek,2
+Walterczitz,17.4.,Elisabeth,Wenceslaus,Schüttke,60 (Witwe)
+Walterczitz,17.4.,Johann,-,Schüll,38
+Walterczitz,21.4.,Georg#,Mathias,Duschek,3w
+Jablonné,24.4.,Catharina,Georg,Seidlmann,46 (Ehefrau)
+Bystrcze,25.4.,Johann,Martin,Marek,8
+
+DP 177
+
+Worlitschka,25.4.,Franz,Johann,Feltzmann,8
+Bystrcze,26.4.,Dorothea,Thomas,Bezalek,6m
+Jamnay,27.4.,Anna,Georg,Krejczy,65 (Ehefrau)
+Tschenkowitz#,28.4.,Maria,Johann,Gerzabek,62 (Witwe)
+Jamnay,1.5.,Paul,-,Hrdina,45
+Jablonné,1.5.,Judith,Anton,Stiastny#,6m (#)(Gelesen: "Stastny")
+Tschenkowitz#,4.5.,Tobias,-,Langhammer,60
+Tschenkowitz#,4.5.,Maria,Thomas,Weigel#,30 (Tochter)
+Jablonné,5.5.,Catharina,Petr,Kyllar,60 (Witwe)
+Jablonné,5.5.,Georg,Georg,Jansa,2w
+Worlitschka,5.5.,Catharina,Abraham,Schüll,70 (Witwe)
+Walterczitz,5.5.,Catharina,Martin,Lyr,65 (Ehefrau)
+#,7.5.,Veronica,-,-,7 (#) U: Kind von Anna# Pecziwal
+Bystrcze,9.5.,Dorothea,Johann,Ondra#,64 (Ehefrau)
+
+DP 178
+
+Bystrcze,10.5.,Georg,-,Martinek,90
+Tschenkowitz#,10.5.,Anna,Johann,Weinlich,64 (Ehefrau)
+Tschenkowitz,11.5.,Stephan,-,Seidlmann,88
+-,11.5.,Johann,Tobias,Polak,12#
+Worlitschka#,12.5.,Wenceslaus,Martin,Scholtz,30
+Bystrcze,13.5.,Jacob,Johann,Kos#,6m
+Bystrcze,14.5.,Anna,Martin,Chromy,1.5
+Jablonné,18.5.,Johann,Jacob,Kupka#,6m
+Jamnay,19.5.,Johann,Jacob,Chladek,6m
+#,19.5.,Maria,Franz,Schlesinger,20 (Tochter)
+Bystrcze#,19.5.,Georg,-,Ambrosch,45
+Tschenkowitz#,22.5.,Susanna,Georg,Stoltz#,25 (Tochter)
+Worlitschka#,29.5.,Anton,Georg,Weinlich,2
+
+DP 179
+
+Walterczitz,1.6.,Susanna,Georg,Feltzmann,55 (Ehefrau)
+#,6.6.,Anna,Johann,Simon#,58 (Witwe)
+Weyprachtitz,9.6.,Jacob,-,Morawetz,75
+Weyprachtitz,12.6.,Joseph,Georg,Marek,2w
+Hermanitz,20.6.,Paul,Paul,Nosek,5
+Walterczitz,21.6.,Christoph,-,Schüll,50
+Hermanitz,23.6.,Franz,Franz,Skorpil#,10d
+Walterczitz,29.6.,Maria,Mathias,Chalaupka,3.5
+Jamnay,30.6.,Johann,Paul,Prokopecz#,2w (#)(Nachname schwer zu lesen, unsicher)
+Tschenkowitz#,3.7.,Elisabeth,Christoph,Kobliczek,1#w
+Weyprachtitz,3.7.,Anna,-,Matiegka#,48 (#)(Nachname schwer zu lesen, unsicher)
+Walterczitz,5.7.,Anna,Johann,Chalaupka,1#w (#)(Sind das "Wochen" ?)
+
+DP 180
+
+Walterczitz,16.7.,Maria,Johann,Sedlarz,2w
+Worlitschka,16.7.,Rosina,Paul,Schlesinger,26 (Tochter)
+Worlitschka,19.7.,Anna,Jeremias,Schüll,40 (Tochter)
+Bystrcze,20.7.,Magdalena,Johann,Waschiczek#,32 (#)(Nachname schwer zu lesen, unsicher)
+Jablonné,21.7.,Jacob,-,Czerny,70
+Weyprachtitz,25.7.,Paul,-,Ptaczek Junior,30
+Tschenkowitz#,3.8.,Anna Maria,Christoph,Feltzmann,1w
+Walterczitz,4.8.,Maria,Georg,Feltzmann,6
+Bystrcze,4.8.,Paul,Matthäus,Doleczal,10w
+Bystrcze,13.8.,Paul,Jacob,Kubin#,2w
+Tschenkowitz,16.8.,Maria,Matthäus,Chladek,2w
+
+DP 181
+
+Worlitschka,10.9.,Anna Maria,Wenceslaus,Schlesinger,10d
+Bystrcze,20.9.,Marianna,Jacob,Kuczera,1
+Jablonné,26.9.,Veronica,Paul,Pechaczek,50 (Ehefrau)
+Weyprachtitz,27.9.,Rosalia,Martin,Bucz#,2w (#)(Nachname schwer zu lesen, unsicher)
+Weyprachtitz,4.10.,Johann,-,Hrabacz,67
+Worlitschka,12.10.,Georg,-,Czernohorsky,63
+Jamnay,21.10.,Georg,-,Bednarz,56#
+Tschenkowitz,26.10.,Paul,-,Zaubele,65
+Walterczitz,28.10.,Barbara,Paul,Pfertner,40 (Ehefrau)
+Jablonné,30.10.,Rosalia,Rudolph#,B#sch#,3
+Bystrcze,31.10.,Marianna,Jacob,Waschiczek,5d
+
+DP 182
+
+Jamnay,2.11.,Urban,-,Giru,65
+Worlitschka,4.11.,Michael,-,Feltzmann,60
+Hermanitz,5.11.,Judith,Paul,Kulhanek,48 (Witwe)
+Jablonné,14.11.,Catharina,Wenceslaus,Czerwenka,1
+Hermanitz,17.11.,Jacob,-,Pawlas,92
+Weyprachtitz,17.11.,Johann,Mathias,Hawlena,9w
+Tschenkowitz#,18.11.,Magdalena,Paul,Zaubele,54 (Witwe)
+Tschenkowitz,27.11.,Veronica,Caspar,Sonntag#,1y2w
+Bystrcze,1.12.,Eva,Wenceslaus,Seidlmann,65 (Witwe)
+Tschenkowitz,4.12.,Anton,Andreas#,Byr,1y3m
+Weyprachtitz,5.12.,Johann,-,Czerny,56
+#,7.12.,Dorothea,Johann,Rubesch,1
+
+DP 183
+
+Hermanitz,9.12.,Dorothea,Paul,Matiegka,15# (Tochter)
+Lubnik,9.12.,Rosina,Johann,Matizka#,1
+Jamnay,10.12.,Wenceslaus,Johann,Gunek#,3d (#)(Nachname schwer zu lesen, unsicher, Janek ???)
+Hermanitz,10.12.,Georg,-,Czink,84
+Bystrcze,13.12.,Anna,Jacob,Czernohorsky,3
+Hermanitz,13.12.,Dorothea,Martin,Kubelka,2
+Tschenkowitz,14.12.,Susanna,Johann,Stoltz,1.5
+Hermanitz,15.12.,Joseph,Wenceslaus,Jansky,3#m
+Hermanitz,15.12.,Dorothea,-,Pawlas#,38
+Weyprachtitz,25.12.,Rosalia,Augustin,Ha#,1.5 (#)(Nachname schwer zu lesen, sehr unsicher)
+Tschenkowitz,27.12.,Veronica,Johann,Bok,3#m
+Jablonné#,28.12.,Anna,Johann,Skaliczky#,1y3#m
+
+
+
+
+
 
 
 
