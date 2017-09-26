@@ -1,283 +1,593 @@
-Seelenliste 1651
+﻿Seelenliste 1651
 
-Worlitschka
+Altersangaben sind exakt. Geburtsdaten basieren darauf, dass die Altersangaben relativ zum
+Jahr 1651 genannt sind, was aber vermutlich nicht exakt stimmt, es wird also vermutlich +/- ein
+paar Jahre falsch sein. Im Dokument selbst stehen nur die Altersangaben, weder ein genaues Datum,
+zu dem die Daten erhoben worden, noch Geburtsdaten. 1651 war das Beauftragungsdatum, nicht
+das Erfassungsdatum.
 
+Die Angabe "Tschenkowitz" in Klammern bezieht sich immer auf die gesamte Familie. Wo nicht angegeben,
+handelt es sich um eine Familie aus Worlitschka.
+
+Unklar ist der Begriff "Zena". Oft steht "Zena Jeho" ("seine Frau"), manchmal aber auch "Zena" ("Frau"). In einigen Fällen
+halte ich es für wahrscheinlich, dass es sich um die Ehefrau handelt, die angegeben war, kann aber gut auch Anders sein.
+Und in einem Fall wurde eine 15jährige als "Zena" bezeichnet, und bei einer Familie eine 19jährige als "Zena" und ein 
+15jähriger dann als Sohn (könnte natürlich rein theoretisch ein Kind aus erster Ehe sein, gefolgt von einer Hochzeit mit einer
+viel jüngeren Frau, das erscheint jedoch als unwahrscheinlich).
+
+Einige Berufs/Standbezeichnungen konnte ich nicht übersetzen und beließ sie daher im Tschechischen.
+
+Namen wurden der Schreibweise im Kirchenbuch bzw. deutschen Vornamen angepasst.
+
+Worlitschka und Tschenkowitz
+
+Aßmann
+
+Nikolaus, Gärtner, *1638/20 (Tschenkowitz)
+	Catharina, Frau, *1640/18
+	Eva N., Dienstmädchen, *1645/13
+	Georg Aßmann, Podruh, *1608/50
+	Simon Zeidl, Podruh, *1613/45 (Geschrieben: Zeidl, eventuell Seidlmann?)
+	Marina, Ehefrau, *1630/28
+
+Blaczek
+
+Johann, Gärtner, *1628/30 (Tschenkowitz)
+	Marina, Ehefrau, *1634/24
+	Martin Blaczek, Podruh, *1620/38
+
+Wenceslaus, Häusler, *1626/32 (Tschenkowitz)
+	Dorothea, Ehefrau, *1632/26
+	
+Bock
+
+Johann, Gärtner, *1634/24 (Tschenkowitz)	
+	Anna, Ehefrau, *1637/21
+	Eva, Mutter, *1610/48
+	Catharina N., Podruhyne, *1613/45	
+	Susanna, Tochter, *1640/18
+	
+Michael, Häusler, *1622/36 (Tschenkowitz)	
+	Barbara, Ehefrau, *1636/22
+	Anna N., Podruhyne, *1613/45
+	Anna, Tochter, *1638/20
+	
+Byr/Bier 
+
+Michael, Häusler, *1622/36 (Tschenkowitz)
+	Dorothea, Ehefrau, *1624/34
+	Adam, Sohn, *1646/12
+
+Danek
+
+Georg, Häusler, *1628/30
+	Dorothea, Frau, *1618/40
+	Magdalena N.,pastvice, *1645/13
+
+Doleczal
+
+Lorenz, Gärtner, *1638/20 (Tschenkowitz)
+	Marina, Ehefrau, *1640/18
+	Marie N.,Dienstmädchen,*1643/15
+		
+Duchaczek
+
+Johann, lzicar, *1605/53 (Tschenkowitz)
+	Barbara, Ehefrau, *1609/49
+	Peter Duchaczek, Podruh, *1635/23
+	Barbara, Ehefrau, *1637/21
+	
+Egydi
+
+Matthäus, Häusler, *1636/22 (Tschenkowitz)	
+	Anna, Ehefrau, *1638/20
+	Michael Langhammer, Podruh *1641/17
+	
 Feltzmann
 
-Christoph, Halbbauer, *1606
-	Dorothea, Ehefrau, *1609
-	Tobias, Sohn, *1638
-	Sabina N., Dienstmädchen, *1635
-	Georg Feltzmann, podruh, *1630
-	Marianna, Ehefrau, *1632
+Christoph, Halbbauer, *1613/45
+	Dorothea, Ehefrau, *1616/42
+	Tobias, Sohn, *1645/13
+	Sabina N., Dienstmädchen, *1642/16
+	Georg Feltzmann, podruh, *1637/21
+	Marianna, Ehefrau, *1639/19
 	
-Christoph, Häusler, *1625
-	Anna, Ehefrau, *1627
-	Christina Strochova, podruhyne, *1616
-	Johann, Sohn, *1636
-	Elisabeth N., Podnuhyne, *1601
+Christoph, Häusler, *1632/26
+	Anna, Frau, *1634/24
+	Christina Strochova, podruhyne, *1623/35
+	Johann, Sohn, *1643/15
+	Elisabeth N., Podruhyne, *1608/50
 	
-Johann, Gärtner, *1623
-	Anna, Ehefrau, *1625
-	Maria, Podnuhyne, *1611
+Johann, Gärtner, *1630/28
+	Anna, Ehefrau, *1632/26
+	Maria, Podruhyne, *1618/40
+	
+Fischer
+
+Johann, Häusler, *1633/25 (Tschenkowitz)
+	Dorothea, Frau, *1634/24
+
+Michael, Häusler, *1630/28 (Tschenkowitz)	
+	Dorothea, Ehefrau, *1636/22
+	
+Geblar
+
+Johann, Häusler, *1630/28
+	Barbara, Ehefrau, *1637/21
+	Barbara N.,podruhyne, *1636/22
 	
 Gütlar
 
-Simon, Halbbauer, 1611
-		Marianna, Tochter, *1638
-		Johann N., Knecht, *1631
-		Anna N.,Dienstmädchen, *1629
-		Anna N.,podruhyne, *1591		
+Simon, Halbbauer, 1618/40
+	Marianna, Tochter, *1645/13
+	Johann N., Knecht, *1638/20
+	Anna N.,Dienstmädchen, *1636/22
+	Anna N.,podruhyne, *1598/60	
+
+Hauk
+
+Georg, Häusler, *1626/32
+	Barbara, Ehefrau, *1631/27
+	Marketa N., podruhyne, *1618/40
+	
+Lorenz, Bednar, *1628/30 (Tschenkowitz)
+	Anna, Frau, *1632/26
+	
+Hauenschild (Gelesen: Hansildt, aber vermutlich identisch mit "Hauenschild" aus den Kirchenbüchern?)
+
+Christoph, Kostelnik, *1620/38 (Tschenkowitz)	
+	Magdalena, Ehefrau, *1636/22
+	Matthäus Blaczek, Podruh, *1638/20
+	Anna, Ehefrau, *1641/17
+	
+Havel
+
+Johann, Häusler, *1621/37 (Tschenkowitz)
+	Catharina, Ehefrau. *1638/20
+
+Wenceslaus, Häusler, *1631/27 (Tschenkowitz)
+	Barbara, Ehefrau, *1640/18
 		
 Heisler
 
-Johann, Sedlak, *1621
-			Dorothea, Ehefrau, *1627
-			Martin N., Dienstknecht, *1635
-			Susanna N., pastvice, *1637
+Christoph, lzicar, *1597/61 (Tschenkowitz)
+	Catharina, Frau, *1603/55
+
+Johann, Sedlak, *1628/30
+	Dorothea, Ehefrau, *1634/24
+	Martin N., Dienstknecht, *1642/16
+	Susanna N., pastvice, *1644/14
 			
-Matthäus, Fleischer, *1601
-				Justina, Ehefrau, *1605
-				Tobias, Sohn, *1626
-				Georg, Sohn, *1629
-				Michael, Sohn, *1639
-				Eva, Tochter, *1643
+Johann, Häusler, *1631/27
+	Dorothea, Ehefrau, *1637/21
+	Georg Heisler, *1634/24
+	Anna, Ehefrau, *1636/22	
+			
+Johann sen.,Häusler,*1603/55
+	Barbara,Frau,*1609/49
+	Bartholomäus,Sohn,*1642/16
+	Marie N.,podruhyne,*1623/35
+	
+Martin, lzicar, *1603/55 (Tschenkowitz)	
+	Vorsilla, Ehefrau, *1608/50
+	Christoph Heisler, podruh, *1635/23
+	Marie, Ehefrau, *1638/20
+			
+Matthäus, Fleischer, *1608/50
+	Justina, Ehefrau, *1612/46
+	Tobias, Sohn, *1633/25
+	Georg, Sohn, *1636/22
+	Michael, Sohn, *1646/12
+	Eva, Tochter, *1642/16
 				
-Michael, Gärtner, *1623
-					Rosina, Ehefrau, *1624
-					Georg Otte, Podruh, *1611
-					Kedruta, Ehefrau, *1612
+Michael, Gärtner, *1630/28
+	Rosina, Ehefrau, *1631/27
+	Georg Otte, Podruh, *1618/40
+	Kedruta, Ehefrau, *1619/39
 				
 Hoffmann
 
-Matthäus, Gärtner, *1611
-	Dorothea, Ehefrau, *1616
-	Michael, Sohn, *1632
-	Bartholomäus, Sohn, *1637
-	Sabina, Tochter, *1639
+Matthäus, Gärtner, *1618/40
+	Dorothea, Ehefrau, *1623/35
+	Michael, Sohn, *1639/19
+	Bartholomäus, Sohn, *1644/14
+	Sabina, Tochter, *1646/12
+	
+Horaczek
+
+Johann, Häusler, *1630/28 (Tschenkowitz)	
+	Susanna, Ehefrau, *1636/22
+	Barbara N., Podruhyne, *1634/24
 	
 Kauff
 
-Johann, Gärtner, *1616
-		Anna, Seine Mutter, *1581
-		Dorothea N., podruhyne, *1621
-		Marketa N., podruhyne, *1621
+Georg, Gärtner, *1628/30 (Tschenkowitz)
+	Marina, Ehefrau, *1626/32
+	Georg, Sohn, *1644/14
+
+Johann, Gärtner, *1623/35
+	Anna, Seine Mutter, *1588/70
+	Dorothea N., podruhyne, *1628/30
+	Marketa N., podruhyne, *1628/30
+	
+Kobliczek
+
+Georg, Hejny, *1628/30 (Tschenkowitz)
+	Eva, Ehefrau, *1632/26
+	Wenceslaus, Sohn, *1648/10
+	Susanna, Tochter, *1641/17
+	Catharina, Tochter, *1644/14
+	Marketa N., Podruhyne, *1610/48
+	Christoph, Sohn, *1644/14
+	Vorsilla, Tochter, *1639/19
+
+Jacob, Pulsedlak, *1631/27 (Tschenkowitz)	
+	Justina, Ehefrau, *1635/23
+	Elisabeth N., podruhyne, *1618/40
+	Bartholomäus Kobliczek, podruh, *1634/24
+	Eva, Ehefrau, *1640/18
+	
+Johann, Gärtner, *1621/37 (Tschenkowitz)	
+	Christina, Ehefrau, *1619/39
+	Johann, Sohn, *1640/18
+	Michael, Sohn, *1643/15
+	Georg, Sohn, *1648/10
+	
+Michael, Gärtner, *1628/30 (Tschenkowitz)
+	Anna, Ehefrau, *1640/18
 	
 Koller
 
-Georg, Hejny, *1609
-		Dorothea, Ehefrau, *1611
-		Barbara, Tochter, *1635
-		Dorothea, Tochter, *1637
-		Marianna, Tochter, *1639
-		Michael N., pohonic, *1601
+Georg, Hejny, *1616/42
+	Dorothea, Ehefrau, *1618/40
+	Barbara, Tochter, *1642/16
+	Dorothea, Tochter, *1644/14
+	Marianna, Tochter, *1646/12
+	Michael N., pohonic, *1608/50
 		
-Martin, Häusler, *1621 (geschrieben "Kaler")
-			Marie, Ehefrau, *1624
-			Eva, Tochter, *1639
-			Johann Tesar, podruh, *1601
-			Sybilla, Ehefrau, *1621
-			Michael, Sohn, *1639
+Martin, Häusler, *1628/30 (geschrieben "Kaler")
+	Marie, Ehefrau, *1631/27
+	Eva, Tochter, *1646/12
+	Johann Tesar, podruh, *1608/50
+	Sybilla, Frau, *1628/30
+	Michael, Sohn, *1646/12
+		
+Kulhanek
+
+Wenceslaus, Häusler, *1625/33 (Tschenkowitz)			
+	Dorothea, Ehefrau, *1630/28
+	Havel, Sohn, *1644/14
+	Georg, Sohn, *1645/13
+	Catharina, Tochter, *1646/12
+	Dorothea, Tochter, *1648/10
 	
 Krögler
 
-Andreas, Häusler, *1627
-	Susanna, Ehefrau, *1631
-	Susanna N., Dienstmädchen, *1637
+Andreas, Häusler, *1634/24
+	Susanna, Frau, *1638/20
+	Susanna N., Dienstmädchen, *1644/14
 
-Georg, Bauer, *1610
-	Barbara, Ehefrau, *1620
-	Susanna, Tochter, *1636
-	Catharina, Tochter, *1638
-	Georg N., pohonic, *1635
-	Christina N., podruhyne, *1616
+Georg, Bauer, *1617/41
+	Barbara, Ehefrau, *1627/31
+	Susanna, Tochter, *1643/15
+	Catharina, Tochter, *1645/13
+	Georg N., pohonic, *1642/16
+	Christina N., podruhyne, *1623/35
+	
+Martin, Gärtner, *1630/28 (Tschenkowitz)	
+	Barbara, Ehefrau, *1632/26
+	Justina N., Dienstmädchen, *1640/18
+	
+Martin, Häusler, *1618/40 (Tschenkowitz)	
+	Dorothea, Ehefrau, *1628/30
 
-Matthäus, Halbbauer, *1600
-		Anna, Ehefrau, *1605
-		Georg, Sohn, *1633
-		Adam, Sohn, *1636
-		Rosina, Tochter, *1640
-		Kedruta N., Dienstmädchen, *1633	
+Matthäus, Halbbauer, *1607/51
+	Anna, Ehefrau, *1612/46
+	Georg, Sohn, *1640/18
+	Adam, Sohn, *1643/15
+	Rosina, Tochter, *1647/11
+	Kedruta N., Dienstmädchen, *1640/18	
 
-Michael, Häusler, *1623
-			Helena, Ehefrau, *1625
-			Eva N., Podnuhyne, *1621
+Michael, Häusler, *1630/28
+	Helena, Ehefrau, *1632/26
+	Eva N., Podruhyne, *1628/30			
+			
+Kuczera
+
+Martin, Kovar, *1628/30
+	Christina, Frau, *1637/21
+	Dorothea, Mutter, *1608/50
+	Christoph N., pacholek, *1640/18
 		
 Langer
 
-Jan, Halbbauer, *1616
-	Catharina, Ehefrau, *1620
-	Magdalena N., Dienstmädchen, *1633		
+Jan, Halbbauer, *1623/35
+	Catharina, Ehefrau, *1627/31
+	Magdalena N., Dienstmädchen, *1640/18		
 	
 Mosar
 
-Christoph, lzicar, *1623
-	Sabina, Ehefrau, *1625
-	Sabina N., sluzebnice, *1639
+Christoph, lzicar, *1630/28
+	Sabina, Ehefrau, *1632/26
+	Sabina N., sluzebnice, *1646/12
 	
 Nentvich
 
-Caspar, Svec, *1621
-		Barbara, Ehefrau, *1623
-		Christoph, Sohn, *1640
-		Johann N., ucedlnik, *1637
-		Anna N., Dienstmädchen, * 1631
-		Anna N., pastvice, *1637
+Caspar, Svec, *1628/30
+	Barbara, Ehefrau, *1630/28
+	Christoph, Sohn, *1647/11
+	Johann N., ucedlnik, *1644/14
+	Anna N., Dienstmädchen, * 1638/20
+	Anna N., pastvice, *1644/14
+
+Nosska
+
+Andreas, Gärtner, *1608/50 (Tschenkowitz)
+	Marketa, Ehefrau, *1612/46
+	Urban, Sohn, *1643/15
+	Anna, Tochter, *1642/16
+	Simon Klem, Podruh, *1633/25
+	Dorothea, Ehefrau, *1634/24
+
+Johann, Häusler, *1628/30 (Tschenkowitz)
+	Justina, Ehefrau, *1632/26
+	
 	
 Paur
 
-Martin, Nachbar, *1611
-	Barbara, Ehefrau, *1620
-	Anna, Tochter, *1637
+Martin, Nachbar, *1618/40
+	Barbara, Frau, *1627/31
+	Anna, Tochter, *1644/14
 
 Peczival
 
-Jacob, Halbbauer, *1611
-	Marketa, Ehefrau, *1613
-	Johann, Sohn, *1638
-	Marina, Tochter, *1635
-	Anna, Tochter, *1640
-	Caspar Gabler, Podruh, *1622
-	Kedruta, Ehefrau, *1626
-	Balzar Pier, podruh, *1611
-	Vorsilla, Ehefrau, *1621
-	Paul Höring, Knecht, *1633
+Jacob, Halbbauer, *1618/40
+	Marketa, Ehefrau, *1620/38
+	Johann, Sohn, *1645/13
+	Marina, Tochter, *1642/16
+	Anna, Tochter, *1647/11
+	Caspar Gabler, Podruh, *1629/29
+	Kedruta, Ehefrau, *1633/25
+	Balzar Pier, podruh, *1618/40
+	Vorsilla, Ehefrau, *1628/30
+	Paul Höring, Knecht, *1640/18
 
 Pfertner
 
-Martin, lzicar, *1613
-	Catharina, Ehefrau, *1616
-	Dorothea N., podruhyne, *1615
+Martin, lzicar, *1620/38
+	Catharina, Ehefrau, *1623/35
+	Dorothea N., podruhyne, *1622/36
 	
-Michael, Häusler, *1622
-		Anna, Ehefrau, *1627
-		Barbara N., Dienstmädchen, *1636
+Michael, Häusler, *1629/29
+	Anna, Frau, *1634/24
+	Barbara N., Dienstmädchen, *1643/15
 
-Urban, Halbbauer, *1621
-	Marianna, Ehefrau, *1624
-	Susanna N., pastvice, *1639
-	Adam Pfertner, otec jeho, *1591
-	Eva, Tochter, *1631
-	Georg Moser, podruh, *1601
-	Barbara, Ehefrau, *1621
+Urban, Halbbauer, *1628/30
+	Marianna, Ehefrau, *1631/27
+	Susanna N., pastvice, *1646/12
+	Adam Pfertner, otec jeho, *1598/60
+	Eva, Tochter, *1638/20
+	Georg Moser, podruh, *1608/50
+	Barbara, Ehefrau, *1628/30
+	
+Polaczek
+
+Georg, Häusler, *1623/35 (Tschenkowitz)
+	Catharina, Ehefrau, *1633/25
+
+Johann, Gärtner, *1637/21 (Tschenkowitz)	
+	Marianna, Frau, *1638/20
+	Catharina N., Dienstmädchen, *1642/16
+	
+Matthäus, Schneider, *1634/24 (Tschenkowitz)	
+	Anna, Ehefrau, *1640/18
+	Jeremias Polaczek, Podruh, *1640/18
+	Susanna, Frau, *1643/15
 	
 Rußner
 
-Christoph, Häusler, *1615
-		Vorsilla, , Ehefrau, *1618
-		Johann, Sohn, *1636
-		Regina, Tochter, *1638
+Christoph, Häusler, *1622/36
+	Vorsilla, Frau, *1625/33
+	Johann, Sohn, *1643/15
+	Regina, Tochter, *1645/13
 	
 Schlesinger 
 
-Bartholomäus, Halbbauer, *1610
-	Marie, Ehefrau, *1616
-	Michael, Sohn, *1635
-	Barbara, Tochter, *1633
-	Michael Weinlich, podruh, *1616
-	Catharina, Ehefrau, *1616
-	Michael, Sohn, *1635
+Bartholomäus, Halbbauer, *1617/41
+	Marie, Ehefrau, *1623/35
+	Michael, Sohn, *1642/16
+	Barbara, Tochter, *1640/18
+	Michael Weinlich, podruh, *1623/35
+	Catharina, Ehefrau, *1623/35
+	Michael, Sohn, *1642/16
 
-Christoph, Halbbauer, *1616
-	Catharina, Ehefrau, *1627
-	Georg N., Knecht, *1633
-	Marianna N., Dienstmädchen, *1635
-	Martin Schlesinger, podruh, *1601
-	Eva, Ehefrau, *1597
+Christoph, Halbbauer, *1623/35
+	Catharina, Ehefrau, *1634/24
+	Georg N., Knecht, *1640/18
+	Marianna N., Dienstmädchen, *1642/16
+	Martin Schlesinger, podruh, *1608/50
+	Eva, Ehefrau, *1604/54
 
-Georg, Richter, *1605 (Geschrieben "Schlez")
-	Marianna, Ehefrau, *1608
-	Georg, Sohn, *1633
-	Johann, Sohn, *1638
-	Sabina, Tochter, *1635
-	Jacob N., Knecht, *1631
-	Barbara N., Tochter, *1631
-	Justina N., Tochter, *1633
-	Susanna N., Pastvice, *1637
-	Matthäus Klein, podruh, *1611
-	Dorothea, Ehefrau, *1623
-	Christina N., podruhyne, *1606
+Georg, Richter, *1612/46 (Geschrieben "Schlez")
+	Marianna, Ehefrau, *1615/43
+	Georg, Sohn, *1640/18
+	Johann, Sohn, *1645/13
+	Sabina, Tochter, *1642/16
+	Jacob N., Knecht, *1638/20
+	Barbara N., Tochter, *1638/20
+	Justina N., Tochter, *1640/18
+	Susanna N., Pastvice, *1644/14
+	Matthäus Klein, podruh, *1618/40
+	Dorothea, Ehefrau, *1630/28
+	Christina N., podruhyne, *1613/45
 	
-Jacob, Häusler, *1611
-	Eva, Ehefrau, *1621
-	Susanna, Tochter, *1636
+Jacob, Häusler, *1618/40
+	Eva, Frau, *1628/30
+	Susanna, Tochter, *1643/15
 	
-Matthäus, Häusler, *1618
-	Anna, Ehefrau, *1621
-	Georg, Sohn, *1636
-	Martin Solc, Podruh, *1631
+Matthäus, Häusler, *1625/33
+	Anna, Frau, *1628/30
+	Georg, Sohn, *1643/15
+	Martin Solc, Podruh, *1638/20
+	
+Schmidt
+
+Johann, Schneider, *1628/30 (Tschenkowitz)
+	Catharina, Ehefrau, *1633/25
+	Johann, Sohn, *1647/11
+	Susanna, Tochter, *1645/13
 	
 Schüll
 
-Bartholomäus, lzicar, *1601
-	Marketa, Ehefrau, *1611
-	Marie, Tochter, *1634
-	Eva, Tochter, *1632
-	Adam Schüll, Podruh, *1623
-	Marie, Ehefrau, *1628
+Bartholomäus, lzicar, *1608/50
+	Marketa, Frau, *1618/40
+	Marie, Tochter, *1641/17
+	Eva, Tochter, *1639/19
+	Adam Schüll, Podruh, *1630/28
+	Marie, Ehefrau, *1635/23
 
-Caspar, lzicar, *1613
-	Sara, Ehefrau, *1616
-	Jeremias, Sohn, *1635
-	Sabina, Tochter, *1633
+Caspar, lzicar, *1620/38
+	Sara, Ehefrau, *1623/35
+	Jeremias, Sohn, *1642/16
+	Sabina, Tochter, *1640/18
 	
-Dominik, Halbbauer, *1607
-	Anna, Ehefrau, *1606
-	Christoph, Sohn, *1639
-	Johann N., Knecht, *1632
-	Eva N., Dienstmädchen, *1631
-
-Friedrich, lzicar, *1601
-	Marketa, Ehefrau, *1611
-	Jeremias, Sohn, *1631
-	Rosina, Tochter, *1632
+Christoph, lzicar, *1628/30 (Tschenkowitz)	
+	Eva, Frau, *1634/24
+	Michael Krauß, podruh, *1628/30
+	Anna, Tochter, *1646/12
 	
-Michael, Halbbauer, *1621
-		Christina, Ehefrau, *1623
-		Jan N., pohonic, *1634
+Dominik, Halbbauer, *1614/44
+	Anna, Ehefrau, *1615/43
+	Christoph, Sohn, *1646/12
+	Johann N., Knecht, *1639/19
+	Eva N., Dienstmädchen, *1638/20
 
-Thomas, Halbbauer, *1616
-		Regina, Ehefrau, *1611
-		Jeremias, Sohn, *1633
-		Georg, Sohn, *1637
-		Sabina, Tochter, *1635
-		Catharina, Tochter, *1640
-		Haza N., podruhyne, *1591
-		Marianna N., podruhyne, *1621
+Friedrich, lzicar, *1608/50
+	Marketa, Ehefrau, *1618/40
+	Jeremias, Sohn, *1638/20
+	Rosina, Tochter, *1639/19
+	
+Michael, Halbbauer, *1628/30
+	Christina, Ehefrau, *1630/28
+	Jan N., pohonic, *1641/17
+
+Thomas, Halbbauer, *1623/35
+	Regina, Ehefrau, *1618/40
+	Jeremias, Sohn, *1640/18
+	Georg, Sohn, *1644/14
+	Sabina, Tochter, *1642/16
+	Catharina, Tochter, *1647/11
+	Haza N., podruhyne, *1598/60
+	Marianna N., podruhyne, *1628/30
 		
 Schwarzer
 
-Jacob, Gärtner, *1623
-			Anna, Ehefrau, *1624
-			Marie N., podruhyne, *1611
+Jacob, Gärtner, *1630/28
+	Anna, Ehefrau, *1631/27
+	Marie N., podruhyne, *1618/40
+			
+Sislar
+
+Johann, Häusler, *1631/27 (Tschenkowitz)
+	Vorsila N., Podruhyne, *1618/40
+			
+Sonntag
+
+Johann, Häusler, *1621/37 (Tschenkowitz)
+	Magdalena, Ehefrau, *1622/36
+	Johann, Sohn, *1644/14
+	Regina, Tochter, *1646/12
+
+Teykl
+
+Georg, Häusler, *1631/27 (Tschenkowitz)
+	Anna, Ehefrau, *1633/25
+				
+Waczek
+
+Johann, Häusler, *1616/42 (Tschenkowitz)
+	Magdalena, Frau, *1624/34
+	Magdalena N., Podruhyne, *1625/33
+
+Wenceslaus, Gärtner, *1635/23 (Tschenkowitz)
+	Catharina, Ehefrau, *1637/21
+	Catharina, Mutter, *1618/40
+	N. Heislerova, vodva, podruhyne, *1628/30
+	
+Wagner
+
+Johann, mlynar, *1635/23
+	Marie, Ehefrau, *1637/21
+	Balcar N., Tovarys, *1640/18
+	Georg N., ucedlnik, *1643/15
+	Catharina N., Dienstmädchen, *1643/15
+	Marie N., podruhyne, *1636/22
+	
+Waschiczek
+
+Johann, Gärtner, *1608/50 (Tschenkowitz)	
+	Vorsilla, Frau, *1628/30
+	Agnes, Tochter, *1644/14
+	Anna, Tochter, *1648/10
 	
 Weinlich
 
-Christoph, Halbbauer, *1621
-		Dorothea, Ehefrau, *1631
-		Matthäus N., Knecht, *1633
-		Sabina N., Dienstmädchen, *1635
-		Anna N., Pastvice, *1637
-		Sabina N., podruhyne, *1591
+Christoph, Halbbauer, *1628/30
+	Dorothea, Ehefrau, *1638/20
+	Matthäus N., Knecht, *1640/18
+	Sabina N., Dienstmädchen, *1642/16
+	Anna N., Pastvice, *1644/14
+	Sabina N., podruhyne, *1598/60
 		
-Georg, Mlynar, *1617
-			Anna, Ehefrau, *1632
-			Catharina, Tochter, *1636 (19jährige Ehefrau und 15jährige Tochter? Merkwürdig! Oder 2x geheiratet, und zweites Mal sehr junge Frau?)
+Georg, Mlynar, *1624/34
+	Anna, Frau, *1639/19
+	Catharina, Tochter, *1643/15
 			
-Johann, Häusler, *1623
-				Marina, Ehefrau, *1629
+Georg, Kostelnik, *1633/25 (Tschenkowitz)		
+	Vorsila, Frau, *1640/18
+			
+Johann, Häusler, *1630/28
+	Marina, Ehefrau, *1636/22
+				
+Johann, Richter von Tschenkowitz, *1596/62 (Tschenkowitz)
+	Susanna, Ehefrau, *1618/40
+	Johann, Sohn, *1638/20
+	Bartholomäus, Sohn, *1644/14
+	Paul, Sohn, *1648/10
+	Anna, Tochter, *1642/16
+	Salomena N., Dienstmädchen, *1644/14
+	Catharina N., pastvice, *1646/12
+	Michael Weinlich, hospodar, *1628/30
+	Sybilla, Ehefrau, *1634/24			
+			
+Michael, Halbbauer, *1618/40 (Tschenkowitz)			
+	Eva, Frau, *1621/37	
+	Johann, Sohn, *1640/18
+	Anna, Tochter, *1642/16
+	Justina, Tochter, *1644/14
+	Michael, Sohn, *1648/10
+	Matthäus Heisler, Pastvec, *1646/12
 	
-Zitek
+Wottawa
 
-Georg, Gärtner, *1617
-	Dorothea, Ehefrau, *1621
-	Marie, Tochter, *1639
-
-Johann, Halbbauer, *1611
-	Marianna, Ehefrau, *1611
-	Georg, Sohn, *1635
-	Michael, Sohn, *1633
-	Rosina, Tochter, *1637
-	Anna, Tochter, *1639
+Georg, Gärtner, *1608/50 (Tschenkowitz)
+	Elias, Sohn, *1643/15
+	Catharina, Tochter, *1638/20
+	Eva N., Podruhyne, *1635/23
 	
+Zitek (identisch mit Schitek/Sitek?)
+
+Georg, Gärtner, *1624/34
+	Dorothea, Ehefrau, *1628/30
+	Marie, Tochter, *1646/12
+
+Johann, Halbbauer, *1618/40
+	Marianna, Ehefrau, *1618/40
+	Georg, Sohn, *1642/16
+	Michael, Sohn, *1640/18
+	Rosina, Tochter, *1644/14
+	Anna, Tochter, *1646/12
+	
+
+
 	
