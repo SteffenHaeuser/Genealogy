@@ -107,7 +107,7 @@ Grundbuch Schmeil
 - 1650: Hauskauf Martin Hieckel's, von seinem Vater Simon Hieckel. P.137
   * Simon's Witwe heißt Anna.
 - 1599: Kauf Matz Hausner's, vom Caspar Gromes. P.140
-  * Kinder des Matz Hausner: Valten, Eva, Adfam, Maria, Anna, Georg
+  * Kinder des Matz Hausner: Valten, Eva, Adam, Maria, Anna, Georg
 - 1633: Freispruch des Georg# Derrig. P.142
 - 1634: Kauf Bartl Wolf's von Matz Hausner, seinem Schwiegervater. P.143
 - 1602: Kauf des Caspar Gromes, von Georg Sommer. P.145
@@ -141,9 +141,9 @@ Grundbuch Schmeil
 - 1614: Geldkauf Balthasar Mader's von Elias Mader vom Neundörfflein. P.172
 - 1651: Kauf Hans Mader's mit seinem Bruder und Schwager (Namen der Verwandten schwer zu lesen). P.173
 - 1602: Kauf der Agate, Witwe des sel. Matz Körnig. P.174
-- 1602: Kauf des Hans Söldner's, des Guts des sel. Matz Körnig. P.175
-- 1641: Kauf der Catharina, Hans Söldner's Witwe. P.177
-- 1651: Kauf Georg Glier#'s, welcher sich der Catharina, Hans Söldner's hinterlassenen Witwe, #. P.177
+- 1602: Kauf des Hans Seldner's, des Guts des sel. Matz Körnig. P.175
+- 1641: Kauf der Catharina, Hans Seldner's Witwe. P.177
+- 1651: Kauf Georg Glier#'s, welcher sich der Catharina, Hans Seldner's hinterlassenen Witwe, #. P.177
 - 1602: Kauf Jacob Sommer's, von dem Georg Lang. P.179
 - 1615: Freispruch Jacob Sommer. P.180
 - 1754: Kauf Regina Losert, von Andreas Losert. P.181
@@ -152,7 +152,7 @@ Grundbuch Schmeil
 - 1615: Freispruch des Martin Gromes. P.183
 - 1617: Hauskauf Georg Derrig, von Martin Gromes. P.184
 - 1631: Kauf zwischen Martin Gromes und Georg Derrig. P.184
-- 1605: Kauf des Michael Sommer, von seinem Vater Prokop Sommer. P.185
+- 1605: Kauf des Michael Sommer, von seinem Vater Prokop Sommer. P.186
 - 1651: Kauf Paul Schniffner#, von Simon Sommer. P.187
 - 1660: Freispruch Simon Sommer, und Jacob #ob. P.188
 - 1606: Kauf des Georg Matzke, von Matz Matzke, seinem Bruder. P.189
@@ -166,107 +166,352 @@ Grundbuch Schmeil
 - 1637 Kauf Stephan Breuers, um des sel. Jacob Maders. P.196
 - 1738: Kauf Andreas Losert's, nach seinem Vater Jacob Losert. P.197
 - 1612: Der Rath und das Gerichtshaus des Michael Sommer mit Georg Sommer's Behausung. P.200
-  * Hier verkauft Michael Sommer, der Richter, das Gerichtshaus an Georg. Ist Georg sein Sohn???
-- 1626: Verkauf des Gerichtshauses an Martin Sommer, von seinem Vater. P.201
-  * Der Vater ist wohl der im Gerichtshaus-Verkauf 1612 genannte Georg Sommer?
-- 1629: Verkauf des Gerichtshauses mit Martin Sommer's Vater. P.202
-  * Warum 2x Verkaufsurkunde?
-- 1632: Geldkauf Martin Sommer's von seinem Bruder Hans Sommer. P.202
-- 1632: Geldkauf Martin Sommer's von seinem Schwager Hans Sommer. P.202
-- 1640: Geldkauf Martin Sommer's von seiner Stiefmutter Barbara. P.203
-- 1659: Freispruch Hans Sommer's (und seines Bruders Martin, des Richters). P.204
-- 1672: Verkauf des Gerichtshauses von Martin Sommer an Adam Sommer. P.205
-- 1687: Freispruch Michael Demel's. P.206
+  * Hier verkauft Michael Sommer, der Richter, das Gerichtshaus an Georg. Ist Georg sein Sohn??? Nein!
+- 1626: Kauf des Martin Sommer's, von seinem Vater, das Gerichtshaus (Vermerk "Dieser Kauf gilt nicht"). P.201
+- 1629: Kauf des Martin Sommer's. P.202
+- 1632: Kauf des Martin Sommer, "der Richter", von seinem Bruder, Hans Sommer. P.202
+- 1632: Geldkauf des Martin Sommer, "der Richter", von Hans Sommer, seinem Schwager. P.202
+- 1641#: Geldkauf des Martin Sommer, von seiner Stiefmutter Barbara. P.203
+- 1659: Freispruch Hans Sommer. P.204
+  * Hans Sommer ist Bruder des Richters Martin Sommer.
+  * Barbara, Witwe des Georg Sommer wird erwähnt, ebenso wird der Name der Stiefmutter des Martin
+    als Barbara erwähnt. 
+- 1672: Kauf des Adam Sommer, um des Martin Sommer's (Gerichtshaus). P.205
+- 1687: Freispruch Michael Demels#. P.206
 - 1689: Freispruch Georg Sommer's. P.206
-- 1702: Freispruch <unleserlich> P.207
-- 1651: Kauf des Jacob Hess von der Kirche. P.207
-- 1671: Kauf Adam Hess', von seinem Vater Jacob. P.208
-- 1612: Tausch(???) der Häuser von Martin Gromes und Caspar Gromes. P.208
-- 1625: Kauf Dorothea's, der nachgelassenen Witwe des Caspar Gromes. P.209
-- 1626: Kauf Andreas Wolf's, von der Witwe des Caspar Gromes. P.210
-- 1626: Freispruch Andreas Losert's. P.210
-- 1637: Freispruch Valten Gromes'. P.211
-- 1637: Freispruch Martin Jan's. P.211
-- 1638: Freispruch Paul Gromes'. P.211
-- 1642: Freispruch Andreas Losert's. P.212
-- 1612: Kauf der Anna, Witwe des Andreas Klein, anstatt der Waisen. P.213
-- 1616: Geldkauf des Michael Derrig, von dem Simon seinem Stiefsohn. P.214
-- 1635: Hauskauf des Paul Klein, um das Gut des Michael Derrig P.215
-- 1666: Freispruch Michael Peck's, mit Gregor Peck, Item Merten Ubrig#'s. P.216
-- 1675: Kauf Mathes Klein von seinem Vater Paul Klein. P.217
-- 1691: Kauf Andreas Hess von Mathes Klein. P.217
-- 1612: Kauf Barthel Wagner's von seinen Geschwistern. P.218
-- 1760: Kauf des Anton Schwartz, nach des sel. Baltzer Sommer. P.221
-- 1613: Kauf des Adam Seldner, von seinem Vater Georg Seldner. P.223
-- 1620: Freispruch Lucas Gromes#. P.224
-- 1627: Freispruch des Adam Seltner's und Wentzl Loffl#. P.224
-- 1657: Hauskauf des Tobias Thomas von Georg Sommer. P.226
-- 1677: Freispruch Mathes Poltzer und Thomas Rup# zu Waltersdorf. P.227
-- 1613: Hauskauf Andreas Steiger von seinem Schwiegervater Wentzel Wingler#. P.228
-- 1617: Freispruch Wentzel Wingler# mit Andreas Steiger. P.229
-- 1635: Hauskauf Georg Sommer's um des sel. Andreas Steiger's. P.229
-- 1654: Hauskauf Nickel Sommer's um des Hauses des sel. Procop Degel's. P.231
-- 1650: Hauskauf des Simon Benesch, nach dem sel. Michel# Sommer#'s. P.233
+  * Leider nicht genannt, wessen Sohn genau Georg ist, aber vermutlich ist er ein Enkel des Martin Sommer.
+- 1651: Kauf des Jacob Hes, um des Georg Derrig's Gut. P.207
+- 1671: Kauf des Adam Hes, von seinem Vater Jacob Hes. P.208
+- 1612: Martin# Gromes und Caspar Gromes' Vertrag. P.208
+- 1625: Kauf der Dorothea, Witwe des sel. Caspar Gromes. P.209
+  * Söhne: Valten, Paul und Anders
+- 1626: Kauf des Andreas Wolf, der sich der Witwe des Caspar Gromes #. P.210
+- 1626: Freispruch Andreas Loserth's. P.210
+- 1637: Freispruch Valten Gromes. P.211
+  * Valten Gromes ist Stiefsohn von Andreas Wolf.
+- 1637: Freispruch Martin Jan. P.211  
+- 1638: Freispruch Paul Gromes. P.211 
+  * Paul Gromes ist Stiefsohn von Andreas Wolf.
+- 1642: Freispruch Andreas Losert. P.212
+- 1612: Kauf der Anna, Witwe des sel. Andreas Klein. P.213
+- 1616: Geldkauf Michael Derrig, von Simon Klein, seinem Stiefsohn. P.214
+- 1635: Hauskauf des Paul Klein, des Michael Derrig's. P.215
+- 1651: Freispruch Martin Kratschmer. P.216
+- 1666: Freispruch Michael Prock#'s, mit Gregor Prock# und ihrer sel. Mutter Martha so# den# Valten# Klein# zur# Ehe# gehabt#. P.216
+- 1675: Kauf Mathes Klein, nach seinem Vater Paul Klein. P.217
+- 1691: Kauf Andreas Hess, nach dem Mathes Klein. P.217
+- 1612: Hauskauf Barthel Wagner's um seines Vaters Haus (von seinen Geschwistern???) P.218
+- 1760 Kauf des Anton Schwartz, nach sel. Baltzer Sommer. P.221
+- 1613: Hauskauf Adam Seldner's, von seinem Vater Georg Seldner. P.223
+- 1625: Hauskauf des Thomas Benisch, um des Adam Seldner's. P.224
+- 1657: Hauskauf Tobias Thomas, von Georg Sommer. P.226
+- 1613: Hauskauf Andreas Steigers, von seinem Schwiegervater Wentzel Winkler. P.228
+- 1616: Geldkauf Andreas Steiger's, von Wentzel Winkler. P.229
+- 1617: Freispruch Wentzel Winkler mit Andreas Steiger. P.229
+- 1635: Hauskauf Georg Sommer's, um des Andreas Steiger's. P.229
+- 1614: Kauf Nickel Sommer's, um des sel. Prokop Degel's Witwe. P.231
+- 1650: Hauskauf des Simon Benesch, um des sel. Nickel. Sommer's. P.233
 - 1667: Freispruch Hans Mader. P.234
-  * Es werden Witwe und Kinder (vermutlich des Simon Benesch?) genannt. 
-- 1614: Hauskauf des Matz Glier vom Richter anstelle der Kinder des sel. Martin Wentzel's. P.236
-- 1641: Freispruch Valten #eder's mit Mathes Glier. P.238
+  * Witwe von Hans ist Barbara (und Mutter der Kinder). 
+  * Kinder sind: Anna, Marina, Dorothea, Eva und Catharina.
+- 1614: Kauf des Matz Glier, vom Richter anstelle der Kinder des sel. Martin Wentzel. P.236
+- 1638: Freispruch Valten Mück#. P.238
+- 1643: Freispruch Valten # mit Mathes #. 
 - 1646: Kauf Baltzer Wentzel's von seinen Geschwistern. P.239
-- 1614: Kauf des Nickel Derrig vom Richter anstelle der Kinder des sel. Merten Losert's. P.240
-- 1616: Geldkauf Nickel Derrig von Michael Losert. P.241
-- 1618: Freispruch Andreas und Michael Losert. P.241
-- 1622: Freispruch Jockl# Linert, Valten Losert und Georg# Losert von Petersdorf#. P.241
-- 1625: Freispruch Andreas Losert. P.241
-- 1617: Kauf Jacob Reimer's mit Michael Sommer. P.243
-- 1617: Kauf Hans Linert um das Gut seines sel. Vaters Jokl Linert. P.244
-	* Eine Liste von Personen, vermutlich Geschwistern ist genannt.
-- 1626: Kauf des Adam Derrig <Rest unleserlich>. P.245
-- 1650: Hauskauf des <unleserlich> von des sel. Hans Lönert. P.245
-- 1620: Hauskauf des Hans Sommer, von des sel. Adam Gromes#. P.247
+- 1652: Freispruch Hans Wentzel, Georg# Wentzel, Hans Sigmund. P.239
+- 1614: Nickel Derrig's Kauf vom Richter, anstatt der Kinder des sel. Martin Losert. P.240
+- 1618: Freispruch Andreas von Michael Losert. P.241
+- 1622: Freispruch Jockel Linert's, Valten Losert's und Georg Losert's von Petersdorf. P.241
+- 1617: Kauf Hans Linert's um das Gut seines sel. Vater's Jokl Linert. P.244
+  * Eine Erbenliste (Jokl's Kinder?): Catharina, Eva, Valten, Georg, #uda, Hans, Marina#, Adam
+- 1626: Kauf des Adam Derrig, von dem #. P.245
+- 1632: Geldkauf Hans Linert's von seinem Bruder# Valten Linert. P.245
+- 1650: Hauskauf des Martin Jan, von des sel. Hans Linert. P.245
+- 1620: Kauf Hans Sommer's, von dem sel. Adam #. P.247
+- 1633: Hauskauf des Baltzer Wentzel, um die Wüstung des sel. Hans Sommer's. P.248
 - 1622: Kauf des Georg Ulrich, von seinem Vater Thomas Ulrich. P.248
-- 1631: Hans Sommer#, um des sel. Georg Ulrich's. P.249
-- 1622: Kauf des Matz Derrig, um des sel. Simon Derrig. P.250
-- 1631: Kauf des Georg Kirnig#, um des sel. Matz Derrig. P.250
-- 1623: Kauf des Georg Kern#, um des sel. Valten Greger#'s. P.252	
-- 1624: Freispruch Hans Stieber#'s, anstelle seines Weibes. P.252
-- 1626: Kauf Lorenz Gromes' von der nachgelassenen Witwe Georg Kern's. P.252
-- 1629: Geldkauf des Lorenz Gromes. P.253
-- 1623: Kauf des Lorenz Gromes von der Witwe des Adam Proschke#. P.253
-- 1658: Kauf Paul Bönisch's, von Lorenz Gromes. P.254
-- 1698: Kauf Hans Seldner's, von Paul Bönisch'. P.255
-- 1623: Kauf Hans Losert's, um das Gut des sel. Georg Derig's. P.256
+- 1631: Hauskauf um des sel. Georg Ulrich's. P.249
+- 1622: Kauf des Matz Derrig. P.250
+- 1626: Freispruch Jokl Bart#. P.250
+- 1631: Kauf des Georg Körnig, um des Matz Derrig's. P.250
+- 1623: Kauf des Georg Körnig, um der Nachgelassenen Witwe des sel. Valten# Berger#. P.252
+- 1624: Freispruch Hans Stäbner#. P.252
+- 1629: Verkauf Lorenz Gromes#. P.253
+- 1623: Kauf des Lorenz Gromes, um der nachgelassenen Witwe des sel. Adam Prosch#. P.253
+- 1658: Kauf des Paul Bönisch, von Lorenz Gromes. P.254
+- 1698: Kauf Hans Seldner's, von dem Paul Bönisch. P.255
+- 1623: Kauf des Hans Losert, um des sel. Georg Derrig's. P.256
 - 1624: Kauf des Paul Derrig, von den Brüdern und Freunden. P.257
-- 1630: Freimark des Bastl(Bartel?) Derrig mit Paul Derrig. P.258
-- 1635: Freispruch Georg Derrig, Paul Derrig, Matthes Müller und Jockl Derrig. P.258
-- 1650: Kauf Hans Sommer's, um des sel. Bartel Derrig's. P.259
-- 1652: Kauf Georg Sommer's, von seinem Vater Hans Sommer. P.259
+  * Der verstorbene Vater heißt auch Paul?
+- 1630: Freimark des Bartel Derrig mit Paul Derrig seinem Bruder. P.258
+- 1635: Freispruch Georg Derrich des Paul Derrig, Mathes Müller und Jokl Derrich.
+  * Georg, Paul und Bartel Derrig, sind Brüder.
+- 1650: Hauskauf Hans Sommer's, um des sel. Bartel Derrig. P.259
+- 1652: Kauf des Georg Sommer, von seinem Vater Hans Sommer. P.259
+  * Vermutung: Georg Sommer, Sohn des Hans Sommer, Sohn des Michael Sommer, Sohn des Prokop Sommer???
+  * Aber P.283 ein Georg Sommer, Sohn des Lorenz? Zuordnungen des Georg Sommer daher nicht einfach!
 - 1665: Freispruch Simon Sommer's und Martin Sommer's. P.261
-- 1625: Kauf des Georg Derrig, von den Erben des Bartel Glier. P.262
-- 1645: Freispruch Ma# Hansel und Thomas Scherbich#. P.263
-- 1677: Kauf Nickel Meckel's, von seinem Vater Thomas Meckel's. P.264
-- 1634: Hauskuaf des Jockl Losert, der Wüstung des sel. Georg Sommer's. P.264
-- 1651: Kauf Adam Derrig's, von Jacob Losert's. P.264
-- 1683: Kauf Michel Gromes', von Nickel Meckel's. P.265
-- 1694: Freispruch Nickel Meckel's. P.265
-- 1700: Kauf Jacob Kirnig's, von Michel Gromes'. P.265
-- 1646: Kauf Valten Gromes', nach des Testaments seines sel. Vater's Michel Gromes'. P.266
-- 1657: Freispruch Ursula Gromes, mit ihrem Sohn Valten Gromes. P.267
-- 1674: Freispruch Hans #ell#. P.267
-- 1685: Kauf Martin Gromes', von seinem Vater Valtin Gromes. P.268
-- 1650: Hauskauf Thomas Hoffmann's, nach Testament des sel. Georg Derrig's. P.269
-- 1651: Kauf Thomas Losert's, von Thomas Hoffmann's. P.269
-- 1666: Freispruch Marcus Schubert. P.270
+  * Heißt der Name des Vaters von Simon Martin? Schwer zu lesen!
+- 1625: Kauf Georg Derrig, von den Erben des sel. Bartel Glier. P.262
+- 1634: Hauskauf zwischen Paul Derrig und Thomas Meckel. P.263
+- 1641: Freispruch Ma# Hansel. P.263
+- 1677: Hauskauf Nickel Meckel, von seinem Vater Thomas Meckel. P.264
+- 1634: Hauskauf des Jockel Losert, um des sel. Georg Sommer's. P.264
+- 1651: Kauf des Adam Derrig, von Jockel Loserth, P.264
+- 1689: Kauf des Michael Gromes, von Nickel Meckel. P.265
+- 1700: Kauf des Jacob Körnig, von Michael Gromes. P.265
+- 1646: Kauf des Valten Gromes, von seinem sel. Vater Michael# Gromes. P.266
+- 1657: Freispruch der Ursula Gromes mit ihrem Sohn Valten Gromes. P.267
+- 1685: Kauf des Martin Gromes, von seinem Vater Valten Gromes. P.268
+  * Valten's Tochter Eva ist mit Nikolaus Körnig verheiratet, dies ist also der richtige Valten 
+    Gromes, der Schwiegervater von Nikolaus Körnig ist, nicht der Valten Gromes, der Sohn des
+	Caspar Gromes ist!
+- 1650: Hauskauf des Thomas Hoffmann, des sel. Georg Derrig's. P.269
+- 1651: Hauskauf des Thomas Losert, von Thomas Hoffman. P.269
+- 1666: Freispruch Markus Schubert. P.270
 - 1667: Freispruch Andreas Derrig. P.271
-- 1650: Hauskauf Simon Sommer's, von seinem Vater Hans Sommer's. P.271
-- 1663: Freispruch Marina Sommer's, Georg, Sommer's, Martin Sommer's und Paul König's. P.272
-- 1666: Freispruch Barbara Hoffmann's. P.272
-- 1667: Freispruch Martin Kroniger#. P.273
-- 1650: Hauskauf Michael Reimer's, von seines sel. Vater's Haus, von Schwägern und Freunden. P.273
-- 1660: Freispruch Paul Gromes, Martin Hickel und Paul Klein. P.274
-- 1650: Hauskauf Greger Propf#, von des sel. Georg Poltzer's. P.277
-
-
-
-  
-  
-  
+- 1650: Hauskauf Simon Sommer, von seinem Vater Hans Sommer. P.271
+- 1663: Freispruch Marina Sommer, Georg Sommer, Martin Sommer und Paul König. P.272
+  * Marina Sommer ist Witwe von Hans Sommer (also Mutter oder Stiefmutter von Georg Sommer)???
+  * Georg und Martin Sommer sind Söhne von Hans Sommer.
+  * Paul König ist Ehemann von Anna (vermutlich Tochter von Hans Sommer)
+- 1666: Freispruch Barbara Hoffmann. P.272
+  * Barbara war eine Tochter des sel. Hans Sommer.
+- 1667: Freispruch Martin Troniger#. P.273
+- 1650: Hauskauf Michael Reimer's, von seinen sel. Vater, von seinen Schwägern. P.274
+- 1660: Freispruch Paul Gromes, Martin Hieckel und Paul Klein. P.274
+- 1650: Hauskauf des Gregor Prosch, nach dem sel. Georg Poltzer. P.277
+- 1672: Hauskauf des Thomas Kratschmer, nach Gregor Prosch. P.278
+- 1650: Hauskauf Michael Demels, nach dem sel. Michael Derrig. P.280
+- 1680: Kauf Georg Wentzel's, nach Michael Demel's. P.281
+- 1650: Hauskauf Georg Sommer's des Jüngeren, des Lorenz Sommer. P.283
+- 1656: Hauskauf des Hans Hausner, von Georg Sommer. P.284
+- 1640: Freimark Gregor Hausner's mit Valten #örder#. P.285
+- 1645: Martin Hansel# von der # kauft vom Rat Valten Weiss'ens. P.285  
+- 1653: Freispruch des Georg Sommer des Jüngeren. P.286
+  * Georg Sommer's Frau hiess Marina.
+  * Martin Hanel's Frau heisst Eva.
+  * Tobias Wolf's Frau heisst Catharina.
+  * Der sel. Gregor Hausner hat eine Tochter namens Anna.
+- 1764: Kauf Hans Hanel's, nach seinem # (Vater???) Martin Hanel. P.287
+- 1650: Hauskauf der Witwe Margareta, ihr Ehemann war Adam Glier. P.288
+- 1650: Hauskauf Thomas Gromes, des Baltzer Wentzel. P.289
+- 1733: Freispruch Hans Hansel#. P.289
+- 1651: Hauskauf Hans Sommer's, von Witfrau Eva, des Valten Röder. P.290
+- 1651: Kauf des Hans Neydeker#, von Lorenz Gromes. P.292
+- 1658: Kauf Michael Klein's, von des sel. Hans Neydeker's Witwe. P.292
+  * Dorothea ist Tochter des sel. Hans Neydecker.
+  * Hans Losert erhält Geld anstelle seines Weibes Barbara, vermutlich war Barbara eine Tochter 
+    des Hans Neydecker. 
+- 1686: Kauf des Georg Losert, von seinem Vater# (Heißt das "Vater"?) Thomas Losert. P.294
+  * Geschwister: Anna und Catharina	
+- 1710: Kauf des Jacob Losert, von seinem Vater# (Heißt das "Vater"?) Georg Losert. P.294
+- 1651: Kauf Lorenz #omes, von Gregor Prosch. P.295
+- 1718: Kauf Michael Jahn's von seinem Vater Thomas Jahn. P.296
+- 1757: Kauf des Hans Georg von seinem Vater Thomas Kratschmer. P.297
+- 1651: Kauf des Lorenz Jahn (Wer ist der Verkäufer???). P.298
+- 1718: Kauf des Thomas vom Vater Michael Kratschmer. P.298
+- 1651: Kauf Martin Sommer's, des sel. Hans Sommer's. P.300
+  * Hans Sommer's Witwe heißt Barbara.
+- 1669: Hauskauf Martin Derrig's, nach seinem Vater Georg Derrig. P.301
+  * Der Richter Martin Sommer erhält Bezahlung wegen seines Weibs Anna (eine Tochter von Georg Derrig?)
+  * Bartel Sigmund erhält Geld, aufgrund seines Weibs Catharina (eine Tochter von Georg Derrig).
+- 1711: Kauf Michael's, vom Vater Martin Derrig. P.302
+- 1665: Kauf Georg Kratschmer's, von Georg Sommer. P.304
+  * "sel. Hans Sommer's Eheweib Marina" (Ein Hans Sommer, dessen Witwe Barbara heisst, ein Hans Sommer,
+    dessen Witwe Marina heisst?)
+  * Christoph Sommer's Witwe heißt Martha
+  * Anna, des Paul König, erhält Geld - eine Tochter von Hans Sommer???  
+  * Tobias, statt seines Weibes Catharina - Tochter von Hans Sommer???
+- 1665: Freispruch Paul König's. P.304
+- 1666: Freispruch Bartel Thomas#. P.305
+- 1666: Freispruch Sommer#-Erben. P.305
+- 1677: Freispruch Barbara Sommer. P.306
+- 1684: Kauf Michael Kratschmer, nach Georg Kratschmer. P.306
+- 1697: Freispruch # Marthen. P.307
+- 1697: Freispruch Nicl# Kratschmer. P.307
+- 1698: Freispruch Hans Kratschmer. P.307
+- 1709: Freispruch Thomas Kratschmer. P.307
+- 1653: Kauf Tobias Benesch von seiner Mutter. P.308
+- 1660: Freispruch Hans Schmidt. P.309
+- 1669: Kauf Michael Gütter, welcher sich der Witwe des sel. Tobias Benesch unterwunden. P.310
+  * Eine Erbenliste ist aufgeführt.
+- 1688: Kauf Adam Bönisch, von Michael Gütter. P.311
+- 1722: Hauskauf des Hans Bönisch, von seinem Vater Adam Bönisch. P.312
+- 1658: Kauf Martin Ulrich's, von Hans Losert. P.314
+- 1677: Freispruch Agnes Derrig's. P.315
+- 1764: Kauf Michael Ulrich's, vom Vater Martin Ulrich. P.316
+- 1710: Kauf Georg Sommer's, nach seinem Vater Adam Sommer. P.317
+- 1727: Freispruch Thomas Sommer's von Giebau. P.318
+- 1659: Kauf Urban Seldner's, von seinem Stiefvater Georg Glier. P.320
+- 1690: Kauf des Thomas Seldner, nach seinem Vater Urban Seldner. P.322
+- 1701: Kauf Georg Hattel, nach Thomas Seldner. P.322
+- 1717: Kauf Michael Körnig, nach Georg Hattel. P.323
+- 1661: Kauf Georg Schindler, nach seinem Schwiegervater Baltzer Wentzel. P.325
+- 1690: Freispruch Georg Sommer. P.327
+- 1690: Freispruch Baltzer M#. P.327
+- 1697: Kauf Thomas Jan der Jüngere, von Georg Schindler. P.328
+- 1661: Kauf Hans Derrig#, von Michael Klein. P.331
+- 1759: Kauf Hans Derrig, von Georg Jahn. P.332
+- 1686: Kauf Thomas Jahn's, von Michael Reimer# (Heißt das Reimer?). P.333
+- 1661: Kauf Martin Sommer's, von Andreas Wolf. P.335
+- 1675: Freispruch der Eva Wolf. P.337
+- 1680: Kauf des Mathes Sommer, nach seinem Vater Martin Sommer. P.337
+- 1686: Kauf Georg Sommer's, von seinem Bruder Mathes Sommer. P.339
+- 1690: Freispruch Mathes Sommer. P.339
+- 1662: Kauf Hans Röder, von Martin Sommer. P.340
+- 1688: Kauf Thomas Störker#, nach Martin Sommer. P.341
+- 1688: Kauf Jacob Dreiseitel's, nach Baltzer Wentzel. P.342
+- 1690: Kauf Hans Fikel#'s, nach Jacob Dreiseitel's. P.342
+- 1691: Kauf Hans Jahn's. P.342
+- 1662: Kauf Bartel Reimer's, von Hans Derrig. P.343
+- 1688: Kauf Hans Wentzel's, nach Hans Sommer's. P.344
+- 1710: Kauf Hans Kratschmer's, vom Vater Thomas Kratschmer's. P.345
+- 1662: Kauf Hans Derrig, von Thomas Gromes hinterlassener Witwe namens Martha. P.347
+- 1708#: Kauf Adam Derrig's, nach dem Vater# Hans Derrig's. P.348
+- 1722: Kauf Georg Derrig's, nach seinem Vater Adam Derrig's. P.348
+- 1708: Georg Seldner's Heisel's Beschaffenheit. P.349
+- 1668: Hauskauf Gregor Klement's, nach dem sel. Martin Hüb#. P.350
+- 1677: Freispruch Thomas Merklin#. P.351
+- 1659: Kauf Tobias Gromes, von Gregor Klement. P.352
+- 1694: Freispruch Hans Hikel#'s. P.352
+- 1699: Kauf Michael Gromes, von seinem Bruder Tobias Gromes. P.353
+- 1712: Kauf des Hans Gromes, vom Vater Michael Gromes. P.353
+- 1662: Kauf der Marina Mader, Witwe des Hans Mader, von dem Bruder (Eine Mühle?). P.357
+- 1677: Freispruch Lorenz Mader. P.359
+- 1680: Freispruch Mathes Bok#. P.359
+- 1682: Freispruch Thomas Hansmann. P.359
+- 1685: Freispruch Erben des Hans Mader. P.359
+- 1688: Freispruch Georg Sigel. P.360
+- 1688: Freispruch Thomas Mader. P.360
+- 1692: Kauf Lorenz Agel, nach Bartel Sigmund (Eine Mühle?). P.360
+- 1702: Freispruch Georg Sigmund. P.361
+- 1671: Kauf Thomas Jahn's, von seinem Vater Martin Jahn's. P.361
+- 1684: Kauf Georg Derrig's, von Thomas Jan's. P.362
+- 1713: Kauf Martin Derrig's, vom Vater Georg Derrig's. P.363
+- 1662: Kauf Michael Schwartz's, von Paul Schi#tner#'s. P.365
+- 1671: Kauf Paul Reimer's, nach Michael Schwartz'. P.366
+- 1688: Freispruch Michael Schwartz'. P.367
+- 1691: Kauf Michael Glier, nach Paul Reimer's. P.367
+- 1714#: Kauf Mathes Christ's, von Michael Glier's. P.368
+- 1663: Kauf Nickel Körnig's, von seinem Vater Georg Körnig. P.371
+- 1666: Freispruch Georg Sommer's. P.371
+	* Eva ist Ehefrau von Georg Sommer.
+- 1671: Freispruch Michael Derrig's. P.372
+- 1679: Freispruch Mathes Derrig's. P.372
+- 1680: Freispruch oder Inhalt# Grundsätze#	. P.372
+- 1700: Kauf Georg Körnig's, vom Vater Nickel Körnig's. P.372
+- 1668: Kauf des Baltzer Wentzel's, nach dem sel. Jacob Sch#'s. P.373
+- 1668: Hauskauf des Georg Glier, von der Bartel Reimerin. P.374
+- 1685: Kauf des Georg Reimer's, von Georg Glier's. P.375
+- 1663: Kauf Michael Derrig's, von seinem Vater Jacob Derrig. P.376
+- 1673: Freispruch Martin Ulrich's. P.376
+- 1673: Freispruch Hans Derrig's. P.376
+- 1714: Kauf Martin's vom Vater Michael Derrig's. P.377
+- 1738: Kauf Karl's, nach seinem sel. Vater Martin Derrig's. P.379
+- 1672: Tausch/Vergleich zwischen Martin Hanel's, und Hans Hausner's. P.381
+- 1679: Kauf Nickel Sommer's, nach Hans Hausner's. P.382
+- 1699: Kauf Christian Klein's, von Nikel Sommer's. P.383
+- 1666: Kauf Hans Gromes, vom sel. Lorenz Domes#' hinterlassenen Kindern. P.383
+- 1667: Kauf Jacob Dreiseitel's, vom sel. Andreas Röder's. P.384
+- 1698: Kauf Michael Wentzel's, nach Jacob Dreiseitel's. P.385
+- 1672: Kauf Georg Sommer's, um das Heusel nach dem sel. Jacob Scheu#'s. P.385
+- 1685: Kauf Adam Gromes's, von Georg Sommer's. P.385
+- 1716: Kauf Georg Kratschmer's, nach dem sel. Adam Gromes'. P.386
+- #: Kirchenkauf von Äckern )Schwer zu lesen, stimmt das?), für: P.387
+     * Gregor Gromes
+	 * Prokop Sommer
+- 1587: ???? Georg Tr??? P.388
+- ??? (bis 1642) P.388  bis P.398
+- 1717: Kauf Bartl Jahn's, nach seinem Vater, Hans Jahn. P.398
+- 1766: Kauf des Florian Seldner, von Johann Bayer#. P.399
+- 1773: Florian Sellner's (Um was geht es in diesem Dokument?) P.401
+- 1668: Hauskauf des Jacob Scheu, von Hans Gromes. P.401
+- 1668: Hauskauf Andreas Prosch, von dem Lorenz Jahn. P.402
+- 1687: Kauf Michael Prosch, von seinem Vater Andreas Prosch. P.403
+- 1697: Kauf Hans Fischer's, von Michael Prosch. P.403
+- 1673: Kauf Hans Wolf's, von seinem Vater Bartel Wolf. P.405
+- 1710: Kauf Peter Wolf's, nach dem # (Vater?)Hans Wolf. P.407
+- 1675: Georg Sommer's Häusel's Beschaffenheit. P.408
+- 1686: Kauf Martin Zimmer's, nach Georg Sommer's. P.409
+- 1705: Kauf Georg Reimer's, nach Martin Klein's. P.409
+- 1678: Kauf Hans Röder's, nach Simon Bönisch's. P.410
+- 1694: Kauf Thomas Röder's, von seinem Vater Hans Röder. P.410
+- 1678: Kauf Nickel Sommer's, von Hans Röder. P.413
+- 1679: Kauf Martin Derrig, von Nickel Sommer. P.413
+- 1726: Kauf Georg's, von seinem Vater Michael Ulrich. P.414
+- 1678: Kauf Michael Wolf, nach dam Derrig. P.415
+- 1715: Kauf Martin Wolf's, von seinem Vater Michael Wolf. P.415
+- 1681: Kauf Martin Sommer's, nach seinem Vater Simon Sommer's. P.417
+- 1690: Freispruch Jacob #uppen. P.417
+- 1694: Kauf Mathes Wentzel's, nach Martin Sommer's. P.417
+- 1694: Kauf Baltzer Wentzel's, von seinem # (Vater?) Michael Wentzel's. P.420
+- 1717: Kauf Andreas Heichel's, nach sel. Baltzer Wentzel's. P.421
+- 1697: Kauf Michael Prosch's, von Tobias Domes#'s. P.422
+- 1701: Kauf Jacob Derrig's, vom Vater Georg Derrig's. P.423
+- 1704: Kauf Andreas Sigmund's, von Lorenz Agel, um der Mühle zu Schmeil. P.425
+- 1708: Freispruch Lorenz Agel's. P.425
+- 1726: Mathes Müntzner's Häusel's Beschaffenheit. P.428
+- 1709: Barthel Hess' Heusel's Beschaffenheit. P.429
+- 1711: Kauf Michael Wentzel#'s, von Georg Seldner#'s. P.429
+- 1711: Georg Seldner's Heusel Beschaffenheit. P.430
+- 1719: Georg Prosch's Heusel's Beschaffenheit. P.430
+- 1719: Mathes Jahn's Heusel's Beschaffenheit. P.430
+- 1725: Kauf Baltzer nach seinem Vater Baltzer Wentzel. P.431
+- 1731: Kauf Andreas', nach seinem Vater Hans Kraschmer's. P.434
+- 1769: Kauf des Hans Georg Klein's, nach seinem sel. Vater Hans Georg Klein's. P.438
+- 1757: Kauf des Anton Wentzel's, von seinem Stiefvater Hans Seldner#'s. P.441
+- 1709: Kauf des Michael Hess, von seinem Vater Adam Hess. P.444
+  * Das Michael der Sohn ist steht weiter unten auf der Seite.
+- 1733: Freispruch Michael Hess. P.445
+- 1714: Kauf Andreas Jan's, von seinem Vater Hans Jan. P.445
+- 1711: Kauf Hans Jan's von # (Vater?)Hans Jan. P.446
+- 1717#: Kauf Christian Morbitzer's, nach dem sel. Hans Jan. P.447
+- 1719: Freispruch Hans Meckel's statt senes Weibs Anna. P.448
+- 1720: Freispruch Eva Potsch#. P.448
+- 1725: Kauf Peter's, nach seinem Vater Martin Gromes.' P.449
+- 1763: Kauf des Hans Michael von seinem Vater Georg Sommer, um das Erbgerichtshaus. P.452
+- 1715: Kauf des Michael Sommer, von seinem Vater Georg Sommer. P.456
+- 1722: Kauf Michael Wentzel's, nach Michael Sommer's. P.457
+  * Michael Wentzel ist Ehemann von Marianna, der Tochter des Georg Sommer.
+- 1672: Alten Richter's Martin Sommer's mit Thomas Lorenz getroffenen Vergleichs. P.460  
+- 1719: Hauskauf Valentin Reimer's, nach seinem Vater Georg Reimer. P.461
+- 1727: Paul Dreiseitel's Häusel's Beschaffenheit. P.463
+- 1746: Hauskauf Wentzel Gromes, von Johann# Fischer. P.464
+- 1729: Tobias Hausner's Häusel Besdchaffenheit. P.465
+- 1746: Hauskauf Andreas Wolf's, von Michael Wentzel's. P.466
+- 1746: Hauskauf Wentzel H#'s, von Lorenz Sigmund's. P.467
+- 1765: Kauf des Hans Georg Losert's, von Wentzel Hees#'s. P.467
+- 1727: Kauf Georg Ulrich's, von seinem Vater Michael Ulrich's. P.469
+- 1746: Hauskauf Georg Hees#'s, von Barthel Hees#'s. P.471
+- 1746: Hauskauf Georg Friedrich's, nach Hans Poltzer's. P.472
+- 1731: Kauf Michael Derrig's, von seinem Vater Jacob Derrig's. P.473
+- 1731: Kauf Lorenz Gromes', nach dem sel. Michael Körnig's. P.475
+- 1762: Hauskauf des Mathes# Jahn, nach dem sel. Lorenz Gromes'. P.477
+  * genannt "die Mutter Elisabeth" (vermutlich die Witwe des Lorenz Gromes ?).
+- 1731: Kauf Franz Sigmund's, nach seinem Vater Andreas Sigmund's, um die Schmeiler Mühle. P.480
+- 1757: Kauf Anton Sigmund's, nach seinem Vater Franz Sigmund's, um die Schmeiler Mühle. P.482
+- 1765: Freispruch des Hans Georg Kratschmer's. P.484
+- 1731: Kauf Mathes# Prosch#'s, nach seinem Vater Michael Prosch#'s. P.485  
+- 1736: Kauf Mathes Jahn's, nach seinem Schwiegervater Hans Selner's. P.488
+- 1762: Kauf des Fabian Kratschmer's, von Mathias Jahn's. P.490
+- 1752: Kauf Georg Wentzel's, von Georg Prosch's. P.491
+- 1732: Georg Prosch's, nach dem sel. Georg Sellner's. P.493
+- 1732: Kauf Lorenz Körnig's, nach seinem Vater Georg Körnig's. P.494
+- 1737: Kauf Anton Titz's, nach dem sel. Lorenz Körnig's. P.495
+- 1732: Kauf Andreas Wentzel's, nach seinem Vater Hans Wentzel's. P.498
+- 1737: Kauf Hans Derrig's, von seinem Vater Martin Derrig's. P.500
+- 1739: Kauf Johann Prosch's, nach dem sel. Andreas Jahn's. P.503
+- 1745: Hauskauf Martin Sommer's, nach dem sel. Johann Derrig#'s. P.505
+- 1747: Hauskauf des Hans Georg Lehnert's, von seinem Schwiegervater Michael Hausner#'s. P.507
+- 1747: Hauskauf des Hans Georg Hees#', nach dem sel. Stiefvater Georg Körnig's. P.509
+- 1748: Hauskauf des Baltzer Christ's, nach seinem sel. Vater Mathias Christ's. P.511
+- 1749: Hauskauf des Franz Gromes', von seinem Vater Mathias Gromes'. P.513
+- 1749: Hauskauf ddes Andreas Reimer's, nach seinem sel. Vater Valentin Reimer's. P.515
+- 1749: Hauskauf des Anton Kratschmer's, von Anton Dreiseitel's. P.517
+- 1752: Kauf Georg Gromes', nach seinem Vater Hans Gromes'. P.519
+- 1740: Kauf Karl Derrig#'s, nach seinem sel. Vater Georg Derrig#'s. P.522
+- 1728: Thomas Sendler's Häusel's Beschaffenheit. P.523
+- 1764: Kauf des Joseph Derrig von seinem Bruder Karl Derrig. P.523
+- 1728: Georg Wentzel's Häusel Beschaffenheit. P.524
+- 1759: Kauf des Karl Franz Derrig, von seinem sel. Vater Michael Derrig. P.526
