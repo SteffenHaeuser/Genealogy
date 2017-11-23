@@ -1418,62 +1418,62 @@ Bystrcze,5.1.,Dorothea,Jacob,Smrczek,Dorothea
 
 DP 79
 
-Worlyczek,8.1.,Johann,Johann,Schüttke#,Elisabeth
-#,11.1.,Magdalena,Paul,Heyl,Catharina
-Tschenkowitz,12.1.,Maria,Paul,Heisler,Maria#
-Weyprachtitz,12.1.,Mathias,Paul,Tauschek#,Anna
-Weyprachtitz,12.1.,Anna#,Martin,Wottawa,Dorothea
-Worlyczek,19.1.,Friedrich,Friedrich,#,Marianna
-#,19.1.,Maria,Wawr#,Jan#,Magdalena
-Jamnay,22.1.,Anna,Johann,Chladek#,#
-Weyprachtitz#,22#.1#.,Johann,Christoph,#,#
-Weyprachtitz,22.1.,Dorothea,Wenceslaus#,Kub#,Magdalena
-#,24.1.,Maria#,Johann,Sedlarz#,Anna#
+Worlyczek,8.1.,Johann,Johann,Schüttke,Elisabeth
+Czermny,11.1.,Magdalena,Paul,Heyl,Catharina
+Tschenkowitz,12.1.,Maria,Paul,Heisler,Maria
+Weyprachtitz,12.1.,Mathias,Paul,Tauschek,Anna
+Weyprachtitz,12.1.,Anna,Martin,Wottawa,Dorothea
+Worlyczek,19.1.,Friedrich,Friedrich,Weypert,Marianna
+Czermny,19.1.,Maria,Wawrzinecz,Jan,Magdalena
+Jamnay,22.1.,Anna,Johann,Chladek,Anna (Beruf Richter)
+Weyprachtitz,22.1.,Johann Christoph,Christoph,Wolbart#,Marina
+Weyprachtitz,22.1.,Dorothea,Wenceslaus,Kubesch,Magdalena
+-,24.1.,Maria,Johann,Sedlarz,Anna
 Dolni Dobrouc,26.1.,Susanna,Peter,Motl,Magdalena
-Jamnay,6#.2.,Wenceslaus,Martin,Mac#,Ludmilla
-Jamnay#,7.2.,Dorothea,Georg,Khyllar#,Anna#
+Jamnay,3.2.,Wenceslaus,Martin,Maczek,Ludmilla
+Jamnay,7.2.,Dorothea,Georg,Khyllar,Anna
 
 DP 80
 
-Tschenkowitz,6.2.,#,Johann,Hauk,Anna (Ist der Name des Kindes irgendwo angegeben?)
+Tschenkowitz,6.2.,-,Johann,Hauk,Anna (Ein Sohn
 Tschenkowitz,7.2.,Anna,Johann,Nehyba Junior,Anna
 Bystrcze,9.2.,Marianna,Johann,Seidlmann,Magdalena
-Czermny,15.2.,Mathias,Johann,Waczek#,Maria#
-Bystrcze,16.2.,Wenceslaus,Peter,Kowarz#,Marianna
-Worlyczek,16.2.,Georg,Abraham#,Schüll#,Catharina (Heißt das Abraham? Heißt das Schüll/Schiel?)
+Czermny,15.2.,Mathias,Johann,Waczek,Maria
+Bystrcze,16.2.,Wenceslaus,Peter,Kowarz,Marianna
+Worlyczek,16.2.,Georg,Abraham,Schüll,Catharina 
 Worlyczek,16.2.,Christoph,Paul,Fischer,Regina
 Worlyczek,4.2.,Anna,Christoph,Nehyba,Susanna
 Worlyczek,20.2.,Christoph,Tobias,Feltzmann,Sabina
-#,23.2.,Johann,Johann,Mora#,Catharina
-Weyprachtitz,23.2.,Marianna,Martin,Sedlaczek#,Rosina#
-Bystrcze,27.2.,Jacob,Georg,P#l#,Dorothea
-Jablonne,2.3.,Ludmilla,Johann,Brokesch#,Magdalena
-Bystrcze,2.3.,Maria#,Wenceslaus,Gir#,Dorothea
+Wermerzowicz,23.2.,Johann,Johann,Morawetz,Catharina
+Weyprachtitz,23.2.,Marianna,Martin,Sedlaczek,Rosina
+Bystrcze,27.2.,Jacob,Georg,Paczl,Dorothea
+Jablonne,2.3.,Ludmilla,Johann,Brokesch,Magdalena
+Bystrcze,2.3.,Maria,Wenceslaus,Jira,Dorothea
 Weyprachtitz,2.3.,Magdalena,Jacob,Sedlaczek,Magdalena
-Bystrcze,2.3.,Catharina,Paul,Hrdina#,Magdalena
-#,3.3.,Marianna,Jacob,Bednarz#,Dorothea
+Bystrcze,2.3.,Catharina,Paul,Hrdina,Magdalena
+Czermny,3.3.,Marianna,Jacob,Bednarz,Dorothea
 
 DP 81
 
 Worlyczek,4.3.,Anna,Christoph,Nehyba,Susanna
-#,6.3.,Johann,Paul,Sch#,Dorothea
-Czermny,6.3.,Marianna,Georg#,Heyl,Susanna
-Jablonne,16.3.,Paul,Georg#,Jawurek#,Anna
-Dolni Dobrouc,16.3.,Georg,Peter,Sar#,Catharina
-Jamnay,21.3.,Wenceslaus,Wenceslaus#,Horaczek#,Catharina
-#,23.3.,Maria#,Adam,Duschek,Magdalena
-Worlyczek,27.3.,Georg,Nikolaus,Heisler,Catharina#
-Jamnay,29.3.,Catharina,Paul#,Doleczal#,Marina#
-Dolni Dobrouc,31.3.,Anna,Johann,Pechaczek#,Marianna
-#,1.4.,Georg,Bartholomäus#,Andreas#,Maria#
-Worlyczek,1.4.,Georg,Wenceslaus#,Schüttke#,Ludmilla
-Unterhermanitz,11.4.,Magdalena,Wenceslaus#,Kubelka,Catharina#
-Unterhermanitz#,11.4.,Wenceslaus,Matthäus#,Hluch#,Barbara
-#,11.4.,Wenceslaus#,Johann#,Chladek#,Anna#
-Tschenkowitz,3.4.,Georg,Georg,Schüll#,Marianna
-Czermny,4.4.,Georg,Wenceslaus#,Motl,Anna#
-#,4.4.,Elisabeth,Wenceslaus#,B#,Catharina
-Worlyczek,5.4.,Georg,Johann#,Feltzmann,Marina#
+Oberhermanitz,6.3.,Johann,Paul,Schwestka,Dorothea
+Czermny,6.3.,Marianna,Georg,Heyl,Susanna
+Jablonne,16.3.,Paul,Georg,Jawurek,Anna
+Dolni Dobrouc,16.3.,Georg,Peter,Stransky,Catharina
+Jamnay,21.3.,Wenceslaus,Wenceslaus,Horaczek,Catharina
+Czermny,23.3.,Maria,Adam,Duschek,Magdalena
+Worlyczek,27.3.,Georg,Nikolaus,Heisler,Catharina
+Jamnay,29.3.,Catharina,Paul,Doleczal,Marina
+Dolni Dobrouc,31.3.,Anna,Johann,Pechaczek,Marianna
+Petrovice,1.4.,Georg,Bartholomäus,Andrle,Maria
+Worlyczek,1.4.,Georg,Wenceslaus,Schüttke,Ludmilla
+Unterhermanitz,11.4.,Magdalena,Wenceslaus,Kubelka,Catharina
+Unterhermanitz,11.4.,Wenceslaus,Matthäus,Hluch#,Barbara
+Weyprachtitz,11.4.,Wenceslaus,Johann,Chladek,Anna
+Tschenkowitz,3.4.,Georg,Georg,Schüll,Marianna
+Czermny,4.4.,Georg,Wenceslaus,Motl,Anna
+#,4.4.,Elisabeth,Wenceslaus,Boczek,Catharina
+Worlyczek,5.4.,Georg,Johann,Feltzmann,Marina
 
 DP 82
 
