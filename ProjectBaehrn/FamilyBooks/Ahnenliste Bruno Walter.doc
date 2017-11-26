@@ -1,5 +1,5 @@
 {\rtf1\ansi\deff3\adeflang1025
-{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fscript\fprq0\fcharset0 Comic Sans MS;}{\f4\fnil\fprq0\fcharset128 OpenSymbol{\*\falt Arial Unicode MS};}{\f5\fswiss\fprq0\fcharset128 Arial;}{\f6\fnil\fprq2\fcharset0 Microsoft YaHei;}}
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fscript\fprq0\fcharset0 Comic Sans MS;}{\f4\fnil\fprq0\fcharset128 OpenSymbol{\*\falt Arial Unicode MS};}{\f5\fnil\fprq2\fcharset0 Microsoft YaHei;}{\f6\fswiss\fprq0\fcharset128 Arial;}}
 {\colortbl;\red0\green0\blue0;\red128\green128\blue128;}
 {\stylesheet{\s0\snext0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang1031 Standard;}
 {\*\cs15\snext15 RTF_Num 2 1;}
@@ -31,18 +31,19 @@
 {\*\cs41\snext41 RTF_Num 4 9;}
 {\*\cs42\snext42 Nummerierungszeichen;}
 {\*\cs43\snext43\hich\af4\dbch\af4\loch\f4 Aufz?hlungszeichen;}
-{\*\cs44\snext44\hich\af4\dbch\af4\loch\f4 Aufz?hlungszeichen;}
-{\s45\sbasedon0\snext46{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\hich\af2\langfe2052\dbch\af6\loch\f2\fs28\lang1031 Überschrift;}
+{\*\cs44\snext44\hich\af4\dbch\af4\loch\f4 WW-Aufz?hlungszeichen;}
+{\s45\sbasedon0\snext46{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb240\sa120\keepn\cf0\hich\af5\langfe2052\dbch\af2\loch\f2\fs28\lang1031 Überschrift;}
 {\s46\sbasedon0\snext46{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb0\sa120\cf0\hich\af3\langfe2052\dbch\af3\loch\f3\fs24\lang1031 Textkörper;}
-{\s47\sbasedon46\snext47{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb0\sa120\cf0\hich\af5\langfe2052\dbch\af3\loch\f3\fs24\lang1031 Liste;}
-{\s48\sbasedon0\snext48{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\hich\af5\langfe2052\dbch\af3\ai\loch\f3\fs24\lang1031 Beschriftung;}
-{\s49\sbasedon0\snext49{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af5\langfe2052\dbch\af3\loch\f3\fs24\lang1031 Verzeichnis;}
+{\s47\sbasedon46\snext47{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb0\sa120\cf0\hich\af3\langfe2052\dbch\af6\loch\f3\fs24\lang1031 Liste;}
+{\s48\sbasedon0\snext48{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\sb120\sa120\cf0\i\hich\af3\langfe2052\dbch\af6\ai\loch\f3\fs24\lang1031 Beschriftung;}
+{\s49\sbasedon0\snext49{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\cf0\hich\af3\langfe2052\dbch\af6\loch\f3\fs24\lang1031 Verzeichnis;}
 {\s50\snext0\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031 Ahnenblatt 1;}
 {\s51\snext0\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031 Ahnenblatt 2;}
 }{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr0\mo0\dy0\hr0\min0}{\printim\yr0\mo0\dy0\hr0\min0}{\comment OpenOffice}{\vern4130}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
 
 {\*\pgdsctbl
-{\pgdsc0\pgdscuse195\pgwsxn11907\pghsxn16839\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\pgdscnxt0 Standard;}}
+{\pgdsc0\pgdscuse195\pgwsxn11907\pghsxn16839\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\pgdscnxt0 Standard;}
+{\pgdsc1\pgdscuse195\pgndec\pgwsxn11907\pghsxn16839\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\pgdscnxt1 Konvert 1;}}
 \formshade{\*\pgdscno0}\paperh16839\paperw11907\margl1800\margr1800\margt1440\margb1440\sectd\sbknone\sectunlocked1\pgndec\pgwsxn11907\pghsxn16839\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
 \pgndec\pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li0\ri0\lin0\rin0\fi0{\b\ab\rtlch \ltrch\loch
 Ahnenliste Bruno Walter 1.+2. Ahnenreihe}
@@ -152,18 +153,18 @@ Weitere Quellen: Matrikelarchiv Oppava/Troppau, Ahnenpass Walter}
 Im Ahnenpass ist der Geburtsmonat falsch angegeben. In den Kirchenb\'fcchern kann man ihn korrekt nachlesen.}
 \par \sect\sectd\sectunlocked1\pgwsxn11907\pghsxn16839\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\pgndec\sbkpage\pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li0\ri0\lin0\rin0\fi0{\b\ab\rtlch \ltrch\loch
 Ahnenliste Bruno Walter 3. Ahnenreihe}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li0\ri0\lin0\rin0\fi0{\b\ab\rtlch \ltrch\loch
+\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li0\ri0\lin0\rin0\fi0{\rtlch \ltrch\loch
 }
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li0\ri0\lin0\rin0\fi0{\b\ab\rtlch \ltrch\loch
 3. Ahnenreihe}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 }
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031{\b\ab\rtlch \ltrch\loch
+\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\b\ab\rtlch \ltrch\loch
 8. Walter}{\rtlch \ltrch\loch
 , Augustin, R\'f6misch-katholisch, Bauer, Wirtschafter}
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031{\rtlch \ltrch\loch
+\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 \tab \tab * Domstadtl 05.08.1818, + Domstadtl 22.06.1868}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031{\rtlch \ltrch\loch
+\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 \tab oo Domstadtl  01.02.1841 Philippine Hansmann}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 \tab Reg.-Nr. IV/58}
@@ -172,12 +173,12 @@ Ahnenliste Bruno Walter 3. Ahnenreihe}
 \par \pard\plain \s0{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\nowidctlpar\cf0\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs24\lang1031{\rtlch \ltrch\loch
 \tab    }{\afs20\rtlch \ltrch\loch\fs20
  Weitere Quellen: Matrikelarchiv, Ahnenpass Walter, Daten von Frau Holl}
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031{\b\ab\rtlch \ltrch\loch
+\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\b\ab\rtlch \ltrch\loch
 9. Hansmann}{\rtlch \ltrch\loch
 , Philippine, R\'e4misch-katholisch}
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031{\rtlch \ltrch\loch
+\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 \tab \tab * Domstadtl 09.02.1820, + Domstadtl 29.11.1893}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031{\rtlch \ltrch\loch
+\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 \tab oo Domstadtl 01.02.1841 Augustin Walter}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 \tab Tauf-Reg.-Nr. IV/15}
@@ -1310,17 +1311,15 @@ Matrikelarchiv Opava/Troppau}
 \par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 73. }{\b\ab\rtlch \ltrch\loch
 Niemetz}{\rtlch \ltrch\loch
-, Paulina, * Rybnicek, Tschechische Republik um 1731, + Doma\'9aov nad Byst\u345\'3fic\'ed, Tschechische Republik 29.06.1808}
+, Paulina, * Rybnicek 04.08.1743, + Doma\'9aov nad Byst\u345\'3fic\'ed, Tschechische Republik 29.06.1808}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 <p>Keine Geburt einer Paulina gefunden, aber Polexina. Dieser Name wurde laut google oft als Paulina "eingedeutscht", daher wird dies vermutlich die "richtige Geburt" sein.</p>}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 oo Doma\'9aov nad Byst\u345\'3fic\'ed, Tschechische Republik 26.11.1764 Joseph Hansmann}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Quellen: Daten von Monika Holl}
+Geburten, Ujezd, 1700-1784, Page 131}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Matrikelarchiv Opava/Troppau}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Daten von Monika Holl}
+Matrikelarchiv Opava/Troppau: Hochzeiten, Band II/3}
 \par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 74. }{\b\ab\rtlch \ltrch\loch
 Seidler}{\rtlch \ltrch\loch
@@ -2070,25 +2069,13 @@ Daten von Monika Holl}
 Niemetz}{\rtlch \ltrch\loch
 , Christian, Richter, * Rybniczek, Tschechische Republik 21.10.1686, + Rybniczek, Tschechische Republik 25.09.1771}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-oo Mladejovice, Tschechische Republik 14.07.1710 Anna G\'f6tz}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Quellen: Daten von Herrn Gr\'fcnbeck}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Daten von Herrn Gr\'fcnbeck}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Matrikelarchiv Opava/Troppau}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Daten von Monika Holl}
+Geburten, Ujezd, 1653-1700, Page 110}
 \par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 147. }{\b\ab\rtlch \ltrch\loch
-G\'f6tz}{\rtlch \ltrch\loch
-, Anna, * Bladowitz, Tschechische Republik 28.02.1691, + Rybnicek, Tschechische Republik 14.12.1720}
+Niemetz}{\rtlch \ltrch\loch
+, Johanna, * ca. 1704, + Rybnicek, Tschechische Republik 10.02.1773}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-oo Mladejovice, Tschechische Republik 14.07.1710 Christian Niemetz}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Quellen: Daten von Herrn Gr\'fcnbeck}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Daten von Herrn Gr\'fcnbeck}
+Sterbebuch, Ujezd,1700-1784, Page 349, Haus No. 33}
 \par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 148. }{\b\ab\rtlch \ltrch\loch
 Seidler}{\rtlch \ltrch\loch
@@ -3146,22 +3133,6 @@ Quellen: Daten von Herrn Gr\'fcnbeck}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 Daten von Herrn Gr\'fcnbeck}
 \par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
-294. }{\b\ab\rtlch \ltrch\loch
-G\'f6tz}{\rtlch \ltrch\loch
-, Simon, * Aujezd, Tschechische Republik 26.10.1656, + Bladowitz, Tschechische Republik}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-oo Aujezd, Tschechische Republik 20.06.1680 Barbara Czerni}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Quellen: Daten von Herrn Gr\'fcnbeck}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-Daten von Herrn Gr\'fcnbeck}
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
-295. }{\b\ab\rtlch \ltrch\loch
-Czerni}{\rtlch \ltrch\loch
-, Barbara, * vor 1663}
-\par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
-oo Aujezd, Tschechische Republik 20.06.1680 Simon G\'f6tz}
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 296. }{\b\ab\rtlch \ltrch\loch
 Seidler}{\rtlch \ltrch\loch
 , Friedrich, * vor 1687}
@@ -3174,7 +3145,7 @@ oo Friedrich Seidler}
 \par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 298. }{\b\ab\rtlch \ltrch\loch
 Rosensprung}{\rtlch \ltrch\loch
-, Hans Georg, * Doma\'9aov nad Byst\u345\'3fic\'ed, Tschechische Republik um 03.02.1683, ~ Doma\'9aov nad Byst\u345\'3fic\'ed, Tschechische Republik 03.02.1683, + vor 22.09.1736}
+, Hans Georg, * Domstadtl 03.02.1683, ~ Domstadtl 03.02.1683, + Domstadtl 27.08.1736}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 Geburten, Doma\'9aov nad Byst\u345\'3fic\'ed, 1662-1788, Page 80}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
@@ -4294,17 +4265,9 @@ Andilke}{\rtlch \ltrch\loch
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 oo Rybn\'ed\u269\'3fek, \'dajezd, Tschechische Republik 20.01.1660 Paul Jonda}
 \par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
-588. }{\b\ab\rtlch \ltrch\loch
-G\'f6tz}{\rtlch \ltrch\loch
-, Wenceslaus, * vor 1639}
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
-590. }{\b\ab\rtlch \ltrch\loch
-Czerni}{\rtlch \ltrch\loch
-, Martin, * vor 1646}
-\par \pard\plain \s50\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi-283\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi-283{\rtlch \ltrch\loch
 596. }{\b\ab\rtlch \ltrch\loch
 Rosensprung}{\rtlch \ltrch\loch
-, Heinrich, * vor 1652}
+, Heinrich, * vor 1652, + Domstadtl 06.04.1721}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
 <p>Hans Georg Rosensprung kauft 1707 seines Vaters Heinrich Haus. Gesichert, dass es sich um denselben Hans Georg Rosensprung handelt, der f&uuml;r diese Ahnenreihe relevant ist, ist durch die Nennung von Rosina des Philipp M&uuml;ller bei sowohl diesem Verkauf als auch dem Kauf von Heinrich Seidler desselben Hauses sp&auml;ter, sowie durch die Nennung, dass das Haus in der N&auml;he des Nithmann-Hauses steht.</p>}
 \par \pard\plain \s51\qj{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\li283\ri0\lin283\rin0\fi0\sb0\sa0\nowidctlpar\cf1\hich\af3\langfe2052\dbch\af3\afs24\lang1081\loch\f3\fs20\lang1031\li283\ri0\lin283\rin0\fi0{\rtlch \ltrch\loch
