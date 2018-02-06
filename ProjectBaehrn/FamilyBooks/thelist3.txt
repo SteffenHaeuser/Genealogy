@@ -58,7 +58,6 @@ Higger, Josefa - * ca. 1770
 Krönes, Stephan - * vor 1626
 Mader, Valentin - * vor 1634
 Partsch, Georg - * vor 1576
-Rosensprung, Adam - * vor 1597
 Rösner, Paul - * vor 1619
 Schmidt, Zacharias - * vor 1645
 Seidler, Friedrich - * vor 1687
@@ -145,6 +144,28 @@ Schwarz, Adam - * vor 1650
 Sommer, Lorenz - * vor 1633
 Wolf, Mathes - * vor 1633
 
+Seibersdorf
+
+Hansmann, Lorenz - * ca. 1601
+Kirbes, Mathes - * vor 1604
+Kratschmer, Adam - * vor 1629
+Müller, Michael - * vor 1630
+Rosensprung, Adam - * vor 1597
+Unger, Hans		- * ca. 1657
+
+Siebenhöfen
+
+Dresler, Mathes - * vor 1656
+Frantz, Christoph - * vor 1636
+Partsch, Martin - * vor 1623
+Rauskolb, Christian - * vor 1680
+Zimmer, Michael - * vor 1622
+
+Stadt Liebau
+
+Jordan, Mathes - * vor 1633
+Poltzer, Martin - * vor 1644
+
 Tschenkowitz
 
 Worlitschka
@@ -174,25 +195,16 @@ Johann Kobliczek * vor 1678
 
 To check:
 
-Michael Zimmer * vor 1621
 Thomas Greger * vor 1632
 Michael Poltzer * vor 1632
-Mathes Kirbes * 17. Jh.
-Hans Unger * ~1657
-Mathes Jordan * vor 1633
 Thomas Janda * 17. Jh.
 Jacob Andilke * vor 1626
 Georg Wottawa * ~1608
 Michael Byr * ~1622
 Andreas Bayer * ~1635
 Michael Kluger * vor 1648
-Christian Rauskolb * vor 1680
-Mathes Dresler * vor 1656
 Michael Poltzer * vor 1634
-Martin Partsch * vor 1623
-Christoph Frantz * vor 1636
 Michael Matzner * vor 1689
-Adam Kratschmer * vor 1629
 Martin Poltzer * vor 1644
 Paul Mück * vor 1632
 Christoph Frimel * vor 1662
@@ -208,7 +220,6 @@ Tobias Wagner * ~1663
 Christian Wagner * ~1663
 Christoph Heisler * vor 1652
 Paul Fischer * vor 1662
-Michael Müller * vor 1630
 Andreas Prosch * vor 1632
 Hans Neugebauer * ~1615
 Georg Sündermann * vor 1631
