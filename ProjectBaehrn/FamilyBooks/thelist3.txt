@@ -162,7 +162,7 @@ Höppe, Christoph - * vor 1654
 Pietsch, Adam - * vor 1617
 Moschner, Caspar - * vor 1621
 
-Reisensdorf
+Reisendorf
 
 Greger, Thomas - * vor 1631
 Mück, Paul - * vor 1631
@@ -196,7 +196,6 @@ Hansmann, Lorenz - * ca. 1601
 Kirbes, Mathes - * vor 1604
 Kratschmer, Adam - * vor 1629
 Müller, Michael - * vor 1630
-Prosch, Andreas - * vor 1632
 Rosensprung, Adam - * vor 1597
 Unger, Hans		- * ca. 1657
 
@@ -246,6 +245,10 @@ Katzer, Johann Christoph - * vor 1714
 Jentschke, Michael - * vor 1720
 Neugebauer, Hans - * ~1615
 Schwarzer, Melchior - * vor 1657
+
+Verschowitz (bei Domstadtl)
+
+Prosch, Andreas - * vor 1632
 
 Wächtersdorf
 
