@@ -1,7 +1,6 @@
 Andilke, Catharina 34
 Andilke, Jacob 34
-Arazym, Dorothea 56,75
-Arazym, Nikolaus 75
+Arazym, Dorothea 56
 Bayer, Andreas 36
 Bayer, Johann Melchior Johann 19
 Bayer, Karl Joseph 19,36
@@ -33,8 +32,7 @@ Dittrich, Rosina 60
 Dixel, Friedrich 27
 Dixel, Magdalena 18,27
 Dixel, Michael 27
-Doleczek, Magdalena 57,76
-Doleczek, Wenceslaus 76
+Doleczek, Magdalena 57
 Dresler, Barbara 38,39
 Dresler, Mathes 38,39
 Egydi, Catharina 58
@@ -53,8 +51,7 @@ Fischer, Regina 64
 Frantz, Christina 43
 Frantz, Christoph 43
 Frantz, Martin 43
-Frimel, Christoph 73
-Frimel, Susanna 54,73
+Frimel, Susanna 54
 Geppert, Michael 61
 Geppert, Rosina 61
 Gnendiger, Christian 49,69
@@ -69,11 +66,11 @@ Gromes, Eva 51,70
 Gromes, Gregor 70
 Gromes, Michael 70
 Gromes, Veltin 70
-Gruß, Anna 54,74
+Gruß, Anna 54
 Gruß, Anna Veronica 61
 Gruß, Christoph 61
 Gruß, Georg 61
-Gruß, Johann 54,74
+Gruß, Johann 54
 Hammerle, Johann 52
 Hammerle, Laurenz 52
 Hammerle, Veronica 52
@@ -102,11 +99,8 @@ Hansmann, Karl Joseph 19
 Hansmann, Leopold 21,48
 Hansmann, Lorenz 33,48
 Hansmann, Philippine 19
-Hartwig, Anna Maria 54,73
-Hartwig, Christoph 54,73,77
-Hartwig, Georg 77
-Hartwig, Michael 77
-Hartwig, Georg 73
+Hartwig, Anna Maria 54
+Hartwig, Christoph 54
 Heichel, Christian 18,30
 Heichel, Florian 18
 Heichel, Johanna 18
@@ -174,13 +168,11 @@ Jordan, Michael 47
 Jordan, Rosina 30,47
 Karger, Anna 27
 Karger, Michael 27
-Katzer, Georg 74
 Katzer, Johann 24
 Katzer, Johann Christoph 24
 Katzer, Johann Franz 24
 Katzer, Johann Josef 24
 Katzer, Marianna 16,24
-Katzer, Rosina 74
 Kirbes, Andreas 29
 Kirbes, Catharina 18,29
 Kirbes, Christian 29
@@ -213,17 +205,14 @@ Kratschmer, Johannes 45
 Kratschmer, Karl Franz 21
 Kratschmer, Martin 45
 Kratschmer, Theresia 16,21
-Krögler, Andreas 76
-Krögler, Christoph 57,76
-Krögler, Susanna 57,76
+Krögler, Christoph 57
+Krögler, Susanna 57
 Krönes, Dorothea 67
 Krönes, Stephan 67
-Kuntze, Georg 74
-Kuntze, Jacob 74
-Kuntze, Maria 54,74
-Langer, Anna Regina 54, 74
-Langer, Johann 54,74
-Langer, Tobias 54,74
+Kuntze, Maria 54
+Langer, Anna Rosina 54
+Langer, Johann 54
+Langer, Tobias 54
 Langhammer, Anna 57
 Langhammer, Anton 23,58
 Langhammer, Josepha 23
@@ -231,10 +220,6 @@ Langhammer, Michael 57,58
 Langhammer, Paul 58
 Langhammer, Peregrin 23
 Langhammer, Tobias 58
-Latzel, Maria 77
-Latzel, Martin 77
-Ludwig, Christina 77
-Ludwig, Georg 77
 Lux, Regine 22
 Mader, Dorothea 43
 Mader, Valentin 43
@@ -265,9 +250,7 @@ Niemetz, Christian 34
 Niemetz, Johann 34
 Niemetz, Martin 34
 Niemetz, Paulina 19,34
-Nosek, Andreas 78
-Nosek, Anna 56,57,75,78
-Nosek, Johann 75,78
+Nosek, Anna 56,57
 Partsch, Apollonia 38
 Partsch, Georg 66
 Partsch, Hans 38
@@ -358,11 +341,10 @@ Schwantzer, Stephan 38,39
 Schwarz, Adam 48
 Schwarz, Elisabeth 48
 Schwarz, Johannes 48
-Schwarzer, Franz Anton 54,73
+Schwarzer, Franz Anton 54
 Schwarzer, Marianne Josepha 22,54
-Schwarzer, Melchior 73
-Schwarzer, Philipp 54,73
-Schwarzer, Tobias 54,73
+Schwarzer, Philipp 54
+Schwarzer, Tobias 54
 Seidler, Anna Catharina 39
 Seidler, Franz 19,35,38
 Seidler, Friedrich 35,38,39
@@ -370,8 +352,7 @@ Seidler, Georg 38,39
 Seidler, Heinrich 35
 Seidler, Johanna 19
 Seidler, Maria Elisabeth 19,38
-Seyfert, Matthäus 74
-Seyfert, Regina 54,74
+Seyfert, Regina 54
 Sigmund, Agnes 51
 Sigmund, Bartholomäus 51
 Sigmund, Michael 51
@@ -379,9 +360,8 @@ Sommer, Georg 32
 Sommer, Lorenz 30
 Sommer, Marina 30,32
 Sonntag, Christoph 57
-Sonntag, Georg 56,57,75
-Sonntag, Johann 75
-Sonntag, Maria 56,75
+Sonntag, Georg 56,57
+Sonntag, Maria 56
 Sonntag, Marina 57
 Stantzel, Barbara 33
 Stantzel, Christian 33,67
@@ -391,10 +371,10 @@ Stantzel, Johann 26,33
 Stantzel, Martin 67
 Stantzel, Tobias 33,67
 Stöhr, Johann 23,56
-Stöhr, Martin 56,75
-Stöhr, Nicolaus 56,75
+Stöhr, Martin 56
+Stöhr, Nicolaus 56
 Stöhr, Theresia 23
-Stöhr, Wenceslaus 56,75
+Stöhr, Wenceslaus 56
 Sündermann, Christina 72
 Sündermann, Georg 72
 Tegel, Elias 39
@@ -412,8 +392,7 @@ Unger, Christian 21,46
 Unger, Hans 29,46
 Unger, Marianna 29
 Unger, Viktoria 21
-Volckmer, Christoph 73
-Volckmer, Susanna 54,73
+Volckmer, Susanna 54
 Wagner, Christian 64
 Wagner, Franz 64
 Wagner, Gotthard 24,64
@@ -460,6 +439,3 @@ Zimmer, Justina 47,49,68
 Zimmer, Martin 28,42
 Zimmer, Michael 28
 Zimmer, Valten 68
-Zürnig, Hans 77
-Zürnig, Michael 77
-Zürnig, Regina 73
