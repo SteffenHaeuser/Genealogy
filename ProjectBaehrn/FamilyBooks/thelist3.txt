@@ -8,10 +8,21 @@ Hampel, Georg - * vor 1636
 Hanel, Martin - * vor 1634
 Pudel, Georg - * vor 1636
 
+Aujezd
+
+Andilke, Jacob - * vor 1626
+
 Bährn
 
 Bernhardt, Michael - * vor 1646
 Schwantzer, Balthasar - * vor 1637
+
+Bobischau in der Grafschaft Glatz in Schlesien
+
+Hartwig, Georg - * vor 1607
+Latzel, Martin - * vor 1607
+Ludwig, Georg - * vor 1617
+Zürnig, Hans - * vor 1598
 
 Bobitschau
 
@@ -88,6 +99,10 @@ Reimer, Jacob - * vor 1624
 Rosch, Johannes - * vor 1625
 Sommer, Georg - * vor 1642
 
+Hermsdorf oder Erlitz
+
+Frimel, Christoph - * vor 1662
+
 Jamnay
 
 Doleczek, Wenceslaus - * vor 1627
@@ -100,6 +115,10 @@ Neudörfel/Neudorf (bei Bährn)
 
 Poltzer, Paul - * vor 1622
 Rieb, Peter - * vor 1630
+
+Petersdorf bei Domstadtl
+
+Matzner, Georg - * vor 1639
 
 Petersdorf bei Grulich
 
@@ -114,6 +133,7 @@ Gruß, Christoph - * vor 1648
 
 Rybniczek (bei Aujezd)
 
+Janda, Thomas - * Anfang 17. Jh.
 Johann Niemetz * ~1620
 
 Ullersdorf
@@ -126,6 +146,11 @@ Schwarzer, Melchior - * vor 1657
 Hermanitz
 
 Maresch, Johann - * vor 1662
+
+Reisensodrf
+
+Greger, Thomas - * vor 1631
+Mück, Paul - * vor 1631
 
 Schönau bei Rotwasser
 
@@ -143,6 +168,12 @@ Reimer, Valentin - * vor 1650
 Schwarz, Adam - * vor 1650
 Sommer, Lorenz - * vor 1633
 Wolf, Mathes - * vor 1633
+
+Morau bei Grulich
+
+Katzer, Georg - * vor 1641
+Kuntze, Jacob - * vor 1641
+Sündermann, Georg - * vor 1631
 
 Seibersdorf
 
@@ -168,6 +199,16 @@ Poltzer, Martin - * vor 1644
 
 Tschenkowitz
 
+Langhammer, Michael - * vor 1630
+Michalek, Wenceslaus - * ~1627
+Nehyba, Johann - * vor 1635
+Stöhr, Martin - * vor 1652
+Wottawa, Mathias - * vor 1659
+
+Wächtersdorf
+
+Jäckel, Hans - * vor 1629
+
 Worlitschka
 
 Heisler, Gottfried - * vor 1705
@@ -178,36 +219,25 @@ Tschenkowitz/Worlitschka:
 Johann Heisler * 18. Jh.
 Joseph Heisler * vor 1742
 Franz Schlesinger * vor 1721
-Mathias Wottawa * vor 1659
 Jacob Kobliczek * vor 1671
 Mathias Heisler * vor 1670
-Martin Stöhr * vor 1652
-Wenceslaus Michalek * ~1627
 Georg Weinlich * vor 1650
 Paul Kobliczek * vor 1650
 Matthäus Heisler * 17. Jh.
 Caspar Schüll * vor 1630
-Johann Nehyba * vor 1635
-Michael Langhammer * vor 1630
 Johann Feltzmann * vor 1642
 Georg Wottawa * 17. Jh.
 Johann Kobliczek * vor 1678
 
 To check:
 
-Thomas Greger * vor 1632
 Michael Poltzer * vor 1632
-Thomas Janda * 17. Jh.
-Jacob Andilke * vor 1626
 Georg Wottawa * ~1608
 Michael Byr * ~1622
 Andreas Bayer * ~1635
 Michael Kluger * vor 1648
 Michael Poltzer * vor 1634
-Michael Matzner * vor 1689
 Martin Poltzer * vor 1644
-Paul Mück * vor 1632
-Christoph Frimel * vor 1662
 Michael Hentzl, * ~1630
 Johann Schüll * vor 1663
 Georg Schlesinger * vor 1686
@@ -222,21 +252,16 @@ Christoph Heisler * vor 1652
 Paul Fischer * vor 1662
 Andreas Prosch * vor 1632
 Hans Neugebauer * ~1615
-Georg Sündermann * vor 1631
 Melchior Schwarzer * vor 1657
 Christoph Volckmer * vor 1664
 Johann Langer * vor 1658
-Jacob Kuntze * vor 1641
-Georg Katzer * vor 1641
 Johann Gruß * vor 1666
 Matthäus Seyfert * vor 1660
 Nikolaus Arazym * vor 1634
 Johann Sonntag * ~1628
 Andreas Nosek * ~1608
 Andreas Krögler * ~1624
-Georg Hartwig * vor 1607
-Martin Latzel * vor 1607
-Hans Zürnig * vor 1598
-Georg Ludwig * vor 1617
-Hans Jäckel * vor 1629
+
+
+
 
