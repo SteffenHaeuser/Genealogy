@@ -593,7 +593,7 @@ Jablona,21.10.,Lukas,Andreas,Fibiger#,Anna,Johann#,Schüttke (Gelesen: "Schüttke 
 Worlitschka und #,10.11.,Johann,Michael,Schüll#,Susanna,Johann,Wagner# (Berufe #/Müller)
 Worlitschka und #,17.11.,Christoph,-,Nehyba,Rosina,Jacob,Schlesinger,W
 
-1776
+1676
 
 Jablona,12.1.,Marek,Martin,Doleczal,Anna,Georg,Pechaczek
 Weyprachtitz,12.1.,#,Johann#,Rzehak,Catharina,Johann,Mach#,-,W (Heißt das Witwe?)
