@@ -891,7 +891,7 @@ Bährn,31.6.,Sigmund,Martin,Fiala,Marianna (Beruf Bäcker)
 Bährn,2.7.,Johann Georg,Karl,Poltzer,Elisabeth (Beruf #)
 Bährn,1.8.,Franz Karl,Friedrich,Lichtblau,Anna Maria
 Bährn,4.8.,Johann Friedrich,Friedrich,Flader#,Elisabeth (Beruf Weber)
-Bährn,14.8.,Franz,Geor,Benisch,Anna Maria
+Bährn,14.8.,Franz,Georg,Benisch,Anna Maria
 Bährn,15.8.,Anna Maria,Balthasar,Öxner,Marianna
 Bährn,11.9.,Maria Elisabeth,Heinrich,Hanel#,Rosina
 Bährn,11.9.,Anna Elisabeth,Friedrich,Schramm Junior,Elisabeth
@@ -899,7 +899,7 @@ Bährn,13.9.,Elias,Balthasar,Druschke#,Marianna
 Bährn,17.9.,Elias,Christ.#,Schneider#,Marianna
 Bährn,20.9.,Maria Catharina,Johann Georg,Blaschke,Apollonia
 Bährn,26.9.,Johann Wenceslaus,Andreas,Stöhr,Rosina
-Bährn,27.10.,Johann Friedrich,Geor,Blaschke,Elisabeth
+Bährn,27.10.,Johann Friedrich,Georg,Blaschke,Elisabeth
 Bährn,23.11.,Johann Georg,Johann Franz,Merkert#,Rosina
 
 DP 28
@@ -937,7 +937,7 @@ DP 29
 Bährn,18.6.,Johann Georg,Elias,Holschuh#,Rosina
 Bährn,22.6.,Karl Joseph,Christian,Tegel,Elisabeth
 Bährn,26.7.,Elias,Valentin,Ficker,Anna Maria
-Bährn,30.7.,Johann Geor,Friedrich,Kölbel#,Rosina
+Bährn,30.7.,Johann Georg,Friedrich,Kölbel#,Rosina
 Bährn,20.8.,Marianna,Heinrich,Mentzel,Judith
 Bährn,25.8.,Anna Elisabeth,Elias,Walter,Catharina
 Bährn,13.9.,Anna Catharina,Georg,Blaschke,Elisabeth
@@ -957,5 +957,237 @@ Bährn,13.12.,Anna Rosa,Elias,Schwantzer,Marina
 Bährn,15.12.,Karl,Philip,Koch,Elisabeth
 Bährn,23.12.,Apollonia,Andreas,Kunerth,Anna
 Bährn,23.12.,Anna Maria,Johann Friedrich,Walter,Catharina
+
+DP 31
+
+1692
+
+Andersdorf,3.2.,Elisabeth,Georg,Bannreth#,Elisabeth
+Andersdorf,24.3.,Regina,Michael,Pudel,Regina
+Andersdorf,27.3.,Magdalena,#,Agnes
+Andersdorf,3.7.,Catharina und Augustin,Andreas,Tegel,Elisabeth
+Andersdorf,10.7.,Elisabeth,Elias,Lichtblau,Rosina
+Andersdorf,24.7.,Susanna und Anna,Heinrich,Hübner,Anna (2 Kinder ?)
+Andersdorf,18#.9.,Rosina,Andreas#,Richter,Marina
+Andersdorf,13.12.,Rosina,Michael,Hansmann,Elisabeth
+
+1693
+
+Andersdorf,19.1.,Baltzer,Georg,Tegel,Rosina
+Andersdorf,12.2.,Elisabeth,Caspar,Stantzel,Regina
+Andersdorf,18.6.,Catharina,Friedrich,Dreiseitel,Barbara
+
+1694
+
+Andersdorf,2.1.,Rosina,Georg,Banet#,Elisabeth
+
+DP 32
+
+Andersdorf,19.5.,Marianna,Heinrich,Babl#,Catharina
+Andersdorf,9.7.,Elias,Martin,Hanel,Anna
+Andersdorf,6.8.,Anna Maria,Michael,Vögler,Regina
+Andersdorf,10.8.,Marianna,Andreas,Tegel,Elisabeth
+Andersdorf,10.8.,Christina,Caspar,Stantzel,Regina
+Andersdorf,4.10.,Elisabeth,Elias,Wentzel,Rosina
+
+1695
+
+Andersdorf,16.9.,Michael,Martin,B#l,Anna
+
+1696
+
+Andersdorf,25.6.,Rosina,Georg,Benerth#,Dorothea
+Andersdorf,16.9.,Christian,Michael,Berger,Christina
+
+1697
+
+Andersdorf,20.4.,Heinrich,Friedrich,Dreiseitel,Barbara
+Andersdorf,23.4.,Susanna,Friedrich,Herold,Marina
+Andersdorf,26.10.,Rosina,Friedrich,Stantzel,Regina
+Andersdorf,31.11.,Heinrich,Christian,Lichtblau,Elisabeth
+
+1698
+
+Andersdorf,30.6.,Heinrich,Michael,Hansmann,Rosina
+Andersdorf,7.7.,Anna,Friedrich,Kölbel#,Regina
+Andersdorf,14.7.,Christian,Georg,Tegel,Rosina
+Andersdorf,17.7.,Heinrich,Baltzer,Berger,Catharina
+Andersdorf,17.8.,Marianna,Andreas,Richter,Marina
+Andersdorf,5.10.,Heinrich,Martin,Benischke,Rosina
+Andersdorf,21.10.,Elisabeth,Melchior,Mather#,Rosina
+
+1699
+
+Andersdorf,10.4.,Heinrich,Hans,Wentzel,Rosina
+Andersdorf,22.10.,Marianna,Friedrich,Söhnel,Elisabeth
+Andersdorf,24.11.,Gottfried und Ezechiel,Martin,Hanel,Anna
+Andersdorf,27.11.,Christina und Marina,Elias,Wentzel,Rosina
+
+DP 33
+
+1700
+
+Andersdorf,21.1.,Friedrich,Michael,Berger,Christina
+Andersdorf,9.6.,Baltzer,Andreas,Tegel,Elisabeth
+Andersdorf,11.7.,Rosina,Heinrich,Stabel,Catharina
+Andersdorf,13.8.,Heinrich,Baltzer,Stantzel,Christina
+Andersdorf,31.8.,Friedrich,Christian,Lichtblau,Elisabeth
+Andersdorf,17.11.,Anna Catharina,Georg,Banet#,Elisabeth
+Andersdorf,15.12.,Friedrich,Martin,Benischke,Rosina
+
+1701
+
+Andersdorf,6.2.,Rosina,Elias,Wentzel,Rosina
+Andersdorf,13.2.,Friedrich,Michael,Hansmann,Rosina
+Andersdorf,8.4.,Rosina,Friedrich,Dönel,Elisabeth
+
+1702
+
+Andersdorf,26.1.,Paul,Martin,Hanel,Anna
+Andersdorf,26.2.,Rosina,Baltzer,Stantzel,Christina
+Andersdorf,2.4.,Georg,Georg,Friedrich,Annamaria
+Andersdorf,4.5.,Friedrich,Elias,Wentzel,Rosina
+Andersdorf,16.7.,Heinrich,Hans,Purr,Rosina
+Andersdorf,31.8.,Christian,Georg,Banet,Elisabeth
+Andersdorf,,22.10.,Annamaria,Michael,Hansmann,Rosina
+Andersdorf,2.12.,Elisabeth,Wenceslaus,Theimer,Rosina
+Andersdorf,19.12.,Rosina,Georg,Lichtblau,Elisabeth
+Andersdorf,21.12.,Christian,Georg,Richter,Magdalena
+
+1703
+
+Andersdorf,14.2.,Anna Rosina,Michael,Berger,Christina
+Andersdorf,19.2.,Marianna,Martin,Benischke,Rosina
+Andersdorf,28.4.,Annamaria,Christian,Lichtblau,Elisabeth
+
+DP 34
+
+Andersdorf,4.7.,Heinrich,Friedrich,Mayer,Regina
+Andersdorf,10.7.,Christian,Friedrich,Kolb,Regina
+Andersdorf,22.11.,Elisabeth,Georg,Richter,Magdalena
+Andersdorf,2.12.,Elias,Hans,Wentzel,Rosina
+Andersdorf,24.12.,Christian,Caspar,Söhnel,Elisabeth
+
+1704
+
+Andersdorf,,6.1.,Christian,Baltzer,Schwantzer,Elisabeth
+Andersdorf,1.3.,Friedrich,Heinrich,Benischke,Elisabeth
+Andersdorf,13.3.,Marianna,Elias,Wentzel,Rosina
+Andersdorf,6.8.,Friedrich,Baltzer,Stantzel,Christina
+Andersdorf,24.9.,Andreas,Hans,Klein,Christina
+Andersdorf,4.10.,Heinrich,Georg,Vogel#,Rosina
+Andersdorf,28.11.,Elisabeth,Heinrich,Wentzel,Rosina
+
+1705
+
+Andersdorf,14.4.,-,Georg,Banet,-
+Andersdorf,10.5.,Hans,Michael,Hansmann,Rosina
+Andersdorf,24.5.,Hans,Friedrich,Mayer,Regina
+Andersdorf,4.7.,Christian,Martin,Benischke,Rosina
+Andersdorf,14.12.,Hans,Heinrich,Benischke,Elisabeth
+Andersdorf,17.12.,Christian,Georg,Lichtblau,Elisabeth
+
+1706
+
+Andersdorf,9.1.,Christina,Christian,Lichtblau,Elisabeth
+Andersdorf,15.3.,Annamaria,Baltzer,Schwantzer,Elisabeth
+Andersdorf,10.11.,Rosina,Friedrich,Kolb,Regina
+Andersdorf,20.12.,Elisabeth,Hans Georg,Tschill#,Regina
+
+DP 35
+
+1707
+
+Andersdorf,24.4.,Baltzer,Elias,Wentzel,Rosina
+Andersdorf,28.6.,Christian,Friedrich,Bill#,-
+Andersdorf,21.8.,Heinrich,Michael,Berger,Christina
+Andersdorf,21.9.,Heinrich,Baltzer,Schwantzer,Elisabeth
+Andersdorf,6.11.,Christian,Michael,Hansmann,Rosina
+Andersdorf,22.11.,Anna Catharina,Georg,Benisch#,Anna Maria
+
+1708
+
+Andersdorf,15.4.,Elisabeth,Friedrich,Söhnel,Elisabeth
+Andersdorf,5.7.,Christian,Hans,Theimer#,Elisabeth
+Andersdorf,23.8.,Marianna,Christian,Lichtblau,Elisabeth
+Andersdorf,16.9.,Annamaria#,Heinrich,Wentzel,Rosina
+Andersdorf,26.9.,Christian,Friedrich,Stantzel,Regina
+Andersdorf,2.11.,Rosina,Baltzer,Schwantzer,Elisabeth
+
+1709
+
+Andersdorf,26.2.,Rosina,Hans G#,Tschill#,Regina
+Andersdorf,27.2.,Hans Michael,Martin,Hanel,Judith
+Andersdorf,22.7.,Hans# Georg und Anna Maria#,Friedrich,Hanel#,Elisabeth
+Andersdorf,20.10.,Christian,Baltzer,Stantzel,Anna
+Andersdorf,16.11.,Maria Barbara,Hans,Kasper#,Anna Maria
+Andersdorf,23.11.,Anna Maria und Catharina,Friedrich,Pudel,Anna Maria (2 Kinder ?)
+Andersdorf,21.12.,Anna Maria,Martin,Benischke#,Rosina
+
+1710
+
+Andersdorf,20.2.,Friedrich,Georg,Richter,Magdalena
+Andersdorf,10.5.,Friedrich,Hans,Stabel,Rosina
+
+DP 36
+
+Andersdorf,19.6.,Marina,Georg,Benisch,Anna Maria
+Andersdorf,3.8.,Hans Georg,Michael,Hansmann,Rosina
+Andersdorf,9.8.,Christian,Heinrich,Benischke#,Elisabeth
+
+1711
+
+Andersdorf,1.7.,Christian,Georg,Seidler#,Rosina (Gelesen: "Seyder")
+Andersdorf,12.8.,Rosina,-,-,Elisabeth ("Elisabeth Scholtzen")
+Andersdorf,10.9.,Caspar,Georg,Prosch#,Elisabeth
+Andersdorf,3.12.,Hans Georg,Baltzer,Stantzel,Anna
+
+1712
+
+Andersdorf,7.2.,Christian,Hans,Stabel,Rosina
+Andersdorf,8.2.,Rosina,Hans,Theimer#,Elisabeth
+Andersdorf,24.2.,Anna Elisabeth,Friedrich,Pudel,Anna Maria
+Andersdorf,6.3.,Anna Elisabeth,Michael,Berger,Christina
+Andersdorf,18.10.,Catharina,Friedrich,Hanel#,Elisabeth
+Andersdorf,31.12.,Anna Catharina,Martin,Benischke,Rosina
+
+1713
+
+Andersdorf,14.1.,Andreas,Hans Georg,Schill#,Regina
+Andersdorf,24.6.,Judith,Michael,Hansmann,Rosina
+Andersdorf,19.8.,Rosina,Hans,Stantzel,Regina
+Andersdorf,7.9.,Anna Maria,Christian,Bauk#,Elisabeth
+Andersdorf,10.9.,Hans Michael,Friedrich,Pudel,Anna Maria
+Andersdorf,30.10.,Martin,Hans,Scholtz,Rosina
+Andersdorf,31.11.,Gottfried,Georg,Richter,Magdalena
+Andersdorf,6.11.,Karl,Thomas,Frank,Rosina (oder im Dezember?)
+
+1714
+
+Andersdorf,17.2.,#rich,Tobias,Lichtblau,Marina
+Andersdorf,3.6.,Johannes,Friedrich,Schwantzer,Elisabeth
+
+DP 37
+
+1715
+
+Andersdorf,13.1.,Anna Maria,Friedrich,Wentzel,Judith
+Andersdorf,30.1.,Rosina,Christian,Ba#k,Elisabeth
+Andersdorf,6.2.,Franz,Tobias,Lichtblau,Marina
+Andersdorf,17.2.,Elias,Balthasar,Schwantzer,Elisabeth
+Andersdorf,15.4.,Johann Georg,-,-,Elisabeth
+Andersdorf,11.8.,Heinrich,Friedrich,Tegel,Barbara
+Andersdorf,7.9.,Johann Michael,Christ.,Wentzel,Catharina
+Andersdorf,3.10.,Rosina,Balthasar,Habel,Marianna
+Andersdorf,23.11.,Franz,Michael,Berger,Christina
+Andersdorf,26.11.,Apollonia,Friedrich,Pudel,Anna Maria (Beruf Richter)
+
+1716
+
+Andersdorf,10.1.,Marina,Georg,Öxner,Catharina
+Andersdorf,12.1.,Regina,Georg,Öxner,Catharina (Zwilling von Marina)
+Andersdorf,18.1.,Elisabeth,Christian,Hanel,Christina
+Andersdorf,23.2.,Elisabeth,Balthasar,Stantzel#,Rosina
+Andersdorf,12.3.,Friedrich,Christian,Purr,Marianna
 
 
