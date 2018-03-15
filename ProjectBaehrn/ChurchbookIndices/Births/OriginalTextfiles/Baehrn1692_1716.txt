@@ -1190,4 +1190,106 @@ Andersdorf,18.1.,Elisabeth,Christian,Hanel,Christina
 Andersdorf,23.2.,Elisabeth,Balthasar,Stantzel#,Rosina
 Andersdorf,12.3.,Friedrich,Christian,Purr,Marianna
 
+1692
+
+Siebenhöfen,12.1.,Regina,Adam,Rauskolb,Eva
+Siebenhöfen,13.9.,Friedrich,Christian,Rauskolb,Marina
+Siebenhöfen,3.12.,Elisabeth,Tobias,Stiegler,Rosina
+
+1693
+
+Siebenhöfen,1.2.,Elisabeth,Tobias,Zimmer#,Rosina
+Siebenhöfen,22.2.,Anna Maria,-,-,Anna
+Siebenhöfen,11.4.,Christian,Wenceslaus,Zimmer,Anna Maria
+Siebenhöfen,8.5.,Christina,-,-,Barbara
+Siebenhöfen,13.5.,Baltzer,Martin,Kuntz#,Dorothea#
+Siebenhöfen,16.11.,Catharina,Baltzer,Rauskolb,Elisabeth
+
+1694
+
+Siebenhöfen,23.1.,Paul,Hans,Partsch,Anna
+Siebenhöfen,30.1.,Anna Maria,Georg,Bönisch,Rosina
+Siebenhöfen,23.4.,Georg,Hans,Dreiseitel,Christina
+
+DP 38
+
+Siebenhöfen,10.5#.,Laurenz,Michael,Veit,Marina
+Siebenhöfen,26.8.,Rosina,Friedrich,Stantzel,Elisabeth
+
+1695
+
+Siebenhöfen,19.12.,Anna,Hans,Dreiseitel,Elisabeth
+
+
+1696
+
+Siebenhöfen,16.5.,Hans,Christian,Rauskolb,Marina
+Siebenhöfen,4.8.,Elisabeth,Wenceslaus,Zimmer,Anna Maria
+Siebenhöfen,21.8.,Judith,Baltzer,Rauskolb,Elisabeth
+
+1697
+
+Siebenhöfen,9.5.,Friedrich,Michael,Veit,Marina
+Siebenhöfen,6.7.,Anna,Friedrich,Stantzel,Elisabeth
+Siebenhöfen,22.12.,Christina,Georg,R#ker,Anna
+
+1698
+
+Siebenhöfen,7.3.,Rosina,Heinrich,Partsch,Elisabeth
+Siebenhöfen,19.3.,-,Heinrich,Hansmann,Rosina
+Siebenhöfen,29.3.,Friedrich,Tobias,Zimmer,Rosina
+Siebenhöfen,1.5.,Christian,Hans,Dreiseitel,Elisabeth
+Siebenhöfen,8.11.,Martin,Hans,Kratschmer,Regina
+Siebenhöfen,12.12.,Christian,Friedrich,Schober,Marina
+
+1699
+
+Siebenhöfen,4.1.,Rosina,Hans,Schober,Anna
+Siebenhöfen,12.3.,Elisabeth,Friedrich,Seidler,Rosina
+Siebenhöfen,18.6.,Friedrich,Baltzer,Rauskolb,Elisabeth
+Siebenhöfen,31.8.,Christian,Friedrich,Stantzel,Elisabeth
+
+1700
+
+Siebenhöfen,14.1.,Christian,Friedrich,Heeger,Marina
+Siebenhöfen,7.3.,Annamaria,Heinrich,Partsch,Elisabeth
+
+DP 39
+
+Siebenhöfen,24.3.,Marina,Heinrich,Müller,Dorothea
+Siebenhöfen,5.6.,Rosina,Hans,Stantzel,Marianna
+Siebenhöfen,5.6.,Rosina,Michael,Veigk#,Marina
+Siebenhöfen,11.7.,Rosina,Heinrich,Stabel,Catharina
+Siebenhöfen,6.8.,Christian,Hans,Kratschmer,Regina
+Siebenhöfen,8.9.,Annamaria,Hans#,Hansmann,Rosina
+
+1701
+
+Siebenhöfen,5.3.,Baltzer,Christian,Rauskolb,Marina
+Siebenhöfen,18.10.,Elisabeth,Hans,Stantzel,Elisabeth
+
+1702
+
+Siebenhöfen,24.1.,Christian,Baltzer,Rauskolb,Elisabeth
+Siebenhöfen,27.4.,Christian,Heinrich,Schafhaupt,Dorothea
+Siebenhöfen,24.8.,Annamaria,Hans,Partsch,Paulina
+Siebenhöfen,11.12.,Elisabeth,Hans,Dreiseitel,Dorothea
+Siebenhöfen,21.12.,Elisabeth,Hans,Schafhaupt,Christina
+Siebenhöfen,25.12.,Lorenz,Michael,Feigk,Marina
+
+1703
+
+Siebenhöfen,15.1.,Baltzer,Georg,Räcker#,Anna
+Siebenhöfen,18.1.,Annamaria,Friedrich,Seidler,Rosina
+Siebenhöfen,18.8.,Friedrich,Heinrich,Müller,Dorothea#
+Siebenhöfen,14.9.,Hans,Hans,Hansmann,Anna
+Siebenhöfen,6.10.,Annamaria,Hans,Stantzel,Marianna
+Siebenhöfen,6.10.,Anna,Heinrich,Hansmann,Rosina
+Siebenhöfen,13.10.,Anna,Friedrich,Rauskolb,Regina
+Siebenhöfen,22.11.,Heinrich,Friedrich,Heeger,Marina
+Siebenhöfen,8.12.,Baltzer,Michael,Vogler,Rosina
+
+DP 40
+
+
 
