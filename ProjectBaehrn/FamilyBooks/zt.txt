@@ -1,0 +1,61 @@
+11-1: 1785-1826
+11-2: 1823-1860
+11-3: 1785-1828
+78-1: 078-00001
+078-00011: 1758-1784
+000-01162: 1784-1828
+000-01163: 1800-1843
+000-01165: 1812-1866
+000-06466: 1829-1902
+000-1076, 1768-1782
+000-01077: 1782-1834
+000-1079: 1778-1849
+000-1080: 1778-1847
+1822-1874 ???
+011-03644: 1823-1877
+011-06353: 1823-1898
+064-00004, 1726-1766
+064-00005: 1767-1784
+078-08071: 1738-1757
+078-08072: 1758-1771
+O2-2225: 1766-1839
+o2-2218: 1709-1773
+064-00003: 1695-1725
+064-00009: 1717-1765
+Št II 2: 1662-1688 Domašov nad Bystřicí, Št II 1
+Št II 2: 1689-1724 Domašov nad Bystřicí, Št II 2
+Št II 3: 1725-1741 Domašov nad Bystřicí, Št II 3
+Št II 4: 1742-1767 Domašov nad Bystřicí, Št II 4
+Št II 5: 1762-1786 Domašov nad Bystřicí, Št II 5
+Št II 6: 1787-1788 Domašov nad Bystřicí, Št II 6
+Št II 7: 1789-1815 Domašov nad Bystřicí, Št II 7
+Št II 8: 1816-1848 Domašov nad Bystřicí, Št II 8
+Št II 9: 1849-1887 Domašov nad Bystřicí
+Št II 10: 1849-1927 Domašov nad Bystřicí
+Št II 11: 1849-1895 Domašov nad Bystřicí, Št II 11
+Bu VI 20: 1791-1836 Heroltovice, Bu VI 20
+1706-1759: Město Libavá, Bu VI 4
+1659-1705: Město Libavá, Bu VI 1 (N)
+Město Libavá, Bu VI 5, 1757-1785
+1760-1786: Město Libavá, Bu VI 6
+Norberčany, Bu VI 17, 1791-1825
+Horní Loděnice, Št X 1, 1689-1721
+Horní Loděnice, Št X 2, 1762-1787 
+Horní Loděnice, Št X 3, 1788-1820 (N)
+Horní Loděnice, Št X 6, 1788-1820 (O) 
+Horní Loděnice, Št X 8, 1788-1820 (Z) 
+Horní Loděnice, Št X 9, 1821-1868 (Z)
+Bělá, Št II 12, 1811-1861
+Moravský Beroun, Dv VIII 1 O, 1688-1691
+Moravský Beroun, Dv VIII 2, 1692-1716
+Moravský Beroun, Dv VIII 3, 1717-1740
+Moravský Beroun, Dv VIII 4, 1740-1764 (N)
+Moravský Beroun, Dv VIII 11, 1740-1775 (O)
+Moravský Beroun, Dv VIII 12, 1776-1826
+Moravský Beroun, Dv VIII 14, 1740-1775 (Z)
+Smilov, Bu X 1, 1785-1822
+Huzová, Št IX 1
+1653-1700: Rybníček, U XI 1
+1700-1784: Rybníček, U XI 2
+1700-1784: Rybníček, U XI 10
+1731-1784: : Šternberk, Št I 3
