@@ -2447,7 +2447,7 @@ DP 132
 Bystrcze,12.11.,Johann,Jacob,Jeczek,Magdalena
 Weyprachtitz,15.11.,Judith,Adam,Kuba,Anna
 Unterhermanitz,15.11.,Johann,Waczlaw,Kubelka,Catharina
-Worlyczek,16.11.,Tobias,Christoph,Feltzmann,Sabina
+Worlyczek,16.11.,Christoph,Tobias,Feltzmann,Sabina
 Tschenkowitz,16.11.,Paul,Clemens,Kobliczek,Marta
 Oberhermanitz,19.11.,Catharina,Mathias,Heyl,Eva
 Bystrcze,22.11.,Barbara,Peter,Kyllar,Catharina
