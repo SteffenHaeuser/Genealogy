@@ -1,3 +1,5 @@
+http://digi.archives.cz/da/permalink?xid=be968450-f13c-102f-8255-0050568c0263&scan=296
+
 DP 240
 
 1717
@@ -823,4 +825,19 @@ Andersdorf,15.8.,Hans,-,Tögel,94
 Bährn,16.8.,Hans Georg,Friedrich,Rauskolb,3.5
 
 DP 296
+
+Bährn,5.9.,Christian,Michael,Goldt,10
+Altlieb,6.9.,Rosina,Heinrich,Mader,17d
+Bährn,9.9.,Dorothea,Balthasar,Küntzel,64 (Witwe)
+Bährn,18.9.,Rosina,Hans,Schramm,42.5 (Witwe)
+Bährn,28.9.,Marina,Balthasar,Halbgebauer,66 (Ehefrau)("nachdem sie 12 1/2 Jahr auf ihrem Sterbbett gelegen")
+Bährn,2.10.,Elias,-,Holschuh,43y6w ("nachdem er gleichfalls 35 Wochen sein Krankenbett")
+Bährn,11#.10.,Apollonia,Johann Georg,Blaschke,34 (Ehefrau)(Heißt "Eheleibliche" Ehefrau?)
+Bährn,13.10.,Marina,Christian,Gloger,53y12w (Ehefrau)(Heißt das Ehefrau?)
+Bährn,17.10.,Christian,-,Pudel,54 (Beruf Fleischhacker)
+Bährn,22.10.,Regina,Hans,Heintz,75 (Witwe)
+Bährn,26.10.,Christian,-,Schneider,43y9m
+
+DP 297
+
 
