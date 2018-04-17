@@ -846,4 +846,12 @@ Bährn,30.10.,Regina,Hans,Schleßer,67 (Witwe)
 Dittersdorf,2.11.,Christian,-,Poltzer,53
 Bährn,4.11.,Christian,Friedrich,Jäckel#,13d
 Bährn,5.11.,Barbara,Andreas,Witke,73 (Tochter)
+Bährn,8.11.,Lorenz,-,Flader,75y17w (Beruf Bäcker)
+Bährn,9.11.,Anna,Heinrich,Druschke,69.5 (Witwe)
+Neundorf,12.11.,Dorothea,Michael,Hellner,57 (Ehefrau)
+Bährn,13.11.,Christian,-,Proschke,86
+Siebenhöfen,23.11.,Barbara,Hans,Scholter#,82 (Witwe)
+Siebenhöfen,2.12.,Rosina,Tobias,Zimmer,57 (Ehefrau)
+Altlieb,7.12.,Rosina,Georg,Beutel#,72 (Ehefrau)
 
+DP 298
