@@ -1230,6 +1230,89 @@ Siebenhöfen,9.4.,Joseph,Andreas,Fischer#,4d
 
 DP 321
 
+Bährn,13.4.,Christian,-,Walter,53
+Bährn,15.4.,Maria Clara,Tobias,Schleßer,8w
+Brockersdorf,11.5.,Elisabeth,Johann,Stabel,10d
+Bährn,13.5.,Heinrich,-,Poltzer,83
+Bährn,14.5.,Anna Maria,Johann Michael,Hampel,22.5 (Ehefrau)
+Bährn,14.5.,Dorothea,Johannes,Tögel,57 (Witwe)
+Bährn,22.5.,Elisabeth,Johann,Walter,75 (Witwe)
+Bährn,31.5.,Fabian,-,Heintz,32
+Dittersdorf,23.5.,Andreas,-,Pudel,69 (Beruf Erbrichter)
+Altliebe,9.6.,Karl,Michael,Falgenhauer,8w
+Altliebe,14.6.,Johann Georg,Friedrich,Appel,12w
+Siebenhöfen,16.6.,Anna Maria,Heinrich,Schober,31w
+Bährn,18.6.,Christian,-,Hanel,55
+Neundorf,19.6.,Christian,Johann,Poltzer,15
+
+DP 322
+
+Siebenhöfen,21.6.,Marianna,Caspar,Partsch,6
+Andersdorf,22.6.,Elisabeth,Friedrich,Pudel,11d
+Bährn,6.7.,Paul,Georg,Blaschke,5d
+Siebenhöfen,6.7.,Johann Heinrich,Heinrich,Zimmer,6
+Bährn,13.7.,Peter,Georg,Blaschke,8d
+Bährn,19.8.,Michael,-,Tögel,70
+Bährn,23.8.,Joseph,Johann Friedrich,Langer,4
+Bährn,8.9.,Susanna,Heinrich,Seidler,2.5
+Bährn,9.9.,Apollonia,Karl,Berger,3w
+Bährn,15.9.,Franz Joseph,Tobias,Druschke,23.5
+Bährn,18.9.,Johann Maximilian,Johann,Reitmeyer,1y9m
+Bährn,19.9.,-,Christian,Schäfer,0 ("1 Stunde")
+
+DP 323
+
+Bährn,22.9.,Beate Cäcilia,Michael,Rotter#,3y348d ("4 Jahre minus 17 Tage")
+Siebenhöfen,25.9.,Heinrich,Friedrich,Zimmer,0 ("2 Stunden")
+Bährn,27.9.,Caspar,Friedrich,Schindler,6
+Bährn,3.10.,Melchior,Friedrich,Schindler,4w
+Bährn,6.10.,Susanna Elisabeth,Ferdinand,Gill,1
+Bährn,12.10.,Dominik,Melchior,Olbrich,1
+Bährn,12.10.,Anton,Friedrich,Ihm,2.5
+Bährn,15.10.,Caspar,Franz,Kimmel#,1y7w
+Bährn,16.10.,Susanna,Johann Georg,Jäckel#,1
+Bährn,17.10.,Joseph,Johann Georg,Schramm,1y24w
+Bährn,18.10.,Brigitte,Karl,Berger,5
+Bährn,18.10.,Anna Catharina,Tobias,Druschke,18#d
+Bährn,25.10.,Jeremias,-,Sirsch,62 (Beruf Weber)
+
+DP 324
+
+Bährn,28.10.,Peter,Karl,Berger,2y9m
+Bährn,29.10.,Anna Rosina,Johann,Philip,25w
+Bährn,1.11.,Anna Catharina,Georg,Gedel,1y8d
+Bährn,2.11.,Maria Rosalia,Wenceslaus,Gloger,41w
+Brockersdorf,4.11.,Anton,Christian,Pudel,26w
+Andersdorf,4.11.,Christian,Johann,Scholtz,2y8w
+Bährn,5.11.,Heinrich,-,Berger,58
+Bährn,10.11.,-,Heinrich,Herold,0 (Tochter)("1 Stunde")
+Brockersdorf,12.11.,Friedrich Wilhelm,Friedrich,Klein#,2
+Altliebe,16.11.,Elisabeth,Andreas,Stantzel,74 (Witwe)
+Bährn,20.11.,Anna,Balthasar,Habel,69 (Witwe)
+Bährn,21.11.,Franz,Christ.,Schäfer,3
+Siebenhöfen,2#.12.,Barbara,Georg,Benel#,71 (Witwe)
+
+DP 325
+
+Siebenhöfen,5.12.,Elisabeth,Johann,Augenstein,55 (Ehefrau)
+Bährn,9.12.,Anna Rosina,Johann,Crowath#,30w
+Bährn,10.12.,Christian,-,Poltzer,68
+Dittersdorf,11.12.,Heinrich,-,Hieckel,27
+Brockersdorf,12.12.,Anna Rosina,Johann,Ridel,4y9m
+Bährn,14.12.,Anna Elisabeth,Anton,Heintz,6w
+Brockersdorf,27.12.,Anna Elisabeth,Friedrich,Kolb,2.5
+Bährn,28.12.,Anna Maria,Heinrich,Schindler,35 (Ehefrau)
+
+1732
+
+Bährn,13.1.,Dominik,Franz,Stabel,40.5
+Brockersdorf,27.1.,Marina,Matthäus,Lichtblau,50# (Witwe)(40 oder 50 ?)
+Bährn,2.2.,Johann Michael,Johann Heinrich,Lichtblau,9m
+Brockersdorf,28.2.,Friedrich,Johann,Berger,17
+
+DP 326
+
+Siebenhöfen,2.3.,Regina,Friedrich,Dreiseitel,8
 
 
 
