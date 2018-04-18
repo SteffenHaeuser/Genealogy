@@ -1,3 +1,5 @@
+http://digi.archives.cz/da/permalink?xid=be968450-f13c-102f-8255-0050568c0263&scan=330#scan329
+
 DP 240
 
 1717
@@ -1313,6 +1315,66 @@ Brockersdorf,28.2.,Friedrich,Johann,Berger,17
 DP 326
 
 Siebenhöfen,2.3.,Regina,Friedrich,Dreiseitel,8
+Bährn,6.3.,Elias,-,Berger,80
+Siebenhöfen,7.3.,Agnes,Paul,Rasch,64 (Witwe)
+Bährn,15.3.,Joseph,Karl,Patzel,7w
+Bährn,28.3.,Joseph,Michael,Hampel,1.5
+Brockersdorf,7.4.,Anna Rosina,Georg,Krones,14w
+Andersdorf,12.4.,Rosina,Michael,Hansmann,64 (Witwe)
+Brockersdorf,28.4.,Anna Elisabeth,Friedrich,Ridel,23w
+Altliebe,-,Friedrich,Appel,0 ("1 Stunde")
+Altliebe,1.5.,Tobias,-,Mader#,77
+Brockersdorf,10.5.,Heinrich,Johann,Gerle,4
+Brockersdorf,21.5.,Michael,Johann,Gerle,7
+
+DP 327
+
+Bährn,12.6.,Magdalena,Balthasar,Kastner,79 (Witwe)
+Altliebe,19.6.,Rosina,Michael,Kloß,50 (Witwe)
+Bährn,3.7.,Johann,-,Finck,53
+Siebenhöfen,5.7.,Johann Georg,Franz,Alraun,10d
+Siebenhöfen,11.7.,Elisabeth,Christian,Krones,36 (Ehefrau)
+Altliebe,15.7.,Rosina,Paul,Hanel,68 (Witwe)
+Dittersdorf,19.7.,Caspar,-,Cobitka#,65
+Bährn,20.7.,Johann Georg,-,Heintz,9m U: Kind von Rosina Heintz
+-,20.7.,Johannes,-,Heintz,3w U: Kind von Anna Maria Heintz
+Neundorf,21.7.,Friedrich,Christian,Rauskolb,11w
+Siebenhöfen,25.7.,Elisabeth,Andreas,Heger,22 (Tochter)
+Neundorf,26.7.,Maria Elisabeth,Heinrich,Beitel#,8d
+Bährn,1.8.,Barbara,-,Stantzel,79
+Bährn,8.8.,Marina,Christian,Bischoff,59 (Witwe)
+
+DP 328
+
+Bährn,19.8.,Rosalia,Ferdinand,Gill,6.5
+Bährn,25.8.,Caspar,-,Krömer,52y17w
+Bährn,3.9.,Anton,Martin,Rösner,2y8d
+Bährn,3.9.,Franz,Caspar,Krömer,31w
+Siebenhöfen,4.9.,Friedrich,-,Dreiseitel,40
+Bährn,7.9.,Heinrich,-,Hampel,54.5
+Bährn,17.9.,Johann Georg,Christ.,Seeliger,11y7w
+Altliebe,2.10.,Rosina,Johann Georg,Mader,15w
+Pirnik,11.10.,Jacob,-,Brauner,29
+Siebenhöfen,31.10.,Johann,-,Zimmer,82
+Bährn,2.11.,Friedrich,-,Philip,56#
+Andersdorf,7.11.,Elisabeth,Christ.,Kuntz,1y3m
+
+DP 329
+
+Altliebe,12.11.,Dorothea,Johann,Franck,64 (Witwe)(Aus Reigersdorf)
+Bährn,16.11.,Anna Maria,Christ.,Seifensider,4.5#
+Siebenhöfen,17.11.,Christina,Johann,Zimmer,81 (Witwe)
+Bährn,23.11.,Anna Catharina,Friedrich,Schramm,28w
+Bährn,25.11.,Elisabeth,Heinrich,Ihm,71 (Witwe)
+Bährn,26.11.,Marianna,Friedrich,Klein#,66 (Ehefrau)
+Bährn,1.12.,Susanna,Heinrich,Lichtblau,79 (Witwe)
+Bährn,3.12.,Regina,-,Schwartz,36
+Bährn,3.12.,Johannes,-,-,40 (von der Gabel, aus Deutsch Böhmen, ein Armer Mensch)
+Brockersdorf,15.12.,Johannes,Franz Johann,Kellner,5d
+Bährn,18.12.,Johannes,-,Kimmel,67
+
+DP 330
+
 
 
 
