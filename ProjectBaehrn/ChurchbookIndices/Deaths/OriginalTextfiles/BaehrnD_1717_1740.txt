@@ -1,4 +1,4 @@
-http://digi.archives.cz/da/permalink?xid=be968450-f13c-102f-8255-0050568c0263&scan=330#scan329
+http://digi.archives.cz/da/permalink?xid=be968450-f13c-102f-8255-0050568c0263&scan=296
 
 DP 240
 
@@ -1375,7 +1375,106 @@ Bährn,18.12.,Johannes,-,Kimmel,67
 
 DP 330
 
+Brockersdorf,15.12.,Karl Franz,Johann,Kellner,5d
+Bährn,18.12.,Johannes,-,Kimmel,67
+Bährn,30.12.,Beate,Georg,Gedel,10d
 
+1733
 
+Brockersdorf,18.1.,Anna Maria,18 ("ein armes aussätziges Mensch, ungefähr 18 Jahr alt")
+Bährn,19.1.,Heinrich,-,Habel,71
+Siebenhöfen,20.1.,Johann Georg,-,Brauner,36 (aus Stadt Bensch#)
+Bährn,24.1.,Rosina,Martin,Klein,77 (Ehefrau)(Ist sie Ehefrau ?)
+Andersdorf,2.2.,Judith,Heinrich,Mentzel,50 (Ehefrau)
+Bährn,25.2.,Johann Heinrich,Michael,Stabel,1.5
+Altliebe,28.2.,Georg,-,Schober,50 (Beruf Mercenarius)(Heißt das "Söldner" ???)
+Bährn,13.3.,Friedrich,-,Unger,41
 
+DP 331
 
+Siebenhöfen,11.3.,Anna,Johann,Hansmann,68 (Witwe)
+Bährn,19.3.,Anna,Georg,Goldt,65.5 (Ehefrau)
+Brockersdorf,30.3.,Marina,Georg,Franck,73 (Ehefrau)
+Neundorf,3.4.,Marina,Johann,Purr,59 (Witwe)
+Neundorf,27.4.,Johann,-,Rauskolb,45 (Erbrichter)
+Brockersdorf,29.4.,Christoph,-,Schwert#,57
+Neundorf,29.4.,Anna Maria,Michael,Rauskolb,44w
+Bährn,1.5.,Friedrich,-,Schramm,62.5#
+Bährn,2.5.,Esther,Christian,Kolb,34 (Ehefrau)
+Bährn,3.5.,Elias,-,Kastner,38
+Neundorf,4.5.,Marina,Michael,Beitel#,53.5 (Ehefrau)
+Neundorf,9.5.,Heinrich,-,Mader,58
+Bährn,15.5.,Regina,Jeremias,Sirsch,60 (Witwe)
+
+DP 332
+
+Brockersdorf,10.5.,Karl,Georg,Krones,11w
+Stollmühl#,10.5.,Philipp,Franz,Göttiger,4w
+Dittersdorf,19.5.,Andreas,Elias,Schwantzer,47w
+Bährn,19.5.,Johann Friedrich,-,Langer,33
+Bährn,24.5.,Heinrich,-,Pudel,66
+Altliebe,25.5.,Franz Georg,Friedrich,Englisch,25w
+Siebenhöfen,26.5.,Johannes,Andreas,Fischer,5d
+Bährn,26.5.,Karl,Wenceslaus,Flader,1.5
+Bährn,29.5.,Anna Rosina,Christian,Kolb,31#w
+Bährn,29.5.,Susanna,Christian,Peicker#,47 (Ehefrau)
+Bährn,31.5.,Anna Theresia,Christian,Franck,17w
+Bährn,1.6.,Anna Maria,Johann Georg,Schramm,1#w
+Bährn,2.6.,Maria Theresia,Franz,Heintz,1.5
+Altliebe,8.6.,Karl,Heinrich,Stabel,9m
+
+DP 333
+
+Dittersdorf,17.6.,Karl,Christian,Burkharth,7
+Bährn,21.6.,Johann Georg,Martin,Rösner,8w1d
+Siebenhöfen,29.6.,Anna Theresia,Johann,Augenstein,8d
+Siebenhöfen,23.6.,Joseph,Christian,Schober,2#w3d
+Bährn,25.6.,Anna Maria,Christ.,Öhler,19
+Bährn,26.6.,Elisabeth,Andreas,Seifensider,78 (Witwe)
+Bährn,28.6.,Christoph,-,Grüttner,72
+Andersdorf,14.7.,Christian,-,Purr,44
+Bährn,16.7.,Karl,Christian,Beichel#,2
+Bährn,28.7.,Dominik,Franz,Stabel,1.5
+Siebenhöfen,5.8.,Joseph,Balthasar,Krones,18w
+Bährn,13.8.,Tobias,Martin,Langer,7y21w
+Altliebe,13.8.,Christian,Friedrich,Seidler,24w
+
+DP 334
+
+Siebenhöfen,19.8.,Susanna,Andreas,Seidler,54 (Witwe)(aus Neundorf)
+Bährn,20.8.,Magdalena,Christian,Ludovic,4.5w
+Bährn,30.8.,Friedrich,-,Schindler,52
+Siebenhöfen,1.9.,Balthasar,-,Ricker#,30
+Bährn,2.9.,Karl Joseph,Friedrich,Thiem,2y15w
+Siebenhöfen,4.9.,Anna Rosina,Michael,Aust,9m
+Bährn,5.9.,Magdalena,Johann Georg,Gloger,3
+Bährn,17.9.,Johann Friedrich,Johann,Ihm,1y9w
+Bährn,18.9.,Magdalena,Tobias,Wentzel,4.5
+Bährn,18.9.,Apollonia,Franz,Klein,1y9m
+Bährn,22.9.,Friedrich,-,Jäckel#,50 (Beruf Weber)
+Andersdorf,22.9.,Elisabeth,Christian,Purr,9
+Siebenhöfen,25.9.,Anna,Andreas,Heger,61 (Witwe)
+
+DP 335
+
+Bährn,27.9.,Michael,Johann Georg,Rzeptka#,6d
+Bährn,28.9.,Apollonia,Ferdinand,Gill,9m
+Bährn,3.10.,Elias,-,Bischoff,72 (Beruf M#arius)
+Bährn,11.10.,Magdalena,Tobias,Druschke,12w
+Bährn,12#.10.,Marianna,Friedrich,Scheps#,32 (Ehefrau)
+Bährn,27.10.,Johann Michael,Christian,Unheyßer#,3w
+Bährn,3.11.,Anna Maria,Johann Georg,Gloger,26y3m (Ehefrau)
+Dittersdorf,4.11.,Dorothea,Michael,Witke,76 (Ehefrau)
+Bährn,29.11.,-,Friedrich,Ihm,0 (Tochter)("1 Stunde")
+Dittersdorf,30.11.,Apollonia,Friedrich,Helfert,1
+Bährn,10.12.,Susanna,Heinrich,Habel,59 (Witwe)
+Bährn,11.12.,Anton,Franz,Zips,6d
+Andersdorf,11.12.,Johann Georg,-,Till,52
+
+DP 336
+
+1734
+
+Bährn,10.1.,Marianna,Caspar,Lichtblau,60 (Witwe)
+-,11.1.,Apollonia,Friedrich,Dreiseitel,1.5
+-,11.1.,-,-,-,- (Ein Findelkind, am Tag)
