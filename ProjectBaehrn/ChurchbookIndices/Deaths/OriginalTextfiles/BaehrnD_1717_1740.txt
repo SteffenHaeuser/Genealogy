@@ -1482,3 +1482,7 @@ Bährn,13.2.,Maria Elisabeth,Christ.,Ludovic,9y13w
 Brockersdorf,26.2.,Friedrich,-,Kolb,67
 
 DP 337
+
+Bährn,14.2.,Marianna,Franz,Heintz,13w
+Bährn,3.3.,Johann Friedrich,Elias,Walter,4
+Neundorf,12.3.,Elisabeth,Johann,Dreiseitel,75 (Ehefrau)
