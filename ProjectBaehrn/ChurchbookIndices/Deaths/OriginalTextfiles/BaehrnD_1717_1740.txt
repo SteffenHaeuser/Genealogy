@@ -1477,4 +1477,8 @@ DP 336
 
 Bährn,10.1.,Marianna,Caspar,Lichtblau,60 (Witwe)
 -,11.1.,Apollonia,Friedrich,Dreiseitel,1.5
--,11.1.,-,-,-,- (Ein Findelkind, am Tag)
+-,11.1.,-,-,-,- (Ein Findelkind, am Tag vor Dreikönig)
+Bährn,13.2.,Maria Elisabeth,Christ.,Ludovic,9y13w
+Brockersdorf,26.2.,Friedrich,-,Kolb,67
+
+DP 337
