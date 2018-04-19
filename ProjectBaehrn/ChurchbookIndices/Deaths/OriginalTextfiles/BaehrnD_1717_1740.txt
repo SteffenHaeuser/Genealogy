@@ -1785,6 +1785,129 @@ Siebenhöfen,25.4.,Karl,Friedrich,Rasch,1.5
 
 DP 357
 
+Bährn,25.4.,Maria Elisabeth,Johann Heinrich,Walter,38w
+Bährn,26.4.,Beate Victoria,Franz,Weinmann,1y18w
+Andersdorf,26.4.,Anna Maria,Heinrich,Penirschke,9m
+Bährn,27.4.,Tobias,-,Druschke,55y9m (Beruf Weber)
+Neundorf,1.5.,Friedrich,Georg,Poltzer,12
+Bährn,2.5.,Marianna,Johann,Orlich,25.5 (Ehefrau)
+Bährn,3.5.,Anna Catharina,Laurenz,Ma#er,24# (Tochter)(von Spachendorf#)
+Siebenhöfen,4.5.,Regina,Andreas,Fischer,40 (Ehefrau)
+Dittersdorf,4.5.,Anna Rosina,Michael,Philip,23w
+Siebenhöfen,5.5.,Anna Maria,Michael,Schober,1y2#w
+Bährn,8.5.,Marina,Balthasar,Schneider,54 (Witwe)
+Bährn,9.5.,Karl Franz,Christian,Seifensider,1y7m2w ("6.5 Quadrantum Anni"... bedeutet das 6.5 Vierteljahre ?)
+
+DP 358
+
+Bährn,10.5.,Karl Joseph,Gottlieb,Rauskolb,40w
+Brockersdorf,13.5.,Christian,Laurenz,Poltzer,6w
+Bährn,14.5.,Johann Karl,Johann Georg,Feigk,1.5
+Bährn,14.5.,Christina,Friedrich,Kastner,55 (Witwe)
+Brockersdorf,16.5.,Bartholomäus,-,Kolb,76
+Brockersdorf,19.5.,Anna Elisabeth,Franz,Matzke,1y6m ("6 quadrantum Anni" - 6 Vierteljahre ?)
+Bährn,21.5.,Johann Friedrich,Johann Georg,Rauskolb,1
+Bährn,22.5.,Johann Michael,Martin,Rösner,2.5
+Siebenhöfen,26.5.,Catharina,Franz,Alraun,9m
+Bährn,27.5.,Eva,Johann Heinrich,Lindtner,55 (Witwe)
+Bährn,28.5.,Christian,-,Patzel,67
+Bährn,28.5.,Georg,-,Schramm,69
+Bährn,29.5.,Christian,Heinrich,Schindler,1.5
+
+DP 359
+
+Bährn,29.5.,Anna Maria,Christian,Ludovic,2y3m
+Bährn,29.5.,Anna Elisabeth,Johann,Schneider,1
+Bährn,29.5.,Elisabeth,Friedrich,Kleim,59 (Ehefrau)
+Siebenhöfen,7.6.,Christian,Friedrich,Zimmer,4y37w
+Siebenhöfen,14.6.,Johann Friedrich,Friedrich,Zimmer,18w
+Siebenhöfen,14.6.,Marina,Christian,Rauskolb,73 (Witwe)
+Bährn,23.6.,Georg,-,Bürg#,72
+Bährn,25.6.,Anna,Johann,Biner#,63 (Tochter)(aus Grunberg)
+Bährn,29.6.,Anna Maria,Johann Michael,Seidler,36.5 (Ehefrau)
+Altlieb,2.7.,Rosina,Christian,Pretsch,8#d
+Bährn,2.7.,Johann Heinrich,Johann,Mejer,44w
+Siebenhöfen,3.7.,Elisabeth,Friedrich,Stantzel,24 (Tochter)
+
+DP 360
+
+Bährn,4.7.,Juliana,Johann Georg,Flader,52.5 (Ehefrau)
+Bährn,6.7.,Marina,Friedrich,Kolb,57 (Ehefrau)
+Neundorf,11.7.,Catharina,Michael,Beitel#,6#w
+Bährn,11.7.,Georg,-,Richter,57
+Neundorf,15.7.,Anna,Andreas,Poltzer,61 (Witwe)
+Bährn,17.7.,Friedrich,-,Schramm,39.5
+Bährn,18.7.,Brigitte,Franz,Weinmann,5.5
+Bährn,18.7.,Marina,Elias,Schwantzer,48 (Ehefrau)
+Bährn,18.7.,Georg,-,Blaschke,48
+Bährn,19.7.,Friedrich,-,Berger,86
+Bährn,19.7.,Maria,Karl,Berger,39 (Ehefrau)
+Bährn,19.7.,Johann,-,Schwantzer,74
+Bährn,21.7.,Maria Theresia,Friedrich,Jahn,5d
+Bährn,22.7.,Andreas,-,Unheyßer#,48
+Siebenhöfen,22.7.,Anna Catharina,Johann,Schober,1y44w ("2 Jahre minus 8 Wochen")
+
+DP 361
+
+Bährn,23.7.,Balthasar,-,Druschke,52 (Beruf Weber)
+Dittersdorf,23.7.,Andreas,-,Zimmer,59
+Bährn,27.7.,Christina,Johann,Grossmann,69.5 (Witwe)
+Bährn,4.8.,Georg,-,Gedel,65.5 (Beruf Müller)
+Bährn,13.8.,Marina,Matthäus,Müller,84# (Tochter)(84 oder 54 ?)
+Bährn,14.8.,Karl,Christian,Kolb,2.5
+Bährn,18.8.,Johann,Karl,Berger,16w
+Bährn,19.8.,Anna,Matthäus,Dreiseitel,63 (Witwe)
+Bährn,20.8.,Heinrich,-,Poltzer,31
+Altlieb,22.8.,Elisabeth,Nicolaus#,Mader,47 (Tochter)
+Bährn,28.8.,Barbara,Friedrich,Schinder#,43 (Ehefrau)(Schinder == Schindler ?)
+Bährn,30.8.,Ignatz,-,Pohl,47
+Siebenhöfen,30.8.,Anna Elisabeth,Friedrich,Rauskolb,4.5
+
+DP 362
+
+Bährn,1.9.,Elisabeth,Michael,Czetsch#,10y6w
+Bährn,2.9.,Anna Catharina,Christian,Habel,1w
+Bährn,6.9.,Marianna,Johann,Ihm,1y8w
+Neundorf,7.9.,Laurenz,Johann,Poltzer,23
+Siebenhöfen,8.9.,Johann,-,Schober,73
+Bährn,1.10.,Anna,Christian,Krumpholtz,77 (Witwe)
+Bährn,17.10.,Marina,Christian,Biner,76 (Witwe)
+Dittersdorf,18.10.,Anna Catharina,Elias,Krones,2y10#w
+Neundorf,24.10.,Theresia,Melchior,Poltzer,28w
+Bährn,29.10.,Franz,-,Platz#,40 (Beruf Weber)
+Bährn,1.11.,Anna Dorothea,Gabriel,He#asch,50 (Ehefrau)
+
+DP 363
+
+Neundorf,2.11.,Matthäus,-,Poltzer,87
+Bährn,8.11.,Catharina,Jacob,Bergmann,57 (Witwe)
+Bährn,10.11.,Maria Elisabeth,Melchior,Halbgebauer,8w
+Bährn,23.11.,Elisabeth,Georg,Witke,80 (Witwe)
+Bährn,7.12.,Anton,Franz,Zehenmarck#,0 ("5 Stunden")
+Dittersdorf,9.12.,Christian,-,Philip,67.5
+Bährn,23.12.,Philip,Karl,Berger,3y6w
+Siebenhöfen,29.12.,Paulina,Johann,Partsch,65 (Witwe)
+Bährn30.12.,Brigitte,Karl,Berger,5y16w
+
+DP 364
+
+1738
+
+Brockersdorf,1.1.,Johann Friedrich,Heinrich,Lichtblau,19w
+Bährn,7.1.,Anna,Balthasar,Thanel,73 (Witwe)
+Bährn,8.1.,Maria Catharina,Marc.,Berger,13d
+Dittersdorf,15.1.,Friedrich,-,Helfert,58
+Bährn,15.1.,Marina,Johann,Langer,71 (Ehefrau)
+Altlieb,15.1.,Marina,Andreas,Stantzel,56 (Tochter)
+Neundorf,21.1.,Anna Maria,Balthasar,Gnändiger,9w
+Bährn,23.1.,Dorothea,Matthäus,Aust,73 (Witwe)
+Bährn,25.1.,Johann Peter,Karl Franz,Blaschke,18d
+Bährn,25.1.,Ferdinand,Franz,Figur#,15w
+Bährn,26.1.,Florian,Caspar,Kloß#,1.5
+
+DP 365
+
+
 
 
 
