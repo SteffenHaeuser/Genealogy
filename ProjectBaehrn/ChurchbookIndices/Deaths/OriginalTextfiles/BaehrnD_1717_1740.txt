@@ -1906,12 +1906,3 @@ B‰hrn,25.1.,Ferdinand,Franz,Figur#,15w
 B‰hrn,26.1.,Florian,Caspar,Kloﬂ#,1.5
 
 DP 365
-
-
-
-
-
-
-
-
-
