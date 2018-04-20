@@ -247,28 +247,64 @@ Grundbuch Domstadtl 1714-1881
 1737: Hauskauf des Johann Georg Stantzel, um seines Schwiegervaters Johannes Lichtblau's Bürgerhaus P.729
 1795: Abschätzungsurkunde für Florian# Höllner# P.732
 1737: Hauskauf des Philipp Franck um seines Vaters Hans Franck' Bürgerhaus P.735
+1739: Hauskauf des Johann Georg Nithmann um des Christian Lindner's Angerhäusel. P.739
+1739: Hauskauf des Heinrich Schafhaupt um des sel. Heinrich Walter's Kleinhäusel. P.744
+1739: Christian Lindner's Kauf um des Andreas Walter's, um dessen Vater Lorenz Walter's. P.745
+1739: Kauf des Karl Popper, von seinem Schwiegervater Georg Hartl. P.749
+1739: Hauskauf des Christian Seidler, um des Christian Hartel's Großgartenhaus. P.753
+1740: Christian Hanel's Kauf um des verstorbenen Bürgermeister's Johann Jos. Kittel's Oberbürgerhaus. P.758
+1740: Melchior Poltzer' Kauf um des sel. Johann Jos. Kittel's Niederbürgerhaus. P.760
+1731: Hauskauf des Herrn And. Jos. Walter's, um seines # Karl Joh. Kolb's Großgartenhaus. P.762
+1740: Hauskauf des Johannes Walter's, um des Karl Poppen Angerhäusel. P.767
+1741: Hauskauf des Johannes Tögel, um seines Schwiegervater's Christian Pfaffen's. P.769
+1741: Hauskauf des Johannes Michael Walter, um seines Vettern Johann Gnändiger's. P.774
+1741: Hauskauf des Johannes STantzel, von seinem sel. Vater Christian Stantzel. DP 778
+1741: Hans Friedrich Zimmer#'s Kauf, um des sel. Christian Franck Kleingartenhaus. DP 782
+1741: Franz Mother's, um seines sel. Vater's Hans Georg Mother's. DP 785
+1798: Abschätzungsurkunde des Friedrich Zimmer's. DP 787
+1741: Kauf Joseph Mimbler's, von Elisabeth, der Witwe Karl Rasch's. DP 789
+1740: Kauf Casper Poltzer's, um seines Vaters Lorenz Poltzer's Bürgerhaus. DP 792
+1742: Hauskauf des Franz Langer, um seines sel. Vater's Paul Langer's Brandstelle. P.798
+1742: Hans Friedrich Rieb kauft seines verstorbenen Schwager's Christian Mück's. P.808
+1798: Abschätzungsurkunde um das Haus der Judith Walter DP.813
+1742: Hauskauf des Johannes Michael ranck um des sel. Lorenz Schäfer's. DP.815
+1743: Hauskauf des Christian Ficker's, um des Hans Nietmann#'s Großgartenahus. DP.819
+1795: Kauf des Joseph Franck (von Karl Franz Meckel?). DP.824
+1744: Hauskauf des Andreas Hoffmann von Gibau, um des Franz Blaschke's Angerhäusel. DP.826
+1744: Hauskauf des Franz Blaschke, um des Friedrich Gütiger's. DP 830
+1745: Hauskauf des Balthasar Stantzel, um seines Schwiegervater's Heinrich Walter's. DP 835
+1794: Hauskauf des Ignatz Anoys# von Franz Franck. DP 839
+1745: Verschreibung der Stadtmühle Friedrich Jahn's, von seinem Bruder Franz Jahn. DP 842
+1795: Abschätzung, des Bernhard Lichtblau's (?). DP 848
+1745: Hauskauf des Johann Friedrich Höllner's, um des Johann Michael Walter's Bürgerhaus. DP 850
+1745: Kauf des Christian Lichtblau's um seines sel. Vater's Christian Lichtblau's. DP 858
+1746: Kauf des Franz Ficker's, um des Hans Hans Heinrich Bobitschen's. DP 863
+1746: Kauf des Wenceslaus Lichtblau's, um des Friedrich Dreiseitel's. DP 867
+1746: Kauf des Philipp Tatzel's, um des Christian Stantzel's. DP 871
+1746: Kauf des Karl Gerle's, um seines Vater's Christian Gerle's. DP 874
+1796: Kauf der Witwe Anna Maria Stantzel, des verstorbenen Anton Stantzel's (No. 87). DP 880
+1747: Kauf des Franz Kuntz, um des Hans Friedrich Zimmer#'s. DP 882
+1747: Kauf des Joseph Bönel, um seiner Mutter Rosina's. DP 885
+1795: Kauf des Christian Langer, um des verstorbenen Christian Ficker#'s (No. 88). DP 892
+1748: Kauf des Andreas Ficker's, um seines Vaters Johann Ficker's. DP 898
+1796: Kauf des Johann Kalusch#, Schmiedemeister in Domstadtl, um der Witwe Anna Maria Stantzel's. DP 904
+1800: Kauf des Augustin Pox#, um des Johann Michael Poltzer#'s. DP 906
+1749: Kauf des Joseph Vögler's, um Marianna, der Witwe des Peter Poltzer's. DP 908
+1749: Kauf des Joseph Mimbler's, um des Christian Poltzer's. DP 914
+1749: Kauf des Johann Michael Franck, um seines Vater's Christian Franck's. DP 918
+1750: Kauf des Franz Walter's, um seines sel. Vater's Andreas Walter's. DP 924
+1750: Kauf des Carl Schäfer's, um des Franz Ficker's. DP 930
+1796: Kauf des Anton Heger's, um des Johann Tögel's. (No. 82). DP 935
+1751: Kauf des Christian Franck, um des Andreas Dittrich's. DP 938
+1751: Kauf des Heinrich Gnändiger, um des Baltzer Stantze's in der Hütten. DP 940
+1751: Kauf des Karl Franz Walter's, um seines Vater's Andreas Walter's. DP 946
+1751: Freymarck oder Häusertausch zwischen der Witwe Rosina des Christian Krönes und dem Johann Michael Franck dem Jüngeren. DP 951
+1751: Kauf des Christian Schafhaupt von Siebenhöfen, um seines Schwiegervater's Christian Lichtblau's. DP 955
+1751: Kauf des Christian Lintner's, um seines Vater's Andreas Lintner's. DP 960
+1750: Kauf des Andreas Dittrich um des Joseph Mimbler's. DP 966
+1752: Kauf des Christian Stantzel's, um des sel. Johann Poltzer's. DP 969
+1753: Kauf des Johann Georg Weingarten's, um seines Schwiegervater's Andreas Dittrich's. DP 973
+
+
 ...
 1767: Hauskauf des Joseph Walters um seines Vaters Johann Walters Großgartenhaus No. 54 P.1202
-
-	  
-	  
-	  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
