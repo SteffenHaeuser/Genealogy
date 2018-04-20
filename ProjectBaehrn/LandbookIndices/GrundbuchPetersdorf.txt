@@ -1,4 +1,4 @@
-http://digi.archives.cz/da/permalink?xid=e3d06a1ff314403f8071db32e3cf8dbd&scan=3
+http://digi.archives.cz/da/permalink?xid=202261acae95480c8282428ff6d28a5c&scan=126
 
 Grundbuch Petersdorf
 
@@ -53,7 +53,7 @@ Grundbuch Petersdorf
 
 #6
 
-- Eines Grundes durch Peter SchÃ¤fer dem Hans Ficker. P.61
+- Eines Grundes durch Peter Schäfer dem Hans Ficker. P.61
 - Durch seinen Eidam Martin Walter. P.61
 - Nach ihm seinem Sohne Christian Walter. P62
 - 1739 Nach ihm dem Casper Matzer. P.64
@@ -116,7 +116,7 @@ Grundbuch Petersdorf
 #13
 
 - Verkauf eines Grundes durch Paul Ficker, dem Martin Teimer. P.131
-- Dann dem Sohn Paul verschrieben#, nach ihm Christoph GÃ¼tiger. P.131
+- Dann dem Sohn Paul verschrieben#, nach ihm Christoph Gütiger. P.131
 - Nach ihm Hans Teimer. P.132
 - 1701 Nach ihm dem Georg Schwab alda P.132
 - 1713 Durch ihn dem Friedrich Heeger#. P.134
@@ -127,13 +127,13 @@ Grundbuch Petersdorf
 
 - Verkauf eines Grundes durch Hans Hanel, dem Georg Teimer. P.141
 - Durch ihn dem Baltzer Schober. P.141
-- Durch ihn dem Hans SchÃ¤fer. P.142
-- 1743 Durch ihn dem Baltzer SchÃ¤fer, seinem Sohn. P.143/144
-- 1776 Nach ihm Joseph SchÃ¤fer. P.145 1/2.
+- Durch ihn dem Hans Schäfer. P.142
+- 1743 Durch ihn dem Baltzer Schäfer, seinem Sohn. P.143/144
+- 1776 Nach ihm Joseph Schäfer. P.145 1/2.
 
 #15
 
-- Verkauf eines Grundes durch Andreas HÃ¶fen#, dem Jacob Klein P.151
+- Verkauf eines Grundes durch Andreas Höfen#, dem Jacob Klein P.151
 - Durch ihn dem Paul Dittrich P.152
 - Durch ihn dem Hans Teymer. P.152
 - 1715 Sodann seinem Sohn Paul Teymer. P.153
@@ -145,7 +145,7 @@ Grundbuch Petersdorf
 #16
 
 - Verkauf eines Grundes nach sel. Hans Ledel, dem Georg, seinem Sohn. P.161
-- Durch ihn dem Georg Sienel (SÃ¶hnel?). P.161
+- Durch ihn dem Georg Sienel (Söhnel?). P.161
 - Nach ihm seinem Sohn Hans Sienel. P.162
 - 1722 Durch ihn seinem Eidam Martin Siersch. P.163
 - 1734 Nach ihm seinem Bruder Andreas Sirsch. P.165
@@ -172,8 +172,8 @@ Grundbuch Petersdorf
 
 #19
 
-- Verkauf eiens Grundes durch Hans SÃ¶hnel, dem Martin seinem Sohne. P.191
-- Nach ihm seinem Sohne, Georg SÃ¶hnel. P.192
+- Verkauf eiens Grundes durch Hans Söhnel, dem Martin seinem Sohne. P.191
+- Nach ihm seinem Sohne, Georg Söhnel. P.192
 - 1721 Durch ihn dem Georg# Teymer#. P.193
 - 1741 Durch ihn dem Michael Ettel. P.194
 - 1759 Nach ihm dem Anton Sirsch von #. P.195
@@ -181,7 +181,7 @@ Grundbuch Petersdorf
 
 #20
 
-- Verkauf von Adam Hayschl#'s WÃ¼stung dem Paul Teymer dem JÃ¼ngeren. P.201
+- Verkauf von Adam Hayschl#'s Wüstung dem Paul Teymer dem Jüngeren. P.201
 - Nach ihm seinem Sohn Friedrich Teymer. P.201
 - Nach ihm dem Adam Teymer. P.203
 - 1750 Nach ihm Karl Teymer. P.204
@@ -198,7 +198,7 @@ Grundbuch Petersdorf
 
 #22
 
-- Verkauf von Martin Sirsch's WÃ¼stung dem Hans Siersch zu Petersdorf. P.221
+- Verkauf von Martin Sirsch's Wüstung dem Hans Siersch zu Petersdorf. P.221
 - Durch ihn seinem Sohn Martin Siersch. P.221
 - 1726 Durch ihn seinem Sohn Peter Siersch. P.222
 - 1768 Johann Heinrich Siersch. P.224
@@ -209,5 +209,3 @@ Grundbuch Petersdorf
 - Durch ihn dem Hans Lenner# seinem Eidam. P.231
 
 Weitere:
-
-
