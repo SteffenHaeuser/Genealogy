@@ -304,7 +304,68 @@ Grundbuch Domstadtl 1714-1881
 1750: Kauf des Andreas Dittrich um des Joseph Mimbler's. DP 966
 1752: Kauf des Christian Stantzel's, um des sel. Johann Poltzer's. DP 969
 1753: Kauf des Johann Georg Weingarten's, um seines Schwiegervater's Andreas Dittrich's. DP 973
-
+1796: Kauf des Johann Tögel's, welcher das Haus neu erbaut hat. DP 976
+1753: Kauf des Christian Benel's, um des Johann Friedrich Kirbes'. DP 978
+1753: Erbteils-Vertrag zwischen Johann Pfoff und seinem Schwiegervater Johann Friedrich Rib. DP 983
+1753: Hauskauf des Johann Körner um des Wenceslaus Franck's. DP 985
+1754: Hauskauf des Karl Poltzer um seines sel. Vater's Melchior Poltzer. DP 986
+???: Irgendwas mit Lintner DP 995
+1754: Hauskauf des Johann Pfoff, um seines Vater's Michael Pfoff's. DP 998
+1754: Kauf des Christian Hansmann, um seines Vater's Christian Hansmann's. DP 1002
+1754: Kauf des Johann Michael Könes um seiner Mutter Rosina Krönes'. DP 1007
+1799: Kauf des Bernhard Krönes um des Karl Franz S#fert's. DP 1012
+1755: Verschreibung der Stadtmühle an Carl Jahn. DP 1014
+1755: Kauf des Johann Georg Ficker, um seines sel. Schwiegervater's Christian Meckel's. DP 1028
+1800: Kauf des Dominik Walter's, um des Joseph #'s (No. 82). DP 1033
+1756: Kauf des Johann Michael Langer's, um seines sel. Stiefvater's Johann Georg Rieger#'s. DP 1034
+1756: Kauf des Joseph Rauskolb's, um des Franz Fischer's. DP 1038
+1798: Kauf des Franz Walter's, um des Florian Scholz#'s (No.64). DP 1042
+1757: Kauf des Baltzer Gnändiger, um des Johann Georg Nithmann's. DP 1044
+1799: Kauf des Josephj Franck's, um seines Vaters Franz Franck's. DP 1048
+1757: Kauf des Anton Stantzel's, um seines Vetters Heinrich Aust's. DP 1052
+1807: Kauf des Franz #uschel. DP 1057
+1758: Kauf des Christian Blaschke's, um seines sel. Vater's Franz Blaschke's. DP 1058
+1758: Kauf des Franz Kuntz, um des Joseph Bend#'s. DP 1064
+1799: Kauf des Joseph Kuschlek#'s, um des Anton Heger's. (No. 82) DP 1070
+1758: Kauf des Johann Krönes, um des Franz Kuntz'. DP 1072
+1758: Kauf des Florian Tögel's, um seines Schwiegervater's Christian Hanel's. DP 1076
+1800: Kauf des Joseph Kuschel#'s, um des Anton Rusch#'s (No. 91). DP 1083
+1759: Kauf des Christian Pfoff's, um seines Schwiegervater's Andreas Walter's. DP 1086
+1799: Kauf des Leopold Schmied. DP 1092
+1759: Kauf des Franz Gutjahr's, um des Martin Hartel's. DP 1096
+1759: Kauf des Heinrich Hansmann's, um des Johann Körner's. DP 1100
+1759: Kauf des Andreas Franck's, um des sel. Christian Franck's. DP 1102
+1759: Kauf des Johann König's um seines sel. Vater's Johann König's. DP 1104
+1759: Kauf des Johann Georg Meckel's, um seines Schwiegervater's Andreas Hofmann's. DP 1112
+1799: Kauf des Benedikt Langer's. DP 1115
+1759: Kauf des Franz Krönes, um des Johann Georg Weingarten's. DP 1116
+1805: Kauf des Joseph Langer's, um des Leopold Schmied's. DP 1119
+1761: Kauf des Johann Georg Güttiger's, um seines sel. Schwäger#'s Christian Stantzel's. DP 1121
+1762: Kauf des Johann Georg Nithmann's, um des sel. Johann Michael Franck's. DP 1125
+1800: Kauf des Ferdinand Langer's, um seines Vater's Christian Langer's. DP 1131
+1811: Verschreibung an (?) Karl Franz Walterin (No. 51). DP 1135
+1762: Kauf des Joseph Himmer's, um seines Vater's Christian Himmer's. DP 1136
+1800: Kauf des Friedrich Franck's, um seines Vater's Franz Franck's. DP 1142
+1763: Kauf des Anton Kuschleck's, um des Heinrich Hansmann's. DP 1146
+1805: Kauf des Joseph Langer's von der Gemeinde. DP 1149
+1763: Kauf des Heinrich Hansmann's, um des Philipp Tatzel's. DP 1150
+1763: Kauf des Anton Dreiseitel, um seines Vater's Christian Dreiseitel's. DP 1154
+1802: Kauf des Joseph Poltzer's, um des Gabriel Hiemmer's. DP 1160
+1764: Kauf des Michael Tögel's, um seines Schwiegervater's Johann Franck's. DP 1162
+1765: Kauf des Christian Blaschke's, um seines Vaters Andreas Blaschke's. DP 1167
+1765: Kauf des Christian Langer's, um seines Vaters Christian Langer's. DP 1171
+1765: Kauf des Franz Walter's, um seines Vater's Joseph Walter's. DP 1175
+1765: Kauf des Karl Franz Mother's, um seines sel. Vater's Franz Mother's. DP 1178
+1765: Kauf des Florian Tögel's, um des Karl Benel#'s (No. 79???). DP 1182
+1765: Kauf des Johann Michael Poltzer's, um des Florian Tögel's (No. 8 ???). DP 1186
+1765: Kauf des Joseph Hofmann's, um seines Schwäger#'s Johann Georg Stantzel's. DP 1190
+1805: Abschätzung von Conscriptions-No. 96 des Johann Tögel's. DP 1193
+1765: Kauf des Franz Stantzel's, um seines Schwiegervater's Friedrich Zimmer's. DP 1195
+1765: Kauf des Anton Böck, um des sel. Michael Popp's. DP 1200
+1767: Hauskauf des Joseph Walters um seines Vaters Johann Walters Großgartenhaus No. 54 P.1202
+1767: Kauf des Johann Georg Nithmann's, um seines Vaters Georg Nithmann's. DP 1206
+1767: Kauf des Johann Poltzer's, um des Heinrich Schafhaupt#'s. DP 1212
+1768: Kauf des Bernhard Lintner's, um seines sel. Vater's Christian Lintner's. DP 1215
 
 ...
-1767: Hauskauf des Joseph Walters um seines Vaters Johann Walters Großgartenhaus No. 54 P.1202
+DP 1916
