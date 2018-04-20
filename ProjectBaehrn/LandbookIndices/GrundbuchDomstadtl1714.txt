@@ -366,6 +366,20 @@ Grundbuch Domstadtl 1714-1881
 1767: Kauf des Johann Georg Nithmann's, um seines Vaters Georg Nithmann's. DP 1206
 1767: Kauf des Johann Poltzer's, um des Heinrich Schafhaupt#'s. DP 1212
 1768: Kauf des Bernhard Lintner's, um seines sel. Vater's Christian Lintner's. DP 1215
+1768: Kauf des Severin Krönes, um seines Schwiegervater's Philipp Franck's. DP 1224
+1800: Kauf des Johann Schwarzen um seines sel. Vater's Lorenz Schwarzen's. DP 1228
+1768: Kauf des Florian Walter's, um seines sel. Vater's Johann Walter's Hüttenmühl. DP 1230
+1768: Kauf Karl Tö#g's, um seines Schwiegervater's Johann Georg Wentzel#'s. DP 1237
+1799(???): Kauf des Christian Gnändiger's von Seibersdorf, um der Witwe Elisabeth, des Franz Krönes' (No. 55). DP 1240
+1769: Kauf des Caspar Poltzer's, um der Magdalena Krönes'. DP 1244
+1770: Kauf des Franz Seidler's, um seines Vater's Heinrich Seidler's. DP 1250
+1802: Kauf des Franz Franck's, um des Johann Schwarzen's (No. 87). DP 1255
+1770: Kauf des Johann Michael Scholaster, um seines Vater's Andreas Scholaster's. DP 1257
+1768(???): Kauf des Karl Franz Schäfer's, von der Witwe Katharina Kuntz und dem Witwer Thaddäus Krönes. DP 1262
+1802: Kauf des Joseph Broschke#. DP 1266
+1802: Kauf des Bernhard Krönes, um des Christian Gnändiger's von Seibersdorf's in Domstadtl. DP 1269
+
+
 
 ...
 DP 1916
