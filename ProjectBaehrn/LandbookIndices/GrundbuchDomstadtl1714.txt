@@ -385,6 +385,7 @@ Grundbuch Domstadtl 1714-1881
 1802: Kauf des Florian Stantzel's, um des Augustin Stantzel's. DP 1286
 1771: Kauf des Johann Hiemmer's, um des sel. Georg Franck#'s. DP 1288
 1771: Kauf des Florian Scholtz, um des sel. Anton Beck#'s. DP 1291
+1771: Kauf des Franz Franck, um des Johann Hiemmer#s. DP 1295
 
 
 
