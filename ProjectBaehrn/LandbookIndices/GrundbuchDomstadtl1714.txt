@@ -386,8 +386,54 @@ Grundbuch Domstadtl 1714-1881
 1771: Kauf des Johann Hiemmer's, um des sel. Georg Franck#'s. DP 1288
 1771: Kauf des Florian Scholtz, um des sel. Anton Beck#'s. DP 1291
 1771: Kauf des Franz Franck, um des Johann Hiemmer#s. DP 1295
-
+1771: Kauf des Christian Hansmann um des Karl Tör#'sch. DP 1298
+1771: Kauf des Franz Blaschka, um seines Vater's Anton Blaschke's (No. 16). DP 1305
+1771: Kauf des Johann Popp um des sel. Johann Be#ner's (No. 64). DP 1314
+1771: Kauf des Karl Franz Walter's, um des Franz Walter's (No. 30#). DP 1317
+1772: Kauf des Johann Michael Franck, um des Johann Michael Mimler's Haus (No. 80). DP 1319
+1772: Kauf des Karl Zimmer's, um des Johann Michael Franck's Haus (No. 17). DP 1322
+1772: Kauf des Johann Lehnert, um des sel. Christian Blaschke's (No. 50). DP 1326
+1802: Kauf des Franz Rusch#, um des Augustin Stantzel's. DP 1328
+1797: Kauf des Ferdinand Mader, um des sel. Johann König's (No. 39). DP 1330
+1772: Hauskauf des Andreas Franck's, um des Franz Krönes' (No. 58). DP 1333
+1772: Kauf des Franz Krönes', um des Christian Fücker's. (No. 55). DP 1335
+1789: Baustellenkauf des Franz Krönes von Karl Franz Kunz. DP 1336
+1802: Kauf des Johann Kalusch#, Schmiedemeister, um des Florian Stantzel's (No. 31). DP 1338
+1802: Kauf des Johann Schwarz, Schlossermeister, um des Johann Kalusch#, Schmiedemeister's (No. 87) DP 1340
+1772: Kauf des Joseph Nithmann's, um des Johann Georg Meckel#'s. (No. 26). DP 1342
+1803: Verschreibung der öden Stelle des Joseph Franck (Conscriptions-No. 41).
+1772: Kauf des Anton Knop's#, um des Franz Gutjahr#'s. (No. 27). DP 1346
+1773: Franz Franck' Kauf, um des Karl Franz Benel's (No. 70). DP 1348
+1772???: Franz Gutjahr's Kauf, um des Joseph Hiemmer's (No. 78). DP 1351
+1774: Kauf des Joseph Franck, um seines sel. Vater's Johann Michael Franck's (Haus No. 9). DP 1355
+1773: Kauf des Karl Franz Hansmann's, um des Christian Pfoff's (No. 76). DP 1357
+1774: Kauf des Johann Heeger's, um des Andreas Franck's (No. 58). DP 1359
+1774: Freymarck oder Häusertausch zwischen Joseph Franck No. 9 und Johann Krönes No. 41#. DP 1361
+1775: Kauf des Bernhard Pfof nach seinem verstorbenen Vater Andreas Pfoff (No. 77). DP 1365
+1775: Kauf des Franz Lintner's um der Theresia Schäfer's (No. 49). DP 1369
+1776: Kauf des Johann Langer's, um seines sel. Vaters Franz Langer's (No. 81). DP 1372
+1776???: Kauf des Heinrich Seidler und dessen Sohn Heinrich, Gerber, um des Johann Stantzel's. DP 1381
+1776: Kauf des Franz Poltzer's, um seines Vaters Kasper# Poltzer's (No. 14). DP 1386
+1777: Kauf des Bernhard Krönes, um seines Schwiegervater's Christian Beherl#'s (No. 48). DP 1391
+1777: Kauf des Friedrich Hiemmer/Zimmer#'s, um seines Schwigervater's Christian Schafhaupt's (No. 57). DP 1396
+1777: Kauf des Johann Friedrich Purr, um seines Schwiegervater's Heinrich Gnändiger's (No. 23). DP 1401
+1777: Kauf des Franz Kunz um seines sel. Vater's Franz Kunz (No. 37). DP 1406
+1777: Kauf des Joseph Himmer/Zimmer#'s, um des Heinrich Hansmann's (No. 10). DP 1412
+1777: Kauf des Franz Anton Poltzer's, um seines Vater's Karl Poltzer's (No. 35). DP 1416
+1778: Kauf des Johann Michael Poltzer, um des Joseph Nithmann's. (No. 26#). DP 1426
+1778: Kauf des Johann Walter's, um seines sel. Vater's Franz Walter's (No. 32). DP 1429
+1806: Kauf des Leopold Schmied, um des Franz Franck's (No. 89). DP 1432
+1778: Kauf des Johann Gmändiger, um des Vater's Baltzer Gmändiger's (No. 4). DP 1434
+1806: Kauf des Christian Franck, um des Franz Franck's (No. 87). DP 1438
+1779: Kauf des Johann Mimbler's, um seines Vater's Joseph Mimbler's (No. 62). DP 1440
+1779: Kauf des Johann Tögel's, um seines Vater's Florian Tögel's (No. 79). DP 1443
+1806: Kauf des Karl Franz Lintner, um des Leopold Schmied's (No. 89). DP 1445
+1779: Kauf des Johann Friedrich Poltzer's, um des abgelebten Franz Seidler's (No. 75). DP 1447
+1803: Kauf des Vinzenz Eichler, des Joseph Eichler's, Schmiedemeister, Sohn von Gebelsdorf#, um des Johann Kalisch's, Schmiedemeister's. DP 1454
+1781: Kauf des Florian Gnändiger's, um des Karl Franz Mother's (No. 44). DP 1456
+1781: Kauf des Karl Franz Lintner's, um seines sel. Vater's Christian Lintner's (No. 56). DP 1460
 
 
 ...
+
 DP 1916
