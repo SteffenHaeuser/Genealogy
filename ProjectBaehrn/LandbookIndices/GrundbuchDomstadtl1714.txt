@@ -458,6 +458,23 @@ Grundbuch Domstadtl 1714-1881
 1787: ??? (Josef Mimbler)
 1785: Kauf des Joseph Ficker's, um seines Vaters Andreas Ficker's (No. 34). DP 1550
 1806: Kauf des Franz Tögel, nach dem verstorbenen Johann Rauskolb's. DP 1553
+1783: Baustellenkauf des Johann Tögel's. DP 1556
+1786: Kauf des Franz Lichtblau, um seines Vaters Wenceslaus Lichtblau (No. 60). DP 1557
+1786: Kauf des Gabriel Hiemmer von Altwasser, um seines Schwiegervater's Joseph Rauskolb (No. 5). DP 1561
+1786: Kauf des Joseph Knop#'s, um des Vaters Anton Knop#'s. (No. 27). DP 1565
+1787: Kauf des Franz Franck#' (No. 85). DP 1568
+1787: Kauf des Florian Franz', um des nach dem abgelebten Michael Tögel's (No. 28). DP 1569
+1788: Kauf des Karl Franz Walter's, um seines Schwiegervater's Johann Pfoff's (No. 51). DP 1573
+1788: Kauf des Joseph Englisch, um des sel. Anton Dreiseitel's (No. 42). DP 1578
+1788: Kauf des Florian Kunz, um des sel. Florian Gnändiger (No. 44). DP 1583
+1806: Kauf der Witwe Elisabeth Walter, um des Franz Tegel's. DP 1586
+1788: Kauf des Florian Blaschke, Braumeister's, um seines Vaters Christian Blaschke's (No. 7). DP 1588
+1788: Kauf des Johann Michael Poltzer, um seines Vaters Johann Michael Poltzer's (No. 8). DP 1593
+1788: Kauf des Augustin Hansmann's, um seines Vaters Joseph Hansmann's (No. 68). DP 1598
+1788: Kauf des Johann Walter, um seines Vaters Karl Franz Walter's (No. 29). DP 1605
+1788: Kauf des Joseph Rosensprung's, um seines Schwiegervater's Florian Tögel's (Conscriptions-No. 79). DP 1611
+1788: Kauf des Florian Mader von Neudorf, um des Johann Michael Scholaster's (Conscriptions-No. 13). DP 1615
+1787: Kauf des Franz Stantzel, um des Johann Georg Nithmann's (No. 2). DP 1620
 
 
 ...
