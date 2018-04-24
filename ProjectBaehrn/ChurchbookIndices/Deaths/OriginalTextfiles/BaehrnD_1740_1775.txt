@@ -37,7 +37,7 @@ Bährn,7.10.,Catharina,Heinrich,Lehnhardt,60 (Ehefrau)
 Bährn,9.10.,Johann,-,Müller,82
 Bährn,25.10.,Johann Balthasar,Mathisa,Seidler,43w
 Brockersdorf,2.11.,Anna Maria,Laurenz,Gerle,7w
-Andersdorf,5.11.,Elisabeth,Elias,Wentzl,43.5 (Ehefrau)
+Andersdorf,5.11.,Elisabeth,Elias,Wentzel,43.5 (Ehefrau)
 Neudorf,6.11.,Friedrich,-,Heintz,60
 Bährn,11.11.,Regina,Johann,Schindler,71 (Witwe)
 Altlieb,12.11.,Johann,-,Wiener,65
@@ -66,7 +66,7 @@ Siebenhöfen,5.1.,Regina,Christian,Gebauer,58 (Witwe)
 Brockersdorf,15.1.,Marina,Martin,Kratschmer,66 (Witwe)
 Bährn,16.1.,Anton,-,Merkert,30
 Siebenhöfen,19.1.,Karl Joseph,Balthasar,Krones,9m
-Bährn,19.1.,Christian,Johann Georg,Wentzl,1y9m
+Bährn,19.1.,Christian,Johann Georg,Wentzel,1y9m
 Siebenhöfen,28.1.,Marina,-,Herbrant#,58 (Aus Nikelsdorf in Schlesien)
 Dittersdorf,31.1.,Susanna,Michael,Zimmer,31 (Ehefrau)
 Brockersdorf,5.2.,Magdalena,Johann,Poltzer,1y1#w
@@ -77,7 +77,7 @@ Dittersdorf,25.2.,Elisabeth,Johann,Grippel#,3w
 Bährn,27.2.,Heinrich,-,Mentzl,62
 Siebenhöfen,3.3.,Dorothea,Balthasar,Frantz,53 (Ehefrau)
 Siebenhöfen,3.3.,Anna,Friedrich,Rasch,28 (Ehefrau)
-Andersdorf,5.3.,Heinrich,-,Wentzl,71
+Andersdorf,5.3.,Heinrich,-,Wentzel,71
 Bährn,5.3.,Christian,Heinrich,Schindler,10#w (Unklar, was vor "10 Wochen" steht)
 Siebenhöfen,5.3.,Apollonia,Michael,Schober,9m
 Altlieb,9.3.,Christina,Paul,Kratschmer,84 (Witwe)(aus Maiwald)
@@ -176,7 +176,7 @@ Bährn,11.12.,Elisabeth,Karl,Schramm,67 (Witwe)
 DP 10
 
 Bährn,12.12.,Johann Georg,-,Rauskolb,48
-Bährn,12.12.,Marina,Tobias,Wentzl,53 (Ehefrau)
+Bährn,12.12.,Marina,Tobias,Wentzel,53 (Ehefrau)
 Brockersdorf,20.12.,Anna Maria,Andreas,Regirer#,10w
 Neudörfel,22.12.,-,-,-,- (Beruf Armer Vagabund)
 Bährn,27.12.,Christian,-,Unger,69
@@ -223,7 +223,7 @@ Brockersdorf,26.3.,Karl,-,Poltzer,35
 Brockersdorf,26.3.,Andreas,-,Hansel,50
 Bährn,28.3.,Catharina,Tobias,Mader,33.5 (Ehefrau)
 Andersdorf,30.3.,Christian,-,Hanel#,39 (Heißt das Hanel oder Sönel ?)
-Andersdorf,2.4.,Johann Georg,Friedrich,Wentzl,6m
+Andersdorf,2.4.,Johann Georg,Friedrich,Wentzel,6m
 Siebenhöfen,2.4.,Joseph,-,Hofmann,49
 Bährn,3.4.,Rosina,Friedrich,Krumpholtz,64.5 (Ehefrau)
 Bährn,5.4.,Michael,-,Rotter#,63 (Beruf Lehrer)
@@ -349,7 +349,7 @@ DP 16
 Bährn,2.4.,Heinrich,-,Lenhart,61
 Bährn,6.4.,Elisabeth,Johann,Krumpholtz,24 (Tochter)
 Dittersdorf,14.4.,Franz,Johann,Falgenhauer,2
-Andersdorf,16.4.,Apollonia,Elias,Wentzl,1
+Andersdorf,16.4.,Apollonia,Elias,Wentzel,1
 Siebenhöfen,17.4.,Salomena,Karl,Berger,12d
 Brockersdorf,20.4.,Catharina,Samuel,Saulich#,50 (Ehefrau)
 Bährn,20.4.,Augustin,-,Klein,42
@@ -378,7 +378,7 @@ Brockersdorf,1.8.,Johann Heinrich,Friedrich,Berger,2y3m
 Siebenhöfen,10.8.,Anna Rosina,Friedrich,Rasch,12d
 Bährn,20.9.,Anna Rosina,Friedrich,Poltzer,2
 Bährn,4.10.,Karl,Elias,Holtzschuh,22 
-Bährn,12.10.,Maria Clara,Johann Georg,Wentzl,9m
+Bährn,12.10.,Maria Clara,Johann Georg,Wentzel,9m
 Neudörfel,19.10.,Karl,Georg,Seidler,7
 Bährn,24.10.,Karl Joseph,Florian,Lichtblau,4
 Neudörfel,25.10.,Georg,-,Seidler,40
@@ -390,11 +390,11 @@ Bährn,15.11.,Johann Georg,-,Kolb,41
 Bährn,16.11.,Apollonia,Johann,Merkert,14d
 Bährn,24.11.,Christian,Johann Friedrich,Rosensprung,2d
 Bährn,24.11.,Johann Georg,Christian,Schneider,2d
-Andersdorf,28.11.,Friedrich,-,Wentzl,51
+Andersdorf,28.11.,Friedrich,-,Wentzel,51
 Bährn,30.11.,Judith,Friedrich,Rosensprung,22 (Ehefrau)
 Andersdorf,4.12.,Georg,-,Seidler,63
 Bährn,24.12.,Rosalia,Karl,Rauskolb,9m
-Andersdorf,25.12.,Apollonia,Friedrich,Wentzl,1
+Andersdorf,25.12.,Apollonia,Friedrich,Wentzel,1
 
 DP 18
 
@@ -432,4 +432,242 @@ Bährn,25.5.,Elias,-,Ficker,28
 Siebenhöfen,7.6.,Regina,Balthasar,Franck,10d
 
 DP 19
+
+Bährn,15.6.,Balthasar,-,Schwantzer,48
+Bährn,24.6.,Johann,Friedrich,Poltzer,4w
+Bährn,3.7.,Maria Anna,Christian,Öxner,61 (Witwe)
+Bährn,20.7.,Franz,Bartholomäus,Körnig#,6m
+Bährn,24.7.,Johann Anton,Christian,Pudel,14d
+Bährn,28.7.,Anna Catharina,Christian,Beigel,1
+Bährn,11.8.,Anna Elisabeth,Franz,Unger,2y3m
+Bährn,20.8.,Maria Elisabeth,Christian,Philip,11d
+Bährn,22.8.,Christian,-,Philip,42
+Bährn,25.8.,Franz,-,Klein,45
+Siebenhöfen,27.8.,Maria Elisabeth,Balthasar,Krones,14d
+Bährn,1.9.,Johann,-,Beyer,28 (von Spachendorf#)
+Dittersdorf,14.9.,Andreas,Christian,Krones,1y9m
+Dittersdorf,20.9.,Anna Maria,Michael,Zimmer,3m
+Bährn,26.9.,Rosina,Friedrich,Hegel,38 (Tochter)
+Bährn,5.10.,Anton,Joseph,Schramm,1y3m
+Neudörfel,10.10.,Elisabeth,-,Streit,27
+Bährn,15.10.,Maria Elisabeth,Johann Friedrich,Rosensprung,3d
+Dittersdorf,21.10.,Apollonia,Johann,Grosmann,5
+Brockersdorf,22.10.,Johann Friedrich,Michael,Reichel#,1y9m
+Bährn,30.10.,Anna Catharina,Franz,Heger,3m
+Bährn,31.10.,Johann Peter,Joseph,Süm#,3m
+Brockersdorf,1.11.,Johann Heinrich,Christian,Stabel,14d
+Bährn,23.11.,Elisabeth,Johann,Müller,83 (Witwe)
+Dittersdorf.12.12.,Karl,Andreas,Zimmer,17
+Altlieb,13.12.,Friedrich,-,Madere,59
+Bährn,18.12.,Karl Joseph,Christian,Poltzer,18
+Siebenhöfen,19.12.,Maria Elisabeth,Friedrich,Schober,6m
+Andersdorf,21.12.,Elisabeth,Friedrich,Söhnel,65 (Witwe)
+Andersdorf,25.12.,Anna Maria,Friedrich,Wentzel,17
+Dittersdorf,30.12.,Friedrich,Johann Georg,Schulmeister,14d
+
+1745
+
+Bährn,5.1.,Anna Maria,Christian,Rauskolb,9m
+Bährn,21.1.,Anna Rosina,Elias,Ficker,1y3m
+
+DP 20
+
+Andersdorf,22.1.,Johann Michael,Heinrich,Berger,6m
+Siebenhöfen,29.1.,Balthasar,-,Frantz,59
+Siebenhöfen,31.1.,Maria Elisabeth,Friedrich,Rasch,3m
+Brockersdorf,3.2.,Laurenz,-,Poltzer,42
+Brockersdorf,3.2.,Johann Heinrich,Laurenz,Poltzer,9m
+Brockersdorf,4.2.,Johann Heinrich,Karl Joseph,Mader,1
+Andersdorf,10.2.,Barbara,Friedrich,Dreiseitel,84.5 (Witwe)
+Andersdorf,10.2.,Christian,-,Wentzel,56
+Neudörfel,11.2.,Rosina,Johann,Gnändiger,76 (Witwe)
+Bährn,12.2.,Johannes,-,Ohrlich,57
+Brockersdorf,13.2.,Anna Maria,Andreas,Wiener,33 (Ehefrau)
+Brockersdorf,14.2.,Andreas,-,Wiener,48
+Andersdorf,15.2.,Johann Anton,Johann Michael,Pudel,3d
+Andersdorf,18.2.,Michael,-,Schwantzer,43
+Brockersdorf,21.2.,Karl,Laurenz,Poltzer,9
+Siebenhöfen,22.2.,Heinrich,-,Öxner,48
+Neudörfel,22.2.,Elisabeth,Wenceslaus,Seidler,55 (Ehefrau)
+Neudörfel,22.2.,Karl,Johann Georg,Kirbes,1y3m
+Brockersdorf,23.2.,Johann Michael,-,Reichel#,38
+Bährn,24.2.,Joseph,Heinrich,Bischoff,17#
+Andersdorf,27.2.,Christian,Michael,Berger,50
+Bährn,1.3.,Anna Maria,Jacob,Müluis#,34 (Ehefrau)
+Bährn,2.3.,Anna Maria,Johann Georg,Reinhard,50 (Ehefrau)
+Bährn,6.3.,Anna Maria,Johann Georg,Holtzschuh,75# (Witwe)
+Neudörfel,9.3.,Karl,Balthasar,Gnändiger,1y3m
+Neudörfel,17.3.,Friedrich,-,Pohl,41
+Bährn,18.3.,Christian,-,Kelbel,52
+Bährn,19.3.,Maria Elisabeth,Heinrich,Ihm,4
+Andersdorf,23.3.,Anna Elisabeth,Heinrich,Penirschke,31.5 (Ehefrau)
+Brockersdorf,24.3.,Elisabeth,Johann Friedrich,Hansel,31 (Ehefrau)
+Andersdorf,6.4.,Marina,Christian,Scholtz,56 (Ehefrau)
+Dittersdorf,12.4.,Magdalena,Friedrich,Grosmann,6m
+Dittersdorf,21.4.,Maria Theresia,Johann,Falgenhauer,10d
+
+DP 21
+
+Dittersdorf,2.5.,Ferdinand,Franz,Bernhard,3w
+Altlieb,11.5.,Rosina,Andreas,Kloß,69.5 (Witwe)
+Bährn,20.5.,Christian,Johann Georg,Kümmel#,1y9m
+Dittersdorf,5.6.,Friedrich,Christian,Poltzer,3.5
+Bährn,11.6.,Maria Elisabeth,Johann Georg,Wentzel,9m
+Bährn.11.6.,Joseph,Franz,Merkert,2
+Bährn,12.6.,Apollonia,Johann Heinrich,Kolb,3 (von Neuroda)
+Bährn,17.6.,Anna Maria,Johann Georg,Woncke#,6.5
+Bährn,22.6.,Johann Adalbert,Karl Joseph,Walter,9m
+Bährn,30.6.,Rosalia,Friedrich,Schober,1
+Dittersdorf,3.7.,Johann,Melchior,Bernhard,4w
+Bährn,7.7.,Joseph,Johann Christoph,Englisch,17y3m (aus Wisa#)
+Bährn,8.7.,Johann,Joseph,Langer,4w
+Bährn,14.7.,Karl Franz,Johann Georg,Ehler,9m
+Bährn,25.7.,Johann Florian,Franz,Heintz,1y3m
+Dittersdorf,3.8.,Apollonia,Christian,Schäfer,3m
+Bährn,18.8.,Caspar,Karl Joseph,Seeliger,4.5
+Siebenhöfen,20.8.,Joseph,Michael,Schober,11d
+Altlieb,21.8.,Johann,-,Mader,65
+Bährn,24.8.,Regina,Elias,Schwantzer,18 (Tochter)
+Bährn,28.8.,Judith,Johann Heinrich,Lichtblau,53y9m (Ehefrau)
+Bährn,29.8.,Maria Theresia,Friedrich,Stantzel,1y9m
+Bährn,9.9.,Dominik,Joseph,Üttler#,6w
+Bährn,31.9.,Maria Rosalia,Joseph,Merkert,3d
+Bährn,20.10.,Maria Anna,Joseph,Steiner,3w
+Bährn,22.10.,Anna Elisabeth,Georg,Goldt,9w
+Bährn,24.10.,Anna Elisabeth,Melchior,Thim,6m
+Altlieb,27.10.,Johannes,-,Lesert,- (von Dittersdorf)
+Bährn,28.10.,Veronica,Karl,Jahn,1.5
+Neudörfel,28.10.,Anna Maria,Friedrich,Hellner,5w
+Bährn,29.10.,Johannes,Franz,Hanel,15
+Bährn,4.11.,Anna Maria,Franz,Hanel,45 (Witwe)
+Bährn,9.11.,Theresia,Karl,Berger,1y3m
+
+DP 22
+
+Bährn,13.11.,Maria Theresia,Franz,Lichtblau,9m
+Bährn,18.11.,Johann Friedrich,Johann Friedrich,Kasner#,4
+Bährn,20.11.,Christina,Michael,Tögel,72 (Witwe)
+Dittersdorf,24.11.,Michael,Heinrich,Dreiseitel,9
+Siebenhöfen,7.12.,Tobias,-,Zimmer,88
+Bährn,8.12.,Apollonia,Friedrich,Unger,2
+Bährn,10.12.,Christian,-,Gräbner,68.5
+Bährn,11.12.,Theresia,Benedikt,Klosauer,18 (Tochter)(von Wien#)
+Dittersdorf,15.12.,Johannes,-,Greppel,40y3m
+Altlieb,16.12.,Regina,Thomas,Prätsch,69 (Witwe)
+Brockersdorf,16.12.,Anton,Balthasar,Lichtblau,19
+Bährn,17.12.,-,-,-,17d (in Dittersdorf gefunden)
+Bährn,17.12.,Johann Michael,Balthasar,Jahn,3m
+Bährn,21.12.,Johann Friedrich,Johann Georg,Langer,5w
+Bährn,24.12.,Magdalena,Friedrich,Stantzel,6m
+Bährn,25.12.,Maria Elisabeth,Karl,Rauskolb,1y3m
+
+1746
+
+Bährn,4.1.,Friedrich,-,Aust,60
+Bährn,5.1.,Friedrich,-,Stantzel,44
+Bährn,10.1.,Anna Maria,Johann Georg,Wancke,32 (Ehefrau)
+Brockersdorf,11.1.,Maria Theresia,Karl,Mader#,11d
+Bährn,23.1.,Susanna,Michael,Seidler,41.5 (Ehefrau)
+Brockersdorf,23.1.,-,-,-,- (Beruf Bettlerin)
+Bährn,25.1.,Andreas,-,Schramm,53# (33 oder 53 ?)
+Andersdorf,25.1.,Catharina,Franz,Hübner,31y3m (Ehefrau)
+Brockersdorf,31.1.,Johannes,-,Stabel,63
+Bährn,2.2.,Franz,Franz,Weinmann,4y9m
+Bährn,4.2.,Maria Catharina,Tobias,Schleßer#,1y9m
+Brockersdorf,9.2.,Rosina,Andreas,Krumpholtz,33 (Ehefrau)
+Dittersdorf,12.2.,Anna Catharina,Friedrich,Jahn,32y6m (Ehefrau)
+
+DP 23
+
+Neudörfel,12.2.,Christian,Friedrich,Appel,3m
+Bährn,13.2.,Christian,-,Habel,48y9m
+Neudörfel,15.2.,Maria Elisabeth,Johann Georg,Kirbes,13.5
+Andersdorf,17.2.,Marina,Heinrich,Krones,62 (Witwe)
+Neudörfel,25.2.,Wenceslaus,Laurenz,Höllner,20.5
+Dittersdorf,2.3.,Adam,-,Stantzel,103
+Bährn,7.3.,Elias,-,Grosmann,44
+Neudörfel,12.3.,Christian,Johann Georg,Kirbes,23.5
+Dittersdorf,16.3.,Veronica,Johann Georg,Kloß,3w
+Dittersdorf,20.3.,Joseph und Christian,Franz,Bernhardt,2d
+Bährn,20.3.,Wenceslaus,Christian,Seeliger,22
+Bährn,20.3.,Rosina,Franz,Merkert,60 (Ehefrau)
+Siebenhöfen,21.3.,Anna Rosina,Franz,Schober,2d
+Brockersdorf,22.3.,Andreas,-,Hieckel,83
+Siebenhöfen,26.3.,Maria Elisabeth,Heinrich,Hansmann,3w
+Bährn,28.3.,Theresia,Elias,Grosmann,1
+Dittersdorf,1.4.,Georg,-,Krones,49#
+Altlieb,2.4.,Friedrich,Karl,Kloß,5w
+Brockersdorf,6.4.,Elisabeth,Heinrich,Lichtblau,75 (Witwe)
+Bährn,7.4.,Joseph,-,Öxner,22y3m
+Neudörfel,8.4.,Christian,-,Rauskolb,86
+Bährn,9.4.,Anna Maria,Anton,Kemmel#,47y3m (Witwe)
+Dittersdorf,11.4.,Jacob,-,Heintz,87y9m
+Siebenhöfen,14.4.,Johannes,-,Krübel,64
+Altlieb,22.4.,Elisabeth,Georg,Berger,79 (Witwe)
+Altlieb,23.4.,Johann Heinrich,Heinrich,Tögel,1y3m
+Bährn,9.5.,Christoph,Jacob,Milius#,2
+Bährn,10.5.,Martin,-,Langer,67y6m
+Bährn,13.6.,Maria Theresia,Anton,Freudel#,5w
+Altlieb,11.7.,Magdalena,Karl,Mader,6
+
+DP 24
+
+Brockersdorf,21.7.,Andreas,Christian,Stabel,9m
+Bährn,22.7.,Christian,-,Tögel,61
+Bährn,24.7.,Justina,Johann Georg,Knauer,47 (Witwe)
+Bährn,11.8.,Engelbert,Franz,Heintz,3w
+Brockersdorf,30.8.,Joseph,Andreas,Wiener,9
+Bährn,2.9.,Elisabeth,Heinrich,Schober,22y9m (Ehefrau)
+Bährn,3.9.,Elisabeth,Christian,Heintz,65 (Witwe)
+Dittersdorf,6.9.,Apollonia,Michael,Zimmer,1
+Brockersdorf,26.9.,Laurenz,Mathias,Poltzer,25
+Bährn,27.9.,Barbara,Christian,Kölbel,3d
+Bährn,3.10.,Maria Catharina,Johann Georg,Poltzer,6m
+Bährn,18.10.,Anna Maria,Johann Constantin,Reichelt,77 (Ehefrau)
+Bährn,13.11.,Johann,Joseph,Mader,2y3m
+Andersdorf,21.11.,Franz,Christian,Stantzel,13d
+Bährn,25.11.,Johann Franz,Elias,Grosmann,3.5
+Siebenhöfen,26.11.,Karl Franz,Johann,Dreiseitel,2.5
+Andersdorf,27.11.,Johann Franz,Heinrich,Penirschke,9
+Bährn,1.12.,Johann Leopold,Franz,Zips,3.5
+Neudörfel,14.12.,Apollonia,Michael,Poltzer,6w
+Bährn,25.12.,Heinrich,-,Schindler,54
+Bährn,26.12.,Elisabeth,Christian,Schwert#,68 (Witwe)
+
+1747
+
+Bährn,7.1.,Anna Maria,Karl,Goldt,4d
+
+DP 25
+
+Bährn,23.1.,Anna Catharina,Karl,Franz,Blaschke,4
+Altlieb,25.1.,Heinrich,-,Pretsch,79
+Bährn,28.1.,Maria Catharina,Joseph,Heintz,2y3m
+Bährn,28.1.,Johannes,-,Krones,91
+Bährn,5.2.,Maria Theresia,Andreas,Röhrich,6m
+Andersdorf,5.2.,Andreas,-,Schäfer,60
+Bährn,8.2.,Elisabeth,Heinrich,Hampel,72 (Witwe)
+Siebenhöfen,8.2.,Johann Friedrich,-,Krones,36
+Bährn,9.2.,Johann,-,Mauler,60
+Bährn,12.2.,Anna Elisabeth,Joseph,Tögel,2
+Brockersdorf,12.2.,Maria Anna,Franz,Göttiger,52 (Ehefrau)
+Bährn,19.2.,Joseph,Franz,Kotsch,6m
+Andersdorf,19.2.,Anna Catharina,Anna Rosina,Pirkner,6m (Aus Hermerstadt# in Schlesien)
+Dittersdorf,28.2.,Christian,-,Zimmer,79
+Bährn,3.3.,Karl Joseph,Heinrich,Ihm,9
+Bährn,5.3.,Anton,Friedrich,Schober,8
+Bährn,6.3.,Christina,Georg,Goldt,41 (Ehefrau)
+Bährn,10.3.,Marina,Georg,Poltzer,72 (Witwe)
+Andersdorf,11.3.,Franz,-,Buckmann,- ("Sylesita Weyda")
+Bährn,13.3.,Johann Friedrich,Johann Georg,Öhler,6m
+Bährn,15.3.,Maria Anna,Johann Heinrich,Walter,1y3m
+Bährn,22.3.,Johann Karl,-,Ludwig,- ("Sylesita aus Löschnitz")
+Bährn,23.3.,Marina,Johann,Bös,64 (Witwe)
+Bährn,23.3.,Anna,Johann,Hauptfleisch,42 (Tochter)(aus Lobnick)
+Neudörfel,23.3.,Christina,Georg,Schober,78 (Witwe)
+Dittersdorf,26.3.,Caspar,Christian,Falgenhauer,3
+Bährn,1.4.,Apollonia,Elias,Druschke,3w
+
+DP 26
+
 
