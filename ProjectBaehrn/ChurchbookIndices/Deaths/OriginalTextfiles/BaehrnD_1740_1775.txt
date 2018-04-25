@@ -887,5 +887,40 @@ Bährn,17.8.,Mathias,Andreas,Kusch,1.5 (aus Wirbenthal#)
 
 DP 32
 
+Bährn,21.8.,Friedrich,-,Krumpholtz,75
+Bährn,2.9.,Maria Theresia,Karl,Funcker,1
+Bährn,3.9.,Maria Theresia,Joseph,Mosch,9m
+Bährn,4.9.,Friedrich,-,Poltzer,65
+Neudörfel,11.9.,Paulina,Johann,Wiener#,30 (Ehefrau)
+Neudörfel,19.9.,Franz,Johann,Wiener#,9d
+Bährn,26.9.,Karl,-,Heintz,79
+Bährn,4.10.,Maria Catharina,Leopold,Reinhard,1.5
+Bährn,8.10.,Maria Anna,Johann Georg,Langer,32 (Ehefrau)
+Brockersdorf,9.10.,Franz,Heinrich,Lichtblau,2y3m
+Brockersdorf,10.10.,Johann Friedrich,Franz,Lichtblau,10y9m
+Bährn,16.10.,Johann,Johann Georg,Langer,#
+Dittersdorf,19.10.,Magdalena,Friedrich,Jahn,4d
+Neudörfel,24.10.,Michael,-,Rauskolb,48
+Dittersdorf,1.11.,Johann Franz,Johann Heinrich,Springer,17d
+Bährn,2.11.,Johann,-,Ricker,83.5
+Siebenhöfen,7.11.,Anna Maria,-,-,- (aus Schlesien)
+Bährn,8.11.,Anna Rosina,Johann Friedrich,Riesner,35
+Andersdorf,10.11.,Johann Michael,Christian,Stantzel,5d
+Bährn,10.11.,Andreas,-,Kunert,62
+Dittersdorf,16.11.,Rosina,Friedrich,Witke,60 (Witwe)
+Bährn,27.11.,Ludmilla,Florian,Kasner,3d
+Altlieb,27.11.,Friedrich,-,Mader,44
+Bährn,7.12.,Anna,Heinrich,Kusch,50 (Witwe)(aus Cuma#)
+Bährn,11.12.,Anton,Kael,Kelbel,1
+Bährn,11.12.,Maria Anna,Andreas,Franck,64 (Ehefrau)
+Bährn,14.12.,Florian,Karl,Rauskolb,1
+Andersdorf,16.12.,Johann Friedrich,Johann Michael,Wentzel,1.5
+Bährn,21.12.,Karl Joseph,Ignatz,Glatzel#,18w
 
+1750
+
+Neudörfel,3.1.,Judith,Bartholomäus,Scholtz,50 (Tochter)
+Bährn,8.1.,Anna Catharina,Anton,Schramm,34 (Ehefrau)
+
+DP 33
 
