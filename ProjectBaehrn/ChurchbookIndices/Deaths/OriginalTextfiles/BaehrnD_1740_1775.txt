@@ -264,7 +264,7 @@ Dittersdorf,20.5.,Anna Elisabeth,Johann Georg,Zimmer,3m
 Siebenhöfen,24.5.,Anna Maria,Andreas,Fischer,9m
 Dittersdorf,29.5.,Anna Rosina,Christian,Schäfer,8w
 Bährn,31.5.,Anna Theresia,Melchior,Thim,6m
-Siebenhöfen,31.5.,Wenceslaus,Christian,Stigler,8#w
+Siebenhöfen,31.5.,Wenceslaus,Christian,Stiegler,8#w
 Bährn,1.6.,Apollonia,Franz,Merkert,17y3m
 Neudörfel,3.6.,Rosina,Wenceslaus,Seidler,3m
 
@@ -836,7 +836,7 @@ Bährn,19.10.,Franz,Heinrich,Schramm,2d
 Bährn,1.11.,Franz,-,Merkert,36
 Dittersdorf,2.11.,Elisabeth,Friedrich,Bernhard,68 (Witwe)
 Bährn,5.11.,Magdalena,Johann Georg,Mayer,13#
-Siebenhöfen,19.11.,Rosina,Tobias,Stigler,80 (Witwe)
+Siebenhöfen,19.11.,Rosina,Tobias,Stiegler,80 (Witwe)
 Bährn,3.12.,Eleonora,Friedrich,Ihm,16y3m
 Dittersdorf,4.12.,Rosina,Georg,Poltzer,78 (Witwe)
 Bährn,7.12.,Catharina,Adam,Czehack#,10w
@@ -1098,7 +1098,7 @@ Brockersdorf,16.1.,Karl,-,Gundel,46
 Brockersdorf,21.1.,Johann Friedrich,Michael,Aust,30d
 Brockersdorf,24.1.,Christian,-,Berger,50.5
 Brockersdorf,24.1.,Elisabeth,Balthasar,Poltzer,70 (Witwe)
-Siebenhöfen,25.1.,Johann,Johann,Stigler,17d
+Siebenhöfen,25.1.,Johann,Johann,Stiegler,17d
 Brockersdorf,26.1.,Rosina,Christian,Kolb,50 (Witwe)
 Siebenhöfen,30.1.,Anna Maria,Johann,Dreiseidel,43 (Ehefrau)
 Siebenhöfen,5.2.,Mathias,-,Hellebrand,56
@@ -1204,7 +1204,7 @@ Bährn,3.9.,Anna,Friedrich,Wentzel,70 (Ehefrau)
 Bährn,10.9.,Anna Elisabeth,Georg Friedrich,Liebich,3w
 Bährn,14.9.,Hieronymus,Georg Friedrich,Liebich,25d
 Brockersdorf,18.9.,Maria Anna,Christian,Hegel,8d
-Siebenhöfen,22.9.,Dorothea,Wenceslaus,Stigler,36 (Ehefrau)
+Siebenhöfen,22.9.,Dorothea,Wenceslaus,Stiegler,36 (Ehefrau)
 Bährn,16.10.,Heinrich,-,Herolt,69
 Siebenhöfen,20.10.,Theresia,Michael,Schindler,13d
 Bährn,31.10.,Johann,Johann Friedrich,Riesner,1y3m
@@ -1434,4 +1434,93 @@ Bährn,23.4.,Joseph,-,Tögel,39 (Beruf Bauer)
 Neudörfel,25.4.,Elisabeth,Laurenz,Hellner,64 (Ehefrau,Beruf Bauer)
 
 DP 50
+
+Bährn,27.4.,Martin,-,Fischer,46y9m (Beruf Incola)
+Bährn,5.5.,Karl Joseph,Karl Franz,Blaschke,2.5 (Beruf Bauer)
+Dittersdorf,10.5.,Anna Theresia,Christian,Springer,1 (Beruf Incola)
+Dittersdorf,15.5.,Florian,Karl,Schramm,6m (Beruf Bauer)
+Bährn,16.5.,Elisabeth,Christian,Scholtz,3 (Beruf Bauer)
+Siebenhöfen,20.5.,Anton,Michael,Schindler,1 (Beruf Incola)
+Bährn,25.5.,Franz Anton,Balthasar,Krones,6m (Beruf Weber)
+Siebenhöfen,2.6.,Johann,-,Wildt,48.5 (Beruf Incola)
+Bährn,5.6.,Elisabeth,Elias,Kolb,58 (Ehefrau,Beruf Incola)
+Bährn,5.6.,Ignatz,-,Proschke,30.5 (Beruf Weber)
+Dittersdorf,13.6.,Joseph,Christian,Schäfer,6d (Beruf Bauer)
+Altlieb,17.6.,Johann Georg,-,Dreiseidel,79 (Beruf Bauer)
+Siebenhöfen,28.6.,Joseph,Friedrich,Rasch,2.5 (Beruf Bauer)
+Altlieb,8.7.,Franz,Georg,Wiener,6.5 (Beruf Bauer)
+Bährn,17.7.,Anna Maria,Paul,Hanel,54 (Witwe)
+Bährn,17.7.,Christian,-,Schneider,46 (Beruf Schneider)
+Bährn,19.7.,Bruder Conrad,-,#ahnel,49 (Beruf Eremit)
+Bährn,22.7.,Heinrich,-,Hausotter,67 (Beruf Bauer)
+Bährn,23.7.,Elisabeth,Georg,Hancke#,57 (Beruf Incola)
+Bährn,1.8.,Christian,Florian,Vögler,3d (Beruf Incola)
+Bährn,8.8.,Joseph,Franz,Gedel,3w (Beruf Müller)
+Siebenhöfen,23.8.,Christian,Johann,Stiegler,3# (Beruf Incola)
+Altlieb,24.8.,Heinrich,-,Wentzel,54# (Beruf Bauer)
+Bährn,2.9.,Maria Victoria,Johann Georg,Schernick,8w (Beruf Weber)
+Brockersdorf,9.9.,Maria Theresia,Regina,Philipp,6m
+Bährn,11.9.,Apollonia,Marc,Berger,4w
+Dittersdorf,15.9.,Rosina,Georg,Stantzel,38 (Ehefrau,Beruf Bauer)
+Dittersdorf,19.9.,Christian,Georg,Stantzel,3w (Beruf Bauer)
+
+DP 51
+
+Brockersdorf,1.10.,Michael,Franz,Berger,17d (Beruf Bauer)
+Brockersdorf,6.10.,Rosina,-,Schober,40
+Siebenhöfen,9.10.,Franz,Michael,Schindler,17d (Beruf Incola)
+Dittersdorf,13.10.,Johann Michael,Joseph,Clement,8#d (Beruf Incola)
+Bährn,16.10.,Elisabeth,Christian,Kolb,53 (Ehefrau,Beruf Faber Lignary)
+Brockersdorf,18.10.,Johann Heinrich,Johann Friedrich,Kolb,5 (Beruf Bauer)
+Dittersdorf,20.10.,Johann Nepomuck,Johann Franz,Pudel,6m (Beruf Erbrichter)
+Bährn,20.10.,Elisabeth,Johann,Druschke,67# (Witwe)
+Bährn,29.10.,Anna,Martin,Halbgebauer,64.5 (Ehefrau,Beruf Incola)
+Bährn,3.11.,Caspar,-,Schmied,68
+Altlieb,9.11.,Anna Maria,Michael,Hanel,56 (Witwe)
+Bährn,10.11.,Christian,-,Kelbel,53 (Beruf Schneider)
+Dittersdorf,13.11.,Michael,-,Schulmeister,103 (Beruf Incola)
+Altlieb,24.11.,Rosina,Johann,Wiener,70 (Witwe)
+Bährn,7.12.,Apollonia,Johann Georg,Stehr,26 (Ehefrau,Beruf Pellionis)
+Bährn,11.12.,Maria Elisabeth,Johann,Hanel,9d (Beruf Vietoris)
+Bährn,26.12.,Maria Anna,Elias,Öhler,65 (Witwe)
+Bährn,29.12.,Franz Joseph,Anton,Kolb,4w (Beruf Schneider)
+
+1757
+
+Dittersdorf,11.1.,Anna Maria,Christian,Poltzer,70 (Ehefrau,Beruf Incola)
+Bährn,21.1.,Georg,-,Goldt,74y3m (Beruf Bettler)
+Brockersdorf,21.1.,Johann Friedrich,Laurenz,Gerle,19d (Beruf Incola)
+Dittersdorf,26.1.,Christian,-,Berger,31 (Beruf Incola)
+Bährn,26.1.,Maria Rosalia,Michael,Schober,25d (Beruf Figulus)
+Andersdorf,27.1.,Andreas,Karl,Pietsch,12d (Beruf Faber Lignary)
+Dittersdorf,28.1.,Georg,-,Poltzer,65 (Beruf Incola)
+
+DP 52
+
+Siebenhöfen,14.2.,Rosina,Mathias,Stantzel,69 (Witwe)
+Bährn,14.2.,Judith,Johann,Kremser,66 (Witwe)
+Siebenhöfen,15.2.,Heinrich,-,Zimmer#,73 (Beruf Bauer)
+Andersdorf,17.2.,Anna Maria,Karl,Theimer,6m (Beruf Bauer)
+Andersdorf,19.2.,Rosina,Friedrich,Purr,48 (Ehefrau,Beruf Bauer)
+Siebenhöfen,25.2.,Regina,Johann,Dreiseidel,67 (Witwe)
+Andersdorf,2.3.,Magdalena,Bartholomäus,Kolb,68 (Witwe)
+Neudörfel,8.3.,Anna Maria,Christian,Kratschmer,28 (Ehefrau,Beruf Bauer)
+Neudörfel,11.3.,Anna Elisabeth,Christian,Kratschmer,- (Beruf Bauer)
+Bährn,19.3.,Elisabeth,-,Morbitzer,75
+Dittersdorf,22.3.,Karl Franz,Melchior,Bannet#,11w (Beruf Bauer)
+Bährn,24.3.,Maria Theresia,Franz,Ricker,6m (Beruf Alvearius#)
+Andersdorf,24.3.,Apollonia,Heinrich,Berger,21.5 (Tochter)
+Bährn,26.3.,Anna Maria,Johann Michael,Wentzel#,8 (Beruf Bauer)
+Bährn,26.3.,Joseph Constantin,Karl Joseph,Lichtblau,3d (Beruf Schneider)
+Siebenhöfen,26.3.,Joseph,Christian,Zimmer,25
+Dittersdorf,4.4.,Anna Elisabeth,Karl,Schramm,6m (Beruf Bauer)
+Altlieb,8.4.,Johanna,Heinrich,Klein,3m (Beruf Bauer)
+Bährn,19.4.,Elisabeth,Friedrich,Zimmer,69.5 (Ehefrau,Beruf Bauer)
+Neudörfel,24.4.,Karl Joseph,Christian,Purr,9w (Beruf Bauer)
+Brockersdorf,4.5.,Anna Elisabeth,Michael,Kolb,3.5 (Beruf Bauer)
+Brockersdorf,11.5.,Anna Catharina,Michael,Kolb,4y9m (Beruf Bauer)
+Andersdorf,1.6.,Anna Rosina,Johann Michael,Wentzel,3 (Beruf Bauer)
+Bährn,9.6.,Rosalia,Mathias,Seidler,19 (Tochter)
+
+DP 53
 
