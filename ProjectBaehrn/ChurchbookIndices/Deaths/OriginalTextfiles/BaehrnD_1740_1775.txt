@@ -990,3 +990,12 @@ Bährn,31.12.,Anna Elisabeth,Johann Georg,Lichtblau,41 (Ehefrau)
 
 DP 35
 
+1751
+
+Bährn,10.1.,Elisabeth,Christian,Kintzl#,54.5 (Witwe)
+Bährn,11.1.,Rosina,Balthasar,Grosmann,56 (Ehefrau)
+Bährn,15.1.,Hiacyntus,Florian,Kasner,4w
+Siebenhöfen,21.1.,Apollonia,Michael,Sendler,16d
+Siebenhöfen,25.1.,Paulina,Anton,Leinsner,9m
+Bährn,28.1.,Franz,-,Kinnel,46
+Bährn,7.2.,Johannes,-,Poltzer,76
