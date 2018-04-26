@@ -73,7 +73,7 @@ Dittersdorf,31.1.,Susanna,Michael,Zimmer,31 (Ehefrau)
 Brockersdorf,5.2.,Magdalena,Johann,Poltzer,1y1#w
 Brockersdorf,10.2.,Anna Maria,Franz,Matzke,1y3w
 Bährn,17.2.,Anna,Johann,Klein,78 (Ehefrau)
-Siebenhöfen,25.2.,Michael,-,Dreiseitel,62
+Siebenhöfen,25.2.,Michael,-,Dreiseidel,62
 Dittersdorf,25.2.,Elisabeth,Johann,Grippel#,3w
 Bährn,27.2.,Heinrich,-,Mentzl,62
 Siebenhöfen,3.3.,Dorothea,Balthasar,Frantz,53 (Ehefrau)
@@ -119,7 +119,7 @@ Siebenhöfen,27.6.,Christian,-,Zimmer,50 (Beruf Bauer)
 Bährn,13.7.,Marina,Elias,Schwantzer,1y6w
 Bährn,14.7.,Maria Theresia,Johann Georg,Öhler,22w
 Bährn,15.7.,Elisabeth,Martin,Philip,55 (Witwe)(Aus Raudenberg#)
-Siebenhöfen,16.7.,Christian,Johann,Dreiseitel,1y3d
+Siebenhöfen,16.7.,Christian,Johann,Dreiseidel,1y3d
 Bährn,18.7.,Karl Joseph,Johann Georg,Öhler,3
 Bährn,20.7.,Johann Georg,-,Gloger,35 (Genannt Junior)
 Siebenhöfen,21.7.,Anton,Anton,Schlu#,3y13w (aus Rosvalda#)
@@ -298,7 +298,7 @@ DP 14
 
 Andersdorf,27.9.,Friedrich,-,Stantzel,87
 Bährn,4.10.,Dominik,David,Lichtenegger,8.5
-Siebenhöfen,8.10.,Friedrich,Johann,Dreiseitel,10d
+Siebenhöfen,8.10.,Friedrich,Johann,Dreiseidel,10d
 Bährn,8.10.,Johann Georg,-,Cziketil#,65 (Beruf Soldat)
 Bährn,23.10.,Christian,-,Stantzel,60
 Bährn,25.10.,Anna Maria,Michael,Hampel,1y9m
@@ -328,7 +328,7 @@ Bährn,13.1.,Maria Elisabeth,Elias,Ficker,2y3m
 Dittersdorf,13.1.,Anna,Johann,Falgenhauer,2d
 Dittersdorf,16.1.,Rosina,Johann;Falgenhauer,42 (Ehefrau)
 Bährn,18.1.,Anna Rosina,Friedrich,Fiker#,1y9m
-Siebenhöfen,24.1.,Maria Theresia,Friedrich,Dreiseitel,13d
+Siebenhöfen,24.1.,Maria Theresia,Friedrich,Dreiseidel,13d
 Bährn,25.1.,Franz,Heinrich,Lenhart,14d
 Andersdorf,26.1.,Georg,-,Richter,63
 Andersdorf,28.1.,Rosina,Friedrich,Tögel,1y3m
@@ -479,7 +479,7 @@ Siebenhöfen,31.1.,Maria Elisabeth,Friedrich,Rasch,3m
 Brockersdorf,3.2.,Laurenz,-,Poltzer,42
 Brockersdorf,3.2.,Johann Heinrich,Laurenz,Poltzer,9m
 Brockersdorf,4.2.,Johann Heinrich,Karl Joseph,Mader,1
-Andersdorf,10.2.,Barbara,Friedrich,Dreiseitel,84.5 (Witwe)
+Andersdorf,10.2.,Barbara,Friedrich,Dreiseidel,84.5 (Witwe)
 Andersdorf,10.2.,Christian,-,Wentzel,56
 Neudörfel,11.2.,Rosina,Johann,Gnändiger,76 (Witwe)
 Bährn,12.2.,Johannes,-,Ohrlich,57
@@ -548,7 +548,7 @@ DP 22
 Bährn,13.11.,Maria Theresia,Franz,Lichtblau,9m
 Bährn,18.11.,Johann Friedrich,Johann Friedrich,Kasner#,4
 Bährn,20.11.,Christina,Michael,Tögel,72 (Witwe)
-Dittersdorf,24.11.,Michael,Heinrich,Dreiseitel,9
+Dittersdorf,24.11.,Michael,Heinrich,Dreiseidel,9
 Siebenhöfen,7.12.,Tobias,-,Zimmer,88
 Bährn,8.12.,Apollonia,Friedrich,Unger,2
 Bährn,10.12.,Christian,-,Gräbner,68.5
@@ -628,7 +628,7 @@ Bährn,18.10.,Anna Maria,Johann Constantin,Reichelt,77 (Ehefrau)
 Bährn,13.11.,Johann,Joseph,Mader,2y3m
 Andersdorf,21.11.,Franz,Christian,Stantzel,13d
 Bährn,25.11.,Johann Franz,Elias,Grosmann,3.5
-Siebenhöfen,26.11.,Karl Franz,Johann,Dreiseitel,2.5
+Siebenhöfen,26.11.,Karl Franz,Johann,Dreiseidel,2.5
 Andersdorf,27.11.,Johann Franz,Heinrich,Penirschke,9
 Bährn,1.12.,Johann Leopold,Franz,Zips,3.5
 Neudörfel,14.12.,Apollonia,Michael,Poltzer,6w
@@ -723,13 +723,13 @@ Dittersdorf,11.10.,Victoria,Michael,Zimmer,3m
 Brockersdorf,11.10.,Anna,-,Gerle,69
 Altlieb,11.10.,Rosina,Christian,Pretsch,34 (Ehefrau)
 Bährn,13.10.,Anna Maria,Georg,Goldt,12
-Siebenhöfen,14.10.,Johann Georg,Friedrich,Dreiseitel,2
+Siebenhöfen,14.10.,Johann Georg,Friedrich,Dreiseidel,2
 Bährn,14.10.,-,-,-,- (Beruf Bettlerin)(aus Römerstadt#)
 Dittersdorf,26.10.,Maria Elisabeth,Friedrich,Schwantzer,1
 Bährn,29.10.,Maria Anna,Friedrich,Poltzer,80 (Ehefrau)
 Neudörfel,1.11.,Sybilla,Christian,Benisch,70 (Witwe)
 Bährn,14.11.,Johann Heinrich,-,Walter,39
-Siebenhöfen,22.11.,Anna Elisabeth,Johann,Dreiseitel,1y9m
+Siebenhöfen,22.11.,Anna Elisabeth,Johann,Dreiseidel,1y9m
 Siebenhöfen,23.11.,Karl,-,Berger,39
 Bährn,24.11.,Christian,-,Berger,71
 Bährn,24.11.,Barbara,Christian,Patzel,81 (Witwe)
@@ -752,7 +752,7 @@ Siebenhöfen,14.1.,Caspar,-,Partsch,73
 Bährn,22.1.,Elisabeth,Christian,Poltzer,49
 Bährn,29.1.,Magdalena,Joseph,Lindner,37 (Ehefrau)
 Andersdorf,3.2.,Heinrich,-,Berger,48
-Siebenhöfen,5.2.,Joseph Johann,-,Dreiseitel,3m
+Siebenhöfen,5.2.,Joseph Johann,-,Dreiseidel,3m
 Bährn,6.2.,Johann Michael,-,Seidler,60
 Bährn,8.2.,Johann Maximilian,Joseph,Mosch,3m
 Bährn,10.2.,Rosina,Friedrich,Scheps,39 (Witwe)
@@ -861,7 +861,7 @@ Bährn,15.2.,Anna,Jacob,Paul,46 (Witwe)
 Bährn,20.2.,Maria Theresia,Johann Friedrich,Schlemmer,2y9m
 Siebenhöfen,26.2.,Christian,Friedrich,Schafhaupt,11d
 Bährn,5.3.,Anna,Jacob,Hofmann,92 (Witwe)
-Siebenhöfen,9.3.,Regina,Friedrich,Dreiseitel,33 (Ehefrau)
+Siebenhöfen,9.3.,Regina,Friedrich,Dreiseidel,33 (Ehefrau)
 Bährn,13.3.,Maria Theresia,Karl,Krones,4w
 Bährn,16.3.,Marina,Thomas,Peschke,19y9m (Tochter)(aus Neb#ein)
 Andersdorf,20.3.,Johann Friedrich,Gottfried,Richter,12d
@@ -1100,7 +1100,7 @@ Brockersdorf,24.1.,Christian,-,Berger,50.5
 Brockersdorf,24.1.,Elisabeth,Balthasar,Poltzer,70 (Witwe)
 Siebenhöfen,25.1.,Johann,Johann,Stigler,17d
 Brockersdorf,26.1.,Rosina,Christian,Kolb,50 (Witwe)
-Siebenhöfen,30.1.,Anna Maria,Johann,Dreiseitel,43 (Ehefrau)
+Siebenhöfen,30.1.,Anna Maria,Johann,Dreiseidel,43 (Ehefrau)
 Siebenhöfen,5.2.,Mathias,-,Hellebrand,56
 Bährn,10.2.,Rudolph,-,Alraun,52
 Dittersdorf,16.2.,Georg,-,Ludwig,78
@@ -1166,7 +1166,7 @@ Bährn,26.12.,Rosalia,Franz,Hanel,25 (Tochter)
 
 1753
 
-Siebenhöfen,15.1.,Anna,Friedrich,Dreiseitel,50 (Witwe)
+Siebenhöfen,15.1.,Anna,Friedrich,Dreiseidel,50 (Witwe)
 Brockersdorf,17.1.,Elisabeth,Andreas,Krumpholtz,4y9m
 Neudörfel,21.1.,Rosina,Heinrich,Hellner,69 (Witwe)
 Siebenhöfen,1.2.,Franz,Andreas,Fischer,9m
@@ -1213,7 +1213,7 @@ Bährn,12.11.,Ferdinand,Karl,Jahn,2
 
 DP 42
 
-Brockersdorf,23.11.,Regina,Georg,Dreiseitel,25 (Tochter,Beruf Bauer)
+Brockersdorf,23.11.,Regina,Georg,Dreiseidel,25 (Tochter,Beruf Bauer)
 Bährn,29.11.,Marina,Friedrich,Berger,65 (Witwe)
 Bährn,2.12.,Friedrich,-,Schindler,62 (Beruf Bauer)
 Bährn,17.12.,Karl,-,Krones,53 (Beruf Färber)
@@ -1244,10 +1244,10 @@ Bährn,13.3.,Franz Karl,Karl,Kolb,3m
 DP 43
 
 Bährn,9.4.,Maria Elisabeth,Joseph,Ruprich,4w (Beruf Weber)
-Andersdorf,10.4.,Rosina,Georg,Dreiseitel,64 (Witwe)
+Andersdorf,10.4.,Rosina,Georg,Dreiseidel,64 (Witwe)
 Costola#,14.4.,Franz Karl,Franz Karl,Schreiber,6w
 Dittersdorf,20.4.,Karl Franz,Karl,Schramm,3m
-Siebenhöfen,26.4.,Johann Georg,-,Dreiseitel,50 (Beruf Bauer)
+Siebenhöfen,26.4.,Johann Georg,-,Dreiseidel,50 (Beruf Bauer)
 Bährn,29.4.,Theresia,Ignatz,Platz,25 (Ehefrau,Beruf Weber)
 Bährn,5.5.,Maria Rosalia,Joseph,I#ler,9m (Beruf Incola)
 Bährn,15.5.,Franz Joseph,Ignatz,Platz,3w (Beruf Weber)
@@ -1333,4 +1333,81 @@ Bährn,17.1.,Tobias,-,Mader,74 (Beruf Weber)
 Bährn,22.1.,Anna Maria,Friedrich,Lichtblau,76 (Witwe)
 
 DP 46
+
+Bährn,26.1.,Elisabeth,Friedrich,Bernhard,71 (Witwe)
+Bährn,27.1.,Maria Victoria,Johann Georg,Ulbrich,4w
+Bährn,2.2.,Joseph,Karl Joseph,Lichtblau,16 (Beruf Vietoris#)
+Brockersdorf,3.2.,Friedrich,-,Till,74 (Beruf Bauer)
+Brockersdorf,6.2.,Dorothea,Michael,Kolb,65 (Ehefrau,Beruf Bauer)
+Andersdorf,6.2.,Karl Joseph,Elias,Till,3m (Beruf Bauer)
+Bährn,6.2.,Joseph,Johann Michael,Hanel,9m (Beruf Schneider)
+Bährn,7.2.,Maria Anna,Johann Georg,Schramm,15
+Siebenhöfen,14.2.,Rosina,Tobias,Schober,70 (Witwe)
+Bährn,18.2.,Johann Franz,Laurenz,Fritz,1.5
+Bährn,9.3.,Friedrich,-,Ihm,59y3m (Beruf Bauer)
+Siebenhöfen,18.3.,Johannes,-,Dreiseidel,78 (Beruf Incola)
+Bährn,2.4.,Rosina,Andreas,Stehr,62 (Witwe)
+Bährn,3.4.,Balthasar,-,Grosmann,64y3m (Beruf Bauer)
+Altlieb,3.4.,Paul,-,Appel,70 (Beruf Incola)
+Dittersdorf,6.4.,Johann,-,Falgenhauer,56y3m (Beruf Schmied)
+Andersdorf,7.4.,Elisabeth,Balthasar,Wentzel,65 (Ehefrau,Beruf Incola)
+Dittersdorf,13.4.,Anton,Michael,Philip,19 (Beruf Incola)
+Bährn,14.4.,Maria Anna,Christian,Heeger,71.5 (Ehefrau,Beruf Incola)
+Siebenhöfen,9.5.,Joseph,Andreas,Fischer,14d (Beruf Incola)
+Bährn,24.5.,Rosina,Johann Georg,Rauskolb,63 (Witwe)
+
+DP 47
+
+Bährn,6.6.,Anna Rosa,Johann Georg,Till,6w (Beruf Incola)
+Neudörfel,11.6.,Elisabeth,Heinrich,Berger,78 (Witwe)
+Bährn,18.6.,Johanna,Johann Georg,Stehr,2d
+Bährn,19.6.,Maria Elisabeth,Joseph,Mosch,43y9m (Ehefrau,Beruf Weber)
+Bährn,24.6.,Ferdinand,Franz,Gödel,26d (Beruf Müller)
+Brockersdorf,27.6.,Engelbert,Karl,Mader,3w (Beruf Bauer)
+Altlieb,1.7.,Franz,Christian,Mader,3m (Beruf Bauer)
+Bährn,2.7.,Laurenz,-,Flegel,54 (Beruf Vietor)
+Bährn,12.7.,Maria Johanna,Friedrich,Poltzer,17d (Beruf Bauer)
+Bährn,17.7.,Maria Anna,Johann Friedrich,Keil,2d (Beruf Weber)
+Neudörfel,21.7.,Elisabeth,Johannes,Stantzel,55.5 (Ehefrau,Beruf Bauer)
+Bährn,4.8.,Susanna,-,Jelck#,82 (Fremde)
+Bährn,5.8.,Anna Elisabeth,Johann Friedrich,Keil,35y9m (Ehefrau,Beruf Weber)
+Bährn,5.8.,Anna Rosina,Christian,Philip,70 (Witwe)
+Siebenhöfen,22.8.,Karl Joseph,Franz,Meltzer,8d (Beruf Incola)
+Bährn,30.8.,Anna Rosa,Franz,Glatzel,2 (Beruf Incola)
+Bährn,31.8.,Maria Clara,Franz,Gutjahr,8d (Beruf Weber)
+Andersdorf,31.8.,Maria Magdalena,Heinrich,Penirschke,8w (Beruf Bauer)
+Siebenhöfen,3.9.,Johann Franz,Joseph,Ruprich,7w (Beruf Incola)
+Bährn,6.9.,Maria Magdalena,Anton,Kolb,9m (Beruf Incola)
+Bährn,12.9.,Martin,-,Krumpholtz,80y9m (Beruf Bauer)
+Siebenhöfen,16.9.,Wenceslaus,-,Seidler,76 (Beruf Bauer)
+
+DP 48
+
+Siebenhöfen,17.9.,Christian,-,Stantzel,56 (Beruf Bauer)
+Altlieb,23.9.,Anna Elisabeth,Heinrich,Tögel,3w (Beruf Bauer)
+Bährn,26.9.,Elias,-,Kasner,77y3m (Beruf Bauer)
+Altlieb,30.9.,Magdalena,Johann Georg,Biber,14d (Beruf Bauer)
+Dittersdorf,30.9.,Justina,Christian,Pudel,62.5 (Witwe)
+Neudörfel,17.10.,Magdalena,Christian,Theimer,10d (Beruf Bauer)
+Dittersdorf,18.10.,Christian,Melchior,Bernhard,1.5 (Beruf Bauer)
+Neudörfel,22.10.,Friedrich,Christian,Seidler,4w (Beruf Bauer)
+Altlieb,25.10.,Elisabeth,Wenceslaus,Appel,50 (Ehefrau,Beruf Incola)
+Bährn,30.10.,Christian,-,Heger,79y3m (Beruf Incola)
+Bährn,6.12.,Johann Friedrich,Joseph,Schindler,14d (Beruf Weber)
+Bährn,7.12.,Maria Esther,Leopold,Reinhard,1 (Beruf Figulus)
+Bährn,15.12.,Theresia,Anton#,Freudel,3m (Beruf Incola)
+Bährn,18.12.,Michael,-,Goldt,72y3m (Beruf Bauer)
+Dittersdorf,21.12.,Karl Joseph,Johann Georg,Güttiger,3m
+
+1756
+
+Bährn,5.1.,Christian,-,Rauskolb,59 (Beruf Bauer)
+Neudörfel,14.1.,Georg,-,Poltzer,70 (Beruf Bauer)
+Siebenhöfen,15.1.,Maria Eva,Christian,Lichtblau,4 (Beruf Incola)
+Andersdorf,19.1.,Anna Maria,Christian,Till,38 (Ehefrau,Beruf Incola)
+Dittersdorf,24.1.,Veronica,Christian,Schäfer,2 (Beruf Bauer)
+
+DP 49
+
+
 
