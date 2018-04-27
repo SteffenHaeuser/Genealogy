@@ -1993,8 +1993,39 @@ Bährn,17.9.,Karl Joseph,Franz,Gutjahr,5d (Beruf Weber)
 Dittersdorf,27.9.,Johann Franz,Melchior,Poltzer,1 (Beruf Arbeiter)
 Bährn,29.9.,Johann Franz,Johann Georg,Müller,2d (Beruf Arbeiter)
 Bährn,3.10.,Johann Georg,Joseph,Langer,1y9m (Beruf Faber Lignary)
-Siebenhöfen,3.11.,Theresia,Christian,Hansmann,5d (Beruf Arbeiter)
-Bährn,13.11.,Florian,Franz,Heger,4w (Beruf Vespilli#)
+Siebenhöfen,3.10.,Theresia,Christian,Hansmann,5d (Beruf Arbeiter)
+Bährn,13.10.,Florian,Franz,Heger,4w (Beruf Vespilli#)
 
 DP 70
+
+Bährn,16.10.,Franz,-,Lichtblau,46 (Beruf Bauer)
+Bährn,19.10.,Susanna Elisabeth,Anton,Kloß,1d (Beruf Inwohner)
+Neudörfel,20.10.,Christian,Christian,Kratschmer,6m (Beruf Bauer)
+Bährn,8.11.,Maria Magdalena,-,-,Morabitzer,1.5 U: Kind von Anna Maria Morabitzer
+Bährn,8.11.,Anna Elisabeth,Joseph,Hanel,2 (Beruf Bauer)
+Brockersdorf,9.11.,Elisabeth,Christian,Philip,33 (Beruf Incola)
+Bährn,10.11.,Susanna Elisabeth,Johann Michael,Gedel,17d (Beruf Weber)
+Bährn,17.11.,Anna Catharina,Johann Georg,Beigel,6m (Beruf Schuhmacher)
+Bährn,21.11.,Anna Elisabeth,Johann Georg,Poltzer,38.5 (Ehefrau,Beruf Schneider)
+Dittersdorf,24.11.,Christian,Christian,Schäfer,2 (Beruf Bauer)
+Bährn,25.11.,Maria Catharina,Joseph,Hanel,3 (Beruf Bauer)
+Bährn,27.11.,Friedrich,-,Zimmer,77 (Beruf Bauer)
+Bährn,4.12.,-,Joseph,Schramm,0 (Beruf Schuhmacher)
+Dittersdorf,9.12.,Anna,Johann,Bannet,78 (Witwe,Beruf Bauer)
+Bährn,10.12.,Anna Catharina,Joseph,Schramm,33 (Ehefrau,Beruf Schuhmacher)
+Siebenhöfen,15.12.,Johann Franz,Johann Friedrich,Rasch,3.5 (Beruf Incola)
+Neudörfel,16.12.,Rosa,Paul,Langer,66 (Ehefrau,Beruf Bauer)
+Bährn,17.12.,Laurenz,-,Stehr,78 (Beruf Pollio#)
+Bährn,22.12.,Karl Franz,Karl,Kelbel,19y9m (Beruf Schuhmacher)
+
+1762
+
+Bährn,14.1.,Johann Florian,David,Rauskolb,3y9m (Beruf Weber)
+Brockersdorf,23.1.,Maria Clara,Johann Heinrich,Hansel,9d (Beruf Bauer)
+Neudörfel,27.1.,Rosalia,Anton,Appel,6m (Beruf Inwohner)
+Neudörfel,29.1.,Balthasar,Joseph,Poltzer,2 (Beruf Arbeiter)
+Bährn,29.1.,Johann Friedrich,Karl,Schramm,18d (Beruf Soldat)
+Bährn,30.1.,Anna Rosalia,Karl,Poltzer,6m (Beruf Arbeiter)
+
+DP 71
 
