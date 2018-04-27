@@ -2089,3 +2089,30 @@ Brockersdorf,13.12.,Marianna,Mathias,Poltzer,70 (Witwe)
 
 DP 73
 
+Bährn,20.12.,Maria Clara,Franz,Feigk,3 (Beruf Arbeiter)
+Bährn,27.12.,Theresia,Christian,Kolb,2.5 (Beruf Inwohner)
+
+1763
+
+Neudörfel,7.1.,Johann,Andreas,Kirbes,8d (Beruf Incola)
+Brockersdorf,8.1.,Johann Heinrich,Johann Heinrich,Hansel,12d (Beruf Incola)
+Bährn,12.1.,Michael,-,Benel,32 (Beruf Maurer)
+Bährn,21.1.,Ubertinus,-,-,- (Beruf Mönch)
+Siebenhöfen,22.1.,Anna Elisabeth,Joseph,Zimmer,9m (Beruf Arbeiter)
+Bährn,23.1.,Maria Catharina,Johann,Lichtblau,6y3m (Beruf Lanionis#)
+Bährn,30.1.,Johann Michael,Michael,Seidler,25 (Beruf Arbeiter)
+Bährn,2.2.,Balthasar,-,Franck,70 (Beruf Incola)
+Andersdorf,4.2.,Anna Elisabeth,Friedrich,Hansmann,3.5 (Beruf Bauer)
+Siebenhöfen,11.2.,Anna Elisabeth,Friedrich,Dreiseidel,1d (Beruf Bauer)
+Bährn,2.3.,Theresia,Johann Friedrich,Seifensieder,6m (Beruf Incola)
+Bährn,3.3.,Maria Rosalia,Ferdinand,Pudel,5 (Beruf Bauer)
+Bährn,8.3.,Elisabeth,Heinrich,Olbrich,85 (Witwe,Beruf Incola)
+Andersdorf,9.3.,Elisabeth,Friedrich,Theimer,72 (Witwe,Beruf Bauer)
+Bährn,10.3.,Elias,-,Kolb,72 (Beruf Bauer)
+Siebenhöfen,15.3.,Franz Karl,Franz,Mader,9m (Beruf Bauer)
+Dittersdorf,16.3.,Christian,-,Schramm,65 (Beruf Bauer)
+Brockersdorf,22.3.,Elisabeth,Mathias,Neumann,48 (Ehefrau,Beruf Incola)
+Bährn,24.3.,Karl Franz,Johann Friedrich,Jahn,1.5 (Beruf Incola)
+
+DP 74
+
