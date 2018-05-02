@@ -2768,3 +2768,39 @@ Andersdorf,23.10.,-,Friedrich,Neukirchner#,0 (Beruf Inspectoris Tabaci#)
 
 DP 98
 
+Bährn,1.11.,Elisabeth,Karl,Beyer,74 (Witwe,Beruf Restionis#)
+Altlieb,11.11.,Theresia,Johann,Theimer,14w (Beruf Bauer)
+Siebenhöfen,16.11.,Johann Florian,Franz,Czech,1d (Beruf Müller)
+Altlieb,17.11.,Johann Friedrich,Christian,Wiener,8w (Beruf Bauer)
+Dittersdorf,18.11.,Johann Michael,Christian,Hansmann,4w (Beruf Bauer)
+Bährn,18.11.,Susanna,Franz,Lichtblau,65 (Witwe,Beruf Bauer)
+Dittersdorf,19.11.,Anna Maria,Johann Georg,Schulmeister,59 (Ehefrau,Beruf Incola)
+Bährn,25.11.,Johann Friedrich,-,Kastner,78 (Beruf Soldat)
+Siebenhöfen,30.11.,Karl Franz,Franz,Schober,14d (Beruf Bauer)
+Bährn,30.11.,Christian,-,Seifensieder,78 (Beruf Incola)
+Altlieb,1.12.,Elisabeth,Heinrich,Mader,66 (Witwe,Beruf Bauer)
+Bährn,2.12.,Maria Catharina,Johann Michael,Hanel,8 (Beruf Schneider)
+Bährn,3.12.,Maria Barbara,Johann Michael,Stabel,11d (Beruf Tibialificis)
+Bährn,13.12.,Johann Heinrich,-,Schober,14d (Beruf Bauer)
+Bährn,13.12.,Maria Theresia,-,Majer,14d U: Kind von Apollonia Majer
+Dittersdorf,21.12.,Johann,Johann,Zimmer,5w4d (Beruf Bauer)
+Bährn,31.12.,Elisabeth,Johann Georg,Langer,67 (Ehefrau,Beruf Faber Lignary)
+Altlieb,31.12.,Anna,Michael,Scholtz,50 (Ehefrau,Beruf Incola)
+
+1770
+
+Bährn,3.1.,Regina,Friedrich,Heeger,72 (Witwe,Beruf Schneider)
+Brockersdorf,8.1.,Anna Elisabeth,Johann Heinrich,Aust,5d (Beruf Incola)
+Siebenhöfen,14.1.,Karl Joseph,Karl,Schafhaupt,1y26w (Beruf Bauer)
+Brockersdorf,19.1.,Rosina,Andreas,Hansel,72 (Witwe,Beruf Incola)
+Bährn,27.1.,Maria Anna,Johann Georg,Poltzer,7 (Beruf Incola)
+Bährn,28.1.,Maria Anna,Heinrich,Bischoff,21 (Beruf Incola)
+Neudörfel,28.1.,Anna Maria,Anton,Gnändiger,28 (Ehefrau,Beruf Bauer)
+Bährn,6.2.,Anna Maria,Ferdinand,Kelbel,17w8d (Beruf Schneider)
+Bährn,10.2.,Johann Michael,-,Schintzel,65 (Beruf Schneider)
+Brockersdorf,17.2.,Anna Elisabeth,Christian,Flegel,8d
+Dittersdorf,18.2.,Anton,-,Felgenhauer,35# (Beruf Schmied)
+Altlieb,18.2.,Anna Rosina,Georg Friedrich,Englisch,73 (Ehefrau,Beruf Erbrichter)
+
+DP 99
+
