@@ -2646,4 +2646,27 @@ Bährn,15.7.,Anna Rosina,Severin,Hanel,11w1d (Beruf Schneider)
 
 DP 94
 
+Neudörfel,16.7.,Christian,Franz,Meltzer,7 (Beruf Incola)
+Bährn,26.7.,Engelbert,Johann Franz,Krones,1 (Beruf Weber)
+Neudörfel,29.7.,Balthasar,Franz,Meltzer,6 (Beruf Incola)
+Altlieb,2.8.,Karl Franz,Friedrich,Mader,30w (Beruf Bauer)
+Neudörfel,3.8.,Karl Franz,Anton,Gnändiger,12w (Beruf Bauer)
+Bährn,9.8.,Johann Peter,Karl,Ludwig,4w (Beruf Pellionis)
+Bährn,9.8.,Maria Theresia,Severin,Hanel,24 (Ehefrau,Beruf Schneider)
+Neudörfel,10.8.,Johann Friedrich,Johann,Stantzel,7 (Beruf Bauer)
+Andersdorf,19.8.,Anna Elisabeth,Johann Georg,Wentzel,2y26w (Beruf Bauer)
+Neudörfel,23.8.,Anna Maria,Anton,Gnändiger,2y26w (Beruf Bauer)
+Bährn,25.8.,Rosina,Friedrich,Stantzel,70 (Ehefrau,Beruf Schuhmacher)
+Bährn,27.8.,Maria Elisabeth,Joseph,Herolt,4y15w (Beruf Weber)
+Bährn,28.8.,Johann Heinrich,-,Franck,44 (Beruf Arbeiter)
+Bährn,3.9.,Maria Rosalia,-,Majer,4w6d U: Kind von Anna Rosina Majer
+Bährn,3.9.,Maria Josepha,Johann Michael,Gödel,3w3d (Beruf Weber)
+Bährn,21.9.,Dominik Franz,-,Thraumb,66 (Beruf Adm Reverend)(Priester ?)
+Bährn,21.9.,Ferdinand,Franz,Gutjahr,4d (Beruf Weber)
+Bährn,24.9.,Johann Friedrich,Johann Heinrich,Schramm,7y26w (Beruf Bauer)
+Dittersdorf,25.9.,Friedrich,-,Schwantzer,66 (Beruf Bauer)
+Andersdorf,4.10.,Karl Franz,Karl,Hansel,22w (Beruf Incola)
+Bährn,6.10.,Maria Magdalena,Johann Michael,Stabel,16w (Beruf Tibialificis)
+Andersdorf,6.10.,Anna Maria,Franz,Wentzel,4w3#d (Beruf Incola)
+Bährn,7.10.,Johann Ignatz,Johann Heinrich,Schramm,8d (Beruf Bauer)
   
