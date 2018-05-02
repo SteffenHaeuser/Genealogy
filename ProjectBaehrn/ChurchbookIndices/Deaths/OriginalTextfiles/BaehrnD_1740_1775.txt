@@ -2669,4 +2669,11 @@ Andersdorf,4.10.,Karl Franz,Karl,Hansel,22w (Beruf Incola)
 Bährn,6.10.,Maria Magdalena,Johann Michael,Stabel,16w (Beruf Tibialificis)
 Andersdorf,6.10.,Anna Maria,Franz,Wentzel,4w3#d (Beruf Incola)
 Bährn,7.10.,Johann Ignatz,Johann Heinrich,Schramm,8d (Beruf Bauer)
-  
+Bährn,17.10.,Johann,Florian,Kelbel,8d (Beruf Weber)
+Bährn,23.10.,Elisabeth,Heinrich,Gräbner,82 (Witwe)
+Altlieb,1.11.,Apollonia,Johann Georg,Biber,5w (Beruf Incola)
+Bährn,2.11.,Anna Maria,Joseph,Auster,77 (Witwe,Beruf Vietor)
+Bährn,20.11.,Anna Catharina,Johann Georg,Stöhr,32 (Ehefrau,Beruf Pellionis)
+
+DP 95
+
