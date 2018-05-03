@@ -2879,5 +2879,25 @@ Dittersdorf,23.12.,Rosina,Heinrich,Seidler,87 (Ehefrau,Beruf Incola)
 
 DP 101
 
+Bährn,24.12.,Friedrich,-,Wentzel,88 (Beruf Schneider)
+Bährn,27.12.,Joseph,-,Rauskolb,54 (Beruf Weber)
+Dittersdorf,31.12.,Johann,Johann Georg,Zimmer,18d (Beruf Bauer)
+
+1771
+
+Bährn,1.1.,Anton,-,Iemer#,56 (Beruf Tibialificis)
+Bährn,19.1.,Anna Rosina,Christian,Schwantzer,30 (Ehefrau,Beruf Arbeiter)
+Bährn,30.1.,Johann Sebastian,Franz,Schuster,7m28d (Beruf Restiary#)
+Siebenhöfen,8.2.,Florian,Joseph,Müller,1y2m1d (Beruf Incola)
+Altlieb,8.2.,Johanna,Christian,Appel,4m20d (Beruf Bauer)
+Bährn,10.2.,Regina,Johann,Philipp,63 (Witwe,Beruf Incola)
+Dittersdorf,16.2.,Anna Rosina,Johann,Hansmann,18d (#27,Beruf Bauer)
+Bährn,22.2.,Johann Georg,-,Till,63 (#164,Beruf Incola)
+Neudörfel,27.2.,Johanna,Andreas,Rauskolb,3m13d (#19,Beruf Bauer)
+Bährn,1.3.,Maria Anna,Heinrich,Mentzel,50 (#123,Tochter,Beruf Faber Lignary)
+Bährn,4.3.,Paulina,Karl,Ittler,9m (#161,Beruf Tibialificis)
+
+DP 102
+
 
 
