@@ -2909,6 +2909,28 @@ Bährn,22.3.,Elisabeth,Christian,Rauskolb,57 (Ehefrau,#166,Beruf Weber)
 Siebenhöfen,22.3.,Catharina,-,Klein,72 (#28)(Fremde)
 Bährn,26.3.,Anna Barbara,Karl Joseph,Walter,2y1m (#75,Beruf Saponarii#)
 Bährn,29.3.,Johann Friedrich Spur.#,-,Feigk,18d (#106) U: Kind von Theresia Feigk
-Bährn,2.4.,Franz Xaver,-,Weinmann,68 (#6,Beruf Gärber)(Bleistiftanmerkung: Vater des Gärber Max aus der Geschichte um Franz Hansmann)
+Bährn,2.4.,Franz Xaver,-,Weinmann,68 (#6,Beruf Gärber)(Bleistiftanmerkung: Vater des Gärber Max aus der Geschichte um den 'Überfall bei Domstadtl', Max ist 1729 geboren, laut der Anmerkung)
+Brockersdorf,6.4.,Maria Theresia,Karl,Poltzer Junior,2m10d (#27,Beruf Bauer)
+Dittersdorf,7.4.,Christian,-,Krones,86 (#2,Beruf Incola)
+Dohle,10.4.,Magdalena,Michael,Kratschmer,13 (#11,Beruf Incola)
+Bährn,15.4.,Anna Maria,Elias,Wentzel,3m5d (#142,Beruf Incola)
+Andersdorf,16.4.,Franz,-,Schober,31 (#9,Beruf Incola)
+Siebenhöfen,20.4.,Karl Joseph,Johann,Alraum,1m12d (#26,Beruf Incola)
+Dittersdorf,25.4.,Rosina,Balthasar,Krones,56 (Tochter,#25,Beruf Incola)
+Dittersdorf,25.4.,Ferdinand,Friedrich,Stantzel,4m (#3,Beruf Incola)
+Altlieb,25.4.,Anna Rosina,Joseph,Mader,7m18d (#11,Beruf Incola)
+Dittersdorf,1.5.,Dorothea,Georg,Poltzer,80 (Witwe,#40,Beruf Incola)
+Bährn,8.5.,Maria Magdalena,Dominik,Weinmann,1m12d (#20,Beruf Gärber)(Anmerkung zu Dominik Weinmann: "geb. 17.01#. Bruder des Gärber Max", unklar, ob sich Geburtsdatum auf Dominik oder auf Maria Magdalena bezieht)
+Bährn,11.5.,Dominik,Bernhard,Rauskolb,1m12d (#167,Beruf Weber)
+Bährn,25.5.,Franz Karl,Peter,Zips,1y8m (#14,Beruf Bauer)
+Altlieb,27.5.,Johann Heinrich,Johann Heinrich,Matzke,8m17d (#22,Beruf Incola)
+Andersdorf,8.6.,Heinrich,-,Penirschke,73 (#27,Beruf Bauer)
+Siebenhöfen,22.6.,Franz Anton,-,Fischer,2y6m17d U: Kind von Elisabeth Fischer
+Neudörfel,27.6.,-,Johann Michael,Stantzel,0 (#15)
+Bährn,28.6.,Christian,-,Goldt,73 (#4,Beruf Bauer)
+Bährn,29.6.,Balthasar,-,Langer,37 (#121,Beruf Schmied)
+
+DP 103
+
 
 
