@@ -1233,7 +1233,7 @@ Bährn,28.1.,Catharina,Heinrich,Schramm,86 (Witwe)
 Altlieb,11.2.,Wenceslaus,-,Berger,55 (Beruf Bauer)
 Siebenhöfen,12.2.,Rosina,Friedrich,Seidler,74.5 (Witwe)
 Altlieb,12.2.,Marina,Tobias,Hanel,70 (Witwe)
-Deutsch-Lodenitzz,14.2.,Rosina,Heinrich,Söhnel,77 (Witwe)
+Deutsch-Lodenitz,14.2.,Rosina,Heinrich,Söhnel,77 (Witwe)
 Andersdorf,18.2.,Magdalena,Georg,Richter,74 (Witwe)
 Altlieb,18.2.,Elisabeth,Johann Georg,Mader,78 (Witwe)
 Dittersdorf,3.3.,Regina,Johann,Schwantzer,78 (Witwe)
@@ -2966,5 +2966,34 @@ Stollenmühl,5.11.,Apollonia,Johann Michael,Göttiger,1y7m12d (#38,Beruf Müller)
 
 DP 104
 
+Bährn,7.11.,Anna Maria,Friedrich,Schober,72 (Ehefrau,#97,Beruf Weber)
+Bährn,9.11.,Rosina,Heinrich,Bischoff,74 (Ehefrau,#145,Beruf Incola)
+Dittersdorf,10.11.,Franz,-,Schmied,41 (#3,Beruf Soldat)
+Bährn,25.11.,Franz,-,Seeliger,41 (#165,Beruf Bauer)
+Bährn,29.11.,Amadeus,-,Rauskolb,61 (#47,Beruf Weber)
+Bährn,30.11.,Maria Josepha,-,Blaschke,8d (#146) U: Kind von Maria Elisabeth Blaschke
+Brockersdorf,1.12.,Maria Theresia,Franz,Lichtblau,9m14d (#26,Beruf Bauer)
+Bährn,5.12.,Andreas,-,-,- (#192)(Aus Falkenberg in Schlesien)
+Bährn,8.12.,Barbara,Friedrich,Schmied,75 (Witwe,#25,Beruf Incola)
+Siebenhöfen,24.12.,Johann,Balthasar,Meltzer,5m (#22,Beruf Incola)
+Dittersdorf,30.12.,Christian,-,Poltzer,78 (#13,Beruf Bauer)
+Altlieb,31.12.,Anna Maria,Christian,Wiener,6m24d (#1,Beruf Bauer)
+
+1772
+
+Bährn,4.1.,Tobias,-,Blaschke,50 (#150,Beruf Bäcker)
+Siebenhöfen,9.1.,-,Christian,Hansmann,0 (#15,Beruf Bauer)
+Neudörfel,13.1.,Joseph,Johann,Beitel,1y10m (#4,Beruf Schäfer)
+Bährn,16.1.,Joseph Chrysogonus#,Tobias,Blaschke,1m23d (#150,Beruf Bäcker)
+-,23.1.,Anton,-,Wolf,40 (Beruf Weber)(aus Krachavia in Schlesien)
+Neudörfel,24.1.,Joseph,-,Neugebauer,75 (#18,Beruf Bettler)
+Dittersdorf,26.1.,Maria Victoria,Johann Georg,Stantzel,1m (#9,Beruf Bauer)
+Siebenhöfen,27.1.,Maria Elisabeth,Franz,Czech,1y2m24d (#19,Beruf Müller)
+Bährn,6.2.,Helena,Karl Joseph,Lichtblau,55 (Ehefrau,#184,Beruf Schneider)
+Siebenhöfen,7.2.,Wenceslaus,-,Stiegler,60 (#24,Beruf Incola)
+Dittersdorf,8.2.,Rosina,Elias,Scholtz,75 (Witwe,#10,Beruf Incola)(Aus Deutsch-Lodenitz)
+Andersdorf,9.2.,Rosina,Christian,Kuntz,75 (Ehefrau,#31,Beruf Schäfer)
+
+DP 105
 
 
