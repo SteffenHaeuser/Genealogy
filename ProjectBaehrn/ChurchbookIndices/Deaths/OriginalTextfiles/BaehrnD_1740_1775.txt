@@ -2996,4 +2996,35 @@ Andersdorf,9.2.,Rosina,Christian,Kuntz,75 (Ehefrau,#31,Beruf Schäfer)
 
 DP 105
 
+Bährn,10.2.,Elisabeth,Johann Friedrich,Schlemmer,59 (Witwe,#48,Beruf Vietor)
+Bährn,15.2.,Franz,-,Richter,78 (#133,Beruf Weber)
+Bährn,16.2.,Elisabeth,Karl,Philipp,61 (Witwe,#96,Beruf Weber)
+Dittersdorf,20.2.,Elisabeth,Franz,Beyer,77 (Witwe,#29,Beruf Incola)
+Bährn,21.2.,Johann Friedrich,-,Jahn,46 (#128,Beruf Schmied)
+Bährn,22.2.,Johann Georg,-,Langer,64 (#57,Beruf Incola)
+Bährn,23.2.,Joseph,-,Langer,55 (#129,Beruf Weber)
+Dittersdorf,24.2.,Johann Georg,-,Stantzel,28 (#9,Beruf Bauer)
+Siebenhöfen,7.3.,Andreas,-,Fischer,68 (#29,Beruf Schäfer)
+-,7.3.,-,-,-,- (Beruf Vagabund)
+Bährn,8.3.,Joseph,-,Banker#,33 (#181,Beruf Arbeiter)
+Andersdorf,12.3.,Rosina,Heinrich,Hansmann,73 (Witwe,#2,Beruf Bauer)
+Brockersdorf,13.3.,Maria Catharina,Anton,Hoppe,17 (Tochter,#21,Beruf Erbrichter)
+Brockersdorf,13.3.,Franz Anton,Anton,Hoppe,20 (#21,Beruf Erbrichter)
+Bährn,14.3.,Ferdinand,Johann Georg,Kratschmer,11m20d (#63,Beruf Bauer)
+Bährn,15.3.,Anna Rosina,Johann Georg,Poltzer,6y5m (#147,Beruf Arbeiter)
+Dittersdorf,16.3.,Christian,-,Poltzer,52 (#45,Beruf Incola)
+Siebenhöfen,19.3.,Anna Catharina,Johann,Stiegler,50 (Ehefrau,#34,Beruf Schäfer)
+Dittersdorf,20.3.,Dorothea,Christian,Schäfer,56 (Ehefrau,#34,Beruf Bauer)
+Dittersdorf,20.3.,Veronica,Joseph,Grosmann,6d (#6,Beruf Bauer)
+Andersdorf,21.3.,Friedrich,-,Seidler,47 (#14,Beruf Bauer)
+Bährn,22.3.,Karl Joseph,Johann Friedrich,Beyer,21d (#132,Beruf Weber)
+Andersdorf,22.3.,Rosina,Christian,Seidler,23 (Tochter,#12,Beruf Bauer)
+Dittersdorf,23.3.,Johann Michael,Johann Georg,Krones,8y6m (#26,Beruf Incola)
+Neudörfel,25.3.,Anna Maria,Heinrich,Purr,60 (Witwe,#9,Beruf Bauer)
+Siebenhöfen,26.3.,Joseph,Amadeus,Krones,12d (#13,Beruf Bauer)
+Bährn,27.3.,Anna Rosina,Karl,Exner,72 (Witwe,#194,Beruf Fleischer)
+Dittersdorf,3.4.,Maria Clara,Florian,Schramm,2d (#15,Beruf Bauer)
+
+DP 106
+
 
