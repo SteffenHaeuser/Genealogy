@@ -3166,5 +3166,36 @@ Bährn,8.4.,Friedrich Georg,-,Hancke,69 (#130,Beruf Carnifex#)
 
 DP 110
 
+Bährn,11.4.,Apollonia,Franz,Unger,52 (#66,Beruf Tibialificis)
+Bährn,11.4.,Maria Eleonora,Franz,Schuster,1y6m11d (#195)
+Dittersdorf,13.4.,Theresia,Karl,Krones,11y5m4d (#11,Beruf Inwohner)
+Bährn,18.4.,David,-,Rauskolb,44.5 (#188,Beruf Soldat)
+Dittersdorf,19.4.,Friedrich,-,Grosmann,70 (#6,Beruf Gärtner)
+Dittersdorf,20.4.,Anna Rosalia,Karl,Pitsch,39 (Ehefrau,#38,Beruf Lehrer)
+Dittersdorf,3.5.,Johann Georg,-,Burkert,40 (#35,Beruf Schäfer)
+Dittersdorf,7.5.,Apollonia,Joseph,Poltzer,3m16d (#32,Beruf Gärtner)
+Bährn,8.5.,Friedrich,-,Poltzer,69 (#89,Beruf Orbitornator#)
+Bährn,20.5.,Anna Catharina,Heinrich,Aust,13 (#183,Beruf Arbeiter)
+Neudörfel,27.5.,Heinrich,-,Paiker#,72 (#21,Beruf Bauer)
+Brockersdorf,27.5.,Anna Maria,Johann,#abel,48 (Tochter,#2,Beruf Bauer)
+Bährn,28.5.,Karl Franz,Johann Friedrich,Hansel,7y2m (#144)
+Dittersdorf,4.6.,Ferdinand,Johann Georg,Burkert,5y2m22d (#11,Beruf Schäfer)
+Bährn,10.6.,Anton,-,Hampel,41 (#55,Beruf Pellionis)
+Bährn,16.6.,Judith,-,Schramm,78 (Witwe,#174)
+Andersdorf,18.6.,Anna Elisabeth,Elias,Hofmann,6y6m (#8)
+Bährn,28.6.,Karl,-,Kolb,76 (#113,Beruf Lapicida#)
+Bährn,4.7.,-,Johann Georg,Langer,0 (Beruf Faber Lignary)(Ehefrau von Johann Georg und Mutter des Kindes war Maria Anna)
+Bährn,6.7.,Joseph,-,Öhler,52# (#36,Beruf Schmied)
+Bährn,9.7.,David,-,Lichtenegger,79 (#186,Beruf Arzt)
+Bährn,9.7.,Aloys Ignatz,Ferdinand,Schvan#,1m11d (#19,Beruf Lictoris#)
+Neudörfel,16.7.,Theresia,Johann Michael,Stantzel#,6m (#15,Beruf Bauer)
+Bährn,18.7.,Johann,Johann Georg,Müller,1d (#10,Beruf Fuhrmann)
+Bährn,28.7.,Heinrich,-,Bischoff,70 (#13,Beruf Arbeiter)
+Bährn,5.8.,Peter,Paul,Johann,Florian,Schlemmer,1m5d (#48,Beruf Vietor)
+Bährn,15.8.,Maria Catharina,Anton,Kolb,13d (#50,Beruf Schneider)
+Neudörfel,15.8.,Karl Franz,Johann Georg,Theimer,17d (#21,Beruf Bauer)
+
+DP 111
+
 
 
