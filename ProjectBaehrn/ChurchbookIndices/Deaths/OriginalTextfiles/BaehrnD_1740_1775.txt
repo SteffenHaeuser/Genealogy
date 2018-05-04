@@ -3197,5 +3197,12 @@ Neudörfel,15.8.,Karl Franz,Johann Georg,Theimer,17d (#21,Beruf Bauer)
 
 DP 111
 
-
+Bährn,16.8.,Caspar,-,Krones,58 (#172,Beruf Weber)
+Bährn,18.8.,Maria Anna,Florian,Kölbel,3y6m (#56,Beruf Weber)
+Bährn,21.8.,Johann Peter,Leopold,Ficker,8d (#141,Beruf Weber)
+Bährn,29.8.,Maria Clara,-,-,Reichelt,14d (#63)
+Bährn,10.9.,Anna Rosina,Johann,Ihm#,54 (Witwe,#174,Beruf Soldat)
+Bährn,10.9.,Karl Joseph,Peter,Zips,1y10m14d (#14)
+Bährn,12.9.,Dominik,Benedikt,Matzner,27d (#12,Beruf Maurer)
+Brockersdorf,13.9.,Florian,Christian,Philip,38 ()
 
