@@ -2932,5 +2932,39 @@ Bährn,29.6.,Balthasar,-,Langer,37 (#121,Beruf Schmied)
 
 DP 103
 
+Bährn,2.7.,-,Franz,Riker,0 (#37,Beruf Alutarius)
+Andersdorf,20.7.,Philipp,Heinrich,Pepel,2m13d (#21,Beruf Incola)
+Bährn,25.7.,Anna Regina,Karl,Jahn,62 (Witwe,#85,Beruf Weber)
+Altlieb,4.8.,Theresia,Johann Georg,Mader,22d (#16,Beruf Bauer)
+Brockersdorf,8.8.,Wenceslaus,-,Seidler,51 (#15,Beruf Bauer)
+Bährn,21.8.,Maria Catharina,Johann Georg,Langer,16d (#78,Beruf Faber Lignary)
+Dittersdorf,6.9.,Florian,Johann Michael,Leimsner,1d (#37,Beruf Schmied)
+Bährn,11.9.,Theresia,Christian,Pfoff,51y8m (Ehefrau,#149,Beruf Lehrer)
+Neudörfel,14.9.,Johann Friedrich,Franz,Kloß,3d (#14,Beruf Bauer)
+Bährn,14.9.,Joseph und Benjamin,Engelbert,Wiener,14d (#1,Beruf Schneider)
+Altlieb,16.9.,Johanna,Johann Georg,Biber,2d (#23,Beruf Incola)
+Brockersdorf,20.9.,Maria Magdalena,Friedrich,Stabel,14 (#4,Beruf Incola)
+Bährn,21.9.,Regina,Johann Georg,Gebauer,54 (Witwe,#59,Beruf Incola)
+Siebenhöfen,28.9.,Regina,Andreas,Fischer,57 (Ehefrau,#29,Beruf Incola)
+Bährn,28.9.,Anton,-,Öhler,53 (#117,Beruf Schmied)
+Bährn,1.10.,Maria Catharina,Christoph,Lotig#,1y8m (#131,Beruf Incola)
+Bährn,1.10.,Ferdinand,Anton,Klaus,13d (#124,Beruf Arbeiter)
+Bährn,1.10.,Franz,-,Heeger,71 (#176,Beruf Vespillo)(Geschrieben: "Höger")
+Bährn,4.10.,Laurenz,-,Feigk,75 (#111,Beruf Incola)
+Dittersdorf,10.10.,Florian,Karl Franz,Poltzer,2m6d (#40,Beruf Incola)
+Siebenhöfen,10.10.,Anna,Balthasar,Bank#,3m16d (#40,Beruf Incola)
+Brockersdorf,14.10.,-,Franz,Tögel,0 (#13,Beruf Bauer)
+Bährn,20.10.,Johann Franz Xaver,Benedikt,Matzner,17d (#12,Beruf Maurer)(Franz und Xaver Namen des Vaters oder des Sohnes ?)
+Brockersdorf,21.10.,Anna Maria,Franz,Tögel,26 (Ehefrau,#13,Beruf Bauer)
+Brockersdorf,22.10.,Joseph,Franz,Poltzer,3y7m (#20,Beruf Incola)
+Bährn,23.10.,Anna Maria,David,Rauskolb,5 (#164,Beruf Weber)
+Altlieb,26.10.,Franz,Michael,Scholtz,13d (#27,Beruf Schäfer)
+Bährn,26.10.,Engelbert,Franz Joseph,Heintz,5 (#105,Beruf Schneider)
+Bährn,30.10.,Susanna Elisabeth,David,Rauskolb,7y6m (#164,Beruf Weber)
+Brockersdorf,4.11.,David,Franz,Poltzer,7m25d (Beruf Incola)
+Stollenmühl,5.11.,Apollonia,Johann Michael,Göttiger,1y7m12d (#38,Beruf Müller)
+
+DP 104
+
 
 
