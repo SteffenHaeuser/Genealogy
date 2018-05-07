@@ -1,4 +1,3 @@
-http://digi.archives.cz/da/permalink?xid=be967ee2-f13c-102f-8255-0050568c0263&scan=34#scan33
 Sterbe
 Böhmen
 Tschechien
@@ -877,7 +876,7 @@ Siebenhöfen,23.5.,Johannes,-,Rasch,65
 Altlieb,26.6.,Christian,Karl,Kloß,6m
 Andersdorf,29.6.,Anna Elisabeth,Friedrich,Stabel,1
 Bährn,2.7.,Maria Magdalena,Nicolaus,Secura#,7d
-Bährn,13.7.,Franz Joseph,Balthasar,Herold,3m
+Bährn,13.7.,Franz Joseph,Balthasar,Herolt,3m
 Neudörfel,17.7.,Karl,Friedrich,Kloß,16d
 Bährn,21.7.,Johannes,-,Goldt,64
 Bährn,23.7.,Johann Georg,-,Jäckel#,46
@@ -937,7 +936,7 @@ Bährn,14.3.,Magdalena,Georg,Schindler,68 (Witwe)
 Bährn,22.3.,Anna Elisabeth,Elias,Kontzel#,21 (Tochter)
 Bährn,29.3.,Joseph,Joseph,Langer,6m
 Siebenhöfen,2.4.,Maria Rosalia,Christian,Mader,3d
-Neudörfel,4.4.,Rosina,Augustin,Runge#,31 (Ehefrau
+Neudörfel,4.4.,Rosina,Augustin,Runge#,31 (Ehefrau)
 Dittersdorf,6.4.,Johannes,-,Kannet#,68
 Neudörfel,13.4.,Franz,Georg,Pretsch,13
 Bährn,20.4.,Maria Victoria,Andreas,Rehrich#,3d
@@ -975,7 +974,7 @@ Brockersdorf,19.9.,Johann Heinrich,Christian,Philip,3m
 Bährn,24.9.,Anna Catharina,Heinrich,Ricker,64.5 (Ehefrau)
 Andersdorf,28.9.,Heinrich,-,Penirschke,75
 Bährn,18.10.,Franz Karl,Franz,Lichtblau,3d
-Bährn,20.10.,Rosalia,Joseph,Herold,22.5 (Ehefrau)
+Bährn,20.10.,Rosalia,Joseph,Herolt,22.5 (Ehefrau)
 Siebenhöfen,28.10.,Rosina,Christian,Rasch,66 (Witwe)
 Bährn,2.11.,Karl Franz,Johann Georg,Poltzer,1.5
 Bährn,19.11.,Christian,-,Seeliger,62
@@ -1117,7 +1116,7 @@ Neudörfel,11.3.,Elisabeth,Augustin,Runge,9m
 Siebenhöfen,13.3.,Karl,Heinrich,Hansmann,2d
 Neudörfel,21.3.,Magdalena,Augustin,Runge,17d
 Siebenhöfen,4.4.,Theresia,Joseph,Hofmann,17 (Tochter)
-Bährn,20.4.,Karl Joseph,Joseph,Herold,10w
+Bährn,20.4.,Karl Joseph,Joseph,Herolt,10w
 Bährn,27.4.,Anna Rosina,Karl,Rauskolb,36 (Ehefrau)
 Bährn,30.4.,Anna Maria,Friedrich,Stantzel,3y3m
 Bährn,6.5.,Johann Franz,Franz,Gutjahr,10d
@@ -1205,7 +1204,7 @@ Bährn,10.9.,Anna Elisabeth,Georg Friedrich,Liebich,3w
 Bährn,14.9.,Hieronymus,Georg Friedrich,Liebich,25d
 Brockersdorf,18.9.,Maria Anna,Christian,Flegel,8d
 Siebenhöfen,22.9.,Dorothea,Wenceslaus,Stiegler,36 (Ehefrau)
-Bährn,16.10.,Heinrich,-,Herold,69
+Bährn,16.10.,Heinrich,-,Herolt,69
 Siebenhöfen,20.10.,Theresia,Michael,Schindler,13d
 Bährn,31.10.,Johann,Johann Friedrich,Riesner,1y3m
 Siebenhöfen,11.11.,Marina,Caspar,Schmied,52 (Ehefrau)
@@ -1671,7 +1670,7 @@ Bährn,2.4.,Elisabeth,Friedrich,Kolb,68 (Witwe)
 Bährn,2.4.,Franz,Joseph,Schindler,9m (Beruf Weber)
 Bährn,2.4.,Regina,Elias,Bischoff,59 (Witwe)
 Bährn,4.4.,Ferdinand,Anton,Schramm,6 (Beruf Lanionis#)
-Bährn,5.4.,Anna Maria,Balthasar,Herold,1 (Beruf Schuhmacher)
+Bährn,5.4.,Anna Maria,Balthasar,Herolt,1 (Beruf Schuhmacher)
 Dittersdorf,13.4.,Marina,Friedrich,Jurende,58 (Witwe)
 Andersdorf,24.4.,Elias,-,Wentzel,55 (Beruf Bauer)
 Dittersdorf,12.5.,Karl Franz,Anton,Felgenhauer,9m (Beruf Schmied)
@@ -2225,7 +2224,7 @@ Dittersdorf,10.3.,Johann Georg,Christian,Hansmann,1y2w (Beruf Bauer)
 Bährn,11.3.,Anna Maria,Andreas,Goldt,64 (Witwe,Beruf Schmied)
 Bährn,6.4.,Joseph,Christian,Funcker,11d (Beruf Weber)
 Neudörfel,16.4.,Apollonia,Andreas,Kirbes,4.5 (Beruf Incola)
-Bährn,28.4.,Elisabeth,Heinrich,Herold,66 (Witwe,Beruf Schuhmacher)
+Bährn,28.4.,Elisabeth,Heinrich,Herolt,66 (Witwe,Beruf Schuhmacher)
 Siebenhöfen,5.5.,Florian,Heinrich,Hansmann,11w2d (Beruf Bauer)
 Bährn,5.5.,Anna Catharina,Hieronymus,Langer,34 (Ehefrau,Beruf Weber)
 Veterolibava#,8.5.,Heinrich,-,Mader,66 (Beruf Bauer)
@@ -2657,7 +2656,7 @@ Neudörfel,10.8.,Johann Friedrich,Johann,Stantzel,7 (Beruf Bauer)
 Andersdorf,19.8.,Anna Elisabeth,Johann Georg,Wentzel,2y26w (Beruf Bauer)
 Neudörfel,23.8.,Anna Maria,Anton,Gnändiger,2y26w (Beruf Bauer)
 Bährn,25.8.,Rosina,Friedrich,Stantzel,70 (Ehefrau,Beruf Schuhmacher)
-Bährn,27.8.,Maria Elisabeth,Joseph,Herold,4y15w (Beruf Weber)
+Bährn,27.8.,Maria Elisabeth,Joseph,Herolt,4y15w (Beruf Weber)
 Bährn,28.8.,Johann Heinrich,-,Franck,44 (Beruf Arbeiter)
 Bährn,3.9.,Maria Rosalia,-,Majer,4w6d U: Kind von Anna Rosina Majer
 Bährn,3.9.,Maria Josepha,Johann Michael,Gödel,3w3d (Beruf Weber)
@@ -2831,7 +2830,7 @@ Bährn,10.6.,Susanna Elisabeth,-,Blaschke,3d U: Kind von Magdalena Blaschke
 Siebenhöfen,8.6.,-,Christian,Hansmann,0 (Beruf Bauer)
 Bährn,12.6.,Maria Clara,Dominik,Escher#,36w (Beruf Tibialificis)
 Bährn,13.6.,Sariander#,Johann Georg,Kratschmer,4y1m4d (Beruf Bauer)(Was ist das für ein Vorname ?)
-Bährn,21.6.,Anna Elisabeth,Anton,Herold,35 (Ehefrau,Beruf Schuhmacher)
+Bährn,21.6.,Anna Elisabeth,Anton,Herolt,35 (Ehefrau,Beruf Schuhmacher)
 Bährn,27.6.,Johann Heinrich,Johann Georg,Beichel,2y4w (Beruf Schuhmacher)
 Bährn,2.7.,Johann Ignatz,Johann Michael,Gödel,20w 
 Bährn,10.7.,Elisabeth,Christian,Appel,77 (Witwe,Beruf Bauer)
@@ -2859,7 +2858,7 @@ Dittersdorf,20.9.,Balthasar,Christian,Kratschmer,8w (Beruf Incola)
 Altlieb,24.9.,Joseph,Christian,Mader,7 (Beruf Bauer)
 Altlieb,2.10.,Franz,Christian,Mader,4y24w (Beruf Bauer)
 Bährn,4.10.,Maria Catharina,Karl,Gutjahr,1y13w (Beruf Weber)
-#,12.10.,Maria Anna,Michael,Herold,69 (Witwe,Beruf Praxatoris)
+#,12.10.,Maria Anna,Michael,Herolt,69 (Witwe,Beruf Praxatoris)
 Brockersdorf,14.10.,Karl Joseph,Christian,Mader,8w3d (Beruf Bauer)
 Bährn,26.10.,Eleonora Johanna,Dominik,Weinmann,2y33w (Beruf Cerdonis#)
 Bährn,29.10.,Engelbert,Johann Georg,Fast,12d  (Beruf Weber#)
@@ -3393,5 +3392,4 @@ Bährn,8.12.,Anna Maria,Johann Georg,Gloger,85 (Witwe,#30,Beruf Fleischer)
 Bährn,18.12.,Maria Clara,Johann Friedrich,Herold,25 (Ehefrau,#51,Beruf Weber)
 Brockersdorf,23.12.,Karl Franz,Franz,Poltzer,1d (#12,Beruf Incola)
 Siebenhöfen,29.12.,Apollonia,Christian,Schober,2.5 (#4,Beruf Weber)
-
 
