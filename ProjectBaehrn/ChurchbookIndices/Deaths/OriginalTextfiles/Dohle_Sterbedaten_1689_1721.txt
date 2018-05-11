@@ -58,7 +58,7 @@ Petersdorf,27.12.,Anna,Christoph,Göttiger,32# (Ehefrau)(Ehefrau oder Tochter ?)
 
 1692
 
-Puchmühl,7.1.,Heinrich,-,Faulhaber,37
+Puschmühl,7.1.,Heinrich,-,Faulhaber,37
 Lodenitz,17.1.,Friedrich,Hans,Sirsch,6m
 Lodenitz,4.2.,Dorothea,-,-,74 (Witwe)
 Lodenitz,8.3.,Rosina,Heinrich,Heintz,26 (Ehefrau)
@@ -70,7 +70,7 @@ Lodenitz,16.3.,Marina,-,Pohl,72 (Witwe)
 Lodenitz,18.3.,Anna,Hans Georg,Zap#,34 (Ehefrau)
 Lodenitz,22.3.,Heinrich,-,Gilg,35
 Lodenitz,26.3.,Baltzer,-,Kratschmer,37
-Puchmühl,12.5.,Anton,Hans,Beiner#,-
+Puschmühl,12.5.,Anton,Hans,Beiner#,-
 Dohle,15.5.,Friedrich,Valentin,Meckel,4
 Lodenitz,2.6.,Elisabeth,Andreas,Schäfer,1y3m
 Dohle,6.6.,Rosina,Georg,Zimmer,16d
@@ -87,13 +87,13 @@ Lodenitz,14.12.,Catharina,Heinrich,Kuntz,2
 
 Lodenitz,31.1.,Anna,-,-,1 (Die Mutter hiess Barbara)
 Dohle,13.2.,Anna,Gregor,Tögel,33 (Witwe)
-Puchmühl,15.2.,Catharina,Andreas,Schramm,40 (Ehefrau)(Ehefrau oder Tochter ?)
+Puschmühl,15.2.,Catharina,Andreas,Schramm,40 (Ehefrau)(Ehefrau oder Tochter ?)
 Lodenitz,3.3.,Hans,-,Matzner,46
 Dohle,1.4.,Marina,-,Jahn#,60 (Witwe)
 Lodenitz,26.5.,Catharina,Barthel,Stantzel,53 (Ehefrau)
 Dohle,5.7.,Andreas,-,Schramm,50
 Dohle,18.7.,Anna,Simon,Geygr#,14
-Puchmühl,20.7.,Anna Maria,Christian,Hansel,9m
+Puschmühl,20.7.,Anna Maria,Christian,Hansel,9m
 Lodenitz,19.8.,Hans,-,Kratschmer,38
 Lodenitz,10.9.,Jacob,-,Mayer,73 (Andreas durchgestrichen, Jacob hingeschrieben)
 Dohle,24.9.,Rosina,Martin,Hoffmann,4
@@ -113,7 +113,7 @@ Lodenitz,18.2.,Susanna,Andreas,Törgl#,42 (Witwe)
 Dohle,8.3.,Gregor,Valentin,Meckel#,12
 Dohle,10.7.,Friedrich,Friedrich,Hoffmann,3m
 Lodenitz,18.7.,Elisabeth,Hans,Geißler,4
-Puchmühl,10.8.,Tobias,Christian,Hansel,8d
+Puschmühl,10.8.,Tobias,Christian,Hansel,8d
 Lodenitz,11.10.,Michael,Michael,Rosensprung,22
 Lodenitz,12.10.,Hans,-,Themel#,52
 Lodenitz,27.11.,Hans,-,Schulmeister,51 (Ehefrau,Beruf Erbrichter)
@@ -230,7 +230,7 @@ Dohle,16.10.,Rosina,-,Faulhammer,18 (Tochter) U: Kind von Marina Faulhammer
 Dohle,1.1.,Catharina,Valentin,Fischer,61 (Witwe)
 Lodenitz,5.3.,Hans,-,Poltzer,36
 Lodenitz,11.4.,Barbara,-,Tögel,46
-Puchmühl,17.6.,Barthel,-,Hansel,80
+Puschmühl,17.6.,Barthel,-,Hansel,80
 Lodenitz,19.6.,Anna,Andreas,Beber#,23
 Lodenitz,6.9.,Christian,Hans,Heger,7 (Gelesen: "Höger")
 Dohle,22.10.,Elisabeth,Friedrich,Hoffmann,13
@@ -263,11 +263,11 @@ Dohle,22.2.,Anna,-,Tögel,70
 Lodenitz,23.4.,Eva,-,Richter#,52
 Lodenitz,20.5.,Mathes,-,Sendler#,42
 Dohle,26.5.,Paul,-,Losert,62
-Puchmühl,12.7.,Michael,Marina,Losert,36w
+Puschmühl,12.7.,Michael,Marina,Losert,36w
 Lodenitz,20.7.,Johannes Georg,-,Lucas,68 (Beruf Kinderlehrer)
 Lodenitz,14.8.,-,-,Schulmeister,5 U: Kind von Anna Schulmeister
 Lodenitz,17.8.,Marianna,Friedrich,Kratschmer,8#w
-Puchmühl,20.10.,Anna,Jacob,Frümbler#,5
+Puschmühl,20.10.,Anna,Jacob,Frümbler#,5
 Lodenitz,17.11.,Elisabeth,Karl,Schwab,32w
 Dohle,17#.11#.,Wenceslaus,-,Schulmeister,65
 
@@ -292,7 +292,7 @@ Lodenitz.1.5.,Johannes,Hans,Stantzel,16
 Lodenitz,3.7.,Johannes,Michael,Gilg,4w
 Lodenitz,10.7.,-,Elias,Springer,32 (Ehefrau)
 Lodenitz,7.8.,-,Baltzer,Hansel,46 (Ehefrau)
-Puchmühl,22.8.,-,Andreas,Hattel#,23 (Ehefrau)
+Puschmühl,22.8.,-,Andreas,Hattel#,23 (Ehefrau)
 Lodenitz,15.9.,Rosina,Friedrich,Ficker,32 (Tochter)
 Lodenitz,6.9.,-,Martin,Knäppel#,54 (Ehefrau)
 Dohle,2.11.,Joseph,Friedrich,Hansel,6
@@ -309,10 +309,10 @@ DP 50
 
 Lodenitz,9.7.,Paul,-,Kratschmer,58
 Dohle,#.9.,Hans,-,Gilg,83
-Puchmühl,9.9.,-,Heinrich,Grig#,7 (Gilg ?)
+Puschmühl,9.9.,-,Heinrich,Grig#,7 (Gilg ?)
 Lodenitz,20.10.,-,Elias,Springer,14d
 Lodenitz,7.11.,Adam,-,Stantzel,101
-Puchmühl,5#.12.,Anna,Jacob,Fründler#,19
+Puschmühl,5#.12.,Anna,Jacob,Fründler#,19
 
 1708
 
@@ -330,7 +330,7 @@ Lodenitz,24.12.,-,Georg,Stantzel,- (Notgetauft ?)
 
 Dohle,24.1.,-,-,-,-
 Dohle,7.8#.,Andreas,-,Ledel,75
-Puchmühl,9.6.,Anna Maria,Jacob,Fründler#,8
+Puschmühl,9.6.,Anna Maria,Jacob,Fründler#,8
 Dohle,21.7.,Lorentz,-,Jahn,45
 Lodenitz,5.8.,Baltzer,-,Tögel,31 ("samt seinem Knecht von der Dohle von einem Fuder # erdrückt worden", der Knecht war 19 Jahre alt)
 Lodenitz,6.9.,Friedrich,-,Gilg,56 (aus Dohle)
@@ -386,13 +386,13 @@ Lodenitz,13.2.,Heinrich,-,Springer,49
 DP 52
 
 Lodenitz,19.3.,Christian,Baltzer,Hansel,34w
-Puchmühl,1.4.,Wenceslaus,-,Strack#,70# (30 oder 70 ?)
-Puchmühl,9.4.,Ferdinand,Friedrich,Hansel,8
-Puchmühl,29.4.,Maria Elisabeth,Friedrich,Hansel,7
+Puschmühl,1.4.,Wenceslaus,-,Strack#,70# (30 oder 70 ?)
+Puschmühl,9.4.,Ferdinand,Friedrich,Hansel,8
+Puschmühl,29.4.,Maria Elisabeth,Friedrich,Hansel,7
 Lodenitz,7.6.,Elisabeth,Hans,Sirsch,9w
 Dohle,20.7.,Rosina,Heinrich,Proksch#,9d
 Dohle,25.9.,Simon,-,Weinert#,86#
-Puchmühl,5.10.,Dorothea,-,Schmied,80
+Puschmühl,5.10.,Dorothea,-,Schmied,80
 Lodenitz,24.11.,-,-,Hartel#,72
 Lodenitz,16.12.,Catharina,-,Kratschmer,69
 
@@ -467,7 +467,7 @@ Lodenitz,1.2.,Anna Maria,Georg,Pohl,3w
 Lodenitz,9.2.,Marina,Michael,Matzke,4
 Dohle,12.2.,Regina,-,Matzke,30 (Beruf Pächterin)
 Lodenitz,5.2.,Catharina,-,Seeliger,27
-Puchmühl,22.3.,Karl Joseph,Friedrich,Hansel,5y16w
+Puschmühl,22.3.,Karl Joseph,Friedrich,Hansel,5y16w
 Lodenitz,5.4.,Andreas,-,Rosensprung,47 (Beruf Pächter)
 Lodenitz,12.4.,Anna,Balthasar,Stantzel,1d
 Lodenitz,19.4.,Johannes,Andreas,Stantzel,11w
@@ -506,7 +506,92 @@ Lodenitz,16.1.,Georg,Andreas,Tatzel,4
 
 DP 56
 
+Lodenitz,29.1.,Marina,-,Heger,28 (Beruf Pächterin)
+Puschmühl,5.2.,Heinrich,-,Geig#,49
+Dohle,6.2.,Dorothea,-,Gilg,54
+Dohle,14.3.,Elisabeth,Christian,Matzke,3w
+Lodenitz,22.3.,Christian,Christian,Zimmer,2w
+Puschmühl,12.4.,Judith,-,Weiser,30 (Beruf Pächterin)
+Lodenitz,14.4.,Anna,Michael,Matzke,1
+Dohle,12.6.,Regina,Elias,Lindner,39d
+Puschmühl,19.6.,Anna Maria,Friedrich,Hanel,3
+Lodenitz,25.6.,Karl,Elias,Müksch,29d
+Puschmühl,15.7.,Brigitta,Georg,Krones,76 (Ehefrau)
+Lodenitz,17.7.,Eva,Paul,Kratschmer,63 (Ehefrau)
+Dohle,16.8.,Johannes,-,Matzke,76
+Lodenitz,28.8.,Georg,Johannes,Sirsch,43d (und 4 Stunden)
+Lodenitz,5.9.,Elisabeth,Georg,Lichtblau,3d
+Dohle,16.9.,Anna,Wenceslaus,Dittrich,53 (Ehefrau)
+Dohle,18.9.,Michael,Christian,Matzke,1d
+Dohle,25.9.,Friedrich,-,Meckel,75
+Lodenitz,25.9.,Rosina,Heinrich,Tögel,62 (Ehefrau)
+Puschmühl,24.10.,Johann Georg,Johann Weiser,1
+Lodenitz,28.10.,Anna,Martin,Hawel,26 (Tochter)(Aus Stachendorf)
+Dohle,28.10.,Friedrich,Jacob,Mick,2d
+Dohle,7.11.,Christian,Georg,Gilg,1d
+Dohle,23.11.,Christian,Christian,Gilg,3
+Dohle,12.12.,Marina,Michael,Meckel,64 (Ehefrau)
+Dohle,17.12.,Christian,-,Partsch,55
 
+1720
+
+Dohle,7.1.,Michael,-,Meckel,64
+Lodenitz,6.2.,Christian,Johannes,Matzner,1
+Lodenitz,7.2.,Laurenz,Matthäus,Kratschmer,27w
+Dohle,7.2.,Heinrich,-,Tengler,59
+Dohle,13.2.,Dorothea,Martin,Meckel,55 (Ehefrau)
+Dohle,21.2.,Dorothea,Johann,Matzke,63 (Ehefrau)
+
+DP 57
+
+Dohle,7.3.,Regina,Christian,Gilg,30w
+Lodenitz,19.3.,Anna,Johannes,Murrmahn,30 (Ehefrau)
+Lodenitz,22.3.,Rosina,Michael,Franck,21
+Dohle,30.3.,Anna,Georg,Gilg,58 (Ehefrau)
+Lodenitz,30.3.,Rosina,Georg,Kolb,56y4d (Ehefrau)
+Lodenitz,9.4.,Johannes,-,Bartke#,45
+Puschmühl,7.5.,Philipp,Baltzer,Franck,3d
+Dohle,3.6.,Anna,Christian,Pfoff,5w
+Dohle,14.6.,Matthäus,-,Prokesch,66
+Lodenitz,31.8.,Anna,Johannes,Matzner,50 (Ehefrau)
+Lodenitz,31.8.,Rosina,Christian,Springer,20w
+Lodenitz,3.9.,Christian,Michael,Kratschmer,-
+Lodenitz,6.9.,Rosina,Baltzer,Langer,36 (Tochter)
+Lodenitz,3.10.,Regina,Michael,Vogler,53 (Ehefrau)
+Dohle,5.10.,Andreas,Christian,Gilg,18 (Tochter)
+Puschmühl,30.10.,Andreas,-,Pfoff,27
+Lodenitz,30.10.,Rosina,Georg,Asten#,32 (Ehefrau)
+Lodenitz,29.11.,Georg,Martin,Zendler,29
+
+1721
+
+Lodenitz,4.1.,Rosina,Georg,Völkel,73 (Witwe)
+Dohle,18.1.,Johannes,-,Meckel,63y28w
+Grundt#,27.1.,Melchior,-,Olbricht,24y4w
+Lodenitz,26.3.,Johannes,-,Kratschmer,30
+Lodenitz,15.4.,Michael,-,Sirsch,41
+Lodenitz,27.4.,Marina,Christian,Sirsch,13y21w
+Lodenitz,30.4.,Karl,-,Schäfer,23
+Lodenitz,12.5.,Michael,Christian,Zimmer,33w
+Lodenitz,14.5.,Rosina,Christian,Zendler,62 (Ehefrau)
+Dohle,3.7.,Eva,Matthäus,Holtzbock,55 (Ehefrau)
+Dohle,12.7.,Christian,Michael,Pfoffenriet,0
+Lodenitz,26.7.,Gregor,-,Meckel,64
+Lodenitz,16.8.,Christina,Johannes,Pfoffenriet,63 (Ehefrau)
+Lodenitz,27.8.,Karl,Johannes,Matzner,3w
+
+DP 58
+
+Lodenitz,20.9.,Dorothea,Melchior,Meckel,56 (Ehefrau)
+Lodenitz,8.10.,Elisabeth,Michael,Stantzel,26 (Ehefrau)(Ehefrau oder Tochter ?)
+Dohle,12.10.,Regina,Michael,Pfoff,70 (Ehefrau)
+Lodenitz,2.11.,Gregor,-,Kratschmer,33
+Dohle,23.11.,Laurenz,-,Thoemel,57
+Dohle,23.11.,Christian,Christian,Matzke,1w6d
+Dohle,29.11.,Andreas,Christian,Matzke,2w5d
+Lodenitz,14.12.,Georg,-,Gabriel,56
+Lodenitz,18.12.,Andreas,-,Klein,58
+Lodenitz,24.12.,Elisabeth,Barthel,Stantzel,22w2d
 
 
 
