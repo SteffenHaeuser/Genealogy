@@ -1,3 +1,12 @@
+Sterbe
+Böhmen
+Tschechien
+Kirchenmatrik r.k
+Deutsch-Lodenitz
+Horni Lodenice
+rk
+1689-1721
+
 DP 42
 
 1689
@@ -592,8 +601,3 @@ Dohle,29.11.,Andreas,Christian,Matzke,2w5d
 Lodenitz,14.12.,Georg,-,Gabriel,56
 Lodenitz,18.12.,Andreas,-,Klein,58
 Lodenitz,24.12.,Elisabeth,Barthel,Stantzel,22w2d
-
-
-
-
-
