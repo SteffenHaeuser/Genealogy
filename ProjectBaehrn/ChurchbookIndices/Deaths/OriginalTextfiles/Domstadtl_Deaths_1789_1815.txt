@@ -1,73 +1,116 @@
-http://digi.archives.cz/da/Zoomify.action?entityRef=%28%5En%29%28%28%28localArchiv%2C%5En%2Chot_%29%28unidata%29%29%28332489%29%29&scanIndex=0
+http://digi.archives.cz/da/permalink?xid=be93c396-f13c-102f-8255-0050568c0263&scan=130
+
+DP 127
+
+
+
+DP 128
+
+1804
+
+Domstadtl,26.7.,Josepha,Johann,Langer,1.5 (#81)
+Domstadtl,2.8.,Ambrosch,Franz,Franck,18y9m (#89,Beruf Schuhmacher)
+Domstadtl,8.10.,Peregrin,Ferdinand,Mader,14#d (#39)
+Domstadtl,12.10.,Elisabeth,-,B�nel#,75 (#74,Beruf Inwohnerin)
+Domstadtl,13.10.,-,Joseph,Knopp,0 (#27)
+Domstadtl,14.10.,Engelberth,Joseph,Knopp,2d (#27)
+Domstadtl,8.11.,Johann Georg,-,G�ttiger,85 (#53)
+Domstadtl,29.12.,Joseph,-,Berger,67 (#58,Beruf Inwohner)
+
+DP 129
+
+Seibersdorf,12.8.,Karlona,Joseph,Schwert#,14d (#3,Beruf Tagl�hner)
+Seibersdorf,19.8.,Theresia,Joseph,T�gel,5m (#26,Beruf #gessell)
+Seibersdorf,10.10.,-,Michael,Hansel,0 (#10,Beruf H�usler)
 
 1805
 
+Domstadtl,14.1.,Katharina,-,Kuschlek,79# (#46)
+Domstadtl,2.2.,Anna Maria,-,Hansmann,80 (#61)
+Domstadtl,10.2.,Johann,-,Popp,25 (#47,Beruf Schneidermeister)
+Domstadtl,15.2.,Apollonia,-,Stantzel,71 (#15)
+Domstadtl,15.5.,Karl,-,Zimmer,66 (#17)
+Domstadtl,29.7.,Joseph,Johann,Stantzel,6d (#83,Beruf Schneidermeister)
+Domstadtl,2.8.,Karl Franz,-,Walter,63 (#30,Beruf Schuhmacher)
+Domstadtl,3.8.,Karl Franz,-,Franck,56 (#8)
+Domstadtl,29.8.,Karl Franz,Franz,Stantzel,9y8m (#2)
+Domstadtl,1.9.,Karl Franz,-,Walter,60 (#44,Beruf Webermeister)
+Domstadtl,2.9.,Franz,-,Walter,58 (#64,Beruf H�usler)
+
 DP 130
+
+Domstadtl,3.9.,Karl Joseph,Johann,Ficker,20d (#24,Beruf Soldat)
+Domstadtl,16.9.,Heinrich,-,Seidler,58 (#65,Beruf G�rbermeister)
+Domstadtl,26.9.,Johann Peter,Joseph,Kuschlek,3d (#91,Beruf H�usler)
+Domstadtl,3.11.,Johann,-,Rauskolb,50 (#66,Beruf H�usler)
+Domstadtl,15.11.,Karl Franz,-,Walter,87 (#29,Beruf Schuhmachermeister)
+Domstadtl,24.11.,Konrad,Joseph,Posch#,6d (#40,Beruf Brauermeister#)
+Domstadtl,1.12.,Franz,-,Franck#,66 (#46,Beruf Schuhmachermeister)
 
 DP 131
 
 1805
 
 Seibersdorf,30.8.,Theresia,-,Hantner#,73 (#25,Beruf Inwohnerin)
-Seibersdorf,30.8.,-,Joseph,Schwert#,0 (#3,Beruf Taglöhner)
+Seibersdorf,30.8.,-,Joseph,Schwert#,0 (#3,Beruf Tagl�hner)
 Seibersdorf,18.9.,Joseph,Joseph,Hansmann,2m (#15,Beruf Bauer)
 Seibersdorf,21.12.,Franz,-,Hansmann,33 (#8,Beruf Bauer)
-Seibersdorf,23.12.,Viktoria,Joseph,Rosensprung,1.5 (#32,Beruf Müllermeister)
+Seibersdorf,23.12.,Viktoria,Joseph,Rosensprung,1.5 (#32,Beruf M�llermeister)
 Seibersdorf,27.12.,-,Johann,Kuttler,0 (#30,Beruf Bauer)
 Seibersdorf,27.12.,Veronika,Franz,Hansmann,32 (Ehefrau,#8,Beruf Bauer)
 
 1806
 
 Domstadtl,3.1.,Elisabeth,Joseph,Franck,55 (Ehefrau,#44)
-Domstadtl,9.1.,Viktoria,Thaddäus,Krönes,5 (#9#,Beruf Schlossermeister)
-Domstadtl,2#.2.,Heinrich,-,Hansmann,88 (#10,Beruf Taglöhner)
+Domstadtl,9.1.,Viktoria,Thadd�us,Kr�nes,5 (#9#,Beruf Schlossermeister)
+Domstadtl,2#.2.,Heinrich,-,Hansmann,88 (#10,Beruf Tagl�hner)
 Domstadtl,9#.2.,Elisabeth,-,Schwarz,62 (Witwe,#79)
-Domstadtl,11.2.,-,Joseph,Berger#,0 (#60,Beruf Taglöhner)
+Domstadtl,11.2.,-,Joseph,Berger#,0 (#60,Beruf Tagl�hner)
 Domstadtl,13#.2.,Albert,-,Krist,39 (#3,Beruf #ermeister)
 Domstadtl,15.2.,Joseph,-,Schwa#,66 (#74,Beruf Gerichtsdiener)
-Domstadtl,15.2.,Cäcilia,Joseph,Knopp,4m (#27,Beruf Schneidermeister#)
-Domstadtl,23.2.,Josepha,Friedrich,Franck,1d (#48,Beruf Häusler)
-Domstadtl,27.2.,Johanna,Friedrich,Franck,33 (Ehefrau,#27,Beruf Häusler)
+Domstadtl,15.2.,C�cilia,Joseph,Knopp,4m (#27,Beruf Schneidermeister#)
+Domstadtl,23.2.,Josepha,Friedrich,Franck,1d (#48,Beruf H�usler)
+Domstadtl,27.2.,Johanna,Friedrich,Franck,33 (Ehefrau,#27,Beruf H�usler)
 Domstadtl,7.3.,Anna Maria,-,Walter,72# (#82,Beruf Inwohnerin)
 
 DP 132
 
 Domstadtl,12.3.,Michael,-,Poltzer,59 (#52,Beruf Inwohner)
 Domstadtl,24.3.,Elisabeth,-,Nithmann,29 (#52,Beruf Inwohnerin)
-Domstadtl,24.3.,Johanna,Joseph,Berger,39 (Ehefrau,#60,Beruf Taglöhner)
-Domstadtl,29.3.,Johann Sarkander#,Joseph,Englisch,6m (#42,Beruf Gärtler)
+Domstadtl,24.3.,Johanna,Joseph,Berger,39 (Ehefrau,#60,Beruf Tagl�hner)
+Domstadtl,29.3.,Johann Sarkander#,Joseph,Englisch,6m (#42,Beruf G�rtler)
 Domstadtl,3.4.,Joseph,Karl Franz,Walter,1.5 (#30,Beruf Schuhmacher)
 Domstadtl,14.4.,Maria Theresia,Michael,Poltzer,6m (#52)
-Domstadtl,20.4.,Viktoria,Anna Maria,Müller,1 (#87)
-Domstadtl,28.4.,Franz,-,Klein,46 (#72,Beruf Häusler)
+Domstadtl,20.4.,Viktoria,Anna Maria,M�ller,1 (#87)
+Domstadtl,28.4.,Franz,-,Klein,46 (#72,Beruf H�usler)
 Domstadtl,3.5.,Elisabeth,-,Lenert,68 (#50#)
-Domstadtl,5.6.,Theresia,Johann,Benisch,3m (#23,Beruf Gärtler)
+Domstadtl,5.6.,Theresia,Johann,Benisch,3m (#23,Beruf G�rtler)
 Domstadtl,10.6.,Friedrich,-,Zimmer,55# (#57,Beruf Schmiedemeister)(35 oder 55 ?)
 Domstadtl,14.6.,Viktoria,Joseph,Schwan,1.5 (#74)
 Domstadtl,13.7.,Theresia,-,Nithmann,2.5 (#94#) U: Kind von Elisabeth Nithmann
 Domstadtl,25.8.,Maria Elisabeth,-,Walter,32 (Witwe,#30)
 Domstadtl,29.8.,Karolina,Joseph,Walter,1y7m (#32)
 Domstadtl,7.9.,Karolina,Joseph,Franck,1.5 (#46,Beruf Schuhmacher)
-Domstadtl,14.9.,Franziska,Johann,Hülner,1 (#31,Beruf Schmiedemeister)
-Domstadtl,25.9.,Viktoria,Franz Anton,Poltzer,1.5 (#35,Beruf Bürgermeister)
+Domstadtl,14.9.,Franziska,Johann,H�lner,1 (#31,Beruf Schmiedemeister)
+Domstadtl,25.9.,Viktoria,Franz Anton,Poltzer,1.5 (#35,Beruf B�rgermeister)
 Domstadtl,7.10.,Benjamin,Johann Michael,Poltzer,1.5 (#8)
 Domstadtl,8.10.,Karl Joseph,-,Blaschke,26 (#16)
 Domstadtl,17.10.,Theresia,Ferdinand,Langer,1y3m (#63,Beruf Webermeister)
 
 DP 133
 
-Domstadtl,2.11.,Johann Sankander#,Florian,Titz,1 (#8,Beruf Taglöhner)
-Domstadtl,15.11.,Johanna,Gabriel,Hiemmer,2 (#25,Beruf Häusler)
+Domstadtl,2.11.,Johann Sankander#,Florian,Titz,1 (#8,Beruf Tagl�hner)
+Domstadtl,15.11.,Johanna,Gabriel,Hiemmer,2 (#25,Beruf H�usler)
 Domstadtl,15.11.,Wendelin,Franz,Gutjahr,1 (#78)
-Domstadtl,26.11.,Aloys,Thaddäus,Krönes,1.5 (#9,Beruf Schlossermeister)
+Domstadtl,26.11.,Aloys,Thadd�us,Kr�nes,1.5 (#9,Beruf Schlossermeister)
 Domstadtl,15.12.,Augustin,Joseph,Unger,1y3m (#59,Beruf Webermeister)
 Domstadtl,17.12.,Elisabeth,-,Langer,70 (Witwe,#26)
-Seibersdorf,3.1.,Johanna,Joseph,Tögel,3m (#26,Beruf Zimmergeselle)
+Seibersdorf,3.1.,Johanna,Joseph,T�gel,3m (#26,Beruf Zimmergeselle)
 Seibersdorf,4.2.,Magdalena,Joseph,Zimmer,52 (#2,Beruf Bauer)
 Seibersdorf,10.4.,Anna Rosina,-,Hansel#,60 (#10,Beruf Inwohnerin)
 Seibersdorf,17.5.,Anna Maria,-,Siersch,88 (#20,Beruf Inwohnerin)
-Seibersdorf,21.5.,Ferdinand,Karl,Bernard,1y3m (#22,Beruf Gärtler)
-Seibersdorf,22.5.,Viktoria,Franz,Hansmann,3 (#28,Beruf Gärtler)
+Seibersdorf,21.5.,Ferdinand,Karl,Bernard,1y3m (#22,Beruf G�rtler)
+Seibersdorf,22.5.,Viktoria,Franz,Hansmann,3 (#28,Beruf G�rtler)
 Seibersdorf,21.6.,Ignatz,Franz,Hansmann,1.5 (#8,Beruf Bauer)
 Seibersdorf,19.7.,Maria Elisabeth,Viktoria,Heichel,2y3m (#3)(Von Reisendorf)
 Seibersdorf,23.8.,Magdalena,Joseph,Kratschmer,48 (#29,Beruf Bauer)
@@ -76,47 +119,47 @@ Seibersdorf,3.12.,Heinrich,-,Hansmann,72 (#19)
 
 DP 134
 
-Seibersdorf,27.12.,Peregrin,Franz,Tropper,1y3m (#21,Beruf Gärtler)
+Seibersdorf,27.12.,Peregrin,Franz,Tropper,1y3m (#21,Beruf G�rtler)
 
 1807
 
-Domstadtl,9.1.,Johann,Christian,Gmändiger,1y5m (#80)
-Domstadtl,28.1.,Ignatz,Severin,Scholaster,5 (#28,Beruf Taglöhner)
-Domstadtl,14.2.,Josepha,Ferdinand,Walter,3.5 (#22,Beruf Müllermeister)
-Domstadtl,15.2.,Joseph,Johann,Streit,3 (#52,Beruf Taglöhner)
+Domstadtl,9.1.,Johann,Christian,Gm�ndiger,1y5m (#80)
+Domstadtl,28.1.,Ignatz,Severin,Scholaster,5 (#28,Beruf Tagl�hner)
+Domstadtl,14.2.,Josepha,Ferdinand,Walter,3.5 (#22,Beruf M�llermeister)
+Domstadtl,15.2.,Joseph,Johann,Streit,3 (#52,Beruf Tagl�hner)
 Domstadtl,23.2.,Johann,Joseph,Knopp,5 (#27,Beruf Schneidermeister)
-Domstadtl,25.2.,Johannes,-,Krönes,88 (#9,Beruf Schuhmachermeister)
+Domstadtl,25.2.,Johannes,-,Kr�nes,88 (#9,Beruf Schuhmachermeister)
 Domstadtl,27.2.,Rosalia,Karl Franz,Waler,7 (#27,Beruf Schuhmacher)
-Domstadtl,1.3.,Ferdinand,Ferdinand,Walter,4m (#22,Beruf Müllermeister)
+Domstadtl,1.3.,Ferdinand,Ferdinand,Walter,4m (#22,Beruf M�llermeister)
 Domstadtl,15.3.,Aloys,Florian,Mader,2 (#13)
 Domstadtl,16.3.,Viktoria,Florian,Blaschke,3.5 (#7)
 
 DP 135
 
-Domstadtl,18.3.,Franz,Johann,Tögel,4y3m (#96,Beruf Zimmermann)
+Domstadtl,18.3.,Franz,Johann,T�gel,4y3m (#96,Beruf Zimmermann)
 Domstadtl,20.3.,Josepha,Joseph,Hansmann,4 (#75)
 Domstadtl,24.3.,Ignatz,Johann,Ficker,4 (#24,Beruf Schneidermeister)
-Domstadtl,11.4.,Joseph,Joseph,Proschke,2 (#70,Beruf Gärbermeister)
+Domstadtl,11.4.,Joseph,Joseph,Proschke,2 (#70,Beruf G�rbermeister)
 Domstadtl,17.4.,Anna Maria,-,Langer,45 (#17,Beruf Inwohnerin)
 Domstadtl,4.5.,-,Bernhard,Nithmann,0 (#10#)
 Domstadtl,10.5.,Joseph,Dominik,Zmirn#,20d (#51,Beruf Schmiedemeister)
 Domstadtl,1.6.,Ignatz,Johann,Ficker,2m (#24,Beruf Schneidermeister)
 Domstadtl,26.6.,Rosalia,Ferdinand,Langer,14d (#63,Beruf Webermeister)
-Domstadtl,27.6.,Joseph,Joseph,Poltzer,2y3m (#5#,Beruf Häusler)
-Domstadtl,21.9.,Viktoria,Franz,Heger,12d (#58,Beruf Gärtler)
-Domstadtl,4.12.,Franz,-,Krönes,79 (#55)
+Domstadtl,27.6.,Joseph,Joseph,Poltzer,2y3m (#5#,Beruf H�usler)
+Domstadtl,21.9.,Viktoria,Franz,Heger,12d (#58,Beruf G�rtler)
+Domstadtl,4.12.,Franz,-,Kr�nes,79 (#55)
 
 DP 136
 
-Seibersdorf,10.1.,Josepha,Franz,Tropper,2y3m (#21,Beruf GÃ¤rtler)
+Seibersdorf,10.1.,Josepha,Franz,Tropper,2y3m (#21,Beruf Gärtler)
 Seibersdorf,11.1.,Johann,Johann,Hantner#,1y2m (#25)(Invalid#)
 Seibersdorf,23.1.,Rosalia,Joseph,Kratschmer,15 (Tochter,#29)
 Seibersdorf,27.1.,Theresia,Johann Friedrich,Blaschke,58 (Ehefrau,#8)
-Seibersdorf,29.1.,Karl Franz,Christian,Kratschmer,5 (#1,Beruf HÃ¤usler)
+Seibersdorf,29.1.,Karl Franz,Christian,Kratschmer,5 (#1,Beruf Häusler)
 Seibersdorf,4.2.,Elisabeth,Johann Georg,Meckel,27 (Tochter,#1,Beruf Schuhmacher)
-Seibersdorf,15.6.,Anna Maria,Johann,Langer,40 (Ehefrau,#18,Beruf KleingÃ¤rtler)
-Seibersdorf,10.8.,Viktoria,Michael,Hansel,1.5 (#10,Beruf HÃ¤usler)
-Seibersdorf,10.9.,Joseph,-,GmÃ¤ndiger,21# (#9,Beruf Webermeister)(21 Jahre richtig? Jung fÃ¼r einen Meister)
+Seibersdorf,15.6.,Anna Maria,Johann,Langer,40 (Ehefrau,#18,Beruf Kleingärtler)
+Seibersdorf,10.8.,Viktoria,Michael,Hansel,1.5 (#10,Beruf Häusler)
+Seibersdorf,10.9.,Joseph,-,Gmändiger,21# (#9,Beruf Webermeister)(21 Jahre richtig? Jung für einen Meister)
 
 1808
 
@@ -129,10 +172,10 @@ Domstadtl,19.6.,Christian,-,Hansmann,69 (#36)
 Domstadtl,29.6.,Paulina,-,Hansmann,65 (#68)
 Domstadtl,13.8.,Eleonora,Aloys,Hansmann,1m (#79#)(19 oder 79 ?)
 Domstadtl,30.8.,Karl Franz,-,Kunz,52 (#37,Beruf Fleischhackermeister)
-Domstadtl,13.9.,Maria Theresia,Joseph,Franck,1m (#41,Beruf BÃ¤ckermeister)
+Domstadtl,13.9.,Maria Theresia,Joseph,Franck,1m (#41,Beruf Bäckermeister)
 Domstadtl,26.9.,Aloys,Joseph,Hansmann,3.5 (#75#)(73 oder 75 ?)
 Domstadtl,27.9.,Emanuel,Daniel,Zimmer#,6m (#37,Beruf Schmiedemeister)
-Domstadtl,27.10.,Aloys,Franz,GÃ¶ttiger,1.5 (#53,Beruf Drechslermeister)
+Domstadtl,27.10.,Aloys,Franz,Göttiger,1.5 (#53,Beruf Drechslermeister)
 Domstadtl,26.11.,Franz,-,Gutjahr,83 (#78,Beruf St#meister)
 Domstadtl,24.12.,Florian,-,Scholtz,59 (#64)
 
@@ -150,26 +193,26 @@ Domstadtl,19.2.,Anton,-,Poltzer,32 (#95,Beruf Hirte)
 Domstadtl,25.2.,Johanna,Johann,Dresler,30 (Ehefrau,#79#,Beruf Borstenbinder)(73 oder 79 ?)
 Domstadtl,29.3.,Karl Franz,Franz,Klein,2d (#23,Beruf Inwohner)
 Domstadtl,2.4.,Johann Georg,-,Aleph#,69 (#20,Beruf Tischlermeister)
-Domstadtl,3.4.,Josepha,Peter,KrÃ¶nes,16d (#6,Beruf Schlossermeister)
-Domstadtl,12.4.,Karlona,Franz,GÃ¶ttiger,38 (Ehefrau,#53,Beruf Drechsler#)
+Domstadtl,3.4.,Josepha,Peter,Krönes,16d (#6,Beruf Schlossermeister)
+Domstadtl,12.4.,Karlona,Franz,Göttiger,38 (Ehefrau,#53,Beruf Drechsler#)
 Domstadtl,5.5.,Karl Franz,Karl Franz,Heger#,17d (#58,Beruf Bauer)
 Domstadtl,6.5.,Karolina,Karl Joseph,Walter,1m (#64,Beruf Webermeister)
-Domstadtl,15.6.,Johann Florian,Johann,GmÃ¤ndiger,1y4m (#4)
-Domstadtl,7.7.,Elisabeth,Christian,Guntel#,24 (Tochter,#13,Beruf TaglÃ¶hner)
+Domstadtl,15.6.,Johann Florian,Johann,Gmändiger,1y4m (#4)
+Domstadtl,7.7.,Elisabeth,Christian,Guntel#,24 (Tochter,#13,Beruf Taglöhner)
 Domstadtl,14.9.,Theresia,Joseph,Schwahn,36 (Witwe,#61,Beruf Gerichtsdiener)
-Domstadtl,17.9.,Dominik,-,Walter,46 (#82,Beruf TaglÃ¶hner)
+Domstadtl,17.9.,Dominik,-,Walter,46 (#82,Beruf Taglöhner)
 Domstadtl,24.9.,Anna Rosina,Friedrich#,Zimmer#,86 (Witwe,#86#)
-Domstadtl,2.11.,Franz,-,Polnizki#,19 (#14,Beruf Gmeiner# bei der Landwehren#)(von Bistritz# aus MÃ¤hren)
+Domstadtl,2.11.,Franz,-,Polnizki#,19 (#14,Beruf Gmeiner# bei der Landwehren#)(von Bistritz# aus Mähren)
 Domstadtl,24.11.,Johann Florian,Johann,Poltzer,1y1m (#65)
 Domstadtl,15.12.,Franz Anton,-,Poltzer,52y4m (#35#)(35 oder 95 ?)
 
 DP 140
 
 Seibersdorf,1.2.,Klara,Johann Georg,Meckel,49 (Ehefrau,#1,Beruf Schuhmacher)
-Seibersdorf,10.2.,-,Franz,Scholaster,0 (#27,Beruf HÃ¤usler)
+Seibersdorf,10.2.,-,Franz,Scholaster,0 (#27,Beruf Häusler)
 Seibersdorf,17.2.,Johann Georg,-,Meckel,78 (#1,Beruf Schuhmachermeister)
 Seibersdorf,14.5.,Christian,-,Schwert,68 (#32,Beruf Inwohner)
-Seibersdorf,10.9.,Michael,-,Hansel#,34.5 (#10,Beruf HÃ¤usler)
+Seibersdorf,10.9.,Michael,-,Hansel#,34.5 (#10,Beruf Häusler)
 Seibersdorf,15.11.,Johanna,Johann,Kuttler,37 (Ehefrau,#30,Beruf Bauer)
 Seibersdorf,16.12.,Johann,-,Kratschmer,40 (#7,Beruf Inwohner)
 Seibersdorf,17.12.,Magdalena,Johann,Kuttler,14d (Beruf Bauer)
@@ -177,10 +220,10 @@ Seibersdorf,17.12.,Magdalena,Johann,Kuttler,14d (Beruf Bauer)
 1810
 
 Domstadtl,6.1.,Johann,-,N#t,67.5 (#87,Beruf Inwohner)
-Domstadtl,8.4.,Josepha,Joseph,Franck,6#m (#41,Beruf #BÃ¤ckermeister)
+Domstadtl,8.4.,Josepha,Joseph,Franck,6#m (#41,Beruf #Bäckermeister)
 Domstadtl,9.4.,Karoline,Karl Joseph,Walter,18d (#64,Beruf Webermeister)
 Domstadtl,19.4.,Rosalia,Karl Franz,Klein,16d (#29#,Beruf Inwohner)(23 oder 29 ?)
-Domstadtl,6.5.,Elisabeth,Franz,Franck,75 (Witwe,#19,Beruf HÃ¤usler)
+Domstadtl,6.5.,Elisabeth,Franz,Franck,75 (Witwe,#19,Beruf Häusler)
 Domstadtl,13.6.,Johanna,Johann Friedrich,Poltzer,3.5# (Ehefrau,#75)
 Domstadtl,30.7.,Johann,Johann,Dresler,23d (#8,Beruf Inwohner)
 
@@ -188,30 +231,30 @@ DP 141
 
 Domstadtl,1.8.,Theresia,Franz,Heger,4m (#58)
 Domstadtl,14.11.,Franz,Caspar,Fuhrmann,1m (#99,Beruf Bleicher)
-Domstadtl,30.11.,Aloys,Johann,GmÃ¤ndiger,13d (#4)
+Domstadtl,30.11.,Aloys,Johann,Gmändiger,13d (#4)
 Domstadtl,25.12.,Franz,-,Lichtblau,51 (#60,Beruf Schuhmachermeister)
-Seibersdorf,1.1.,Karl,-,Kratschmer,55y4m (#4,Beruf HÃ¤usler)
+Seibersdorf,1.1.,Karl,-,Kratschmer,55y4m (#4,Beruf Häusler)
 Seibersdorf,10.1.,Franz,-,Hansmann,65y8m (#10,Beruf Bauer)
 Seibersdorf,16.2.,Theresia,-,Rosensprung,26y3m (#14,Beruf Erbrichter)
-Seibersdorf,4.3.,Elisabeth,Franz,Tropper,46 (Tochter,#21,Beruf GÃ¤rtler)
-Seibersdorf,26.3.,Anna Maria,Christian,Hansmann,83 (Witwe,#26,Beruf HÃ¤usler)
+Seibersdorf,4.3.,Elisabeth,Franz,Tropper,46 (Tochter,#21,Beruf Gärtler)
+Seibersdorf,26.3.,Anna Maria,Christian,Hansmann,83 (Witwe,#26,Beruf Häusler)
 Seibersdorf,22.3.,Rosalia,Leopold,Lichtblau,14.5 (#20,Beruf Inwohner)
 Seibersdorf,4.4.,Ignatz,Christian,Ledel,10y7m (#11,Beruf Bauer)
 Seibersdorf,14.4.,Paulina,Anton,Heichel,78 (Witwe,#10)(aus Herlsdorf)
 
 DP 142
 
-Seibersdorf,20.5.,Franz,Karl Franz,SchÃ¼llehanns#,1m (#15)
-Seibersdorf,24.6.,Florian,Joseph,Zimmer#,62#w (#24,Beruf HÃ¤usler) 
-Seibersdorf,30.7.,Florian,Johann,GmÃ¤ndiger,15 (#31,Beruf Bauer)
-Seibersdorf,4.9.,Florian,Karl,Benert#,19 (#22,Beruf HÃ¤usler)
+Seibersdorf,20.5.,Franz,Karl Franz,Schüllehanns#,1m (#15)
+Seibersdorf,24.6.,Florian,Joseph,Zimmer#,62#w (#24,Beruf Häusler) 
+Seibersdorf,30.7.,Florian,Johann,Gmändiger,15 (#31,Beruf Bauer)
+Seibersdorf,4.9.,Florian,Karl,Benert#,19 (#22,Beruf Häusler)
 Seibersdorf,29.12.,Elisabeth,Christian,Unger,75 (Witwe,#6,Beruf Bauer)
 
 1811
 
 Seibersdorf,15.3.,Vinzenz,Joseph,Knapp,14d (#27,Beruf Schneider#)
 Seibersdorf,22.3.,Engelbert,-,Hahnl#,22 (#49,Beruf Schneidergesell)(Hanel ?)
-Seibersdorf,28.3.,Johann,Johann,KÃ¶nig,3 (#54,Beruf Bauer)
+Seibersdorf,28.3.,Johann,Johann,König,3 (#54,Beruf Bauer)
 Seibersdorf,25.7.,Apollonia,Karl Franz,Mather#,69 (Witwe,#44,Beruf Weber)
 Seibersdorf,27.7.,Engelbert,-,Demel,58 (#50,Beruf Schuster)
 Seibersdorf,27.9.,Johann,-,Zips,50 (#47,Beruf Schneider)
@@ -224,13 +267,13 @@ DP 143
 1812
 
 Domstadtl,27.1.,Johann,Joseph,Walter,7m (#35,Beruf Weber)
-Domstadtl,30.1.,Joseph,-,Poltzer,37 (#5,Beruf HÃ¤usler)
+Domstadtl,30.1.,Joseph,-,Poltzer,37 (#5,Beruf Häusler)
 Domstadtl,23.2.,Josepha,Dominik,Zimmer#,2m (#57,Beruf Schmied)
 Domstadtl,24.2.,Benjamin,Johann Michael,Poltzer,1m (#8)
 Domstadtl,3.3.,Aloys,Ignatz,Demuth#,3m (#55,Beruf Weber)
 Domstadtl,7.3.,Theresia,Joseph,Purr,65 (#77)
 Domstadtl,30.3.,Joseph,Anton Joseph,Mimler,12d (#31,Beruf Fleischer)
-Domstadtl,8.4.,Josepha,Christian,GmÃ¤ndiger,4 (#80)
+Domstadtl,8.4.,Josepha,Christian,Gmändiger,4 (#80)
 Domstadtl,14.7.,-,Joseph,Langer,0 (#98,Beruf Weber)
 Domstadtl,15.7.,Johann,Karl,Poltzer,50 (#99)
 Domstadtl,7.8.,David,Joseph,Beutel#,2m (#69,Beruf Weber)
@@ -255,20 +298,20 @@ Domstadtl,16.10.,-,Gabriel,Hiemmer#,0 (Beruf Bauer)
 
 Domstadtl,27.1.,Viktoria,Ferdinand,Mader,21d (#39)
 Domstadtl,29.1.,Franziska,Ferdinand,Mader,23d (#39)
-Domstadtl,1.2.,Ferdinand,Johann,HÃ¶llner,3m (#21,Beruf Bauer)
-Domstadtl,22.3.,Elisabeth,Franz,TÃ¶gel,27 (Ehefrau,#66,Beruf Schuster)
+Domstadtl,1.2.,Ferdinand,Johann,Höllner,3m (#21,Beruf Bauer)
+Domstadtl,22.3.,Elisabeth,Franz,Tögel,27 (Ehefrau,#66,Beruf Schuster)
 Domstadtl,2#.3.,Ignatz,Franz,Gutjahr,6m (#78)
 Domstadtl,8#.3#.,Karl Franz,Johann,Streit,1m (#17,Beruf Inwohner)
-Domstadtl,1#.4#.,Engelbert,Johann,GmÃ¤ndiger,1 (#4)
-Domstadtl,#,Johann,-,GmÃ¤ndiger,74 (#4)
+Domstadtl,1#.4#.,Engelbert,Johann,Gmändiger,1 (#4)
+Domstadtl,#,Johann,-,Gmändiger,74 (#4)
 
 DP 145
 
-Domstadtl,21.4.,Viktoria,-,Stantzel,4 (#60,Beruf TagelÃ¶hnerin) U: Kind von Maria Klara Stantzel
+Domstadtl,21.4.,Viktoria,-,Stantzel,4 (#60,Beruf Tagelöhnerin) U: Kind von Maria Klara Stantzel
 Domstadtl,30.4.,Josepha,Valentin,Franck,12d (#84,Beruf Schuster)
-Domstadtl,12.5.,Josepha,Christian,GmÃ¤ndiger,12d (#80)
-Domstadtl,21.5.,Franziska,Ferdinand,Walter,4 (#22,Beruf MÃ¼ller)
-Domstadtl,1.8.,Franziska,Franz,TÃ¶gel,7m (#66,Beruf Schuster)
+Domstadtl,12.5.,Josepha,Christian,Gmändiger,12d (#80)
+Domstadtl,21.5.,Franziska,Ferdinand,Walter,4 (#22,Beruf Müller)
+Domstadtl,1.8.,Franziska,Franz,Tögel,7m (#66,Beruf Schuster)
 Domstadtl,16.9.,Leopold,-,Schneider,21 (#59,Beruf Tischler)
 Domstadtl,18.12.,Anna Maria,Joseph,Langer,37 (Witwe,#98,Beruf Weber)
 Domstadtl,19.12.,Magdalena,Martin,Hartel,75 (Witwe,#65,Beruf Inwohner)
@@ -276,20 +319,20 @@ Domstadtl,27.12.,Theresia,Joseph,Himmer#,75 (Witwe,#17,Beruf Schmied)
 
 1815
 
-Domstadtl,7.1.,Florian,Joseph,Proska#,11m (#70,Beruf RothgÃ¤rber)
+Domstadtl,7.1.,Florian,Joseph,Proska#,11m (#70,Beruf Rothgärber)
 Domstadtl,9.1.,Franz,-,Gutjahr,53 (#78)
 Domstadtl,14.2.,Johann,Johann,Ficker,2 (#24,Beruf Schneider)
 Domstadtl,19.2.,Theresia,Johann,Himmer#,15 (#57,Beruf Inwohner)(von Petersdorf)
 Domstadtl,22.2.,Theresia,Johann,Himmer#,15 (#57,Beruf Inwohner)(von Petersdorf)
-Domstadtl,2.3.,Karl Joseph,Peter,KrÃ¶nes,3 (#6,Beruf Schlosser)
+Domstadtl,2.3.,Karl Joseph,Peter,Krönes,3 (#6,Beruf Schlosser)
 Domstadtl,8.3.,Karoline,FLorian,Blaschke,10d (#7)
-Domstadtl,1.4.,Klara,Johann,KrÃ¶nes,66 (Witwe,#31,Beruf Schuster)
+Domstadtl,1.4.,Klara,Johann,Krönes,66 (Witwe,#31,Beruf Schuster)
 Domstadtl,2.5.,Leopold,Joseph,Englisch,23 (#42,Beruf Bauer)
 Domstadtl,23.5.,Anna Rosina,Heinrich,Mache#,75 (Witwe,#25,Beruf Inwohner)(von Altliebe)
 
 DP 146
 
-Domstadtl, 11.8.,Theresia,Franz,TÃ¶gel,16d (Beruf Schuster,#66)
-Domstadtl,8.9.,Theresia,Franz,TÃ¶gel,29 (Ehefrau,#66,Beruf Schuster)
-Domstadtl,12.12.,Antonia,Ferdinand,Walter,3.5 (Beruf MÃ¼ller)
+Domstadtl, 11.8.,Theresia,Franz,Tögel,16d (Beruf Schuster,#66)
+Domstadtl,8.9.,Theresia,Franz,Tögel,29 (Ehefrau,#66,Beruf Schuster)
+Domstadtl,12.12.,Antonia,Ferdinand,Walter,3.5 (Beruf Müller)
 Domstadtl,20.12.,Franziska,Karl Franz,Kunz,30y4m (Tochter,#37,Beruf Fleischer)
