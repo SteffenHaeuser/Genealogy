@@ -1,12 +1,37 @@
 http://digi.archives.cz/da/permalink?xid=be93c396-f13c-102f-8255-0050568c0263&scan=130
 
+DP 126
+
+
+
 DP 127
 
+1803
 
-
-DP 128
+Seibersdorf,4.3.,Rosina,-,Gmändiger,81 (#31)
+Seibersdorf,12.3.,Florian,Johann Georg,Meckel,3y4m (#1,Beruf Schuhmacher)
+Seibersdorf,14.3.,Klara,Joseph,Zimmer,1y2m (#24,Beruf Häusler)
+Seibersdorf,3.4.,Karl Franz,Karl,Bernard,1y9m (#22,Beruf Gärtler)
+Seibersdorf,11.8.,Franz,-,Tropper,73# (#21)
+Seibersdorf,4.9.,Josepha,Ignatz,Rosensprung,3 (#14,Beruf Erbrichter)
+Seibersdorf,5.11.,Eleonora,Ignatz,Rosensprung,23# (Ehefrau,#14,Beruf Erbrichter)
+Seibersdorf,17.12.,Franz,#nke,96 (#7)
+Seibersdorf,18.12.,Anna Maria,-,Kloß,65 (#3,Beruf Inwohnerin)
 
 1804
+
+Domstadtl,20.1.,Theresia,Johann,Schwarz,1d (#31,Beruf Schlossermeister)
+Domstadtl,22.1.,Maria Elisabeth,Joseph,Knopp,1m (#27,Beruf Schneidermeister)
+Domstadtl,23.1.,Karl Joseph,Johann Michael,Blaschke,2m (#1)
+Domstadtl,12.2.,Karolina,Anton,Mimler,12d (#9,Beruf Fleischhacker)
+Domstadtl,14.2.,Paulina,Thaddäus,Krönes,46# (Ehefrau,#9,Beruf Schlossermeister)
+Domstadtl,20.2.,Katharina,-,Walter,78 (#32)
+Domstadtl,22.3.,Johanna,Johann,Stantzel,5 (#83,Beruf Schneidermeister)
+Domstadtl,4.4.,Josepha,Ferdinand,Langer,15d (#63,Beruf Webermeister)
+Domstadtl,3.6.,Christian,-,Blaschke,67 (#7)
+Domstadtl,24.7.,Stephan,Christian,Bönel#,1 (#45,Beruf Schneidermeister)
+
+DP 128
 
 Domstadtl,26.7.,Josepha,Johann,Langer,1.5 (#81)
 Domstadtl,2.8.,Ambrosch,Franz,Franck,18y9m (#89,Beruf Schuhmacher)
