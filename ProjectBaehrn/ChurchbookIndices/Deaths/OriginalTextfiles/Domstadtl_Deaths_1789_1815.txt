@@ -1,12 +1,47 @@
 http://digi.archives.cz/da/permalink?xid=be93c396-f13c-102f-8255-0050568c0263&scan=130
 
+DP 109
+
+1794
+
+Seibersdorf,20.2.,Ignatz,-,Gmändiger,21d (#31,Beruf Bauer)
+
+
+DP 110
+
+1795
+
+Domstadtl,21.12.,Johanna,Florian,Mader,8m (#13)
+Domstadtl,28.12.,Augustin,Franz,Walter,2 (#84)
+Domstadtl,30.12.,Josepha,Johann,Gmändiger,2.5 (#4,Beruf Fleischhacker)
+Seibersdorf,12.5.,Johanna,Joseph,Thiel,3m (#24,Beruf Zimmermeister)
+Seibersdorf,15.5.,Anna Katharina,Karl,Kuttler,63 (Ehefrau,#30)
+Seibersdorf,13.8.,Anna Rosina,Johann Georg,Meckel,2m13d (#1,Beruf Schuhmacher)
+Seibersdorf,2.9.,-,-,Kloß,0 U: Kind von Rosalia Kloß
+Seibersdorf,18.11.,Maria Elisabeth,-,Schäfer,24 (#9)
+
 DP 111
 
+1796
 
+Domstadtl,3.1.,Viktoria,Joseph,Unger,3 (#89,Beruf Webermeister)
+Domstadtl,3.1.,Johann Florian,Johann,Rauskolb,1y3m (#66,Beruf Häusler)
+Domstadtl,5#.1.,Franziska,Franz,Lichtblau,3y2m (#60,Beruf Schuhmacher)
+Domstadtl,12.1.,Aloys,Anton,Fischer,1y1m (#11,Beruf Schulmeister)
+Domstadtl,20.1.,Karl Franz,Karl Franz,Göttiger,1y2m (#53,Beruf Häusler)(Gelesen: "Gediger")
+Domstadtl,28.1.,Johanna,Johann,Krönes,3.5 (#9#)
+Domstadtl,9.2.,Ignatz,Johann,Langer,6m (#18,Beruf Schneidermeister)
+Domstadtl,10.3.,Rosalia,Franz,Klein,1m8d (#72,Beruf Häusler)
+Domstadtl,11.3.,Johann Georg,-,Ficker,77# (#45#)
+Domstadtl,15.3.,Dorothea,Franz,Lichtblau,9y6m (#60,Beruf Schuhmacher)
+Domstadtl,3.4.,Christian,-,Schafhaupt,78 (#58)
+Domstadtl,20.5.,Franz Anton,Johann,Langer,3m (#81)
+Domstadtl,24.5.,Theresia,Florian,Zimmer#,7y2m (#86,Beruf Soldat)
+Domstadtl,6.6.,Maria Josepha,Johann,Kalusch#,1m (#75,Beruf Schmiedemeister)
+Domstadtl,17#.7.,Viktoria,Augustin,Stantzel,20d (#31,Beruf Zimmergeselle)
+Domstadtl,23.7.,Benedikt,Severin,Scholaster,3y8m (#17)
 
 DP 112
-
-1796
 
 Domstadtl,28.8.,Franz,Johann,Langer,18 (#16)
 Domstadtl,29.9.,Johann,-,König,57 (#39)
