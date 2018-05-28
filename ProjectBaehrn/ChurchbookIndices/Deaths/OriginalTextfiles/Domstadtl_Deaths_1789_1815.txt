@@ -1,12 +1,256 @@
 http://digi.archives.cz/da/permalink?xid=be93c396-f13c-102f-8255-0050568c0263&scan=130
 
+DP 111
+
+
+
+DP 112
+
+1796
+
+Domstadtl,28.8.,Franz,Johann,Langer,18 (#16)
+Domstadtl,29.9.,Johann,-,König,57 (#39)
+Domstadtl,6.10.,Franz Anton,Johann,Langer,12d (#81)
+Domstadtl,9.10.,Karl Joseph,Johann,Langer,15d (#81)
+Domstadtl,15.10.,Viktoria,Joseph,Englisch,2m (#45)
+Domstadtl,12.11.,-,Joseph,Schwan,0 (#74,Beruf Bauer#)
+Domstadtl,22.11.,Elisabeth,-,Schafhaupt,63 (Witwe,#58)
+Domstadtl,27.11.,Anna Maria,-,Scholaster,54 (Witwe,#87)
+Domstadtl,21.12.,-,Johann Franz,Langer,0 (#18,Beruf Schneidermeister)
+
+DP 113
+
+1797
+
+Domstadtl,19.1#.,Laurenz,-,Schwarz,44 (#85,Beruf Häusler)
+Domstadtl,8.3.,Theresia,-,Poltzer,70 (Witwe,#59)
+Domstadtl,10#.3.,Elisabeth,Anton,Knopp,54 (Ehefrau,#91,Beruf Händler)
+Domstadtl,15.3.,Susanna,-,Langer,80 (Witwe,#92)
+Domstadtl,29.3.,Augustin,Franz,Walter,4m (#84,Beruf Häusler#)
+Domstadtl,5.4.,Joseph,-,Streit,42 (#61,Beruf Inwohner)
+Domstadtl,9.4.,Johanna,Anton,Mannsbarth,6m (#7,Beruf Inwohner)
+Domstadtl,12.4.,Theresia,Albert,Krist,6m14d (#3,Beruf #dermeister)
+Domstadtl,17.4.,Johann,Gabriel,Hiemmer,4.5 (#7,Beruf Gärtler)
+Domstadtl,23.4.,Karl Joseph,Bernard,Lichtblau,3m2d (#94,Beruf Schuhmacher)
+Domstadtl,24.4.,Johann Michael,Joseph,Langer,4.5 (#67,Beruf Inwohner)
+Domstadtl,9.6.,Franz Xaver,Franz,Aleph#,3.5 (#20,Beruf Tischlermeister)
+Domstadtl,6.9.,Johann Florian,Joseph,Unger,6m (#89,Beruf Webermeister)
+Domstadtl,20.9.,Franz,Karl Franz,Hansmann,7d (#76)
+Domstadtl,24.9.,Theresia,Joseph,Schwan,8d (#74,Beruf Gerichtsdiener)
+Domstadtl,21.10.,Apollonia,-,Franck,81 (Witwe,#18)
+Domstadtl,28.10.,Maria Josepha,Franz,Franck,2d (#46,Beruf Schuhmacher)
+Domstadtl,22.11.,Anna Elisabeth,Gabriel,Hiemmer,6d (#5)
+Domstadtl,26.11.,Anna Maria,-,Teimer#,60 (Witwe,#24)(Nachname schwer zu lesen, unsicher)
+
+DP 114
+
+Seibersdorf,15.1.,-,Johann,Kuttler,0 (#30,Beruf Bauer)
+Seibersdorf,20.1.,Anna Maria,-,Langer,73 (Witwe,#18)
+Seibersdorf,1.6.,Joseph,Johann Michael,Kuttler#,3.5 (#3,Beruf Häusler)
+Seibersdorf,23.6.,Karl Joseph,Karl,Kuttler,2m (#30)
+Seibersdorf,16.7.,Magdalena,Karl,Kuttler,1y8m (#11,Beruf Bauer)
+Seibersdorf,3.8.,Karl Franz,Karl,Bernard,1 (#22,Beruf Gärtler)
+
+DP 115
+
+1798
+
+Domstadtl,3.1.,Joseph Engelbert,Joseph,Knopp,1d (#27,Beruf Schneidermeister)
+Domstadtl,7.1.,Christian,-,Hansmann,80 (#61,Beurf Inwohner)
+Domstadtl,11.1.,Eleonora,Gabriel,Hiemmer,30 (Ehefrau,#5)
+Domstadtl,12.1.,-,Albrecht,Krist,0 (#3,Beruf #ermeister)(Bindermeister ???)
+Domstadtl,26.2.,Theresia,Ferdinand,Mader,14d (#39)
+Domstadtl,11.4.,Viktorin und Viktoria,Thaddäus,Krönes,25d (#9,Beruf Schlossermeister)
+Domstadtl,23.4.,Viktoria,Florian,Stantzel,38 (#15)
+Domstadtl,25.5.,Katharina,Benedikt,Langer,42 (Ehefrau,#26,Beruf Webermeister)
+Domstadtl,1.6.,Konrad,Franz,Poltzer,1y1m (#14)
+Domstadtl,2.6.,Karl,-,Gerle,77 (#17)(Möglicherweise der in der Geschichte um Franz Hansmann und Friedrich den Großen erwähnte Karl Gerle ?)
+Domstadtl,7.6.,Franziska,Florian,Hüllner,14d (#38)
+Domstadtl,15.6.,Johann,-,Kuntz,38 (#49,Beruf Webermeister)
+Domstadtl,17.6.,Joseph,-,Langer,42 (#67,Beruf Inwohner)
+Domstadtl,18.6.,Susanna,-,Franck,77 (Witwe,#6)
+Domstadtl,19.6.,Bernard,Joseph,Berger,12 (#52,Beruf Taglöhner)
+Domstadtl,23.6.,Florian,-,Tögel,65 (#79)
+Domstadtl,25.6.,Aloys,Augustin,Hansmann,21d (#68)
+Domstadtl,7.8.,Paulina,Thaddäus,Krönes,1.5 (#9,Beruf Schlossermeister)
+
+DP 116
+
+Domstadtl,10.8.,Johann Georg,-,Heger,57 (#58)
+Domstadtl,6.9.,Johann,Theresia,Stemker#,14#d (#46)(von Siegelzau#)
+Domstadtl,26.10.,Viktoria,-,Blaschke,34 (#7)
+Domstadtl,5.11.,Johann Anton,Anton,Knopp,5d (#91,Beruf Händler)
+Domstadtl,13.11.,Joseph,Franz,Krönes,6m (#55,Beruf Schmiedemeister)
+Domstadtl,13.12.,Anna Maria,-,Franck,56 (#80)
+Domstadtl,31.12.,-,Joseph,Unger,0 (#89,Beruf Webermeister)
+Seibersdorf,4.3.,-,Johann,Gmändiger,0 (#31,Beruf Bauer)
+Seibersdorf,28.4.,Klara,Franz,Hansmann,3 (#16,Beruf Bauer)
+Seibersdorf,10.5.,Johann,Franz,Hansmann,8 (#8,Beruf Bauer)
+Seibersdorf,26.6.,Josepha,Christian,Purr,3 (#5,Beruf Bauer)
+Seibersdorf,13.7.,Maria Klara,Johann Georg,Meckel,1y3m (#1,Beruf Schuhmacher)
+Seibersdorf,19.7.,Viktoria,Karl Franz,Meckel,5m (#5,Beruf Fleischhacker)
+Seibersdorf,1.10.,Christian,-,Hansmann,60 (#24,Beruf Häusler)
+Seibersdorf,18.10.,Katharina,-,Gmändiger,73# (#9)
+
+DP 117
+
+1799
+
+Domstadtl,3.2.,Helena,-,Dreiseitel,52 (#41)
+Domstadtl,6.2.,Karl Joseph,Joseph,Walter,6 (#32)
+Domstadtl,17.2.,Paul,-,Poltzer,78 (#53,Beruf Inwohner)
+Domstadtl,20.2.,Anna Maria,-,Popp,74 (#73)
+Domstadtl,13.3.,Anna Maria,-,Streit,67 (#8,Beruf Inwohnerin)
+Domstadtl,27.3.,Theresia,-,Pfoff,75 (#51)
+Domstadtl,10.5.,Magdalena,-,Förstner,66 (#58#,Beruf Inwohnerin)
+Domstadtl,30.6.,Elisabeth,-,Mother,58 (#58,Beruf Inwohnerin)
+Domstadtl,26.7.,Andreas,-,Kaiser,88 (#45,Beruf Braumeister)
+Domstadtl,8.10.,Franz Anton,Joseph,Schwan,5 (#74,Beruf Gerichtsdiener)
+Domstadtl,30.10.,Anton,-,Knopp,64 (#91,Beruf Krämer)
+Domstadtl,14.11.,Magdalena,-,Krönes,61 (#55)
+Domstadtl,29.11.,Maria Theresia,Johann,Berger,1d (#90,Beruf Taglöhner)
+Domstadtl,4.12.,Rosalia,Johann Michael,Blaschke,42 (Ehefrau,#61, Beruf Kürschner#)
+Domstadtl,17.12.,Heinrich,-,Gmändiger,82 (#23)
+Domstadtl,24.12.,Josepha,Florian,Blaschke,14#d (#7)
+Domstadtl,25.12.,Ferdinand,Johann,Schramm#,1 (#92,Beruf Taglöhner)
+
+DP 118
+
+Seibersdorf,3.3.,Joseph,Johann Michael,Knotter#,1m7d (#3,Beruf Häusler)
+Seibersdorf,27.4.,Rosina,-,Heintz,65 (#4,Beruf Inwohnerin)
+Seibersdorf,27.6.,Leopold,-,Hansmann,79 (#15)
+
+DP 119
+
+1800
+
+Domstadtl,10.1.,Anna Maria,-,Ficker,68 (#45)
+Domstadtl,14.1.,Joseph,Johann,Stantzel,8m (#41#,Beruf Schneidermeister)
+Domstadtl,24.1.,Romanus,-,Lindner,33 (#56,Beruf Soldat)(Invalide)
+Domstadtl,18.2.,Magdalena,-,Gmändiger,68 (#61)
+Domstadtl,2.3.,Aloys,Johann,Langer,5d (#81)
+Domstadtl,21.3.,Franziska,Johann,Benisch,4m (#23)
+Domstadtl,8.4.,Anna Elisabeth,Joseph,Knopp,9m (#27,Beruf Schneidermeister)
+Domstadtl,30.4.,Florian,Florian,Mader,10m (#13)
+Domstadtl,10.6.,Franz,-,Krönes,36 (#55,Beruf Schlossermeister)
+Domstadtl,30.6.,Elisabeth,-,Lichtblau,78 (#60)
+Domstadtl,3.7.,Viktoria,Johann,Langer,20 (#17)
+Domstadtl,10.7.,Florian,Joseph,Englisch,3 (#42)
+Domstadtl,29.7.,Theresia,Franz,Krönes,4 (#55)
+Domstadtl,15.8.,Johann Florian,Florian,Walter,2.5 (#54)
+Domstadtl,18.8.,Joseph,Franz,Krönes,10m (#55)
+Domstadtl,19.8.,Johann Michael,-,Franck,70 (#80)
+Domstadtl,8.9.,Johann,-,Schwan,25# (#92,Beruf Taglöhner)
+
+DP 120
+
+Domstadtl,24.9.,Viktoria,Franz,Stantzel,7 (#2)
+Domstadtl,25.9.,Karl Joseph,-,Weingarten#,1 (#58) U: Kind von Anna Maria Weingarten#
+Domstadtl,26.9.,Viktoria,Johann,Schwan,8m (#2,Beruf Taglöhner)
+Domstadtl,27.9.,Karolina,Johann,Rauskolb,2 (#66,Beruf Taglöhner)
+Domstadtl,29.9.,Johann Florian,Benedikt,Langer,1y3m (#26,Beruf Webermeister)
+Domstadtl,11.10.,Franz Anton,Franz,Poppelt#,5m (#40,Beruf Braumeister#)
+Domstadtl,14.10.,Engelbert,Florian,Mader,4 (#13)
+Domstadtl,15.10.,Josepha,Johann Georg,Motken#,3m (#59,Beruf Webermeister)(Nachname sehr schwer zu lesen)
+Domstadtl,17.10.,Viktoria,Augustin,Stantzel,1y1m (#31,Beruf Zimmergeselle)
+Domstadtl,18.10.,Joseph,Johann,Kalusch#,1y2m (#87#,Beruf Schmiedemeister)(Nachname schwer zu lesen)
+Domstadtl,23.10.,Joseph,-,Langer,71 (#18,Beruf Kirchvater und Schneidermeister)
+Domstadtl,24.10.,Maria Elisabeth,Karl Franz,Walter,2m (#51,Beruf Webermeister)
+Domstadtl,25.10.,Josepha,Peter,Krönes,1 (#6,Beruf Schlossermeister)
+Domstadtl,27.10.,Joseph,Florian,Hellner,21d (#38)
+Domstadtl,2.11.,Johann,Joseph,Walter,9m (#32)
+Domstadtl,9.11.,Elisabeth,Severin,Scholaster,37 (Ehefrau,#60,Beruf Häuslerin)
+Domstadtl,2.12.,Johann Ignatz,Johann,Rauskolb,9d (#66,Beruf Häusler)
+Domstadtl,27.12.,Franz,-,Franck,69 (#19,Beruf Schneidermeister)
+
+DP 121
+
+Seibersdorf,22.10.,Klara,Christian,Kratschmer,36 (#1,Beruf Häusler)
+Seibersdorf,11.11.,Franz,-,Gmändiger,43 (#13,Beruf Häusler)
+Seibersdorf,29.11.,Eleonora,Johann,Gmändiger,6m (#9,Beruf Bauer)
+Seibersdorf,3.12.,Rosalia,Franz,Gmändiger,6m (#13)
+
+1801
+
+Domstadtl,16.1.,Johannes Thaddäus,Gabriel,Hiemmer,1.5 (#5)
+Domstadtl,5.2.,Franz,-,Poltzer,65 (#14)
+Domstadtl,9.6.,Anna Maria,-,Walter,44 (#22,Beruf Müllermeisterin)
+Domstadtl,1.7.,Magdalena,Joseph,Unger,36 (Ehefrau,#89)
+Domstadtl,30.11.,Josepha,Florian,Walter,1.5 (#54)
+Domstadtl,10.12.,Theresia,Franz,Klein#,1m (#72,Beruf Häusler)
+Domstadtl,23.12.,-,Ignatz,Knopp,0 (#19,Beruf Schneidermeister)
+Domstadtl,26.12.,Anna Maria,-,Tatzel,81 (#31,Beruf Inwohnerin)
+
+DP 122
+
+Seibersdorf,17.1.,Anna Maria,Michael,Walter,79 (#3)
+Seibersdorf,22.1.,Johann,Franz,Hansmann,10m (#16,Beruf Bauer)
+Seibersdorf,6.2.,Viktoria,Franz,Tropper,1.5 (#21,Beruf Gärtler)
+Seibersdorf,10.2.,Theresia,-,Wein#,76 (#23,Beruf Inwohnerin)
+Seibersdorf,15.2.,Christian,Joseph,Tögel,7m (#26,Beruf Häusler)
+Seibersdorf,12.4.,Christina,-,Kratschmer,87 (#22)
+Seibersdorf,28.5.,-,Joseph,Kratschmer,0 (#29,Beruf Bauer)
+Seibersdorf,30.7.,Anna Maria,Karl Franz,Meckel,29 (Ehefrau,#5,Beruf Fleischhacker)
+Seibersdorf,28.8.,Joseph,Karl Franz,Meckel,6m (#5)
+
+DP 123
+
+1802
+
+Domstadtl,14.1.,Friedrich,-,Purr,52 (#34)
+Domstadtl,2.2.,-,Johann,Langer,0 (#81)
+Domstadtl,12.2.,Theresia,Joseph,Unger,9m (#89,Beruf Webermeister)
+Domstadtl,19.2.,David,Johann,Benisch,4d (#23)
+Domstadtl,21.2.,Anton Joseph,Joseph,Kuschlek,1m (#91,Beruf Häusler)
+Domstadtl,28.2.,Joseph,-,Walter,58 (#54)
+Domstadtl,12.3.,Klara,Johann,Stantzel,43 (#41,Beruf Schneidermeister)
+Domstadtl,20.3.,Thekla,Karl Franz,Seidler,8d (#64,Beruf Häusler)
+Domstadtl,24.5.,Stephan,Christian,Bönel#,6m3d (#45,Beruf Schneidermeister)
+Domstadtl,3.6.,Josepha,Johann,Stantzel,1.5 (#41,Beruf Schneidermeister)
+Domstadtl,23.6.,Anna Elisabeth,Gottlieb,Langer,2d (#92,Beruf Webermeister)
+Domstadtl,23.7.,Rosalia,Bernard,Lichtblau,1y7m (#94,Beruf Schuhmacher)
+Domstadtl,24.7.,Johann Florian,Albert,Krist,1 (#3,Beruf #dermeister)
+Domstadtl,10.8.,ALoys,Augustin,Hansmann,1m (#68)
+Domstadtl,13.10.,Barbara,Johann,Taum#,51 (Ehefrau,#99,Beruf Bleicher)(Nachname schwer lesbar, unsicher)
+Domstadtl,21.10.,Johann Florian,Michael,Poltzer,1.5 (#8)
+Domstadtl,7.11.,Rosalia,Ferdinand,Mader,32 (#39)
+Domstadtl,25.11.,Johann Kasimir,Karl Franz,Walter,7d (#51,Beruf Webermeister)
+Domstadtl,19.12.,Viktoria,Johann Michael,Blaschke,9m (#1)
+
+DP 124
+
+Domstadtl,20.12.,Viktoria,Joseph,Franck,7d (#93,Beruf Fleischhacker)
+Domstadtl,31.12.,Johann,Karl Franz,Franck,6m (#80)
+Seibersdorf,19.6.,Johanna,Andreas,Nagel,6m (#19,Beruf Gärtler)
+Seibersdorf,19.10.,Johann Michael,-,Walter,67 (#3)
+Seibersdorf,14.11.,Christian,-,Unger,78 (#6)
+Seibersdorf,22.11.,Anna Maria,-,Hansmann,81 (#16)
+Seibersdorf,12.12.,Karl Franz,Joseph,Kratschmer,7#y6m (#29,Beruf Bauer)
+Seibersdorf,13.12.,Christian,-,Ledel,67 (#11)(ledig)
+Seibersdorf,17.12.,Anton,Anton,Walter,2y14d (#167,Beruf Webermeister von #stadtl)
+
+
+DP 125
+
+Domstadtl,27.1.,Karl Joseph,Joseph,Walter,9m (#32)
+Domstadtl,8.3.,Johann Florian,Johann,Gmändiger,1m (#4)
+Domstadtl,24.5.,Johann Florian,Joseph,Poltzer,1d (#5,Beruf Häusler)
+Domstadtl,16.6.,Aloys,Johann,Gmändiger,3m (#4)
+Domstadtl,30.6.,Johann Florian,Karl Franz,Walter,6m (#30,Beruf Schuhmacher)
+Domstadtl,17.7.,Katharina,-,Poltzer,80 (#52,Beruf Inwohnerin)
+Domstadtl,19.8.,Viktoria,Joseph,Franck,17 (#41,Beruf Bäckermeister)
+Domstadtl,28.9.,Anna Elisabeth,Johann,Langer,45 (#81)
+Domstadtl,8.11.,Karl Franz,Joseph,Walter,8d (#32)
+
 DP 126
 
+1803
 
+Domstadtl,10.11.,Anna Maria,Karl Franz,Walter,80 (#29)
+Domstadtl,15.11.,Ignatz,Franz,Stantzel,3 (#2)
+Domstadtl,4.12.,Anton,Joseph,Proschke#,1m (#70,Beruf Gärbermeister)
 
 DP 127
-
-1803
 
 Seibersdorf,4.3.,Rosina,-,Gmändiger,81 (#31)
 Seibersdorf,12.3.,Florian,Johann Georg,Meckel,3y4m (#1,Beruf Schuhmacher)
