@@ -1,11 +1,33 @@
 http://digi.archives.cz/da/permalink?xid=be93c396-f13c-102f-8255-0050568c0263&scan=130
 
+DP 108
+
+
+
 DP 109
 
 1794
 
 Seibersdorf,20.2.,Ignatz,-,Gmändiger,21d (#31,Beruf Bauer)
-
+Seibersdorf,7.4.,Anna Maria,-,Kuttler,80 (Ehefrau,#11,Beruf Bauer)
+Seibersdorf,15.7.,Katharina,-,Zimmer,65 (#2,Beruf Bauer)
+Seibersdorf,18.7.,Joseph,-,Meckel#,1m3d (#1,Beruf Schuhmacher)
+Seibersdorf,2.9.,Theresia,Friedrich,Zimmer,64 (Tochter,#19#)
+Seibersdorf,12.10.,Joseph,-,Zimmer,82 (#2)
+Seibersdorf,22.11.,Christian,-,Purr,79# (#5)
+Seibersdorf,27.11.,Karl,-,Habel,69 (#28,Beruf Inwohner)
+Seibersdorf,28.11.,Karl,-,Hansmann,55 (#28,Beruf Gärtler)
+Seibersdorf,14.12.,Christian,-,Thiel,4m (#24,Beruf #mann)
+Seibersdorf,7.12.,Viktoria,-,Gmändiger,4m (#9)
+Domstadtl,30.1.,Maria Eleonora,Christian,Bönel,8d (#45)
+Domstadtl,28.2#.,Anton,-,Stantzel,63 (#87,Beruf Hüttler)
+Domstadtl,1.5.,Anton,-,Bartl,76 (#12,Beruf Lokalkaplan)
+Domstadtl,6.8.,Augustin,Franz,Poltzer,6m (#14)
+Domstadtl,13.8.,Maria Paulina,Augustin,Hansmann,1m7d (#68)
+Domstadtl,25.8.,Elisabeth,-,Stantzel,77 (#37,Beruf Inwohnerin)
+Domstadtl,26.8.,Ignatz und Leopold,Johann,Berger,1d (#90)
+Domstadtl,24.11.,Johann Florian,Florian,Blaschke,1 (#7)
+Domstadtl,12.12.,Johann Florian,Johann Michael,Poltzer,1y3m (#8)
 
 DP 110
 
