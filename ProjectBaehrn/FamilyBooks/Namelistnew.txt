@@ -1,5 +1,9 @@
 Andilke, Catharina 154
+Andilke, Jacob 174
+Arazym, Dorothea 169
+Arazym, Nikolaus 184
 Bartosch, Anna 135
+Bartosch, Crhaka 177
 Bartosch, Hawel 158
 Bayer, Andreas 155
 Bayer, Georg 115
@@ -12,26 +16,41 @@ Benesch, Rosina 130
 Berger, Dorothea 131
 Berger, Nicolaus 153
 Bergmann, Anna Maria 109
+Bergmann, Caspar 166
 Bergmann, Nicolaus 143
 Bergmann, Wenceslaus 123
 Bernhardt, Marina 155
+Bernhardt, Michael 175
 Biber, Friedrich 136
 Biber, Judith 118
 Biber, Matthäus 159
+Biber, Michael 179
+Bock, Johann 171
 Bock, Rosina 148
 Brix, Anna Maria 122
+Brix, Bartholomäus 166
 Brix, Caspar 143
 Buczek, Catherzina 158
+Buczek, Pavel 177
 Byr, Maria 142
+Byr, Michael 165
+Czapek, Jan 177
 Czapek, Marina 158
 Dächet, Michael 140
 Dächet, Regina 121
+Dächet, Tobias 164
+Derrig, Catharina 164
+Derrig, Georg 181
+Dittrich, Caspar 171
 Dittrich, Rosina 148
 Dixel, Friedrich 112
 Dixel, Magdalena 104
 Dixel, Martin 151
 Dixel, Michael 128
+Doleczek, Magdalena 166
+Doleczek, Wenceslaus 182
 Dresler, Barbara 156
+Dresler, Mathes 175
 Egydi, Catharina 125
 Egydi, Mathias 147
 Ender, Georg 102
@@ -40,31 +59,47 @@ Ender, Thekla, 96
 Feltzmann, Augustin 112
 Feltzmann, Cäcilia 98
 Feltzmann, Christoph 149
+Feltzmann, Johann 172
 Feltzmann, Karl Franz 104
 Feltzmann, Mathias 127
+Fischer, Paul 172
 Fischer, Regina 151
 Frantz, Christina 136
+Frantz, Christoph 178
 Frantz, Martin 159
+Frimel, Christoph 168
 Frimel, Susanna 144
+Fuksa, Barton 187
 Fuksa, Dorota 158
+Fuksa, Martin 177
+Gabler, Johann 164
 Gabler, Rosina 140
 Geppert, Anna Rosina 149
+Geppert, Michael 172
 Greger, Andreas 152
 Greger, Barbara 129
+Greger, Thomas 173
 Gromes, Eva 163
+Gromes, Gregor 189
+Gromes, Michael 187
+Gromes, Veltin 181
 Gruß, Anna 123
 Gruß, Anna Veronica 127
+Gruß, Christoph 172
 Gruß, Georg 149
-Gruß, Johann 145
+Gruß, Johann 145,168
 Hammerle, Johann 141
 Hammerle, Lorenz 122
 Hammerle, Veronica 109
+Hampel, Georg 176
 Hampel, Regina 157
 Hanel, Anna Maria 131
 Hanel, Hans 154
+Hanel, Martin 174
 Hansel, Andreas 135
 Hansel, Christian 100
-Hansel, Georg 159
+Hansel, Georg 159,187
+Hansel, Gregor 178
 Hansel, Heinrich 117
 Hansel, Johann Heinrich 107
 Hansel, Maria Theresia 97
@@ -89,6 +124,8 @@ Hartel, Georg 162
 Hartel, Paul 138
 Hartwig, Anna Maria 123
 Hartwig, Christoph 144
+Hartwig, Georg 168,188
+Hartwig, Michael 184
 Heichel, Christian 105
 Heichel, Florian 99
 Heichel, Johanna 96
@@ -96,7 +133,8 @@ Heichel, Martin 130
 Heichel, Michael 113
 Heisler, Anna 110
 Heisler, Anna Maria 110
-Heisler, Christoph 141
+Heisler, Caspar 165
+Heisler, Christoph 141,172
 Heisler, Johann 109
 Heisler, Emilie 94
 Heisler, Franz 94,95
@@ -110,10 +148,12 @@ Heisler, Joseph 109
 Heisler, Katharina 102
 Heisler, Maria 122
 Heisler, Mathias 124,146
+Heisler, Matthäus 182
 Heisler, Paul 108,121,151
 Heisler, Theresia 102
 Heisler, Veronica 128
 Hentzl, Barbara 147
+Hentzl, Michael 170
 Hes, Adam 139
 Hes, Andreas 120
 Hes, Jacob 163
@@ -124,10 +164,12 @@ Heyl, Augustin 122
 Heyl, Johann 142
 Hieckel, Marina 139
 Hieckel, Martin 163
+Hieckel, Simon 181
 Hiemer, Elisabeth 117
 Hiemer, Georg 128,151
 Hiemer, Heinrich 136
 Hiemer, Rosina 112
+Höppe, Christoph 171
 Höppe, Johann Georg 127
 Höppe, Maria Elisabeth 111
 Höppe, Tobias 148
@@ -136,6 +178,7 @@ Höpper, Johann 117
 Höpper, Josepha 100
 Höpper, Karl 107
 Höpper, Lorenz 157
+Höpper, Martin 177
 Höpper, Tobias 134
 Jäckel, Christian 119
 Jäckel, Elisabeth 108
@@ -146,11 +189,13 @@ Jahn, Rosina 128
 Jan, Andreas 129
 Jan, Barbara 140
 Jan, Catharina 113
-Jan, Johannes 153
+Jan, Johannes 153,164
 Jan, Michael 130
 Jan, Nicolaus 152
+Jan, Paul 173
 Janda, Elisabeth 131
 Janda, Paul 154
+Janda, Thomas 174
 Jentschke, Anton 109
 Jentschke, Bartholomäus 143
 Jentschke, Johann Anton 102
@@ -161,52 +206,78 @@ Jordan, Mathes 153
 Jordan, Michael 161
 Jordan, Rosina 130,138
 Kada, Dorota 135
+Kada, Jan 177
 Kada, Jura 158
 Karger, Anna 129
 Karger, Michael 152
+Katzer, Georg 184
 Katzer, Johann 98
 Katzer, Johann Christoph 126
 Katzer, Johann Franz 111
 Katzer, Johann Josef 104
 Katzer, Marianna 96
+Katzer, Rosina 168
 Kirbes, Andreas 152
 Kirbes, Catharina 105
 Kirbes, Christian 113
+Kirbes, Mathes 173
 Kirbes, Michael 129
 Kluger, Marina 132
 Kluger, Michael 155
+Kobliczek, Anna 170
 Kobliczek, Anna Maria 124
 Kobliczek, Elisabeth 127
 Kobliczek, Jacob 146
 Kobliczek, Johann 150
+Kobliczek, Paul 185
 Kolb, Anna Maria 107
 Kolb, Hans 136
 Kolb, Michael 118
 Kolb, Simon 159
-Körnig, Jacob 140
+Kolb, Valentin 178
 Körnig, Elisabeth 108
+Körnig, Georg 181
+Körnig, Jacob 140
+Körnig, Matz 187
 Körnig, Michael 121
 Körnig, Nicolaus 163
 Kosch, Cäcilia 104
 Kosch, Johann 111
+Kratschmer, Adam 179
 Kratschmer, Christian 108
 Kratschmer, Heinrich 118
 Kratschmer, Johannes 137
 Kratschmer, Karl Franz 97,100
 Kratschmer, Martin 160
 Kratschmer, Theresia 95
+Kratschmer, Thomas 187
+Krögler, Andreas 182
+Krögler, Christoph 165
 Krögler, Susanna 142
+Krönes, Dorothea 174
+Krönes, Stephan 186
+Kuntze, Georg 168
+Kuntze, Jacob 184
 Kuntze, Maria 145
 Langer, Anna Regina 110
-Langer, Johann 145
+Langer, Johann 145,168
 Langer, Tobias 123
+Langhammer, Anna 166
 Langhammer, Anton 110
 Langhammer, Josepha 98
+Langhammer, Michael 170
 Langhammer, Paul 124
 Langhammer, Peregrin 103
 Langhammer, Tobias 147
+Latzel, Maria 184
+Latzel, Martin 188
+Ludwig, Christina 184
+Ludwig, Georg 188
 Lux, Regine 102
+Macku, Marina 178
+Macku, Martin 187
 Mader, Dorothea 159
+Mader, Valentin 178,187
 Maresch, Dorothea 124
 Maresch, Johann 146
 Matzner, Anna Rosina 107
@@ -215,38 +286,59 @@ Matzner, Joseph 118
 Matzner, Michael 137
 Michalek, Paul 146
 Michalek, Rosina 124
+Michalek, Wenceslaus 169
+Moschner, Caspar 185
+Moschner, Justina 172
 Mück, Catharina 140
 Mück, Johannes 163
+Mück, Paul 181
+Müller, Balthasar 187
 Müller, Georg 162
 Müller, Lorenz 138
 Müller, Maria Anna 119
+Müller, Michael 180
 Nagel, Anna 144
+Nagel, Michael 167
+Nehyba, Johann 166,183
 Nehyba, Susanna 142
 Neugebauer, Anna Rosina 123
-Neugebauer, Georg 144
+Neugebauer, Georg 144,167
+Neugebauer, Hans 183
 Niemetz, Christian 114
 Niemetz, Johann 154
 Niemetz, Martin 131
 Niemetz, Paulina 105
+Nithmann, Hans 179
 Nithmann, Judith 160
-Partsch, Heinrich 133
-Partsch, Marina 160
-Partsch, Michael 153
+Nosek, Andreas 187
+Nosek, Anna 166
+Nosek, Johann 183
+Partsch, Georg 189
+Partsch, Hans Georg 186
+Partsch, Heinrich 133,173
+Partsch, Marina 160,175
+Partsch, Martin 175
+Partsch, Michael 153,185
 Partsch, Rosina 131
 Pfertner, Christoph 121
 Pfertner, Elisabeth 109
 Pfertner, Georg 140
+Pietsch, Adam 185
 Pietsch, Elisabeth 149
+Pietsch, Michael 172
 Poltzer, Andreas 130,139,159
 Poltzer, Catharina 152
 Poltzer, Elisabeth 136
+Poltzer, Gregor 178
 Poltzer, Magdalena 105
 Poltzer, Marina 152,156
 Poltzer, Martin 163
-Poltzer, Michael 113
+Poltzer, Michael 113,173,175
+Poltzer, Paul 173
 Poltzer, Susanna 120
 Partsch, Apollonia 116
 Partsch, Hans 156
+Pössel, Andreas 173
 Pössel, Eva 152
 Pudel, Andreas 134
 Pudel, Apollonia 107
@@ -254,29 +346,43 @@ Pudel, Christian 117
 Pudel, Elisabeth 133
 Pudel, Georg 157
 Pudel, Michael 156
+Rauskolb, Adam 175
 Rauskolb, Baltzer 132
 Rauskolb, Christian 115
+Rauskolb, Hans 186
 Rauskolb, Karl Joseph 106
 Rauskolb, Maria Theresia 99
 Rauskolb, Martin 155
 Rauskolb, Simon 155
 Reimer, Barbara 157
-Reimer, Bartholomäus 131
+Reimer, Bartholomäus 131,176
 Reimer, Georg 105,114
 Reimer, Jacob 153
 Reimer, Johanna 99
+Reimer, Simon 186
 Rieb, Anna 162
+Rieb, Peter 180
 Rosch, Catharina 152
+Rosch, Johannes 173
+Rosensprung, Adam 176
 Rosensprung, Anna 134
 Rosensprung, Eva 160
+Rosensprung, Hans 190
 Rosensprung, Hans Georg 132
 Rosensprung, Heinrich 154
+Rosensprung, Jacob 186
 Rosensprung, Marina 115
+Rosensprung, Martin 174
 Rosensprung, Mathias 157
+Rosensprung, Stephan 189
+Rosensprung, Wolf
 Rösner, Dorothea 136
 Rösner, Elisabeth 128
 Rösner, Michael 160
 Rösner, Paul 151
+Rösner, Stephan 179
+Rudolff, Dorothea 180
+Rudolff, Jacob 187
 Schäfer, Andreas 107
 Schäfer, Anna Maria 100
 Schäfer, Hans 159
@@ -285,25 +391,34 @@ Schäfer, Martin 136
 Schlesinger, Anna 148
 Schlesinger, Anna Maria 125
 Schlesinger, Anton 102
+Schlesinger, Christoph 171
 Schlesinger, Elisabeth 111,142
 Schlesinger, Franz 121
-Schlesinger, Georg 147,148
-Schlesinger, Johann 150
+Schlesinger, Georg 147,148,170
+Schlesinger, Johann 150,164
 Schlesinger, Karl Joseph 109
 Schlesinger, Marianna 151
+Schlesinger, Martin 171
 Schlesinger, Matthäus 150
-Schlesinger, Michael 127
+Schlesinger, Michael 127,171
 Schlesinger, Sibylla 126
 Schlesinger, Veronica 112
 Schlesinger, Viktoria 97
 Schlesinger, Wenceslaus 126
 Schmidt, Rosina 154
+Schmidt, Zacharias 174
+Schüll, Anna 165
 Schüll, Anton 111
+Schüll, Caspar 182
 Schüll, Christian 125
+Schüll, Christoph 166
 Schüll, Johann 140,147
 Schüll, Maria Anna 121
 Schüll, Maria Elisabeth 103
+Schüll, Michael 170
 Schüll, Sabina 143
+Schwantzer, Balthasar 180
+Schwantzer, Jacob 175
 Schwantzer, Marina 160
 Schwantzer, Rosina 133
 Schwantzer, Stephan 156
@@ -312,6 +427,7 @@ Schwarz, Elisabeth 119
 Schwarz, Johannes 138
 Schwarzer, Franz Anton 110
 Schwarzer, Marianne Josepha 103
+Schwarzer, Melchior 167
 Schwarzer, Philipp 144
 Schwarzer, Tobias 123
 Seidler, Anna Catharina 116
@@ -321,14 +437,19 @@ Seidler, Georg 156
 Seidler, Heinrich 114
 Seidler, Johanna 99
 Seidler, Maria Elisabeth 106
+Seyfert, Matthäus 169
 Seyfert, Regina 145
 Sigmund, Agnes 140
+Sigmund, Bartholomäus 164
+Sigmund, Michael 181
 Söhnel, Anna 137
 Söhnel, Martin 160
 Sommer, Georg 131
 Sommer, Lorenz 153
 Sommer, Marina 114,130
 Sonntag, Christoph 142
+Sonntag, Georg 166
+Sonntag, Johann 183
 Sonntag, Maria 146
 Sonntag, Marina 122
 Stantzel, Barbara 154
@@ -336,18 +457,23 @@ Stantzel, Christian 131
 Stantzel, Christina 128
 Stantzel, Elisabeth 114
 Stantzel, Johann 151
+Stantzel, Martin 173
 Stantzel, Tobias 154
 Stix, Bartholomäus 162
 Stix, Marianna 138
 Stöhr, Johann 110
+Stöhr, Martin 169
 Stöhr, Nicolaus 146
 Stöhr, Theresia 103
 Stöhr, Wenceslaus 124
+Sündermann, Christina 167
+Sündermann, Georg 183
 Tiltzer, Christina 157
+Tiltzer, Christoph 177
 Tögel, Elias 116
 Tögel, Florian 99
 Tögel, Friedrich 133
-Tögel, Hans 157
+Tögel, Hans 157,180
 Tögel, Johann Franz 95,97
 Tögel, Karl 106
 Tögel, Rosina 161
@@ -359,10 +485,12 @@ Unger, Christian 108
 Unger, Hans 130
 Unger, Marianna 113
 Unger, Maria Viktoria 100
+Volckmer, Christoph 167
 Volckmer, Susanna 144
 Wagner, Christian 150
 Wagner, Franz 128
 Wagner, Gotthard 112
+Wagner, Johann 170
 Wagner, Judith 128
 Wagner, Maria Elisabeth 104
 Wagner, Susanna 147
@@ -372,6 +500,7 @@ Walter, Augustin 95
 Walter, Bruno 94
 Walter, Ernst 94
 Walter, Florian 96
+Walter, Georg 173
 Walter, Johann 94,104
 Walter, Joseph 98
 Walter, Lorenz 151
@@ -379,6 +508,8 @@ Walter, Michael 112
 Wantke, Georg 151
 Wantke, Juliana 112
 Wantke, Martin 129
+Weinlich, Georg 184
+Weinlich, Johann 169
 Weinlich, Maria 146
 Wiener, Elisabeth 120
 Wiener, Georg 163
@@ -389,14 +520,17 @@ Wolf, Veltin 130
 Wottawa, Anna 150
 Wottawa, Cäcilia 95
 Wottawa, Christian 110,124
+Wottawa, Elias 165
 Wottawa, Franz 96
 Wottawa, Franz Karl 103
+Wottawa, Georg 181
 Wottawa, Joseph 98
 Wottawa, Mathias 141
 Wottawa, Rosina 122
 Wyhnanek, Justina 117
 Wyhnanek, Pavel 135
 Wyhnanek, Stiepan 158
+Zahrada, Blazej 177
 Zahrada, Hawel 158
 Zahrada, Maria Anna 107
 Zahrada, Pavel 134
@@ -407,5 +541,10 @@ Zimmer, Catharina 159
 Zimmer, Elisabeth 138
 Zimmer, Georg 113
 Zimmer, Josef 105
-Zimmer, Martin 129
+Zimmer, Martin 129,178
+Zimmer, Michael 173
+Zimmer, Paul 180
 Zimmer, Tobias 161
+Zürnig, Hans 188
+Zürnig, Michael 184
+Zürnig, Regina 168
