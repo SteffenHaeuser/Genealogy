@@ -56,14 +56,14 @@ Egydi, Mathias 63,147
 Ender, Georg 24,102
 Ender, Josef 24,98
 Ender, Thekla 15,18,24,96
-Feltzmann, Augustin 26,112
+Feltzmann, Augustin 26,67,112
 Feltzmann, Cäcilia 26,98
-Feltzmann, Christoph 149
-Feltzmann, Johann 172
+Feltzmann, Christoph 67,149
+Feltzmann, Johann 67,172
 Feltzmann, Karl Franz 26,104
-Feltzmann, Mathias 127
-Fischer, Paul 172
-Fischer, Regina 151
+Feltzmann, Mathias 67,127
+Fischer, Paul 69,172
+Fischer, Regina 69,151
 Frantz, Christina 47,136
 Frantz, Christoph 178
 Frantz, Martin 47,159
@@ -134,7 +134,7 @@ Heichel, Michael 32,113
 Heisler, Anna 25,60,110
 Heisler, Anna Maria 25,62,110
 Heisler, Caspar 62,165
-Heisler, Christoph 56,141,172
+Heisler, Christoph 56,69,141,172
 Heisler, Emilie 15,18,94
 Heisler, Franz 15,18,24,94,95
 Heisler, Franz Karl 15,24,55,101
@@ -148,9 +148,9 @@ Heisler, Katharina 15,24,102
 Heisler, Maria 56,122
 Heisler, Mathias 60,124,146
 Heisler, Matthäus 62,182
-Heisler, Paul 15,55,108,121,151
+Heisler, Paul 15,55,69,108,121,151
 Heisler, Theresia 24,57,102
-Heisler, Veronica 128
+Heisler, Veronica 69,128
 Hentzl, Barbara 63,147
 Hentzl, Michael 63,170
 Hes, Adam 53,139
@@ -225,9 +225,9 @@ Kluger, Marina 38,132
 Kluger, Michael 38,155
 Kobliczek, Anna 61,170
 Kobliczek, Anna Maria 60,124
-Kobliczek, Elisabeth 127
+Kobliczek, Elisabeth 67,127
 Kobliczek, Jacob 60,146
-Kobliczek, Johann 150
+Kobliczek, Johann 67,150
 Kobliczek, Paul 61,185
 Kolb, Anna Maria 22,46,107
 Kolb, Hans 46,136
@@ -393,15 +393,15 @@ Schlesinger, Anton 24,56,102
 Schlesinger, Christoph 65,171
 Schlesinger, Elisabeth 25,57,65,111,142
 Schlesinger, Franz 56,121
-Schlesinger, Georg 64,65,147,148,170
-Schlesinger, Johann 56,150,164
+Schlesinger, Georg 64,65,69,147,148,170
+Schlesinger, Johann 56,68,150,164
 Schlesinger, Karl Joseph 56,109
-Schlesinger, Marianna 151
+Schlesinger, Marianna 69,151
 Schlesinger, Martin 65,171
-Schlesinger, Matthäus 150
-Schlesinger, Michael 65,127,171
+Schlesinger, Matthäus 68,150
+Schlesinger, Michael 65,68,127,171
 Schlesinger, Sibylla 65,126
-Schlesinger, Veronica 26,112
+Schlesinger, Veronica 26,68,112
 Schlesinger, Viktoria 15,24,97
 Schlesinger, Wenceslaus 65,126
 Schmidt, Rosina 35,154
@@ -486,14 +486,14 @@ Unger, Marianna 31,113
 Unger, Maria Viktoria 23,100
 Volckmer, Christoph 167
 Volckmer, Susanna 59,144
-Wagner, Christian 150
-Wagner, Franz 128
-Wagner, Gotthard 26,112
-Wagner, Johann 64,170
-Wagner, Judith 128
+Wagner, Christian 69,150
+Wagner, Franz 69,128
+Wagner, Gotthard 26,69,112
+Wagner, Johann 64,68,69,170
+Wagner, Judith 68,128
 Wagner, Maria Elisabeth 26,104
 Wagner, Susanna 64,147
-Wagner, Tobias 150
+Wagner, Tobias 68,150
 Walter, Andreas 15,28,128
 Walter, Augustin 15,18,20,95
 Walter, Bruno 18,94
@@ -516,13 +516,13 @@ Wiener, Michael 52,139
 Wolf, Judith 32,113
 Wolf, Mathes 32,153
 Wolf, Veltin 32,130
-Wottawa, Anna 150
+Wottawa, Anna 67,150
 Wottawa, Cäcilia 15,18,95
 Wottawa, Christian 25,60,110,124
-Wottawa, Elias 165
+Wottawa, Elias 67,165
 Wottawa, Franz 18,25,96
 Wottawa, Franz Karl 25,60,103
-Wottawa, Georg 181
+Wottawa, Georg 67,181
 Wottawa, Joseph 25,98
 Wottawa, Mathias 56,60,141
 Wottawa, Rosina 56,122
