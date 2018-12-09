@@ -2,9 +2,9 @@ Andilke, Catharina 36,154
 Andilke, Jacob 36,174
 Arazym, Dorothea 61,169
 Arazym, Nikolaus 184
-Bartosch, Anna 44,135
-Bartosch, Crhaka 177
-Bartosch, Hawel 44,158
+Bartosch, Anna 44,78,135
+Bartosch, Crhaka 78,177
+Bartosch, Hawel 44,78,158
 Bayer, Andreas 38,155
 Bayer, Georg 38,115
 Bayer, Johannes 38,132
@@ -19,12 +19,12 @@ Bergmann, Anna Maria 58,109
 Bergmann, Caspar 166
 Bergmann, Nicolaus 58,143
 Bergmann, Wenceslaus 58,123
-Bernhardt, Marina 37,155
-Bernhardt, Michael 37,175
-Biber, Friedrich 47,136
-Biber, Judith 47,118
-Biber, Matthäus 47,159
-Biber, Michael 179
+Bernhardt, Marina 37,75,155
+Bernhardt, Michael 37,75,175
+Biber, Friedrich 47,77,136
+Biber, Judith 47,77,118
+Biber, Matthäus 47,75,77,159
+Biber, Michael 77,179
 Bock, Johann 64,171
 Bock, Rosina 64,148
 Brix, Anna Maria 57,122
@@ -64,14 +64,14 @@ Feltzmann, Karl Franz 26,104
 Feltzmann, Mathias 67,127
 Fischer, Paul 69,172
 Fischer, Regina 69,151
-Frantz, Christina 47,136
-Frantz, Christoph 178
-Frantz, Martin 47,159
+Frantz, Christina 47,76,136
+Frantz, Christoph 76,178
+Frantz, Martin 47,76,159
 Frimel, Christoph 168
 Frimel, Susanna 59,144
-Fuksa, Barton 187
-Fuksa, Dorota 44,158
-Fuksa, Martin 177
+Fuksa, Barton 78,187
+Fuksa, Dorota 44,78,158
+Fuksa, Martin 78,177
 Gabler, Johann 56,164
 Gabler, Rosina 56,140
 Geppert, Anna Rosina 66,149
@@ -253,8 +253,8 @@ Kratschmer, Thomas 71,187
 Krögler, Andreas 182
 Krögler, Christoph 62,165
 Krögler, Susanna 57,62,142
-Krönes, Dorothea 174
-Krönes, Stephan 186
+Krönes, Dorothea 74,174
+Krönes, Stephan 74,186
 Kuntze, Georg 168
 Kuntze, Jacob 184
 Kuntze, Maria 59,145
@@ -273,10 +273,10 @@ Latzel, Martin 188
 Ludwig, Christina 184
 Ludwig, Georg 188
 Lux, Regine 24,102
-Macku, Marina 178
-Macku, Martin 187
-Mader, Dorothea 47,159
-Mader, Valentin 178,187
+Macku, Marina 78,178
+Macku, Martin 78,187
+Mader, Dorothea 47,76,159
+Mader, Valentin 76,178,187
 Maresch, Dorothea 60,124
 Maresch, Johann 60,146
 Matzner, Anna Rosina 22,48,107
@@ -291,11 +291,11 @@ Moschner, Justina 66,172
 Mück, Catharina 53,140
 Mück, Johannes 53,163
 Mück, Paul 53,181
-Müller, Balthasar 187
-Müller, Georg 51,162
-Müller, Lorenz 51,138
-Müller, Maria Anna 51,119
-Müller, Michael 180
+Müller, Balthasar 80,187
+Müller, Georg 51,80,162
+Müller, Lorenz 51,80,138
+Müller, Maria Anna 51,80,119
+Müller, Michael 80,180
 Nagel, Anna 58,144
 Nagel, Michael 167
 Nehyba, Johann 62,166,183
@@ -307,17 +307,17 @@ Niemetz, Christian 36,114
 Niemetz, Johann 36,154
 Niemetz, Martin 36,131
 Niemetz, Paulina 21,36,105
-Nithmann, Hans 179
-Nithmann, Judith 47,160
+Nithmann, Hans 77,179
+Nithmann, Judith 47,77,160
 Nosek, Andreas 187
 Nosek, Anna 61,62,166
 Nosek, Johann 183
 Partsch, Apollonia 40,116
 Partsch, Georg 73,189
 Partsch, Hans 40,156
-Partsch, Hans Georg 186
+Partsch, Hans Georg 75,186
 Partsch, Heinrich 40,73,133,173
-Partsch, Marina 49,71,160,175
+Partsch, Marina 49,71,75,160,175
 Partsch, Martin 40,175
 Partsch, Michael 35,71,73,153,185
 Partsch, Rosina 35,131
@@ -353,35 +353,35 @@ Rauskolb, Karl Joseph 21,39,106
 Rauskolb, Maria Theresia 21,99
 Rauskolb, Martin 39,155
 Rauskolb, Simon 39,155
-Reimer, Barbara 41,157
-Reimer, Bartholomäus 34,131,176
+Reimer, Barbara 41,75,77,79,157
+Reimer, Bartholomäus 34,79,131,176
 Reimer, Georg 20,34,105,114
 Reimer, Jacob 34,153
 Reimer, Johanna 20,99
-Reimer, Simon 186
-Rieb, Anna 51,162
-Rieb, Peter 180
+Reimer, Simon 79,186
+Rieb, Anna 51,80,162
+Rieb, Peter 80,180
 Rosch, Catharina 30,152
 Rosch, Johannes 30,173
-Rosensprung, Adam 176
-Rosensprung, Anna 41,134
-Rosensprung, Eva 47,160
-Rosensprung, Hans 190
+Rosensprung, Adam 75,79,176
+Rosensprung, Anna 41,75,79,134
+Rosensprung, Eva 47,75,77,160
+Rosensprung, Hans 75,190
 Rosensprung, Hans Georg 37,132
-Rosensprung, Heinrich 37,154
-Rosensprung, Jacob 186
+Rosensprung, Heinrich 37,75,154
+Rosensprung, Jacob 75,79,186
 Rosensprung, Marina 37,115
-Rosensprung, Martin 174
-Rosensprung, Mathias 41,157
-Rosensprung, Stephan 189
-Rosensprung, Wolf
-Rösner, Dorothea 47,136
+Rosensprung, Martin 75,174
+Rosensprung, Mathias 41,75,77,79,157
+Rosensprung, Stephan 75,189
+Rosensprung, Wolf 75,190
+Rösner, Dorothea 47,77,136
 Rösner, Elisabeth 15,28,128
-Rösner, Michael 47,160
+Rösner, Michael 47,77,160
 Rösner, Paul 28,151
-Rösner, Stephan 179
-Rudolff, Dorothea 180
-Rudolff, Jacob 187
+Rösner, Stephan 77,179
+Rudolff, Dorothea 80,180
+Rudolff, Jacob 80,187
 Schäfer, Andreas 22,47,107
 Schäfer, Anna Maria 22,100
 Schäfer, Hans 47,159
@@ -404,8 +404,8 @@ Schlesinger, Sibylla 65,126
 Schlesinger, Veronica 26,68,112
 Schlesinger, Viktoria 15,24,97
 Schlesinger, Wenceslaus 65,126
-Schmidt, Rosina 35,154
-Schmidt, Zacharias 174
+Schmidt, Rosina 35,74,154
+Schmidt, Zacharias 74,174
 Schüll, Anna 62,165
 Schüll, Anton 25,64,111
 Schüll, Caspar 62,182
@@ -452,12 +452,12 @@ Sonntag, Johann 183
 Sonntag, Maria 61,146
 Sonntag, Marina 57,62,122
 Stantzel, Barbara 35,154
-Stantzel, Christian 35,131
+Stantzel, Christian 35,74,131
 Stantzel, Christina 28,128
 Stantzel, Elisabeth 35,114
 Stantzel, Johann 28,35,151
-Stantzel, Martin 173
-Stantzel, Tobias 35,154
+Stantzel, Martin 74,173
+Stantzel, Tobias 35,74,154
 Stix, Bartholomäus 52,162
 Stix, Marianna 52,138
 Stöhr, Johann 25,61,110
@@ -471,14 +471,14 @@ Tiltzer, Christina 43,157
 Tiltzer, Christoph 43,177
 Tögel, Elias 41,116
 Tögel, Florian 22,99
-Tögel, Friedrich 41,133
+Tögel, Friedrich 41,75,133
 Tögel, Hans 41,72,157,180
 Tögel, Johann Franz 18,22,95,97
 Tögel, Karl 22,41,106
 Tögel, Rosina 49,72,161
 Tögel, Theresia 15,18,94
-Tschamler, Elisabeth 51,138
-Tschamler, Hans 51,162
+Tschamler, Elisabeth 51,80,138
+Tschamler, Hans 51,80,162
 Unger, Andreas 50,118
 Unger, Christian 23,50,108
 Unger, Hans 31,50,130
