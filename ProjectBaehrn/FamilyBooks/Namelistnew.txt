@@ -103,19 +103,19 @@ Hansel, Gregor 45,178
 Hansel, Heinrich 45,117
 Hansel, Johann Heinrich 22,45,107
 Hansel, Maria Theresia 22,97
-Hansmann, Adam 49,161
+Hansmann, Adam 49,72,161
 Hansmann, Anna 52,139
 Hansmann, Anna Rosa 23,97
 Hansmann, Augustin Franz 21,99
-Hansmann, Christina 49,118
-Hansmann, Elisabeth 49,137
+Hansmann, Christina 49,72,118
+Hansmann, Elisabeth 49,71,137
 Hansmann, Franz 23,35,52,101,108,114
 Hansmann, Friedrich 35,131
-Hansmann, Georg 35,52,138
-Hansmann, Heinrich 49,52,119,137
+Hansmann, Georg 35,52,71,138
+Hansmann, Heinrich 49,52,71,72,119,137
 Hansmann, Joseph Franz 21,35,105
 Hansmann, Karl Josef 21,96
-Hansmann, Lorenz 35,52,162
+Hansmann, Lorenz 35,52,71,162
 Hansmann, Martin 52,162
 Hansmann, Philippine 15,18,21,95
 Hartel, Anna Maria 52,108
@@ -242,14 +242,14 @@ Körnig, Michael 54,121
 Körnig, Nicolaus 54,163
 Kosch, Cäcilia 26,104
 Kosch, Johann 26,111
-Kratschmer, Adam 179
+Kratschmer, Adam 71,179
 Kratschmer, Christian 23,49,108
-Kratschmer, Heinrich 49,118
-Kratschmer, Johannes 49,137
+Kratschmer, Heinrich 49,71,118
+Kratschmer, Johannes 49,71,137
 Kratschmer, Karl Franz 23,97,100
-Kratschmer, Martin 49,160
+Kratschmer, Martin 49,71,160
 Kratschmer, Theresia 18,23,95
-Kratschmer, Thomas 187
+Kratschmer, Thomas 71,187
 Krögler, Andreas 182
 Krögler, Christoph 62,165
 Krögler, Susanna 57,62,142
@@ -313,13 +313,13 @@ Nosek, Andreas 187
 Nosek, Anna 61,62,166
 Nosek, Johann 183
 Partsch, Apollonia 40,116
-Partsch, Georg 189
+Partsch, Georg 73,189
 Partsch, Hans 40,156
 Partsch, Hans Georg 186
-Partsch, Heinrich 40,133,173
-Partsch, Marina 49,160,175
+Partsch, Heinrich 40,73,133,173
+Partsch, Marina 49,71,160,175
 Partsch, Martin 40,175
-Partsch, Michael 35,153,185
+Partsch, Michael 35,71,73,153,185
 Partsch, Rosina 35,131
 Pfertner, Christoph 55,121
 Pfertner, Elisabeth 15,55,109
@@ -416,9 +416,9 @@ Schüll, Maria Anna 121
 Schüll, Maria Elisabeth 25,55,103
 Schüll, Michael 64,170
 Schüll, Sabina 57,143
-Schwantzer, Balthasar 180
+Schwantzer, Balthasar 71,180
 Schwantzer, Jacob 37,40,41,175
-Schwantzer, Marina 49,160
+Schwantzer, Marina 49,71,160
 Schwantzer, Rosina 37,40,41,133
 Schwantzer, Stephan 37,40,41,156
 Schwarz, Adam 52,162
@@ -472,10 +472,10 @@ Tiltzer, Christoph 43,177
 Tögel, Elias 41,116
 Tögel, Florian 22,99
 Tögel, Friedrich 41,133
-Tögel, Hans 41,157,180
+Tögel, Hans 41,72,157,180
 Tögel, Johann Franz 18,22,95,97
 Tögel, Karl 22,41,106
-Tögel, Rosina 49,161
+Tögel, Rosina 49,72,161
 Tögel, Theresia 15,18,94
 Tschamler, Elisabeth 51,138
 Tschamler, Hans 51,162
@@ -537,13 +537,13 @@ Zahrada, Wenceslaus 44,117
 Zimmer, Anna Maria 15,20,98
 Zimmer, Bartholomäus 30,152
 Zimmer, Catharina 46,159
-Zimmer, Elisabeth 49,138
+Zimmer, Elisabeth 49,72,138
 Zimmer, Georg 30,113
 Zimmer, Josef 20,30,105
 Zimmer, Martin 30,46,129,178
 Zimmer, Michael 30,173
-Zimmer, Paul 180
-Zimmer, Tobias 49,161
+Zimmer, Paul 72,180
+Zimmer, Tobias 49,72,161
 Zürnig, Hans 188
 Zürnig, Michael 184
 Zürnig, Regina 168
