@@ -10,7 +10,7 @@ Bayer, Georg 38,115
 Bayer, Johannes 38,132
 Bayer, Joseph Melchior Johann 21,99
 Bayer, Karl Joseph 21,38,106
-Bayer, Klara 21,97
+Bayer, Klara 21,239,97
 Benesch, Bartholomäus 33,153
 Benesch, Rosina 33,130
 Berger, Dorothea 34,131
@@ -76,6 +76,10 @@ Gabler, Johann 56,164
 Gabler, Rosina 56,140
 Geppert, Anna Rosina 66,149
 Geppert, Michael 66,172
+Gnändiger, Franziska 239,240,241
+Gnändiger, Johann 240,241
+Gnändiger, Johannes 240
+Gnändiger, Veronica 240
 Greger, Andreas 30,152
 Greger, Barbara 30,129
 Greger, Thomas 30,173
@@ -105,20 +109,26 @@ Hansel, Johann Heinrich 22,45,107
 Hansel, Maria Theresia 22,97
 Hansmann, Adam 49,72,161
 Hansmann, Anna 52,139
-Hansmann, Anna Rosa 23,97
-Hansmann, Augustin Franz 21,99
-Hansmann, Christina 49,72,118
-Hansmann, Elisabeth 49,71,137
-Hansmann, Franz 23,35,52,101,108,114
+Hansmann, Anna Rosa 23,240,241,97
+Hansmann, Augustin 239,240,241
+Hansmann, Augustin Franz 21,239,99
+Hansmann, Christina 49,72,241,118
+Hansmann, Elisabeth 49,71,241,137
+Hansmann, Engelbert 239,240,241
+Hansmann, Franz 23,35,52,240,101,108,114
 Hansmann, Friedrich 35,131
 Hansmann, Georg 35,52,71,138
-Hansmann, Heinrich 49,52,71,72,119,137
+Hansmann, Heinrich 49,52,71,72,240,119,137
 Hansmann, Joseph Franz 21,35,105
-Hansmann, Karl Josef 21,96
+Hansmann, Karl Josef 21,239,96
+Hansmann, Leo 239,240,241
+Hansmann, Leopold 240
 Hansmann, Lorenz 35,52,71,162
 Hansmann, Martin 52,162
-Hansmann, Philippine 15,18,21,95
-Hartel, Anna Maria 52,108
+Hansmann, Philippine 15,18,21,239,95
+Hansmann, Richard 239,240,241
+Hansmann, Theresia 240
+Hartel, Anna Maria 23,52,240,108
 Hartel, Christian 52,120
 Hartel, Georg 52,162
 Hartel, Paul 52,138
@@ -135,7 +145,7 @@ Heisler, Anna 25,60,110
 Heisler, Anna Maria 25,62,110
 Heisler, Caspar 62,165
 Heisler, Christoph 56,69,141,172
-Heisler, Emilie 15,18,94
+Heisler, Emilie 15,18,239,240,241,94
 Heisler, Franz 15,18,24,94,95
 Heisler, Franz Karl 15,24,55,101
 Heisler, Georg 57,62,122
@@ -156,7 +166,7 @@ Hentzl, Michael 63,170
 Hes, Adam 53,139
 Hes, Andreas 53,120
 Hes, Jacob 53,163
-Hes, Johanna 23,101
+Hes, Johanna 23,240,101
 Hes, Johann Georg 23,53,108
 Heyl, Anna Maria 57,84,109
 Heyl, Augustin 57,84,122
@@ -243,13 +253,16 @@ Körnig, Nicolaus 54,81,163
 Kosch, Cäcilia 26,104
 Kosch, Johann 26,111
 Kratschmer, Adam 71,179
-Kratschmer, Christian 23,49,108
-Kratschmer, Heinrich 49,71,118
-Kratschmer, Johannes 49,71,137
-Kratschmer, Karl Franz 23,97,100
+Kratschmer, Christian 23,49,241,108
+Kratschmer, Heinrich 49,71,241,118
+Kratschmer, Johann 241
+Kratschmer, Johannes 49,71,241,137
+Kratschmer, Josef 241
+Kratschmer, Karl Franz 23,240,241,97,100
 Kratschmer, Martin 49,71,160
-Kratschmer, Theresia 18,23,95
+Kratschmer, Theresia 18,23,240,241,95
 Kratschmer, Thomas 71,187
+Kratschmer, Viktoria 240,241
 Krögler, Andreas 88,182
 Krögler, Christoph 62,88,165
 Krögler, Susanna 57,62,88,142
@@ -276,6 +289,7 @@ Lux, Regine 24,102
 Macku, Marina 78,178
 Macku, Martin 78,187
 Mader, Dorothea 47,76,159
+Mader, Josepha 239,240,241
 Mader, Valentin 76,178,187
 Maresch, Dorothea 60,124
 Maresch, Johann 60,146
@@ -331,7 +345,7 @@ Poltzer, Andreas 33,46,53,130,139,159
 Poltzer, Catharina 30,152
 Poltzer, Elisabeth 46,136
 Poltzer, Gregor 46,178
-Poltzer, Magdalena 20,33,105
+Poltzer, Magdalena 20,33,241,105
 Poltzer, Marina 30,37,40,41,152,156
 Poltzer, Martin 53,163
 Poltzer, Michael 30,33,37,40,41,113,173,175
@@ -422,7 +436,7 @@ Schwantzer, Marina 49,71,160
 Schwantzer, Rosina 37,40,41,133
 Schwantzer, Stephan 37,40,41,156
 Schwarz, Adam 52,162
-Schwarz, Elisabeth 52,119
+Schwarz, Elisabeth 52,240,119
 Schwarz, Johannes 52,138
 Schwarzer, Franz Anton 59,85,110
 Schwarzer, Marianne Josepha 24,59,103
@@ -434,7 +448,7 @@ Seidler, Franz 21,37,40,106,116
 Seidler, Friedrich 37,40,41,133
 Seidler, Georg 37,40,41,156
 Seidler, Heinrich 37,114
-Seidler, Johanna 21,99
+Seidler, Johanna 21,239,99
 Seidler, Maria Elisabeth 21,40,106
 Seyfert, Matthäus 86,169
 Seyfert, Regina 59,86,145
@@ -469,21 +483,23 @@ Sündermann, Christina 82,167
 Sündermann, Georg 82,183
 Tiltzer, Christina 43,157
 Tiltzer, Christoph 43,177
+Titz, Maria Theresia 239,240,241
 Tögel, Elias 41,116
 Tögel, Florian 22,99
 Tögel, Friedrich 41,75,133
 Tögel, Hans 41,72,157,180
-Tögel, Johann Franz 18,22,95,97
+Tögel, Johann Franz 18,22,240,241,95,97
 Tögel, Karl 22,41,106
 Tögel, Rosina 49,72,161
-Tögel, Theresia 15,18,94
+Tögel, Theresia 15,18,239,240,241,94
+Tropper, Magdalena 241
 Tschamler, Elisabeth 51,80,138
 Tschamler, Hans 51,80,162
 Unger, Andreas 50,118
 Unger, Christian 23,50,108
 Unger, Hans 31,50,130
 Unger, Marianna 31,113
-Unger, Maria Viktoria 23,100
+Unger, Maria Viktoria 23,241,100
 Volckmer, Christoph 85,167
 Volckmer, Susanna 59,85,144
 Wagner, Christian 69,150
@@ -495,12 +511,12 @@ Wagner, Maria Elisabeth 26,104
 Wagner, Susanna 64,147
 Wagner, Tobias 68,150
 Walter, Andreas 15,28,128
-Walter, Augustin 15,18,20,95
-Walter, Bruno 18,94
-Walter, Ernst 15,18,94
+Walter, Augustin 15,18,20,239,95
+Walter, Bruno 18,239,240,241,94
+Walter, Ernst 15,18,239,240,241,94
 Walter, Florian 15,20,96
 Walter, Georg 15,28,173
-Walter, Johann 15,28,20,94,104
+Walter, Johann 15,28,20,239,240,241,94,104
 Walter, Joseph 15,20,98
 Walter, Lorenz 15,28,151
 Walter, Michael 15,28,112
