@@ -49273,9 +49273,8 @@
 1 RIN MH:I500970
 1 _UID 5c0a3495be8ab1e8834390e6ba253495
 0 @I500972@ INDI
-1 NAME Christina /Zimmer/
+1 NAME Christina //
 2 GIVN Christina
-2 SURN Zimmer
 2 _MARNM Wiener
 1 SEX F
 1 DEAT Y
