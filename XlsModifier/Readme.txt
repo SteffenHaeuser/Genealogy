@@ -1,4 +1,4 @@
-XlsModifier V3.4
+XlsModifier V3.5
 
 Anleitung
 
@@ -14,7 +14,7 @@ Anleitung
 Diese Version konvertiert nur die 30 ersten Zeilen, eine Vollversion ist gegen 15 EUR bei mir (tirionareonwe@gmail.com, Steffen Häuser)
 erhältlich.
 
-Diese Version ist noch Beta, scheint aber schon recht vernünftig zu tun. Fehler bitte an mich melden, damit ich sie korrigieren kann!
+Fehler bitte an mich melden, damit ich sie korrigieren kann!
 
 Support für weitere Excel-Sheets außer denen von Familia Austria auf Anfrage.
 
