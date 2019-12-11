@@ -1,4 +1,4 @@
-XlsModifier V3.5
+XlsModifier V3.7
 
 Anleitung
 
@@ -20,3 +20,5 @@ Support für weitere Excel-Sheets außer denen von Familia Austria auf Anfrage.
 
 Excel2GED.xlsm ist eine (stark) modifizierte Version des Sheets von Brian Smith, dessen Erlaubnis ich habe, das Sheet als Teil dieses
 Shareware-Programms zu verwenden.
+
+V3.7 erweitert den Support an Excel-Sheets außer dem von Familia Austria auf ein weiteres Sheet.
