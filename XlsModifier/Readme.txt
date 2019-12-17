@@ -1,4 +1,4 @@
-XlsModifier V3.7
+XlsModifier V3.8
 
 Anleitung
 
@@ -22,3 +22,4 @@ Excel2GED.xlsm ist eine (stark) modifizierte Version des Sheets von Brian Smith,
 Shareware-Programms zu verwenden.
 
 V3.7 erweitert den Support an Excel-Sheets auﬂer dem von Familia Austria auf ein weiteres Sheet.
+V3.8 behebt den Fehler, dass bei Vorehem‰nnern bei Hochzeitseintragungen das Geschlecht u.U. falsch eingetragen wurde.
