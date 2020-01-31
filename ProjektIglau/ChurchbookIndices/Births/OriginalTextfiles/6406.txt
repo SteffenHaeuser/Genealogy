@@ -1035,3 +1035,50 @@ Iglau,29.4.,Anton Vinzenz,-,-,Elisabeth (Name der Mutter: Prauentz#)
 
 DP 62
 
+Iglau,29.4.,Maria Anna Catharina Nepomucena,Franz Bernhard,Cronberger,Maria Anna
+Iglau,29.4.,Maria Catharina,Johann,Eberth,Eleonora (Beruf Musiker)
+Iglau,1.5.,Johann Nepomuck Jacob,Wenceslaus,Eugl,Anna Clara (Beruf Maurer)
+Iglau,2.5.,Maximilian Anton,-,-,Catharina (Name der Mutter: Ebers#)
+Iglau,3.5.,Joseph,Michael,Holy#,Catharina (Beruf Pannifex)
+Iglau,7.5.,Maria Theresia,Joseph,Wuhner#,Anna (Beruf Schneider)
+Iglau,10.5.,Anna Catharina,Wenceslaus,Hauer,Ursula (Beruf Pannifex)
+Iglau,12.5.,Johanna Catharina,-,-,Barbara (Name der Mutter: Schwartz)
+Iglau,12.5.,Rosalia Johanna Nepomucena,Mathias,Augetzky,Rosalia (Beruf Zythopol)
+Iglau,13.5.,Johanna Nepomucena,Johannes,Plummendörfer#,Maria Elisabeth (Beruf Soldat)
+Iglau,14.5.,Maria Anna,Mathias,Folt,Anna Maria (Beruf Schneider)
+Ebersdorf,15.5.,Laurenz,Mathias,Stummer,Maria (Beruf Arbeiter)
+
+DP 63
+
+Iglau.18.5.,Johanna,Mathias,Puls,- (Beruf Arbeiter)
+Iglau,19.5.,Johann Anton,Franz,Patzolt,Maria Catharina (Beruf Pannifex)
+Iglau,21.5.,Maria Elisabeth,Mathias,Schaleck#,Anna (Beruf Müller)
+Iglau,22.5.,Joseph Franz,Johann,Pauer,Maria Catharina (Beruf Faber)
+Iglau,23.5.,Johann Nepomuck,Wenceslaus,Sitta,Anna Marina (Beruf Maurer)
+Iglau,24.5.,Ferdinand Martin,Leopold,Kuntschack,Johanna (Beruf Tibialifex)
+Iglau,25.5.,Johanna,Mathias,Schwanberger,Anna Magdalena (Beruf Soldat)
+Iglau,25.5.,Maria Anna,Johann,Rastius#,Anna#
+Iglau,27.5.,Anton Vinzenz,Anton,Müller,Maria Eva (Beruf Incola)
+Iglau,27.5.,Maria Antonia Tecla,Joseph,Hrdlitzka#,Anna (Beruf Schneider)
+Iglau,28.5.,Johann Baptista,Prosper,Wiesner,Theresia
+Iglau,28.5.,Norbert,Franz,Polay#,Maria Elisabeth (Beruf Mercator)
+Iglau,28.5.,Maria Barbara,Caspar,Aperger,Susanna (Beruf Pannifex)
+Iglau,29.5.,Johann Baptista,Thomas,Hanslik,Catharina (Beruf Oppilio)
+
+DP 64
+
+Iglau,2.6.,Johann Paul Erasmus Anton,Bernhard,Czickanek#,Maria Josepha
+Iglau,4.6.,Norbert Anton,Franz,Gaststeiger,Maria Anna (Beruf Tinctor)
+Iglau,6.6.,Johann Friedrich,Franz Xaver,Hermann,Theresia (Beruf Musiker)
+Iglau,8.6.,Anna Paulina,Rudolph Anton,Parth,Maria Elisabeth (Beruf Zythopol)
+Iglau,9.6.,Johann Baptist Georg,Laurenz,Neubauer,Rosina (Beruf Famulus)
+Iglau,10.6.,Josepha Antonia,Martin,Mitzka,Theresia (Beruf Gärtner)
+Kleinstunitz,10.6.,Anna und Rosina,Thomas,Pauker#,Judith
+Iglau,11.6.,Maria Veronica,Karl,Gillinger,Anna (Beruf Famulus)
+Iglau,12.6.,Maria Magdalena Dorothea,Thomas,Schmillauer,Magdalena (Beruf Pannifex)
+Iglau,12.6.,Johann Nepomuck Anton,Johann,Buchta,Catharina (Beruf Famulus)
+Iglau,13.6.,Johann Paul Anton und Maria Catharina Nepomucena,Joseph,Schwartzmann,Josepha
+Iglau19.6.,Franz,Jacob,Podruzek,Rosina (Beruf Folsor)
+
+DP 65
+
