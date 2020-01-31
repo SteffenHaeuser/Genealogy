@@ -1,0 +1,51 @@
+1763
+
+DP 455
+
+DP 456
+
+Iglau,20.6.,Wenceslaus,Jacob,Ruziczka,Maria Magdalena,Christian,Kochwasser,-,W (Berufe Figulus/Figulus)(Der Bräutigam war Figulus)
+Iglau,22.6.,Johann,-,Merkl,Anna Maria,Johann,Müksch (Berufe -/Müller)(Der Bräutigam war Soldat)
+Iglau,4.7.,Anton,Paul,Riegl,Maria Catharina,Joseph,Mauerer (Berufe Faber Lignarius/Pannifex)(Der Bräutigam war Weber)
+Schützendorf(???),4.7.,Johann,Wenceslaus,Paleczek,Maria,Jacob,Motl (Der Bräutigam stammt aus Goblenz, die Braut aus Schützendorf, unklar, wo die Hochzeit war)
+Iglau,5.7.,Georg,Franz,Plachecz,Regina,Johann,Plass (Berufe Bürger/Arbeiter)
+Iglau,11.7.,Anton,-,Pendl,Maria Rosina,Johann,Morrils (Berufe -/Müller)(Der Bräutigam war Pannifex)
+
+DP 457
+
+Iglau,12.7.,Augustin,-,Honauer,Regina,Thomas,Stummer,W,W (Berufe -/Arbeiter)(Augustin war aus Petrowitz)
+Iglau,17.7.,Melchior,-,Feith,Anna,Wenceslaus,Gallus (Berufe -/Arbeiter)(Der Bräutigam war Schäfer)
+Iglau,18.7.,Ignatz,-,Krobath,Catharina,Anton,Tütz,-,W (Berufe -/Pannifex)(Der Bräutigam war Pannifex)
+Iglau,25.7.,Joseph,-,Krajatsch,Joseph,Paul,Student (Der Bräutigam war Soldat, Herkunftsort der Braut schwer lesbar)
+Iglau,25.7.,Franz,Martin,Pockorny,Margareth,Peter,Fischer (Berufe Pannifex/Pannifex)
+Iglau,1.8.,Jacob,Jacob,Pranhoffer,Maria Catharina,Georg,Gischall (Berufe Pannifex/Bürger)(Der Bräutigam war Pannifex)
+
+DP 458
+
+Iglau,2.8.,Michael,-,Kirchhoffer,Elisabeth,Paul,Schuster (Berufe -/Pannifex)(Der Bräutigam war Soldat)
+Iglau,3.8.,Michael,-,Christoph,Theresia,Johann Georg,Schultz (-/Schuhmacher)(Der Bräutigam war Soldat)
+Iglau,15.8.,Wenceslaus,-,Payll,Rosina,Simon,Swachatzky,-,W (Berufe -/Incola)(Der Bräutigam war Soldat)
+Iglau,16.8.,Johann,-,Cziszar#,Veronica,-,Heiniger (Der Bräutigam war Soldat)
+Iglau,5.9.,Johann,-,Gobartsch#,Ludmilla,Wenceslaus,Neuwirth (Der Bräutigam war Soldat, Ludmilla ist aus Schrittenz#)
+Iglau,5.9.,Martin,Franz,Prochaska,Anna Barbara,Anton,Frühauf (Berufe Weber/Gärtner)
+
+DP 459
+
+Iglau,15.9.,Michael,-,Sagy,Dorothea,Paul,Körpus (Berufe -/Tibialifics)(Der Bräutigam war Soldat)
+Iglau,19.9.,Martin,Johann,Kindl,Johanna,Paul,Wondack (Berufe Vietor/Oppilio)
+Iglau,26.9.,Joseph,Franz,Lang,Elisabeth,Philipp,Taubenkorn (Berufe Fleischer/Fleischer)(Der Bräutigam war Fleischer)
+Iglau,26.9.,Joseph,Andreas,Pfertros,Victoria,Karl,Dittrich (Berufe Chirurgus/Mercator)(Der Bräutigam war Chirurgus und stammte aus Prag)
+Iglau,26.9.,Ignatz,Jacob,Pils,Maria Theresia,Joseph,Sassensieder (Berufe Pannifex/Pannifex)
+Iglau,9.10.,Jeremias,Anton,Eberhardt,Dorothea,Andreas,Zeitinger,-,W (Berufe Weber/Fuhrmann)(Der Bräutigam war Fuhrmann)
+
+DP 460
+
+Iglau,10.10.,Johann,-,Pauser,Regina,-,Kalboth (Regina ist aus Holentz)
+Iglau,17.10.,Joseph,Joseph,Geisler,Apollonia,Matthäus,Wolff (Berufe Postillio/Panifex)
+Iglau,18.10.,Martin,Andreas,Sommer,Rosina,Matthäus,Bösbauer (Berufe Arbeiter/Arbeiter)
+Iglau,18.10.,Johann,-,Körpe,Anna,Augustin,Zodl,W (Berufe Arbeiter/Arbeiter)
+Iglau,18.10.,Paul,Johann,Gleischner,Anna,Gregor,Schnöller (Anna ist aus Haintzendorf)
+Iglau,18.10.,Mathias,-,Schüller,Anna,Mathias,Gleischner (Berufe Arbeiter/-)(Anna ist aus Dürr#)
+Iglau,23.10.,Paul,Paul,Loch,Catharina,Andreas,Wondre (Berufe Arbeiter/-)(Catharina ist aus Altenberg)
+Iglau,25.10.,Mathias,Mathias,Lang,Maria,Mathias,Straus (Berufe Arbeiter/-)
+
