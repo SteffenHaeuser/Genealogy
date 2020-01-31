@@ -1,0 +1,85 @@
+DP 3
+
+1765
+
+Iglau,14.1.,Franz,Joseph,Ritter,Maria Dorothea,Anton,Rimmer
+Iglau,14.1.,Jacob,Laurenz,Drowner#,Catharina,-,Höck
+Iglau,15.1.,Andreas,Paul,Kalmes#,Regina,Philipp,Monal (Beruf Arbeiter/Arbeiter)
+
+DP 4
+
+Iglau,15.1.,Matthäus,Andreas,Körger,Maria,Johann,Krones (Beruf Arbeiter/Incola)(Matthäus war Soldat)
+Mü#ching/Altenberg,21.1.,Johann,Wenceslaus,Heck,Maria,Johann,Gilch,-,W 
+Iglau,21.1.,Franz,Leopold,Salomon,Maria Anna,Nicolaus,Ingerisch#
+Iglau,21.1.,David,Mathias,Poltzer,Maria Victoria,Heinrich,Kübeck
+Iglau,21.1.,Ludwig,Franz,Ka#r,Maria Ursula,Simon,Störlick
+Jenikau und Iglau,22.1.,Mathias,Franz,Schmid,Anna Maria,Georg,Mahr
+
+DP 5
+
+-,29.1.,Martin,Jacob,Sinowitz,Anna,Georg,Plachus (Beruf Arbeiter/Arbeiter)
+-,1.2.,Josephj,Caspar,Neuwirth,Maria Catharina,Anton,Tütz
+# und Iglau,4.2.,Augustin,Paul,Tölscher,Barbara,Martin,Rosenkrantz
+Zisersdorf und #,4.2.,Egidius,Andreas,Wikarth,Rosina,Peter,Riedl (Beruf Cantor/-)(Egidius war Pileator)
+Iglau,4.2.,Mathias,David,Grün,Anna Rosina,Wenceslaus,Pr#wentz#
+Brünn und Iglau,4.2.,Andreas,Christoph,Schön,Maria Josepha,Johann Georg,Körpf# (Beruf Auriga/Faber Arary)(Andreas war ebenfalls Faber Arary)
+
+DP 6
+
+Iglau und Ziaslau,5.2.,Leopold,Franz,Englisch,Margaretha,Mathias,Mitt#cker (Beruf Zythopola/Grastoris#)
+Tr#litz und -,11.2.,Franz,Johann,Koraseck,Catharina,Jacob,Kettner (Beruf Weber/Folsor)
+Iglau,11.2.,Augustin,Andreas,Holz,Maria Anna,Wenceslaus,Schnöller (Beruf Incola/Nuncius#)
+Pistau# und Rautzen#,12.2.,Johann,Johann,Tüscher#,Rosina,Martin,Telscher
+Frankenstein und Iglau,13.2.,Joseph,Johann,Pöse#,Catharina,Michael,Eder,-,W (Beruf Faber Lignary/-)(Was bedeutet Figulus Filius?)
+Iglau,18.2.,Laurenz,-,M#iel,Anna Maria,Johann,Eugel (Beruf Maurer#/Incola)
+
+DP 7
+
+-,22.4.,Andreas,Blasius,Plaß,Maria Catharina,-,Rabe (Beruf Faber Lignarius/-)(Nicht genannt, ob Tochter oder Witwe)
+Iglau und Riesenfeld in Ungarn,22.4.,Franz Jacob,-,Siegl,Maria Antonia,Karl,Riesenfelder (Beruf Zythopola/Doctor)
+Iglau,29.4.,Joseph,Johann Paul,Zinlack,Maria Catharina,Johann,Häuer
+-,29.4.,Norbert,Johann Christoph,Storch,Anna,Johann,Paucker (Beruf #/Auriga)
+Iglau,29.4.,Joseph,Johann Georg,Fatz#,Anna,Franz,Ridiger (Beruf Faber Lignarius/Arcularius)
+-,29.4.,Joseph,Paul,Matula,Catharina,Georg,Pendia# (Beruf Braxator/Pileatoris Polnensis)
+
+DP 8
+
+-,30.4.,Philipp Jacob,Jacob,Paul,Theresia,Wenceslaus,Kratky (Beruf Incola/Bäcker)
+- und Z#uppau,6.5.,Georg,-,Puls#,Regina,Andreas,Luckschander#,W (Beruf Arbeiter/-)
+Pfaumdorf# und Ebersdorf,6.5.,Mathias,-,Wastl,Rosina,Mathias,Jancke,W
+-,3.6.,Johann,-,Augustin,Susanna,Joseph,Friedrich (Beruf Magister/Zythpola)
+Porentz# und Lu#schen,4.6.,Andreas,-,Röder,Maria,Laurenz,Höllner,W
+-,17.6.,Philipp,-,Wodianka,Susanna,Johann,Moppils,W (Beruf -/Müller)
+
+DP 9
+
+- und Simersdorf#,18.6.,Johann,-,Höcks,Maria,Georg,Politzer (Beruf Arbeiter/-)
+-,24.6.,Andreas,Lucas,Furcht,Barbara,Leopold,Pabel (Beruf Panificis/Panitonsoris)
+-,24.6.,Thomas,-,Swoboda,Catharina,-,Gretsch# (Beruf Soldat/-)
+-,3.7.,Joseph,-,Payer,Johann,Johann,Schindler (Beruf Soldat/Incola)
+-,7.7.,Matthäus,Martin,Reumann,Anna,Mathias,Polak (Beruf Schneider/Arbeiter)
+Iglau,8.7.,Karl,-,Hagel#,Rosina,Peter Paul,Pinder (Beruf Weber/Weber)
+Iglau,8.7.,Franz,-,Vicentz,Josepha,Joseph,Löw (Beruf Postilio/Incola)
+
+DP 10
+
+- und Girzing#,15.7.,Wenceslaus,-,Kauth,Catharina,Mathias,Ripper (Beruf Arbeiter/-)
+-,15.7.,Joseph,Mathias,Przibyl#,Anna,Mathias,Honl (Beruf Opilionis#/Arbeiter)
+Iglau,21.7.,Joseph,-,Eberhart,Barbara,Johann Georg,Weber,-,W (Beruf Arzt/-)
+-,22.7.,Matthäus,Franz,Rittiger,Clara,Johann,Feder#i#l (Beruf Arcularius/Arcularius)
+Studnitz und -,22.7.,Johann,Thomas,Musil,Magdalena,Stephan,Praterschosky# (Beruf -/Opilionis)
+-,29.7.,Michael,Johann,Just,Maria Apollonia,Joseph,Ritter (Beruf Bäcker/Schuhmacher)(Michael Just war Bäcker wie sein Vater)
+Iglau,29.7.,Joseph Ignatz,Casper,Ölsler,Catharina Barbara,Amadeus,Ron (Beruf Zythopola/Zythopola)
+
+DP 11
+
+-,30.7.,Ignatz,Mathias,Rohanck,Catharina,Johann,Hanck (Beruf Auriga/Laniones)
+-,26.8.,Johann,Dominik,Schuster,Anna Maria,Joseph,Mehrgaus# (Beruf Panificis/Aurifohsor#)
+Plauendorf# und Iglau,2.9.,Franz,-,Plath,Anna Barbara,David,Dornkreil# (Beruf Caupo/Panificis)
+-,2.9.,Mathias,Mathias,Krumm,Maria,Mathias,Ripper (Beruf Arbeiter/Arbeiter)
+Solowitz und -,2.9.,Laurenz,-,Lang,Maria,Andreas,Kullwoda,W (Beruf -/Arbeiter)
+-,16.9.,Johann,-,Augustin,Anna Maria,Johann,Hartl,W (Beruf Gärtner/Faber)
+-,17.9.,Thomas,Mathias,Pistauer,Maria,Andreas,Schnöller (Beruf Arbeiter/Arbeiter)
+
+DP 12
+
