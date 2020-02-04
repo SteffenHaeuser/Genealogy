@@ -1,6 +1,94 @@
+1762
+
+DP 445
+
+
+
+DP 446
+
+Iglau,11.10.,Johann,Heinrich,Unger,Elisabeth,Gottfried,Hertzig 
+Rantzern#/Iglau,11.10.,Joseph,Johann,Paschy,Catharina,Ignatz,Po#elka
+Iglau,18.10.,Joseph,Christian,Presch#,Apollonia,Georg,Puls
+Iglau,25.10.,Georg,-,Zwilling,Anna,Augustin,Schraml,W
+Iglau,25.10.,Johann Georg,Franz Anton,Illgmann,Rosina Catharina,Gottfried,John
+
+DP 447
+
+Iglau,26.10.,Johann,Anton,Trütscher,Clara,Mathias,Zopp
+Iglau,26.10.,Matthäus,Augustin,Fentz,Regina,Augustin,Huckauf
+Iglau,26.10.,Georg,-,Topka#,Rosina,Johann,Alle,W
+Iglau,31.10.,Leopold,Mathias,Frühauf,Johanna,Jacob,Ruswurm
+Iglau,31.10.,Matthias,Thomas,Mohr,Catharina,Andreas,Holder (Der Bräutigamvater war aus Porritz#)
+Ebersdorf,31.10.,Georg,Michael,Mirs,Maria,Andreas,Long
+
+DP 448
+
+Iglau,1.11.,Ferdinand,Karl,Schindler,Johanna,Friedrich,Raumert
+Iglau,8.11.,Mathias,Georg,Schrockenhäusl,Barbara,-,Höck
+Iglau,8.11.,Franz,Mathias,Häusler,Maria Josepha,Ignatz,Ulrich,-,W
+Schrittenz#,8.11.,Johann,Martin,Gelinek,Maria,Ferdinand,Küs
+Haintzendorf,9.11.,Wenceslaus,Georg,Supp#,Rosina,Georg,Reltscher
+Iglau,15.11.,Johann,Johann,Schroll,Anna Theresia,Johann,Fürst
+
+DP 449
+
+Iglau,16.11.,Jacob,-,Neubauer,Anna,Georg,Girzabeck,W,W
+Iglau,22.1.,Andreas Franz,-,Jäger,Maria Regina,Johann,Stantzinger,W,W
+Langpirnitz/Rubny,22.1.,Matthias,Joseph,Schmidt,Maria,Mathias,Probs
+Iglau,22.1.,Wenceslaus,Johann,Gröschl,Anna Barbara,Johann,Schüb# (Der Bräutigamvater ist aus Klitschkau# in Böhmen)
+Meserikscho#/Stöckern#,22.1,.Simon,Martin,Walla,Catharina,Martin,Mühlfritsch
+
+DP 450
+
+Iglau,23.11.,Martin,Wenceslaus,Galle,Anna Catharina,Wenceslaus,Kauth (Berufe Arbeiter/Arbeiter)(Der Bräutigam war Faber Lignarius)
+
 1763
 
+Iglau,9.1.,Johann,-,Raffius,Anna Beatrix,Andreas,Ender (Der Bräutigam war aus Kleefeld#)
+Iglau,9.1.,Joseph,-,Kunich,Genovefa,Joseph,Lacken#
+Iglau,10.1.,Joseph,-,Onsorg,Dorothea,Franz,Swoboda,W,W
+
+DP 451
+
+Iglau,17.1.,Franz,Lucas,Wurtzinger,Anna Maria,-,Siegl (Der Bräutigam war Schuhmacher)
+Iglau,24.1.,Michael,Anton,Marketter#,Regina,Joseph,Straukner (Berufe Pannifex/Müller)
+Iglau,24.1.,Karl,Karl,Neumann,Magdalena,Georg,Klik# (Berufe Soldat/-)(Der Brautvater ist aus Pawlow)
+Iglau,24.1.,Peter Paul,Matthäus,Hofmann,Maria Elisabeth,Leopold,Pospichal# (Berufe Pannifex/Rottary#)
+Iglau,24.1.,Joseph,-,Zechmeister,Maria Franziska,Franz,Hauenschild (Berufe -/Pannifex)(Der Bräutigam war Pannifex)
+Stauern#/Mitteldorf,25.1.,Mathias,Mathias,Weber,Elisabeth,Johann,Schmidt
+
+DP 452
+
+Porritz/Gossau,25.1.,Joseph,Matthäus,Hondt,Maria,Augustin,Reltscher 
+Raunks#/Zeissau#,30.1.,Philipp,Augustin,Rosenkrantz,Elisabeth,Johann,Galli
+Rogentz/Sellowitz,31.1.,Johann,Jacob,Wokurka#,Anna Maria,Andreas,Long
+Iglau,31.1.,Thomas,Laurenz,Prawentz,Elisabeth,Johann,Matzke,-,W (Berufe -/Postbote)(Der Bräutigamvater stammte aus Birnbaumhof)
+Iglau,31.1.,Joseph,Matthäus,Schmidt,Maria Catharina,Augustin,Eugl (Berufe Fuhrmann/Maurer)
+Iglau,1.2.,Philipp,-,Krautschneider,Anna,Marc#,Patter# (Der Bräutigam war Arbeiter, der Brautvater stammte aus Wolsfroml#)
+
+DP 453
+
+Iglau,1.2.,Johann,Laurenz,Neubauer,Rosina,Matthäus,Schüller (Berufe -/Arbeiter)(Der Bräutigamvater stammt aus Gossau)
+Iglau,3.2.,Georg Joseph,Martin,Wiskozil#,Maria Anna Josepha,Matthäus,Schwab (Berufe -/Postbote)(Der Bräutigamvater stammte aus Dietkow#)
+Iglau,9.2.,Anton,-,Winmahr#,Catharina,Caspar,Tropp (Berufe -/Pannitensor)(Der Bräutigam war Scriba#, ist das ein Beruf ? Schreiber ?)
+Iglau,6.3.,Johann Franz,-,Kraus,Maria Eva,Johann Franz,Engelschall (Der Bräutigam war Soldat)
+Iglau,5.4.,Johann,-,Neuotting#,Judith,Johann,Ludl (Berufe -/Arbeiter)(Der Bräutigam war Soldat)
+
+DP 454
+
+Iglau,11.4.,Johann,Franz,Zebo,Anna Rosa,Jacob,Hampl,-,W (Berufe -/Pannifex)(Der Bräutigam war Färber)
+Iglau,11.4.,Johann,-,Petrack,Theresia,-,Wolf (Berufe Soldat/-)
+Iglau,19.4.,Mathias,-,Rinagl,Rosina,Mathias,Höffer,W (Der Bräutigam war Arbeiter, der Brautvater war aus Gushübel)
+Iglau,25.4.,Franz,-,Frey,Maria Dorothea,Johann Georg,Frey,W (Berufe -/Faber Lignarius)(Der Bräutigam war Pannitensor, "Braut Maria Dorothea Fatz, Tochter von Johann Georg Frey möglicher Fehler im Kirchenbuch ?)
+Iglau,25.4.,Joseph,Franz,Riesenfelder,Elisabeth,Franz,Long (Berufe Zytholpol/Fleischer)(Der Bräutigam war Alutarius)
+
 DP 455
+
+Iglau,3.5.,Johann Jacob,-,Baumann,Elisabeth,Johann,Richter (Berufe -/Pannifex)(Der Bräutigam war Soldat)
+Iglau,16.5.,Franz,-,Benirschke,Maria Catharina,Franz,Neubauer,W,W (BErufe -/Pannifex)(Der Bräutigam war Pannifex)
+Iglau,24.5.,Laurenz,Franz,Schwestky,Anna,Andreas,Fridl (Berufe -/Arbeiter)(Der Bräutigam war Fuhrmann, der Brautvater stammt aus Wolframbs#).
+Iglau,30.5.,Laurenz,-,Galli,Catharina,Paul,Böhm,W,W (Berufe -/Arbeiter)(Der Bräutigam war Arbeiter)
+Iglau,7.6.,Joseph,-,Prager,Regina,Paul,Sitta,-,W (Berufe -/Incola)(Der Bräutigam war Soldat)
 
 DP 456
 
