@@ -1,8 +1,110 @@
+1761
+
+DP 435
+
+DP 436
+
+Iglau,17.11.,Joseph,-,Ludl,Anna,Matthäus,Morawetz,W
+Ebersdorf,17.11.,Matthäus,Johann,Wolff,Maria,Matthäus,Janck
+
 1762
+
+Iglau,11.1.,Augustin,Georg,Müller,Elisabeth,-,Böhm
+Iglau,18.1.,Franz,Matthäus,Poczaletzky#,Maria Rosina,Johann,Kaseler#
+Iglau,18.1.,Mathias,-,Rinagl,Rosina,Matthäus,Neuwirth,W,W
+Iglau,18.1.,Thomas,-,Ketterer,Maria,Georg,Joksch#,W
+Iglau,18.1.,Johann,Wilhelm,Ebert,Maria Anna,Ferdinand,Clement
+Iglau,18.1.,Johann Stephan,-,Klampfer,Maria Barbara,Johann,Brun#,W,W
+
+DP 437
+
+Iglau,19.1.,Mathias,Johann,Krumm,Maria Elisabeth,Johann,Thoma
+Iglau,25.1.,Johann,-,Pitzenberger#,Barbara,-,Schmid
+Iglau,25.1.,Johann Nepomuck,Benedikt,Steiner,Maria Anna,Georg,Simon
+Iglau,26.1.,Joseph,Jacob,Sockall,Maria Magdalena,Ignatz,Ludl (Bräutigam aus Lintzky# in #)
+Iglau,26.1.,Andreas,Simon,Zatschke,Maria,Laurenz,Procksch
+Iglau,26.1.,Andreas,Wenceslaus,Wesely,Catharina,Matthäus,Zodl (Andreas stammt aus Kamnitz)
+Iglau,1.2.,Leopold,-,Horniek#,Johann,Philipp,Furcht#,W,W
+Iglau,2.2.,Philipp,-,Hauenschild,Maria Elisabeth,Matthäus,Long,W
+
+DP 438
+
+Iglau,1.2.,Jacob,Johann,Roth,Anna Paulina,Johann,Pretsch
+Iglau,8.2.,Joseph,-,Schiel,Catharina,Johann,Töltscher
+Iglau,15.2.,Anton,Michael,Wittmann,Dorothea,Johann,Storch
+Iglau,15.2.,Philipp,-,Malentschberger#,Elisabeth,Johann,Mader#,W,W
+Iglau,15.2.,Michael,Franz,Kauer,Maria Catharina,Franz,Rüttiger#
+Iglau,16.2.,Ignatz,David,Porth,Johanna,Martin,Walla
+Iglau,23.2.,Paul,-,Sermann,Anna,Matthäus,Schober
+Iglau,23.2.,Karl,Joseph,Zlynsky#,Catharina,Andreas,Pelikan
+
+DP 439
+
+Dürre#,23.2.,Jacob,-,Friedrich,Rosina,Wenceslaus,Schober
+Iglau,26.4.,Joseph,-,Czappani#,Theresia,Karl,Müller,W,W
+Iglau,4.5.,Anton,Laurenz,Galle,Anna Maria,Martin,Redlmacher
+Iglau,4.5.,Martin,-,Krassl,Rosina,Andreas,Urban,W
+Iglau,10.5.,Joseph,-,Mauerer,Elisabeth,Johann,Swobody,W,W
+Ebersdorf,10.5.,Vitus,-,Hatschka,Rosina,Laurenz,Matl,W (Unklar, ob Rosina Witwe oder Tochter von Laurenz Matl war)
+Iglau,10.5.,Joseph,Matthäus,Frühauf,Maria Elisabeth,Norbert,Kollinsky
+Obergoss,11.5.,Martin,Laurenz,Frantz,Maria,Augustin,Wonder# (Der Bräutigam aus Gurz#, die Braut aus Obergoss, Eintrag wurde aber durchgestrichen)
+Iglau,11.5.,Adam,Andreas,Wach,Johanna,Andreas,Long (Der Bräutigam ist aus Prybraz#)
+
+DP 440
+
+Obergoss,11.5.,Martin,Laurenz,Frantz,Maria,Augustin,Wondre (Martin aus Gürzings, Maria aus Obergoss)
+Iglau,24.5.,Wenceslaus,-,Paduwe#,Anna,Georg,Anton
+Iglau,24.5.,Anton Joseph,Neumann,Anna,Thomas Johann,Cziack#
+Haintzendorf,25.5.,Matthäus,Martin,Reltscher,Maria,Johann,Schneller
+Iglau,31.5.,Johann Michael,Philipp,Ohn,Anna,-,Staudl#
+Iglau,1.6.,Valentin,-,Mongob#,Maria Regina,Johann Jacob#,Siegl
+
+DP 441
+
+Iglau,7.6.,Martin,-,Conradt,Rosina Catharina,David,Hermann,W
+Iglau,14.6.,Andreas,Melchior,Niesner,Clara,Andreas,Klein,-,W (Andreas ist aus Friedenthal in Schlesien)
+Iglaum,17.6.,Johann,-,Weber,Maria Josepha,Johann Georg,Klenck
+Iglau,21.6.,Mathias,-,Kopp#,Maria Josepha,Bernhard,Czikanek#
+Iglau,21.6.,Paul,Johann,Mislick#,Maria Anna,Mathias,Przibill#
+Iglau,21.6.,Johann Michael,-,Eder,Maria,Jacob,Weskonauer#,W
+
+
+DP 442
+
+Iglau,5.7.,Karl Ferdinand,Karl Ignatz,Diettrich,Elisabeth,Joseph,Häck#
+Iglau,12.7.,Augustin,-,Long,Maria Magdalena,Franz,Fischer,W
+Iglau,12.7.,Maximilian,-,Fischer,Joseph,Franz Adolph,Raab
+Iglau,19.7.,Ignatz,Johann,Schultz,Anna Barbara,Jacob,Winter# (Anna Barbara ist aus Wien)
+Iglau,19.7.,Anton,Mathias,Rosmarin,Maria Rosina,Martin,Gander
+
+DP 443
+
+Iglau,26.7.,Philipp,Philipp,Weiner,Maria Catharina,David,Tertsch#
+Iglau,27.7.,Johann,Georg,Sermann,Anna Paulina,Augustin,Jancko#
+Iglau,27.7.,Johann,Joseph,Ruswurm,Maria Catharina,Johann,Frühauf
+Iglau,27.7.,Wenceslaus Laurenz,-,Klippl#,Maria Barbara,Johann Georg,Röger,W
+Iglau,3.8.,Joseph,Johann,Hermann,Anna Barbara,Jacob,Lull (Joseph ist aus Kamitz#)
+Iglau,11.8.,Norbert,Franz,Habelka,Maria,Paul,Übergurs#
+Iglau,13.8.,Joseph,Christoph,Bonga#,Rosina Catharina,Johann Georg,Schultz (Joseph ist aus Ungarn)
+
+DP 444
+
+Iglau,24.8.,Andreas,-,Swob,Maria Anna,Georg,Plaschko#,W
+Iglau,30.8.,Ludwig,-,Rebhan,Maria Catharina,Mathias,Küschall,W,W
+Iglau,30.8.,Augustin,Augustin,Haude,Maria Dorothea,Johann,Jaich
+Iglau,30.8.,Ignatz,-,Pauspertl#,Maria Franziska,Ferdinand,Reinisch,W
+Iglau,8.9.,Martin,Johann,Klabauch,Anna,Mathias,Przibill#
+Iglau,13.9.,Anton,Michael,Basler,Maria Magdalena,Joseph,Güschall
 
 DP 445
 
-
+Iglau,13.9.,Ferdinand,Joseph,Kürschner,Anna Catharina,Philipp,Ruml
+Iglau,21.9.,Joseph,Thomas,Ruttar#,Anna,Jacob,Pian,-,W
+Iglau,21.9.,Franz,Bartholomäus,Flawaty#,Agnes,Johann,Hamon
+Iglau,27.9.,Johann Georg,-,Schultz,Maria Elisabeth,Martin,Schlosnick,W
+Popitz,28.9.,Laurenz,-,Fritscher,Maria,Georg,Girschabeck,Whttp://actapublica.eu/data/6474/strana444.png
+Iglau,4.10.,Lucas,-,Springer#,ANna Barbara,Johann,Raumert,W
+Iglau,4.10.,Anton,Johann,Gerschtmann,Johanna,Leopold,Hornighttp://actapublica.eu/data/6474/strana444.png
 
 DP 446
 
