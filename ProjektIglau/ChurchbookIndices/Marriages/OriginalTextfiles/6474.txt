@@ -1,6 +1,58 @@
 1761
 
+DP 430
+
+DP 431
+
+Iglau,20.7.,Georg,Matthäus.Hable#,Maria Elisabeth,Mathias,Frühauf
+Iglau,3.8.,Andreas,-,Lieb,-,Jacob,Höfer
+Iglau,10.8.,Franz,Thomas,Rambousek,Elisabeth,Franz,Syckora# (Bräutigam aus Brusnick#)
+Iglau,17.8.,Franz,Karl,Kuffner,Maria Barbara,Joseph,Neuwirth
+Iglau,26.8.,Franz,Johann,Prochaska,Anna Clara,Adalbert,Roseck
+Iglau,31.8.,Karl,Wenceslaus,Semler,Catharina,Martin,Eibl (Bräutigam aus Olmütz)
+Iglau,7.9.,Matthäus,-,Merdl,Maria Rosalia,Johann Georg,Dresler,W
+
+DP 432
+
+Miskau#,7.9.,Anton,Andreas,Frölich,Catharina,Wenceslaus,Rankowsky (Braut aus Miskau)
+Iglau,14.9.,Johann,Ludwig,Roibar,Maria Josepha,Johann Georg,Höck
+Iglau,28.9.,Wenceslaus,-,Fischer,Magdalena,Heinrich,Lang,W
+Wollframbs#,29.9.,Mathias,-,Föllner,Maria,Matthäus,Göth (Braut aus Wollframbs#)
+Iglau,1.10.,Franz,Johann,Polivsky,Catharina Barbara,Johann Jacob,Schmied,-,W
+Iglau,5.10.,Jacob,Franz,Galle,Maria Elisabeth,Jacob,Posrichal#
+Iglau,5.10.,Johann,-,Töltscher,Maria,Sebastian,.Sattler,W
+
+DP 433
+
+Iglau,12.10.,Wenceslaus,Daniel,Küsslich,Anna,Gregor,Räder (Bräutigam aus Raschowitz)
+Iglau,13.10.,Augustin,Paul,Zodl,Judith,Johann Georg,Mach
+Iglau,19.10.,Franz,Paul,Schuster,Elisabeth,Georg,Hauer
+Iglau,19.10.,Norbert,Martin,Ruswurm,Maria Anna,Ignatz,Achatzky
+Iglau,25.10.,Johann,-,Neuwirth,Rosina,Jacob,Schneider,W
+Iglau,26.10.,Franz,-,Fachler,Anna Elisabeth,Heinrich,Kraus,W
+Iglau,26.10.,Johann Caspar,Bartholomäus,Mück,Rosina,Johann,Neubauer
+
+DP 434
+
+Iglau,3.11.,Anton,Wenceslaus,Mischinger,Maria Catharina,Georg,Long
+Haintzendorf,3.11.,Jacob,Johann,Stutz,Maria,Martin,Töltscher (Bräutigam aus Kleinstunitz, Braut aus Haintzendorf)
+Iglau,3.11.,Johann,Paul,Plasche#,Rosina,Joseph,Schüller
+Iglau,3.11.,Johann,Johann,Wutschke#,Maria Elisabeth,Martin,Höffer
+Birnbaumhof,3.11.,Andreas,Mathias,Schüller,Catharina,Laurenz,Prawentz (Bräutigam aus Obergoss, Braut aus Birnbaumhof)
+Iglau,3.11.,Anton,-,Schöffner,Maria,Johann,Kotaun#,W
+Iglau,9.11.,Johann,Johann,Wolff,Anna Theresia,Andreas,Jäger
+Iglau,9.11.,Joseph,Laurenz,Prawentz,Regina,Thomas,Kepper (Bräutigam aus Birnbaumhof)
+
 DP 435
+
+Iglau,9.11.,Johann Georg,Joseph,Pauser,Maria Elisabeth,Laurenz,Thoma
+Iglau,10.11.,Johann Georg,-,Müller,Catharina,Ignatz,Malentschberger,W,W
+Ebersdorf,10.11.,Johann,Johann,Böhm,Elisabeth,Mathias,Mies
+Haintzendorf,10.11.,Martin,Gregor,Schneller,Maria,Paul,Töltscher
+Iglau,11.11.,Peter,-,Zimmermann,Catharina,Mathias,Zarnolowsky#,W,W
+Ebersdorf,15.11.,Johann,Augustin,Peterhaus#,Mariqa,Philipp,Lertscher# (Bräutigam aus Schrittenz#, Braut aus Ebersdorf)
+Puklitz#,16.11.,Johann,Franz,Zasskody#,Regina,Martin,Hayk (Bräutigam aus Rybni, Braut aus Puklitz)
+Iglau,16.11.,Johann,-,Redlmacher,Rosina,Johann,Hable#
 
 DP 436
 
