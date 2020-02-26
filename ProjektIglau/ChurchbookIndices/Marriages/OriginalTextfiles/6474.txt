@@ -1,6 +1,99 @@
+1760
+
+DP 421
+
+DP 422
+
+Hochdorf#,7.10.,Anton,-,Höfer,Maria,Matthäus,Long (Braut aus Hochdorf#)
+Iglau,13.10.,Joseph,Martin,Wossipaull,Anna,Joseph,Swipp
+Iglau,13.10.,Franz,Caspar,Fridl,Maria Theresia,Johann,Güssier#
+Obergoss,14.10.,Mathias,Mathias,Eugl,Anna,Gregor,Kremser (Bräutigam aus Rauneck, Braut aus Obergoss)
+Iglau,14.10.,Franz,Andreas,Holtz,Maria,Michael,Plath
+Iglau,20.10.,Franz,-,Leipoldt,Constantia,Johann,Elinger,W
+Iglau,21.10.,Philipp,Matthäus,Salvawanda#,Maria,Mathias,Schlechtizky#
+
+DP 423
+
+Iglau,28.10.,Franz,Andreas,Rinagl,Catharina,Franz,Clement,-,W
+Iglau,28.10.,Franz,Augustin,Höcht,Theresia,Franz,Möltzer
+Altenberg,28.10.,Johann Georg,Matthäus,Eugl,Elisabeth,Martin,Neubauer (Bräutigam aus Raumeck, Braut aus Altenberg)
+Iglau,28.10.,Joseph,Andreas,Eckert,Elisabeth,Jacob,Ponstingl,-,W
+Ebersdorf,4.11.,Michael,Friedrich,Parthl,Catharina,Johann,Frühauf (Beide aus Ebersdorf)
+Iglau,4.11.,Franz,Johann Heinrich,Flaschner,Johanna Franziska,Johann,Herdlitzka (Bräutigam aus Altstadt)
+Güshübl,4.11.,Matthäus,Martin,Prekh#,Maria,Martin,Höffer,-,W (Bräutigam aus Birnbaumhof, Braut aus Güsshübl)
+
+DP 424
+
+Iglau,10.11.,Ludwig,Matthäus,Fröndl,Theresia,Joseph,Wondraczek,-,W
+Güsshübl#,10.11.,Franz,-,Sitta,Barbara,Joseph,Schmidt
+Gossau,11.11.,Martin,Martin,Schmidt,Maria Catharina,Johann,Lukschander# (Bräutigam aus Sollowitz, Bruat aus Gossau)
+Iglau,17.11.,Martin,-,Rodelmacher,Maria,Thomas,Obenbartl#,W
+Iglau,17.11.,Wenceslaus,Laurenz,Holtzbauer,Catharina,Ignatz,Sobotka
+Haintzendorf,18.11.,Augustin,Martin,Strauss,Elisabeth,Gregor,Schnöller (Bräutigam aus Zeissau, Braut aus Haintzendorf)
+Iglau,18.11.,Georg,Gregor,Schnöller,Judith,Philipp,Rinagl,-,W
+
+DP 425
+
+Ebersdorf,18.11.,Martin,Laurenz,Madl,Dorothea,Johann,Pöhm
+Iglau,24.11.,Andreas,-,Pauer,Anna Rosina,Philipp,Frantz,W,W
+Iglau,24.11.,Johann,-,Kremer#,Elisabeth,Matthäus,Jolinek
+Iglau,24.11.,Mathias,Georg,Fientz#,Maria,Thomas,Lebzeltner (Bräutigam aus Hochdorf)
+Iglau,24.11.,Johann Joseph,Johann,Florentin,Maria Catharina,Franz,Halek (Bräutigam Vulgo-Name Güsser)
+Iglau,24.11.,Wenceslaus,Johann,Rebhan,Maria Anna,Ignatz,Müller
+Iglau,25.11.,Ignatz,Gottfried,Mühlfrith,Eva,Melchior,Jancko (Bräutigam aus Stöcken#)
+
+DP 426
+
+Iglau,25.11.,Johann,Wenceslaus,Schober,Veronica,Johann,Horth (Bräutigam aus Dürr)
+Iglau,25.11.,Martin,Thomas,Röder,Elisabeth,Thomas,Körpernick# (Bräutigam aus Gossau)
+Iglau,28.11.,Franz Thomas,-,Westermeyer,Johanna,Andreas,Löw
+
 1761
 
+Iglau,12.1.,Jacob,Sylvester,Hirschvogel,Catharina,Wenceslaus,Schindler,-,W
+Iglau,12.1.,Franz,Gottfried,Schwartz,Dorothea,Augustin,Pollitzer
+Iglau,12.1.,Johann Michael,Joseph,Platzer,Monica,Ignatz,Finsterwald,-,W
+Iglau,13.1.,Stephan,-,Onsorg,Catharina,Ignatz,Zeitzinger,W,W
+
+DP 427
+
+Iglau,19.01.,Johann,Johann Paul,Schirhackl,Maria Catharina,Philipp,Jaich
+Iglau,19.1.,Johann,Joseph,Pröckl,Maria Catharina,Joseph,Raab
+Iglau,26.1.,Johann,-,Kasler,Anna,Andreas,Hable,W,W
+Iglau,26.1.,Joseph,-,Zebo,Anna Maria,Franz,Hohl,W
+Iglau,26.1.,Martin,-,Kos,Eva,Christian,Joachim,W
+Iglau,27.1.,Johann,-,Tertsch,Dorothea,Andreas,Prosl#,W
+Iglau,2.2.,Joseph,Matthäus,Frühauf,Maria Apollonia,Joseph,Eugl
+Iglau,20.4.,Blasius,Joseph,Sütter,Elisabeth,Johann Georg,Grabler
+
+DP 428
+
+Iglau,20.4.,Jacob,Andreas,Schindler,Apollonia,Johann,Mosock#
+Iglau,20.4.,Heinrich,-,Zebo,Elisabeth,Jacob,Schink#
+Iglau,21.4.,Jacob,Paul,Starsa,Catharina,Mathias,Kaschal#
+Iglau,27.4.,Vinzenz,Matthäus,Küldek,Franziska,Matthäus,Staudinger
+Iglau,4.5.,Caspar,Caspar,Smuttig#,Maria Catharina,Martin,Konrad (Caspar ist aus Püschitz# in Böhmen)
+Kleinstunitz,5.5.,Joseph,Georg,Neubauer,Anna,Georg,Neubauer (Beide aus Kleinstunitz)
+Ramkau#,6.5.,Wenceslaus,Georg,Hlauhy#,Maria,Matthäus,Proksch (Bräutigam aus Petrowitz, Braut aus Ramkau#)
+
+DP 429
+
+Iglau,1.6.,Prokop,Georg,Zahorz,Rosalia,Franz,Plahetz
+Iglau,1.6.,Anton,Matthäus,Müksch,Regina,Georg,Plahus
+Iglau,15.6.,Jacob,-,Jäger,Anna Maria,Georg,Hawla,-,W
+Iglau,15.6.,Joseph,Franz,Tertsch,Maria Barbara,Vitus,Bauernfeind
+Iglau,16.6.,Johann,Franz,Bergmann,Maria Catharina,Joseph,Hertzig,-,W
+Iglau,16.6.,Joseph,Joseph,Huckauf,Maria,Georg,Durchhalter
+
 DP 430
+
+Iglau,16.6.,Andreas,Georg,Hutschenreither,Magdalena,Wenceslaus,Hochheisel,-,W
+Iglau,22.6.,Georg,-,Wonder,Theresia,Andreas,Pitzal
+Iglau,13.7.,Jacob,-,Steinbauer,Catharina,Peter Paul,Weis,W,W
+Iglau,13.7.,Anton,Johann,Lerch,Veronica,Johann,Pudall
+Iglau,13.7.,Mathias,-,Güttig,Anna,Georg,Höffer,W
+Iglau,13.7.,Joseph,-,Mauretter#,Eleonora,Philipp,Lischka,W
+Iglau,13.7.,Franz Anton,-,Schwartz#,Elisabeth,Doleczal (Braut aus Boczdecy#)
 
 DP 431
 
