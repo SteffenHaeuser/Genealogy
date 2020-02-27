@@ -1,8 +1,26 @@
 1758
 
+DP 396
+
+
+
+DP 397
+
+Iglau,23.10.,Johann Joseph,-,Kübeck,Johanna,Gottfried,Neuhoffer,W
+Iglau,23.10.,Laurenz,-,Wonder,Martha,Joseph,Köllner,W,W
+Kleinstunitz,24.10.,Johann,Georg,Oberreuer#,Susanna,Georg,Neubauer (Beide aus Kleinstunitz)
+Sollowitz,24.10.,Gregor,Martin,Pöhm,Maria,Martin,Long (Bräutigam aus Poppitz, Braut aus Sollowitz)
+Philippsdorf,29.10.,Philipp,Matthäus,Stummer,Elisabeth,Martin,Zimmermann (Bräutigam aus Wilhelmsdorf, Braut aus Philippsdorf)
+Hülbersdorf,30.10.,Joseph,-,Rebahausl,Maria,Andreas,Fresser# (Braut aus Hülbersdorf)
+
 DP 398
 
-
+Iglau,30.10.,Johann,-,Müksche,Eva Rosina,Ludwig,Wodianka,W
+Iglau,6.11.,Wenceslaus,-,Prochaska,Theresia,Martin,Kremser,W
+Iglau,6.11.,Johann Georg,-,Siegl,Anna Maria,Martin,Popelka#,W,W
+Iglau,7.11.,Johann,Martin,Walla,Maria Magdalena,Martin,Tomaseck (Bräutigam von Meseritschko)
+Hoffen#,7.11.,Andreas,-,Wonder,Maria,Jacob,Herd,W (Braut von Hoffen#)
+Iglau,13.11.,Dominik,Jacob,Müller,Anna Regina,-,Schneider
 
 DP 399
 
