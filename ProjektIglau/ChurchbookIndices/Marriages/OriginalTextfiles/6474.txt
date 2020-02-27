@@ -1,8 +1,146 @@
+1758
+
+DP 398
+
+
+
+DP 399
+
+Iglau,13.11.,Andreas,Johann,Polack,Veronica,Joseph,Taubenkorb (Bräutigam aus Hoffau#)
+Iglau,13.11.,Johann,Ignatz,Achatz,Anna Catharina,Matthäus,Frühauf
+Ebersdorf,13.11.,Thomas,Georg,Stummer,Anna,Paul,Stummer (Beide aus Ebersdorf, Unklar ob Witwe oder Tochter)
+Iglau,20.11.,Laurenz,Franz,Rosner,Maria Anna,Caspar,Kuntschak
+
+DP 400
+
+Iglau,21.11.,David,Johann,Raab,Anna,Johann,Withalb
+Stauern#,21.11.,Joseph,-,Pendl#,Maria,Martin,Thünl (Braut aus Stauern#)
+Ebersdorf,21.11.,Joseph,Matthäus,Swoboda,Rosina,Paul,Stummer (Bräutigam aus Paderdorf, Braut aus Ebersdorf)
+Poppitz,27.11.,Andreas,Paul,Matl,Anna Maria,Matthäus,Zimmermann (Bräutigam aus Ebersdorf, Braut aus Poppitz)
+Dürr,27.11.,Johann,Georg,Lewaldt,Catharina,Martin,Gleichsner (Bräutigam aus Wolframbs, Braut aus Dürr)
+Iglau,28.11.,Franz,Johann,Schauer,Johanna,Franz,Michal
+
+DP 401
+
 1759
+
+Iglau,08.01.,Stephan,-,Szaruas#,Johanna,Franz,Rittinger
+Iglau,15.01.,Joseph,-,Tietz,Veronica,Joseph,Grönberger,W
+Iglau,21.01.,Martin,-,Bednarz,Magdalena,Wenceslaus,Przibill#
+Iglau,22.01.,Johann Jacob,Franz,Neumann,Elisabeth,Tobias,Schwartz
+Iglau,22.01.,Laurenz,-,Eugl,Maria Regina,Jacob,Kuntschak,W
+
+DP 402
+
+Iglau,29.01.,Johann,-,Eugl,Maria,Christoph,Dropschug#,W
+Iglau,05.02.,Anton,Johann,Mohr,Anna Maria,Melchior,Jancko
+Iglau,05.02.,Ignatz,-,Prosl,Maria Barbara,Johann Georg,Grobler,W
+Iglau,05.02.,Franz,-,Hold,Catharina Barbara,Ignatz,Linhard,W
+Iglau,05.02.,Andreas,Leopold,Zinlack#,Maria Magdalena,Johann,Long
+Iglau,06.02.,Adalbert,Matthäus,Altirchter,Anna,Matthäus,Springinsfeld (Bräutigam aus Schmillau)
+
+DP 403
+
+Iglau,12.02.,Leopold,-,Stoninger,Apollonia,Abraha,Pauspertl#,W
+Iglau,12.02.,Tobias,Johann,Sobotta,Barbara,Joseph,Politzer
+Iglau,12.02.,Karl Franz,Johann Caspar,Kuntschak,Carolina Eva,Gottlieb,Rohm#
+Iglau,13.02.,Johann,-,Krbezeh#,Maria Johanna,Norbert,Praunlys#,W
+
+DP 404
+
+Iglau,19.02.,Andreas,-,Klein#,Clara,Johann,Hamon#,W
+Iglau,19.02.,Martin,Franz,Hansick,Elisabeth,Florian,Schönck,-,W
+Gossau,20.02.,Martin,Johann,Lukschander#,Maria,Martin,Schwartz (Beide aus Gossau)
+Iglau,26.02.,Johann Michael,Johann,Hofbauer,Catharina Barbara,-,Schmillauer
+Iglau,26.02.,Philipp,Augustin,Oberreuer,Regina,Georg,Pauser (Bräutigam aus Kleinstunitz)
+
+DP 405
+
+Iglau,26.02.,Mathias,Joseph,Möntz,Maria Catharina,Johann,Long
+Iglau,07.05.,Johann,Johann,Alitzer,Maria Barbara,Joseph,Förster
+Iglau,07.05.,Peter Paul,Andreas,Röltscher,Johanna,Franz,Rebhaus
+Iglau,13.05.,Franz,Peter Pau,Pinter#,Maria Catharina,-,Grüßmüller,-,W
+
+DP 406
+
+Iglau,14.05.,Karl,-,Pauspertl#,Anna Rosina,Augustin,Holy#
+Iglau,16.05.,Franz,-,Absolon,Maria Carolina,Gotthard,Pabl#
+Iglau,22.05.,Johann,Johann,Praneck#,Johanna,Philipp,Taubenkorb
+Irzing#,22.05.,Martin,Wenceslaus,Patri,Catharina,Thomas,Letzelt (Bräutigam von Hoffen, Braut von Irzing#)
+Iglau,28.05.,Michael,-,Weber,Catharina,Martin,Tum#,W,W
+Kleinstunitz,29.05.,Augustin,Matthäus,Glas,Regina,Laurenz,Bursak (Braut aus Kleinstunitz)
+Iglau,07.06.,Laurenz,Wenceslaus,Schneller,Elisabeth,Georg,Neubauer
+
+DP 407
+
+Iglau,11.06.,Anton,Joseph,Teuber,Maria Elisabeth,Franz,Redlich,-,W
+Iglau,19.06.,Wenceslaus,Lucas,Hedlitzka,Rosina,Wenceslaus,Hewrauck#
+Iglau,25.06.,Joseph Karl,Conrad,Schüller,Anna Paulina,Franz,Hauenschild
+Iglau,25.06.,Leopold,Jacob,Lull,Apollonia,Matthäus,Thonhauser
+Iglau,25.06.,Franz,Johann,Long,Maria Anna,Andreas,Löw
+Iglau,25.06.,Johann,-,Kuderna#,Maria Catharina,Christoph,Wittmann,W
+
+DP 408
+
+Iglau,2.7.,Joseph,Martin,Taubenkorb,Johanna,Matthäus,Fellner
+Iglau,3.7.,Martin,Johann,Krener#,Maria Magdalena,Wenceslaus,Überwasser
+Iglau,3.7.,Joseph,-,Neumann,Elisabeth,Paul,Müller,W
+Iglau,9.7.,Nicolaus,Joseph,Symota,Paulina,Tobias,Walter (Bräutigam aus Böhmen)
+Altenberg,13.7.,Leopold,Joseph,Wonder,Catharina,Martin,Neubauer (Bräutigam aus Obergoss, Braut aus Altenberg)
+Iglau,6.8.,Wenceslaus,-,Laschtowitschka#,Elisabeth,Adam,Fürst
+
+DP 409
+
+Iglau,6.8.,Johann Paul,-,Wodiancka,Maria Rosina,Johann,Völker
+Iglau,13.8.,Thomas,Laurenz,Patri,Anna,Franz,Schußwald# (Bräutigam aus Stonern#)
+Iglau,15.8.,Franz,Franz,Sperger,Rosina,Anton,Pachmann
+Iglau,27#.8.,Johann,Joseph,Ernst,Maria Josepha,Laurenz,Gilch,-,W (Bräutigam aus Opperidorf#)
+Iglau,3.9.,Augustin,Leopold,Hornick,Susanna,Marc,Politzer
+Iglau,3.9.,Johann Heinrich,Johann Stephan,Klampfer,Maria Clara,Andreas,Debich
+
+DP 410
+
+Ebersdorf,4.9.,Laurenz,-,Swoboda,Regina,Matthäus,Umbshaus#,W,W (Braut aus Ebersdorf)
+Iglau,17.9.,Johann Georg,Paul,Jancko,Veronica,Jacob,Perger
+Iglau,24.9.,Paul,-,Supp,Maria,Georg,Kayser,W,W
+Iglau,25.9.,Franz,-,Rupprecht,Anna Catharina,Matthäus,Stoltz,W,W
+Iglau,25.9.,Cyrill,Vitus,Koprezni,Elisabeth,Johann,Müslick
+Dürr,1.10.,Andreas,Mathias,Schwartz,Anna,Matthäus,Honl (Bräutigam aus Gossau, Braut aus Dürr)
+Iglau,1.10.,Joseph,Matthäus,Plaschko,Eva Rosina,Johann Georg,Förster
+Iglau,1.10.,Matthäus,Johann Adam,Klinger,Johanna,Johann Georg,Schindlberger
+
+DP 411
+
+Iglau,2.10.,Leopold Anton,Anton,Haintzendörffer,Maria Catharina,Paul,Schiller,-,W
+Iglau,8.10.,Franz Michael,-,Leipolt,Anna Dorothea,Jacob,Michaus#,W
+Iglau,15.10.,Johann Paul,Johann,Raab,Ludmilla,Johann Georg,Broneck#
+Iglau,15.10.,Leopold,Matthäus,Dertsch,Dorothea,Norbert,Neumann
+Iglau,15.10.,Johann,Christoph,Helder,Elisabeth,Johann,Kastary
+Iglau,16.10.,Johann,Tobias,Neumann,Maria Anna,Paul,Kusch (Bräutigam aus Altenberg)
+Ebersdorf,16.10.,Georg,Johann,Josl#,Maria,Martin,Grimshandl (Bräutigam aus Stöcken, Braut aus Ebersdorf)
+
+DP 412
+
+Haintzendorf,16.10.,Joseph,Laurenz,Teltscher,Anna,Georg,Teltscher (Braut aus Haintzendorf)
+Iglau,22.10.,Johann Paul,-,Neusser,Maria Anna,Johann Georg,Jäger,W
+Iglau,22.10.,Franz,Anton,Müller,Eva Theresia,Philipp,Steinhausl
+Iglau,23.10.,Philipp,Andreas,Fridl,Maria,Laurenz,Walentschka#
+Schrittenz#,28.10.,Philipp,Andreas,Mies,Catharina,Andreas,Miskauer (Bräutigam aus Ebersdorf, Braut aus Schrittenz#)
+Iglau,29.10.,Joseph,-,Urba,Maria Anna,Nicolaus,Rebahausl,W
+Mitldorf#,29.10.,Johann,Andreas,Röder,Maria,Nicolaus,Telick# (Bräutigam aus Ruer#, Braut aus Mittldorfä)
+Iglau,29.10.,Jacob,Andreas,Hampl,Anna Rosa,Elias,Neubauer,-,W
 
 DP 413
 
-
+Iglau,5.11.,Johann Paul,Ludwig,Weis,Josepha,Michael,Kerb#
+Iglau,5.11.,Laurenz,Jacob,Röser,Josepha Agnes,Franz Adolph,Seidl
+Wilantz#,6.11.,Jacob,-,Berger,Maria,Thomas,Schneller (Bräutigam Sohn von Maria Berger aus Lutscher# und Braut aus Wilantz#)
+Pfauendorf,6.11.,Joseph,Paul,Stummer,Maria,Mathias,Bastl (Bräutigam aus Ebersdorf, Braut aus Pfauendorf)
+Iglau,12.11.,Mathias,Adam,Pir#,Rosalia,Matthäus,Polak
+Iglau,12.11.,Joseph,Johann,Eckert,Johanna,Johann,Schirhackl
+Ribny,13.11.,Joseph,Jacob,Brab#ze,Judith,Thomas,Kolarz (Bräutigam aus Jamnay, Braut aus Ribny)
+Simmerdorf#,13.11.,Joseph,-,Peltzl,Rosina,Gregor,Politzer,W
+Obergoss,13.11.,Leopold,Johann,Wessely,Maria Elisabeth,Mathias,Schüller (Bräutigam aus Rauneck#, Braut aus Obergoss)
 
 DP 414
 
