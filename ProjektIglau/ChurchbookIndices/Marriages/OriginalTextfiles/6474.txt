@@ -1,8 +1,58 @@
 1758
 
+DP 390
+
+DP 391
+
+Iglau,26.6.,Jacob,-,Kampp,Catharina,Philipp,Michler,W
+Iglau,3.7.,Joseph,-,Schindler,Catharina,Heinrich,Weber,W,W ("nata Weresiana")
+Iglau,3.7.,Nicolaus,Jacob,Meister,Maria Catharina,Franz,Xayer# (Bräutigam aus der Schweiz)
+Iglau,3.7.,Anton,-,Müller,Eva Rosina,Joseph,Habermann,W
+Iglau,3.7.,Joseph,Andreas,Löwitsch,Anna Catharina,Philipp,Musch (Bräutigam aus Pulsdorf in Österreich)
+Iglau,10.7.,Christian,Peter,Servant#,Joseph,Johann,Kopp
+Iglau,10.7.,DFranz,-,Patzolt,Maria Catharina,Philipp,Malentschberger,W
+
+DP 392
+
+Iglau,23.7.,Franz Joseph,-,Polay,Maria Elisabeth,Franz,Foshank#
+Iglau,25.7.,Johann,-,Hansick,Maria Anna,Johann Conrad,Schüller#,W
+Iglau,31.7.,Wenceslaus,Augustin,Eugl,Anna Clara,Ignatz,Hieber
+Iglau,3.8.,Ignatz,-,Richter,Anna,Anton,Schwartz,-,W
+Iglau,7.8.,Nicolaus,Karl,Höger,Elisabeth,Laurenz,Peck#
+Iglau,7.8.,Ferdinand Anton,-,Pongratz#,Maria Theresia,Franz,Steyer
+
+DP 393
+
+Iglau,13.8.,Karl,-,Kopp,Catharina,Michael,Brüll (Vulgo-Name des Bräutigams: Führer)
+Iglau,15.9.,Wenceslaus,-,Holl,Catharina,Paul,Schnöller,W,W
+Iglau,15.9.,Andreas,Andreas,Kettner,Maria Anna,Augustin,Schindler
+Altenberg,22.8.,Johann,Matthäus,Siegl,Susanna,Martin,Gleichsner,-,W (Bräutigam aus Luckau#, Braut aus Altenberg)
+Iglau,28.8.,Mathias,-,Steiger,Victoria,Andreas,Auckner,W
+Iglau,29.8.,Joseph,-,Japp#,Maria Catharina,Johann,Hobermann
+
+DP 394
+
+Iglau,29.8.,Georg,-,Stummer,Susanna,Vitus,Pritsch,W,W
+Iglau,7.9.,Anton,Anton,Hauser,Anna Maria,Paul,Krüza
+Iglau,11.9.,Rudolph Anton,-,Parth,Maria Elisabeth,Johann Jacob,Siegl,W
+Iglau,11.9.,Johann,-,Kraus,Maria Josepha,Wilhelm,Ebert,W
+Ebersdorf,18.9.,Matthäus,Martin,Pistauer,Maria,Laurenz,Madl (Beide aus Ebersdorf)
+
+DP 395
+
+Wolframb,26.9.,Georg,Jacob,Spatzal,Catharina,Martin,Krautschneider (Bräutigam aus Hochdorf, Braut aus Wolframb)
+Iglau,9.10.,Martin,Joseph,Schüller,Catharina,Thomas,Kettner
+Iglau,9.10.,Johann Nepomuck,Johann Franz,Klappa#,Maria Josepha,Joseph,Puschmann
+Obergoss,10.10.,Franz,Martin,Wildt,Rosina,Augustin,Wonder (Braut aus Obergoss)
+
 DP 396
 
-
+Haintzendorf,10.10.,Georg,Wenceslaus,Höckh,Dorothea,Gregor,Schnöller (Bräutigam aus Misching#, Braut aus Haintzendorf)
+Iglau,16.10.,Johann,-,Krzepelka#,Maria Magdalena,Jacob,Pitzal,W
+Iglau,16.10.,Franz,-,Neubauer,Catharina,Andreas,Pauer,W
+Iglau,16.10.,Joseph,-,Thomas,Regina,Marc,Politzer,W
+Iglau,17.10.,Paul,Andreas,Trübswasser,Rosina,Andreas,Ripper (Bräutigam aus Hochdorf)
+Ebersdorf,17.10.,Laurenz,Johann,Schneider,Catharina,Michael,Mies (Braut aus Ebersdorf)
 
 DP 397
 
