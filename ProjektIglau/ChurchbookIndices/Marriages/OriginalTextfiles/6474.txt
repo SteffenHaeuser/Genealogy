@@ -1,6 +1,67 @@
+1757
+
+DP 384
+
+
+
+DP 385
+
+Iglau,20.11.,Georg,-,Pauser,Catharina,Jacob,Long,W
+Iglau,21.11.,Georg,Matthäus,Neubauer,Rosina,Johann,Durchhalter
+Iglau,21.11.,Franz Joseph,Johann Georg,Dimpernagl#,Maria Barbara,Andreas,Schleim#
+Iglau,22.11.,Johann,David,Porth,Elisabeth,Vitus,Wächter
+Iglau,22.11.,Matthäus,Joseph,Wonder,Anna,Martin,Höffer (Bräutigam aus Obergoss)
+
 1758
 
+Iglau,9.1.,Joseph,Laurenz,Kund,Maria Theresia,-,Kammermayer
+
+DP 386
+
+Iglau,9.1.,Mathias,-,Wasserpaul#,Catharina,Matthäus,Quäl,W
+Iglau,9.1.,Ignatz Franz,Karl Joseph,Mikusch,Anna Rosina,Leopold Thomas,Pauernberger#
+Iglau,16.1.,Heinrich,-,Schleim#,Rosina,David,Mückenbeuer#,W
+Iglau,16.1.,Martin,Nicolaus,Kurzweil,Maria,Gottfried,Neuhoffer
+Iglau,16.1.,Andreas,Wenceslaus,Plaschke,Catharina,Norbert,Pincker#
+Gossau,17.1.,Philipp,Laurenz,Wetzack#,Rosina,Johann,Lukschander# (Bräutigam aus Kleinstunitz, Braut aus Gossau)
+
+DP 387
+
+Iglau,23.1.,Johann,-,Galle,Johanna,Johann,Krumm,W
+Iglau,23.1.,Johann,-,Hable,Regina,Augustin,Müksch,W
+Iglau,23.1.,Ignatz,-,Malentschberger,Catharina,Johann,Körber,W
+Iglau,24.1.,Laurenz,-,Gossau,Rosina,Wenceslaus,Schrambl,W (Bräutigam von Birnbaumhof)
+Iglau,30.1.,Franz,Augustin,Neubauer,Catharina,Anan#,Penirschke
+Iglau,30.1.,Franz,Johann,Ludwik,Anna Regina,Gregor,Eberhardt
+Rauneck#,30.1.,Johann,-,Höffer,Anna Maria,Thomas,Schraml,W (Bräutigam aus Müs#, Braut aus Rauneck#)
+Iglau,30.1.,Johann Karl,Karl,Müller,Maria Barbara,Christoph,Fernecker#
+Iglau,31.1.,Johann,-,Küppry#,Magdalena,Joseph,Lochmann,W
+
+DP 388
+
+Iglau,6.2.,Johann,Jacob,Rudolph,Apollonia,Christoph,Finck
+Iglau,5.4.,Joseph Franz,-,Schwartzmann,Josepha,Karl Joseph,Mikusch
+Zeissau#,18.4.,Mathias,-,Röltscher,Regina,Laurenz,Neuwirth,W (Braut aus Zeissau#)
+Iglau,24.4.,David,Andreas,Rinagl,Regina,Thomas,Müksch
+Iglau,24.4.,Mathias,-,Rinagl,Catharina,Georg,Girzabeck,W
+Iglau,25.4.,David,-,Schwartz,Barbara,Leopold,Habermann,W
+
+DP 389
+
+Iglau,25.4.,Andreas,-,Zeitzinger,Dorothea,Matthäus,Donhauser#
+Ebersdorf,25.4.,Martin,Matthäus,Simon,Anna,Matthäus,Janck (Beide aus Ebersdorf)
+Iglau,8.5.,Johann,-,Krappler,Catharina Barbara,Christian,Joachim,W
+Ebersdorf,9.5.,Wenceslaus,-,Watzko#,Catharina,Johann,Rösl,W,W (Bräutigam aus Simmersdorf, Braut aus Ebersdorf)
+Iglau,9.5.,Joseph Ignatz,-,Erbstein,Johanna Theresia,Johann Ernst,Imkert
+Iglau,15.5.,Thomas,-,Hardung,Anna Catharina,Georg,Sermann
+
 DP 390
+
+Iglau,16.5.,Joseph Karl,Philipp Jacob,Weimer,Maria Antonia,Anton,Zebo
+Iglau,22.5.,Anton,Paul,Schuster,Martha,Ignatz,Hauer,-,W
+Iglau,22.5.,Bernhard,Johann,Waywoda,Juliana,Johann,Julius
+Iglau,19.6.,Augustin,Augustin,Sommhäupl#,Elisabeth,Johann,Futter#
+Iglau,19.6.,Martin,Leopold,Kunrath,Maria Anna,Stephan,Csak#,-,W
 
 DP 391
 
