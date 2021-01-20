@@ -1,8 +1,137 @@
+1756
+
+DP 371
+
+
+
+DP 372
+
+Iglau,22.11.,Prosper,Joseph,Wiesner,Maria Theresia,Matthäus,Steffl
+Iglau,23.11.,Franz,Jacob,Janick,Maria Anna,Joseph,Rinner#
+Böhmen und Iglau,23.11.,Matthias,Martin,Pleschkatz,Judith,Georg,Pauser
+Gossau und Obergoss,23.11.,Thomas,Martin,Achaty,Maria,Georg,Krembser
+
 1757
+
+Iglau,10.01.,Ignatz,Augustin,Caspar,Maria Elisabeth,Johann Georg,Fatz#
+Iglau,17.01.,Johann,-,Grauhaus,Anna Catharina,Johann,Mosock,W
+
+DP 373
+
+Iglau,17.01.,Johann,-,Rinagl,Anna Regina,Johann,Rebhan,W
+Iglau,17.01.,Matthäus Joseph,-,Dentullin#,Anna Maria,Johann,Dromelschlager,W
+Iglau,18.01.,Johann,Laurenz,Löw,Maria Anna,Laurenz,Hoffmann
+Iglau,18.01.,Martin,Laurenz,Döltscher,Catharina,Simon,Fiala
+Iglau,24.01.,Jacob,Jacob,Pils,Maria Elisabeth,Franz,Mosock
+Iglau,24.01.,Michael,Gottfried,Schwartz,Maria Anna,Joseph,Hamon
+Iglau,24.01.,Anton,Anton,Müller,Anna Maria,Andreas,Löw
+Neust# und Iglau,24.01.,Andreas,Martin,Fiderl,Maria,Martin,Lowentz
+
+DP 374
+
+Iglau,24.01.,Johann Nepomuck,Franz Joseph,Budinschky#,Maria Anna,Sigfrid,Titius
+Roschitz und Kleinstunitz,25.01.,Johann,Thomas,Lewoldt,Judith,Martin,Würschack
+Iglau und Wolframs,25.01.,Martin,Matthäus,Durchhalter,Catharina,Martin,Wichholm
+Iglau und Luckau,25.01.,Jacob,Matthäus,Plath,Anna,Vitus,Fridl
+Ebersdorf,25.01.,Friedrich,-,Parthl,Anna,Joseph,Schimek,W,W
+Iglau,31.01.,Florian,Thomas,Kankowsky,Barbara,Melchior,Anderst
+
+DP 375
+
+Iglau,31.01.,Wenceslaus,Jacob Friedrich,Klippl,Regina,Franz,Handl,-,W
+Klefeldt und Saxenthal,31.01.,Johann Wenceslaus,Philipp,Jacob,Rassius#,Anna Christina,Johann Karl,Goschke
+Iglau und S#u#,01.02.,Bartholomäus,-,Veit,Elisabeth,Laurenz,Lang,W
+Tel# und Iglau,02.02.,Norbert Anton,Johann,Müller,Maria Theresia,Andreas,Payer
+Iglau,07.02.,Karl,Andreas,Payer,Catharina,Andreas,Clement
+Iglau,07.02.,Joseph,David,Leipolt,Anna Maria,Georg,Seman
+
+DP 376
+
+Iglau,07.02.,Matthäus,Martin,Simon,Elisabeth,Vitus,Pauerfeindt
+Iglau,07.02.,Johann,Franz,Hansick,Anna Maria,Franz,Fischer
+Güshübl und Altenberg,08.02.,Laurenz,Laurenz,Aygl,Rosina,Tobias,Wondre
+Ebersdorf,08.02.,Wenceslaus,Laurenz,Röhrig,Magdalena,Johann,Schmiek
+Olmütz und Iglau,08.02.,Anton,Johann Christoph,Müller,Ursula,Joseph,Siegl
+Iglau,14.02.,Paul,Paul,Jancko,Maria Theresia,Martin,Mellions#,-,W
+
+DP 377
+
+Obergoss und Iglau,15.02.,Matthäus,Matthäus,Wondre,Elisabeth,Georg,Schwartz
+Iglau,21.02.,Johann Joseph,-,Fürst,Maria Ursula,Johann Franz,Gross
+Iglau,02.05.,Laurenz,David,Reindler#,Ursula,David,Schindler
+Iglau,02.05.,Franz,Johann,Fölcker,Elisabeth,Johann,Lang
+Iglau,03.05.,Andreas,-,Rinagl,Anna Maria,Georg,Pitzal,W
+Iglau,03.05.,Martin,-,Bercka#,Maria Anna,Joseph,Dorffmüller,W,W
+Iglau,09.05.,Mathias,Gottfried,Zimmermann,Elisabeth,Johann,Zwillig
+
+DP 378
+
+Iglau,09.05.,Wenceslaus,Thomas,Kirstler,Catharina,Thomas,Rütter#
+Iglau,23.05.,Joseph,Wenceslaus,Mischinger,Maria Theresia,Augustin,Höffer
+Iglau,23.05.,Ignatz,Augustin,Krönberger,Maria Catharina,Gotttfried,Schwartz
+Iglau und Kleinstunitz,31.05.,Joseph,Joseph,Poliwka,Anna,Augustin,Ripper,-,W
+Kleinstunitz und Iglau,7.6.,Johann,Georg,Neubauer,Anna Maria,Laurenz,Holtzbauer
+Iglau,21.6.,Andreas,Christoph,Puchberger,Maria Catharina,Joseph,Höcke
+
+DP 379
+
+Iglau,27.06.,Johann Vinzenz,Matthäus,Törsch,Maria Catharina,Johann Georg,Müksch
+Iglau,04.07.,Johann,Thomas,Höchtl,Regina,Laurenz,Kauth
+Teutobrodens und Iglau,05.07.,Joseph,Joseph,Staneck,Elisabeth,Gregor,Simon
+Iglau,11.07.,Philipp,Johann Georg,Tülck,Johanna,Joseph,Prückner
+Iglau,11.07.,Joseph,Johann,Schindler,Maria Barbara,Martin,Luckschander#
+Heintzendorf und Iglau,18.07.,Augustin,Gregor,Schnöller,Anna,Martin,Neubauer
+Iglau,18.07.,Friedrich,Johann,Mahr,Maria Josepha,Johann,Hausig
+
+DP 380
+
+Niernburg und Iglau,25.07.,Jacob,Michael,Paussa,Rosina,Michael,Mick
+Iglau,25.07.,Ludwig,Johann,Löw,Maria Catharina,Caspar,Fridl
+Gossau,02.08.,Martin,Matthäus,Faber,Susanna,Joseph,Gleichser#
+Iglau,22.08.,Philipp,Matthäus,Proksch,Eva Rosina,Johann,Puls
+Iglau,29.08.,Dominik,Michael,Wurmb,Anna Rosina,Johann Georg,Wollner
+Ebersdorf und Boronau#,06.09.,Joseph,Martin,Long,Rosina,Paul,Pospichal#
+
+DP 381
+
+Iglau,12.09.,Joseph,Anton,Niemetz,Maria Susanna,Johann Georg,Güsweyer
+Iglau,19.09.,Joseph,Joseph,Zodl,Maria Elisabeth,-,Müksch
+Pfauendorf und Iglau,25.09.,Philipp,Vitus,Madl,Susanna,Umbshaus
+Mikldorf# und Luckau,26.09.,Jacob,Matthäus,Krasl#,Anna,Martin,Schindler
+Iglau,3.10.,Johann,-,Heintz,Apollonia,Laurenz,Schorrer#,W,W
+Iglau,3.10.,Martin,-,Schwamm#höffer,Susanna,Martin,Czeppari#,W,W
+Iglau,4.10.,Joseph,Matthäus,Springinsfeldt,Magdalena,Paul,Kirchner
+4.10.,Bartholomäus,-,Mick#,Apollonia,Franz,Swoboda,W,W
+
+DP 382
+
+Iglau,10.10.,Dominik,Ferdinand,Clemens,Maria Anna,Franz,Schüssler
+Iglau,11.10.,Wenceslaus,Joseph,Staneck#,Eleonora,Anton,Pauser
+Iglau,13.10.,Ignatz,Andreas,Prosl,Veronica,Johann,Mauer#,-,W
+Iglau,13.10.,Bernhard,Johann,Grauhaus,Maria Theresia,Joseph,Hümmer
+Iglau,24.10.,Franz,Augustin,Neusser,Anna Maria,Andreas,Überwasser
+Iglau,24.10.,Mathias,Franz,Wemmer#,Anna,Johann,Kauth
+Ebersdorf,24.10.,David,Andreas,Neuwürth,Rosina,Paul,Muck
+
+DP 383
+
+Iglau,24.10.,Franz,Johann,Habermann,Theresia,#,Kolisko
+Iglau und Ebersdorf,25.10.,Martin,Paul,Pretzl,Anna,Martin,Janck
+Iglau,7.11.,Franz,Franz,Holdt,Rosina,Matthäus,Kürschner
+Kleinstunitz und Gus#,8.11.,Augustin,Matthäus,Neubauer,Susanna,Paul,Krigsmann
+Iglau und Kleinstunitz,8.11.,Anton,-,Höffer,Rosina,Matthäus,Neubauer,W
+Dürr und Iglau,8.11.,Martin,Matthäöus,Stutz,Regina,Johann,Horth
+Iglau,8.11.,Martin,-,Schinowitzer,Catharina,Joseph,Lewald
+Seelentz und Ebersdorf,8.11.,Martin,Johann,Kürschner,Maria,Laurentz,Stummer
 
 DP 384
 
-
+Pajlentz# und Stauern#,13.11.,Andreas,Matthäus,Teholka,Rosina,Martin,Plas
+Bileck und Iglau,13.11.,Anton,Rudolph,Bach,Maria Theresia,Salomon,Handl
+Regentz,14.11.,Jacob,Duchoslav,Korziwa#,Rosina,Matthäus,Brabzowa
+Poronau,15.11.,Georg,Johann,Joksch,Anna,Georg,Stummer
+Ebersdorf und Iglau,15.11.,Joseph,Andreas,Ober,Catharina,Georg,Lobetsch
+Iglau,15.11.,Martin,Martin,Obschiller#,Anna Barbara,Johann,Feyertag
 
 DP 385
 
