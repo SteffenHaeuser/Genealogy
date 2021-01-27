@@ -1,5 +1,53 @@
 1755
 
+DP 354
+
+
+
+DP 355
+
+Iglau,22.09.,Johann Michael,-,Richter,Eva Rosina,Johann Georg,Schindlberger
+Iglau,22.09.,Ignatz,Gottfried,Schwartz,Anna Paulina,Michael,Reindler
+Iglau,23.09.,Jacob,Augustin,Blas,Maria,Matthäus,Schober
+Iglau,06.10.,Joseph,Johann,Elinger,Magdalena,Tobias,Ebermann
+Iglau,06.10.,Joseph,-,Prawentz,Maria Elisabeth,Wenceslaus,Eugl,W
+
+DP 356
+
+Evanz# und Iglau,6.10.,Wenceslaus,Tobias,Strausky,Barbara,Andreas,Friedrich
+Iglau,7.10.,Franz,-,Zauter,Anna Maria,Andreas,Fridl
+Iglau,13.10.,Christoph,-,Höper,Maria Elisabeth,Friedrich,Händl
+Iglau,13.10.,Michael,Michael,Reindler,Maria Catharina,Leopold,Hornig
+Iglau,13.10.,Joseph Thaddäus,Johann Georg,Sedlmeyer,Theresia,Anton,Isack
+Sollowitz und Gossau,14.10.,Georg,Martin,Lang,Susanna,Georg,Röder,-,W
+
+DP 357
+
+Iglau,20.10.,Joseph,-,Lackenbauer#,Maria Barbara,Philipp,Michl
+Iglau,20.10.,Gottfried,Ferdinand,Pausgertl,Elisabeth Barbara,Gregor,Schiller
+Chalibortz# und Jamnay#,21.10.,Martin,Pleschbatsch#,Elisabeth,Joseph,Polack
+Wilan# und Iglau,21.10.,Jacob,Jacob,Ponstingl,Elisabeth,Andreas,Sobotka
+Pistau und Obergoss,21.10.,Joseph,Joseph,Neumann,Anna Rosina,Matthäus,Wondry#
+Posowitz und Dodrentz#,18.10.,Philipp,Wenceslaus,Angel,Anna,Thomas,Inwald
+
+DP 358
+
+#hanitz und Iglau,28.10.,Franz,Adalbert,Swoboda,Anna Catharina,Georg,Zlabinger
+Obergossau und Iglau,04.11.,Matthäus,Matthäus,Schüller,Rosina,Georg,Ludl
+Kleinstunitz und Gossau,4.11.,Georg,Martin,Neubauer,Anna,Matthäus,Schwartz
+Hirschberg in Schlesien und Iglau,10.11.,Anton Joseph,Anton Joseph,Tamann#,Elisabeth,Johann,Gottrolf#,-,W
+Schwonau und Iglau,10.11.,Franz,-,Otto,Anna,Johann Georg,Drösner,W
+11.11.,Joseph,Johann,Hubatzak,Johanna,Joseph,Leipold
+
+DP 359
+
+Egrens# und Iglau,12.11.,Joseph,Johann,Christl,Catharina,Marc,Hackl
+Iglau,20.11.,Joseph Thomas,-,Weba,Maria Veronica,Matthäus,Swoboda,-,W (Joseph Thomas ist Sohn von Catharina Weba)
+Iglau,24.11.,Joseph,Martin,Nettlinger,Catharina,Matthäus,Keppelka#
+Oberz# und Regensburg,24.11.,Jacob,Jacob,Clarwath,Maria Catharina,Matthäus,Rettenberger
+Iglau,24.11.,Philipp,Marc,Hauenschildt,Barbara,Matthäus,Long
+Boronau und Ebersdorf,24.11.,Thomas,Johann,Mucha,Anna,Vitus,Goldschmidt
+
 DP 360
 
 Reichstadt und Carlswaldt,25.11.,Johann Georg,Johann,Böhm,Anna Barbara,-
