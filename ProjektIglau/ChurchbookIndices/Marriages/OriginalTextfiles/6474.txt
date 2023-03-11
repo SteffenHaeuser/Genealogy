@@ -1,5 +1,40 @@
 1754
 
+DP 336
+
+
+
+DP 337
+
+Iglau,04.02.,Maximilian,-,Kremling#,Anna Catharina,Leopold,Filibro,W
+Iglau,05.02.,Johann Nicolaus,-,Gebhardt,Anna Catharina,Mathias,Gischfall,W (Berufe -/Faber lignari)
+Iglau,11.02.,Martin,Andreas,Hampl,Theresia,Adam,Spornick,-,W
+Landskron und Iglau,11.02.,Wenceslaus,Georg,Schindler,Anna Catharina,Ignatz,Wessel (Berufe -/Sartor)
+Iglau,11.02.,Joseph,Andreas,Rinagl,Maria Magdalena,Joseph,Pausser
+Iglau,11.02.,Franz Michael,Joseph,Leipoldt,Maria Elisabeth,Ludwig,Schindler
+Hah#dorf und Obergoss,12.02.,Augustin,Gregor,Pader,Maria,Martin,Pitzal (Berufe -/-)(Der Vater des Bräutigams war Bauer)
+Iglau,19.02.,Anton,Martin,Staubenkorb,Catharina,Conrad,Schüll (Berufe -/Vitriary)
+
+DP 338
+
+Iglau,19.02.,Georg,Paul,Pezincka,Anna,Michael,Handt (Berufe -/Jäger)
+Iglau,25.02.,Joseph,Laurenz,Mopil,Theresia,Wenceslaus,Spatta (Berufe Maurer/Incola)
+Iglau,25.02.,Gallus,-,Wondracek#,Anna,Bartholomäus,Stiepnizka,W (Berufe Opilionis/Opilionis)
+Iglau,25.02.,Thomas,Bartholomäus,Micka,Catharina,Martin,Perzinek (Berufe Arbeiter/Arbeiter)
+Iglau,05.05.,Julius,Caspar,Dittrich,Anna Catharina,Christoph,Long (Berufe Gärtner/-)(Der Vater des Bräutigams stammt aus Au# in Böhmen)
+Iglau und Swetla,06.05.,Philipp,-,Renauer,Agnes,Wenceslaus,Bilek  (Berufe -/-)(Der Bräutigam stammt aus Böhmen)
+Iglau,07.05.,Karl Bernard,-,Müller,Theresia,Philipp,Ohn (Berufe Cantor/-)
+Böhmen und Iglau,20.05.,Joseph,David,Tauffheber,Catharina,Anton,Glösser (Berufe -/-)(Der Vater des Bräutigams stammt aus Böhmen)
+
+DP 339
+
+Bayern und Iglau,21.05.,Urban,Matthias,Mayer,Catharina,Johann Georg,Röger (Berufe -/Sartor)(Der Bräutigam ist aus Bayern)
+Iglau,27.05.,Joseph,Johann,Johanna Theresia,Philipp,Wolff,-,W (Berufe -/Pannificis)
+Iglau,27.05.,Franz Joseph,Franz,Neumann,Barbara,Amadeus,Schneider,-,W (Berufe Spalir#/Paroccary#)
+Birnbaumhof und Iglau,18.06.,Johann,David,Krebs,Anna,Joseph,Mach (Berufe -/Arbeiter)
+Iglau,24.06.,Franz,Johann,Gast#striger,Anna Maria,Johann Georg,Pidermann (Berufe Stabuarius/Auriga)
+Iglau,25.06.,Johann Joseph,Franz Leopold,Gramputa,Catharina,Anton,Milota (-/Actuarius)(Der Vater des Bräutigams war Doktor der Medizin)
+
 DP 340
 
 Iglau,25.06.,Johann,David,Habermann,Anna Catharina,Philipp,Weiner
