@@ -1,6 +1,50 @@
+1754
+
+DP 340
+
+Iglau,25.06.,Johann,David,Habermann,Anna Catharina,Philipp,Weiner
+Weißwasser und Iglau,08.07.,Johann Christoph,Wenceslaus,Kerle#,Apollonia,Erhard,Hartung (Berufe Schmied#/)(Der Vater des Bräutigams ist aus Weißwasser in Böhmen)
+Iglau,08.07.,Johann,-,Höffer,Regina,Simon,Pader,W,W (Berufe Arbeiter/Arbeiter)
+Iglau,23.07.,Stephan,-,Esako#,Anna Maria,Johann,Sembler (Berufe Soldat/Inquillinus)
+Iglau,23.07.,Ignatz,Lucas,Schindler,Judith,Johann,Fildl
+Neuenlangbach und Iglau,24.07.,Johann Georg,Balthasar,Körp#,Maria Josepha,Joseph,Österreicher (Berufe -/-)(Der Bräutigam stammt aus Neuenlangbach in Österreich)
+
+DP 341
+
+Piseca und Iglau,05.08.,Michael,Thomas,Girsch,Susanna,Franz,Seness
+Iglau,12.08.,Leopold,Ludwig,Staninger,Maria Regina,Georg,Kamp
+Iglau,12.08.,Franz,Johann Georg,Patz,Maria Apollonia,-,Kerger#
+Borz# und Iglau,12.08.,Johann Joseph,Joseph,Hoffman,Maria Catharina,Benedikt,Steiner (Der Vater des Bräutigams war von Beruf Fleischer)
+Klangfurth und Iglau,19.08.,Johann Otto,-,Scherwencka,Maria Elisabeth,Joseph,Peter (Berufe Hirothecarius/-)
+#,02.09.,Franz Joseph,-,Hnateck#,Maria Theresia,Johann Joseph,Fronwald (Berufe #/Directoris zu Wisse)
+
+DP 342
+
+Iglau,09.09.,Erhard,-,Hartung,Maria Josepha,Caspar,Webazka,W (Berufe -/Soldat)
+Iglau,09.09.,Dominik,Johann Wilhelm,Ebert,Maria Catharina,Lucas,Springer
+Pan#stein und Iglau,16.09.,Johann,Johann,Steiner,Elisabeth,Salomon,Hondl (Berufe Weber/-)(Der Herkunftsort des Bräutgams ist in der Pfalz)
+Iglau,16.09.,Johann,Johann,Plass,Maria,Tobias,Körber (Berufe Arbeiter/-)
+Iglau,24.09.,Mathias,-,Long,Maria,Johann,Oll (Berufe Arbeiter/Arbeiter)
+Iglau und Ebersdorf,03.10.,Matthäus,Matthäus,Sellner,Magdalena,Michael,Mies (Berufe Arbeiter/Bauer)
+Iglau,14.10.,Johann,Paul,Matzke,Elisabeth,Matthäus,Steinhauser (Berufe Arbeiter/Cursorus)
+
+DP 343
+
+Gossau und Haintzendorf,15.10.,Matthäus,Johann,Sermann,Maria,Gregor,Surr# (Berufe Schäfer/Bauer)
+Iglau und Willanty#,15.10.,Wenceslaus,Paul,Kusch,Rosina,Georg,Fober (Berufe Schäfer/Bauer)
+Iglau,21.10.,Franz,-,Diek,Maria Barbara,Johann Matthäus,Pfeiffer (Berufe Soldat/Zythopol)
+Iglau,22.10.,Franz,Martin,Schuller,Catharina,Matthäus,Lowentz (Berufe Arbeiter/Arbeiter)
+Iglau,22.10.,Jacob,Matthäus,Morawetz,Anna,Johann,Hort (Berufe Arbeiter/Arbeiter)
+Iglau,22.10.,Joseph,Matthäus,Neubauer,Elisabeth,Matthäus,Huckauf (Berufe Arbeiter/Arbeiter)
+
 DP 344
 
-
+Iglau,28.10.,Johann,Caspar,Dintter#,Anna Catharina,David,Krum
+Iglau,28.10.,Franz,Johann Paul,Schirhackl,Johanna Barbara,Johann Paul,Schmidt
+Iglau,29.10.,Laurenz,-,Gilch,Maria Josepha,Ignaz,Hüber
+Kleinstunitz und Haintzendorf,29.10.,Matthäus,Johann,Stutz,Rosina,Peter,Puls (Berufe Bauer/Bauer)
+Iglau,4.11.,Andreas,Johann,Hofbauer,Johanna,Georg,Güsel
+4.11.,Thomas,Vitus,Honzlik,Catharina,Wenceslaus,Hawrenek#
 
 DP 345
 
