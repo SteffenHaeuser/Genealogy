@@ -1,8 +1,34 @@
+1753
+
+DP 334
+
+
+
+DP 335
+
+Heintzendorf,13.11.,Laurenz,-,Schneller,Maria ELisabeth,-,Eugl 
+Iglau,13.11.,Joseph,-,Pistauer,Rosina,-,Pitzall
+Iglau,19.11.,Johann,-,Österreicher,Johanna,-,Hoffmann
+Iglau,19.11.,Jacob,-,Dintter,Elisabeth,-,Hoffmann,-,W
+Iglau,20.11.,Johann,-,Neubauer,Maria,-,Lang,W
+Iglau,20.11.,Matthäus,-,Nowack,Maria,-,Neubauer
+Iglau,26.11.,Wenceslaus,-,Kautenick#,Anna,-,Zemann
+Iglau,26.11.,Laurenz,-,Stutz,Rosina,-,Wonder
+
 1754
+
+Iglau,07.01.,Johann Georg,-,Zöger#,Maria Catharina,-,Neuwirth
 
 DP 336
 
-
+Iglau,07.01.,Andreas,-,Rauf#il,Rosina Catharina,-,Grünberg (Berufe Panifex/-)
+Iglau,07.01.,Franz,-,Tym#,Theresia,-,Plasch# (Berufe Soldat/-)(Ist das mit Tym# ein Nachname oder etwas anderes ?)
+Iglau,14.01.,Johann,-,Tertz,Anna Maria,-,Miksch (Berufe Panifex/-)
+Iglau,21.01.,Johann Georg,Johann Georg,Miksch,Maria Catharina,Philipp,Soerer# (Berufe -/Panifex)(Der Beruf des Vaters des Bräutigams war Jäger)
+Iglau,21.01.,Ignatz,Joseph,Aurer,Catharina,Andreas,Müller (Berufe Pannifex/-)
+Iglau,28.01.,Johann Anton,Gottfried,Hertzig,Maria Barbara,Joseph,Schwartz,-,W
+Kleinstunitz,29.01.,Wenceslaus,Laurenz,Wirzakh#,Maria,Matthäus,Neubauer (Berufe -/Bauer)(Der Vater des Bräutigams war Bauer)
+Iglau,04.02.,Johann,Jacob,Panhoffer,Maria Catharina,-,Offner#
 
 DP 337
 
