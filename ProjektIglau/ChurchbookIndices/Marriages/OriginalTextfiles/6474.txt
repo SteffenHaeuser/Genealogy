@@ -1,8 +1,19 @@
 1753
 
+DP 332
+
 DP 333
 
-
+Iglau,08.10.,Leopold,-,Gnemetz,Regina,-,Wächter (Berufe -/-)(Zeugen: Sponsi: Franz Alle, Joseph Schmollenbach, Sponsa: Anton Wesszeli, Joseph Titz)
+Iglau,09.10.,Johann,-,Zodl,Anna,-,Hoffmann (Berufe -/-)(Zeugen: Sponsi: Johann Kottner, Mathias Grasl, Sponsa: Johann Lerch, Johann Sitta)
+Iglau,09.10.,Andreas,-,Dorffalter,Maria,-,Lang (Berufe -/-)(Zeugen: Sponsi: Mathias Lang, Simon Frey, Sponsa: Johann Schnöller, Johann Küttner)
+Iglau,15.10.,Johann,-,Hanet#,Maria Barbara,-,Schüll (Berufe -/-)(Zeugen: Sponsi: Jacob Hoffmann, Peter Rösel, Sponsa: Augustin Maar, Martin Kaudt#)
+Iglau,15.10.,Johann,-,Englisch,Theresia Catharina,-,- (Berufe -/-)(Zeugen: Sponsi: Franz Budintzky, Leopold Hartl, Sponsa: Anton Wecker,Franz Raab)
+Iglau,16.10.,Joseph,-,Reblan,-,-,- (Berufe -/-)(Zeugen: Sponsi: Johann Lerch, Joseph Linhardt, Sponsa: Laurenz Horassch, Joseph Mergauß)
+Iglau, 16.10.,Wenceslaus,-,Gerzabeck,Elisabeth,-,Matel (Berufe -/-)(Zeugen Sponsi: Thomas Singer, Matthäus Sotzeck, Sponsa: Martin Grünschandt#, Martin Böhm)
+Iglau,16.10.,Joseph,-,Hawle,Catharina,-,Wonder (Berufe -/-)(Testes Sponsi: Martin Achatz, Johann Frantz, Sponsa: Mathias Höffen, Martin Neuwirth)
+Iglau,22.10.,Johann,-,Frey,Maria,-,Krumm (Berufe -/-)(Testes Sponsi: Joseph Kuntschak, Andreas, Folter, Sponsa: Joseph Wucher, Anton Kuchner)
+22.10.,Daniel,-,Babelka,Maria,-,Puls (Berufe -/-)(Testes Sponsi: Johann Anton Siegl, Wenceslaus Kuntschak, Sponsa: Joseph Politzer, Franz Siegl)
 
 DP 334
 
