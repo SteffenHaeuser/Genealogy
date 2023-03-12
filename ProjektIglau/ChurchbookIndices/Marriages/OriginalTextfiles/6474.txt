@@ -1,8 +1,20 @@
 1753
 
+DP 333
+
+
+
 DP 334
 
-
+Iglau,23.10.,Mathias,-,Lang,Catharina,-,Kreutz,W
+Iglau,23.10.,Johann,-,Schimka,Catharina,-,Polack
+Iglau,23.10.,Thomas,-,Wonder,Catharina,-,Pfeiffer,W
+Ebersdorf,29.10.,Laurenz,-,Matl,Catharina,-,Rinagl
+Gossau,29.10.,Gregor,-,Richter,Susanna,-,Ripp
+Iglau,06.11.,Martin,-,Urban,Anna,-,Steiner
+Iglau,06.11.,Martin,-,Vincentz,Maria,-,Schrambl
+Iglau,12.11.,Franz,-,Neumann,Maria,-,Mosak
+Iglau,13.11.,Joseph,-,Felix,Barbara Johanna,-,Michala (Berufe Soldat/-)
 
 DP 335
 
