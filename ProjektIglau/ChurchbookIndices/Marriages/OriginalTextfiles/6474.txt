@@ -50,7 +50,7 @@ DP 333
 
 Iglau,08.10.,Leopold,-,Gnemetz,Regina,-,Wächter [1:<Franz,Alle1>,2:<Joseph,Schmollenbach2>,3:<Anton,Wesszeli3>,4:<Joseph,Titz4>]
 Iglau,09.10.,Johann,-,Zodl,Anna,-,Hoffmann [1:<Johann,Kottner1>,2:<Mathias,Grasl2>,3:<Johann,Lerch3>,4:<Johann Sitta4>]
-Iglau,09.10.,Andreas,-,Dorffalter,Maria,-,Lang (Berufe -/-) [1:<Mathias,Lang1>,2:<Simon,Frey2>,3:<Johann,Schnöller3>,4:<Johann,Küttner4>]
+Iglau,09.10.,Andreas,-,Dorffalter,Maria,-,Lang [1:<Mathias,Lang1>,2:<Simon,Frey2>,3:<Johann,Schnöller3>,4:<Johann,Küttner4>]
 Iglau,15.10.,Johann,-,Hanet#,Maria Barbara,-,Schüll [1:<Jacob,Hoffmann1>,2:<Peter,Rösel2>,3:<Augustin,Maar3>,4:<Martin,Kaudt#4>]
 Iglau,15.10.,Johann,-,Englisch,Theresia Catharina,-,- [1:<Franz,Budintzky1>,2:<Leopold,Hartl>,3:<Anton,Wecker>,<4:Franz,Raab4>]
 Iglau,16.10.,Joseph,-,Reblan,-,-,- [1:<Johann,Lerch1>,2:<Joseph,Linhardt2>,3:<Laurenz,Horassch3>,4:<Joseph,Mergauß4>]
@@ -91,7 +91,7 @@ DP 336
 Iglau,07.01.,Andreas,-,Rauf#il,Rosina Catharina,-,Grünberg (Berufe Panifex/-) [1:<Ignatz,Ridl1>,2:<Joseph,Pihlauer>,3:<Johann,Just3>,4:<Johann,Polack4>]
 Iglau,07.01.,Franz,-,Tym#,Theresia,-,Plasch# (Berufe Soldat/-, Ist das mit Tym# ein Nachname oder etwas anderes ?) [1:<Samuel,Schiseller#1>,2:<Georg,Schuller#2>,3:<Johann Michael,Au#3>,4:<Laurenz,Maurer4>]
 Iglau,14.01.,Johann,-,Tertz,Anna Maria,-,Miksch (Berufe Panifex/-) [1:<Jacob,Schichler1>,2:<David,Hoffmann2>,3:<David,Halemann3>,4:<Andreas,Schleina#4>]
-Iglau,21.01.,Johann Georg,Johann Georg,Miksch,Maria Catharina,Philipp,Soerer# (Berufe -/Panifex, Der Beruf des Vaters des Bräutigams war Jäger)[1:<Ignatz,Ridl1>,2:<Joseph,Gomias2>,3:<Thomas,Plath3>,4:<Franz,Schwartz4>]
+Iglau,21.01.,Johann Georg,Johann Georg,Miksch,Maria Catharina,Philipp,Soerer# (Berufe -/Panifex, Der Vater des Bräutigams war Jäger)[1:<Ignatz,Ridl1>,2:<Joseph,Gomias2>,3:<Thomas,Plath3>,4:<Franz,Schwartz4>]
 Iglau,21.01.,Ignatz,Joseph,Aurer,Catharina,Andreas,Müller (Berufe Pannifex/-) [1:<Philippus,Brauneys1>,2:<Johann,Neubauer2>,3:<Ferdinand,Pangratz3>,4:<Joseph,Schwartz4>]
 Iglau,28.01.,Johann Anton,Gottfried,Hertzig,Maria Barbara,Joseph,Schwartz,-,W [1:<Joseph,Zebo1>,2:<Laurenz,Schwartz2>,3:<Leopold,Hornik3>,4:<Ignatz,Ridl4>]
 Kleinstunitz,29.01.,Wenceslaus,Laurenz,Wirzakh#,Maria,Matthäus,Neubauer (Berufe -/Bauer, Der Vater des Bräutigams war Bauer) [1:<Joseph,Neubauer1>,2:<Johann,Müksch2>,3:<Martin,Oberrenner3>,4:<Gregor,Pausser,Kleinstunitz,Bauer4>] 
@@ -111,9 +111,9 @@ Iglau,19.02.,Anton,Martin,Staubenkorb,Catharina,Conrad,Schüll (Berufe -/Vitriar
 DP 338
 
 Iglau,19.02.,Georg,Paul,Pezincka,Anna,Michael,Handt (Berufe -/Jäger)
-Iglau,25.02.,Joseph,Laurenz,Mopil,Theresia,Wenceslaus,Spatta (Berufe Maurer/Incola)
+Iglau,25.02.,Joseph,Laurenz,Mopil,Theresia,Wenceslaus,Spatta (Berufe -/Incola, Der Vater des Bräutigams war Maurer)
 Iglau,25.02.,Gallus,-,Wondracek#,Anna,Bartholomäus,Stiepnizka,W (Berufe Opilionis/Opilionis)
-Iglau,25.02.,Thomas,Bartholomäus,Micka,Catharina,Martin,Perzinek (Berufe Arbeiter/Arbeiter)
+Iglau,25.02.,Thomas,Bartholomäus,Micka,Catharina,Martin,Perzinek (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter)
 Iglau,05.05.,Julius,Caspar,Dittrich,Anna Catharina,Christoph,Long (Berufe Gärtner/-, Der Vater des Bräutigams stammt aus Au# in Böhmen)
 Iglau und Swetla,06.05.,Philipp,-,Renauer,Agnes,Wenceslaus,Bilek  (Berufe -/-, Der Bräutigam stammt aus Böhmen)
 Iglau,07.05.,Karl Bernard,-,Müller,Theresia,Philipp,Ohn (Berufe Cantor/-)
@@ -123,26 +123,26 @@ DP 339
 
 Bayern und Iglau,21.05.,Urban,Matthias,Mayer,Catharina,Johann Georg,Röger (Berufe -/Sartor, Der Bräutigam ist aus Bayern)
 Iglau,27.05.,Joseph,Johann,Johanna Theresia,Philipp,Wolff,-,W (Berufe -/Pannificis)
-Iglau,27.05.,Franz Joseph,Franz,Neumann,Barbara,Amadeus,Schneider,-,W (Berufe Spalir#/Paroccary#)
+Iglau,27.05.,Franz Joseph,Franz,Neumann,Barbara,Amadeus,Schneider,-,W (Berufe -/Paroccary#, Der Vater des Bräutigams war Spalirmacher)
 Birnbaumhof und Iglau,18.06.,Johann,David,Krebs,Anna,Joseph,Mach (Berufe -/Arbeiter)
-Iglau,24.06.,Franz,Johann,Gast#striger,Anna Maria,Johann Georg,Pidermann (Berufe Stabuarius/Auriga)
+Iglau,24.06.,Franz,Johann,Gast#striger,Anna Maria,Johann Georg,Pidermann (Berufe -/Auriga, Der Vater des Bräutigams war Stabuarius)
 Iglau,25.06.,Johann Joseph,Franz Leopold,Gramputa,Catharina,Anton,Milota (-/Actuarius, Der Vater des Bräutigams war Doktor der Medizin)
 
 DP 340
 
 Iglau,25.06.,Johann,David,Habermann,Anna Catharina,Philipp,Weiner
-Weißwasser und Iglau,08.07.,Johann Christoph,Wenceslaus,Kerle#,Apollonia,Erhard,Hartung (Berufe Schmied#, Der Vater des Bräutigams ist aus Weißwasser in Böhmen)
+Weißwasser und Iglau,08.07.,Johann Christoph,Wenceslaus,Kerle#,Apollonia,Erhard,Hartung (Berufe Schmied#/-, Der Vater des Bräutigams ist aus Weißwasser in Böhmen)
 Iglau,08.07.,Johann,-,Höffer,Regina,Simon,Pader,W,W (Berufe Arbeiter/Arbeiter)
 Iglau,23.07.,Stephan,-,Esako#,Anna Maria,Johann,Sembler (Berufe Soldat/Inquillinus)
 Iglau,23.07.,Ignatz,Lucas,Schindler,Judith,Johann,Fildl
-Neuenlangbach und Iglau,24.07.,Johann Georg,Balthasar,Körp#,Maria Josepha,Joseph,Österreicher (Berufe -/-, Der Bräutigam stammt aus Neuenlangbach in Österreich)
+Neuenlangbach und Iglau,24.07.,Johann Georg,Balthasar,Körp#,Maria Josepha,Joseph,Österreicher (Der Bräutigam stammt aus Neuenlangbach in Österreich)
 
 DP 341
 
 Piseca und Iglau,05.08.,Michael,Thomas,Girsch,Susanna,Franz,Seness
 Iglau,12.08.,Leopold,Ludwig,Staninger,Maria Regina,Georg,Kamp
 Iglau,12.08.,Franz,Johann Georg,Patz,Maria Apollonia,-,Kerger#
-Borz# und Iglau,12.08.,Johann Joseph,Joseph,Hoffman,Maria Catharina,Benedikt,Steiner (Der Vater des Bräutigams war von Beruf Fleischer)
+Borz# und Iglau,12.08.,Johann Joseph,Joseph,Hoffman,Maria Catharina,Benedikt,Steiner (Der Vater des Bräutigams war Fleischer)
 Klangfurth und Iglau,19.08.,Johann Otto,-,Scherwencka,Maria Elisabeth,Joseph,Peter (Berufe Hirothecarius/-)
 #,02.09.,Franz Joseph,-,Hnateck#,Maria Theresia,Johann Joseph,Fronwald (Berufe #/Directoris zu Wisse)
 
@@ -150,27 +150,27 @@ DP 342
 
 Iglau,09.09.,Erhard,-,Hartung,Maria Josepha,Caspar,Webazka,W (Berufe -/Soldat)
 Iglau,09.09.,Dominik,Johann Wilhelm,Ebert,Maria Catharina,Lucas,Springer
-Pan#stein und Iglau,16.09.,Johann,Johann,Steiner,Elisabeth,Salomon,Hondl (Berufe Weber/-, Der Herkunftsort des Bräutgams ist in der Pfalz)
+Pan#stein und Iglau,16.09.,Johann,Johann,Steiner,Elisabeth,Salomon,Hondl (Berufe Weber/-, Der Herkunftsort des Bräutigams ist in der Pfalz)
 Iglau,16.09.,Johann,Johann,Plass,Maria,Tobias,Körber (Berufe Arbeiter/-)
 Iglau,24.09.,Mathias,-,Long,Maria,Johann,Oll (Berufe Arbeiter/Arbeiter)
-Iglau und Ebersdorf,03.10.,Matthäus,Matthäus,Sellner,Magdalena,Michael,Mies (Berufe Arbeiter/Bauer)
-Iglau,14.10.,Johann,Paul,Matzke,Elisabeth,Matthäus,Steinhauser (Berufe Arbeiter/Cursorus)
+Iglau und Ebersdorf,03.10.,Matthäus,Matthäus,Sellner,Magdalena,Michael,Mies (Berufe -/Bauer, Der Vater des Bräutigams war Arbeiter)
+Iglau,14.10.,Johann,Paul,Matzke,Elisabeth,Matthäus,Steinhauser (Berufe -/Cursorus, Der Vater des Bräutigams war Arbeiter)
 
 DP 343
 
-Gossau und Haintzendorf,15.10.,Matthäus,Johann,Sermann,Maria,Gregor,Surr# (Berufe Schäfer/Bauer)
-Iglau und Willanty#,15.10.,Wenceslaus,Paul,Kusch,Rosina,Georg,Fober (Berufe Schäfer/Bauer)
+Gossau und Haintzendorf,15.10.,Matthäus,Johann,Sermann,Maria,Gregor,Surr# (Berufe -/Bauer, Der Vateer des Bräutigams war Schäfer)
+Iglau und Willanty#,15.10.,Wenceslaus,Paul,Kusch,Rosina,Georg,Fober (Berufe -/Bauer, Der Vater des Bräutigams war Schäfer)
 Iglau,21.10.,Franz,-,Diek,Maria Barbara,Johann Matthäus,Pfeiffer (Berufe Soldat/Zythopol)
-Iglau,22.10.,Franz,Martin,Schuller,Catharina,Matthäus,Lowentz (Berufe Arbeiter/Arbeiter)
-Iglau,22.10.,Jacob,Matthäus,Morawetz,Anna,Johann,Hort (Berufe Arbeiter/Arbeiter)
-Iglau,22.10.,Joseph,Matthäus,Neubauer,Elisabeth,Matthäus,Huckauf (Berufe Arbeiter/Arbeiter)
+Iglau,22.10.,Franz,Martin,Schuller,Catharina,Matthäus,Lowentz (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter)
+Iglau,22.10.,Jacob,Matthäus,Morawetz,Anna,Johann,Hort (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter)
+Iglau,22.10.,Joseph,Matthäus,Neubauer,Elisabeth,Matthäus,Huckauf (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter)
 
 DP 344
 
 Iglau,28.10.,Johann,Caspar,Dintter#,Anna Catharina,David,Krum
 Iglau,28.10.,Franz,Johann Paul,Schirhackl,Johanna Barbara,Johann Paul,Schmidt
 Iglau,29.10.,Laurenz,-,Gilch,Maria Josepha,Ignaz,Hüber
-Kleinstunitz und Haintzendorf,29.10.,Matthäus,Johann,Stutz,Rosina,Peter,Puls (Berufe Bauer/Bauer)
+Kleinstunitz und Haintzendorf,29.10.,Matthäus,Johann,Stutz,Rosina,Peter,Puls (Berufe -/Bauer, Der Vater des Bräutigams war Bauer)
 Iglau,4.11.,Andreas,Johann,Hofbauer,Johanna,Georg,Güsel
 4.11.,Thomas,Vitus,Honzlik,Catharina,Wenceslaus,Hawrenek#
 
@@ -180,8 +180,8 @@ Iglau,11.11.,Johann,-,Rebhan,Rosina Catharina,Anton,Arlet,W,W
 Iglau,11.11.,Ferdinand,Johann,Michler,Maria Elisabeth,Johann Christoph,Aurisser (Berufe -/Inquillinus)
 Iglau,11.11.,Georg,-,Pater,Susanna,Joseph,Schmid (Berufe Arbeiter/Vietoris)
 Opido Strukna und Ebersdorf,11.11.,Johann,Paul,Zemlizka,Maria,Simon,Jancka
-Iglau,12.11.,Laurenz,Lucas#,Lyzka#,Anna,Matthäus,Slechtizky# (Berufe Opilionis/Opilionis)
-Plummendorf und Ebersdorf,12.11.,Johann,Vitus,Müller,Susanna,Joseph,Madl# (Berufe Bauer/Bauer)
+Iglau,12.11.,Laurenz,Lucas#,Lyzka#,Anna,Matthäus,Slechtizky# (Berufe -/Opilionis, Der Vater des Bräutigams war Opilionis)
+Plummendorf und Ebersdorf,12.11.,Johann,Vitus,Müller,Susanna,Joseph,Madl# (Berufe -/Bauer, Der Vater des Bräutigams war Bauer)
 
 DP 346
 
@@ -1189,7 +1189,7 @@ Meserikscho#/Stöckern#,22.1,.Simon,Martin,Walla,Catharina,Martin,Mühlfritsch
 
 DP 450
 
-Iglau,23.11.,Martin,Wenceslaus,Galle,Anna Catharina,Wenceslaus,Kauth (Berufe Arbeiter/Arbeiter)(Der Bräutigam war Faber Lignarius)
+Iglau,23.11.,Martin,Wenceslaus,Galle,Anna Catharina,Wenceslaus,Kauth (Berufe Faber Lignarius/Arbeiter, Der Vater des Bräutigams war Arbeiter)
 
 1763
 
@@ -1199,11 +1199,11 @@ Iglau,10.1.,Joseph,-,Onsorg,Dorothea,Franz,Swoboda,W,W
 
 DP 451
 
-Iglau,17.1.,Franz,Lucas,Wurtzinger,Anna Maria,-,Siegl (Der Bräutigam war Schuhmacher)
-Iglau,24.1.,Michael,Anton,Marketter#,Regina,Joseph,Straukner (Berufe Pannifex/Müller)
-Iglau,24.1.,Karl,Karl,Neumann,Magdalena,Georg,Klik# (Berufe Soldat/-)(Der Brautvater ist aus Pawlow)
-Iglau,24.1.,Peter Paul,Matthäus,Hofmann,Maria Elisabeth,Leopold,Pospichal# (Berufe Pannifex/Rottary#)
-Iglau,24.1.,Joseph,-,Zechmeister,Maria Franziska,Franz,Hauenschild (Berufe -/Pannifex)(Der Bräutigam war Pannifex)
+Iglau,17.1.,Franz,Lucas,Wurtzinger,Anna Maria,-,Siegl (Berufe Schuhmacher/-)
+Iglau,24.1.,Michael,Anton,Marketter#,Regina,Joseph,Straukner (Berufe -/Müller, Der Vater des Bräutigams war Pannifex)
+Iglau,24.1.,Karl,Karl,Neumann,Magdalena,Georg,Klik# (Der Vater des Bräutigams war Soldat, Der Brautvater ist aus Pawlow)
+Iglau,24.1.,Peter Paul,Matthäus,Hofmann,Maria Elisabeth,Leopold,Pospichal# (Berufe Vietor/Rottary#, Der Vater des Bräutigams war Pannifex)
+Iglau,24.1.,Joseph,-,Zechmeister,Maria Franziska,Franz,Hauenschild (Berufe Pannifex/Pannifex)
 Stauern#/Mitteldorf,25.1.,Mathias,Mathias,Weber,Elisabeth,Johann,Schmidt
 
 DP 452
@@ -1212,77 +1212,77 @@ Porritz/Gossau,25.1.,Joseph,Matthäus,Hondt,Maria,Augustin,Reltscher
 Raunks#/Zeissau#,30.1.,Philipp,Augustin,Rosenkrantz,Elisabeth,Johann,Galli
 Rogentz/Sellowitz,31.1.,Johann,Jacob,Wokurka#,Anna Maria,Andreas,Long
 Iglau,31.1.,Thomas,Laurenz,Prawentz,Elisabeth,Johann,Matzke,-,W (Berufe -/Postbote)(Der Bräutigamvater stammte aus Birnbaumhof)
-Iglau,31.1.,Joseph,Matthäus,Schmidt,Maria Catharina,Augustin,Eugl (Berufe Fuhrmann/Maurer)
-Iglau,1.2.,Philipp,-,Krautschneider,Anna,Marc#,Patter# (Der Bräutigam war Arbeiter, der Brautvater stammte aus Wolsfroml#)
+Iglau,31.1.,Joseph,Matthäus,Schmidt,Maria Catharina,Augustin,Eugl (Berufe -/Maurer, Der Vater des Bräutigams war Fuhrmann)
+Iglau,1.2.,Philipp,-,Krautschneider,Anna,Marc#,Patter# (Berufe Arbeiter/-, Der Brautvater stammte aus Wolsfroml#)
 
 DP 453
 
 Iglau,1.2.,Johann,Laurenz,Neubauer,Rosina,Matthäus,Schüller (Berufe -/Arbeiter)(Der Bräutigamvater stammt aus Gossau)
 Iglau,3.2.,Georg Joseph,Martin,Wiskozil#,Maria Anna Josepha,Matthäus,Schwab (Berufe -/Postbote)(Der Bräutigamvater stammte aus Dietkow#)
-Iglau,9.2.,Anton,-,Winmahr#,Catharina,Caspar,Tropp (Berufe -/Pannitensor)(Der Bräutigam war Scriba#, ist das ein Beruf ? Schreiber ?)
-Iglau,6.3.,Johann Franz,-,Kraus,Maria Eva,Johann Franz,Engelschall (Der Bräutigam war Soldat)
-Iglau,5.4.,Johann,-,Neuotting#,Judith,Johann,Ludl (Berufe -/Arbeiter)(Der Bräutigam war Soldat)
+Iglau,9.2.,Anton,-,Winmahr#,Catharina,Caspar,Tropp (Berufe Scriba#/Pannitensor)(Ist Scriba# ein Beruf ? Schreiber ?)
+Iglau,6.3.,Johann Franz,-,Kraus,Maria Eva,Johann Franz,Engelschall (Berufe Soldat/-)
+Iglau,5.4.,Johann,-,Neuotting#,Judith,Johann,Ludl (Berufe Soldat/Arbeiter)
 
 DP 454
 
-Iglau,11.4.,Johann,Franz,Zebo,Anna Rosa,Jacob,Hampl,-,W (Berufe -/Pannifex)(Der Bräutigam war Färber)
+Iglau,11.4.,Johann,Franz,Zebo,Anna Rosa,Jacob,Hampl,-,W (Berufe Färber/Pannifex)
 Iglau,11.4.,Johann,-,Petrack,Theresia,-,Wolf (Berufe Soldat/-)
-Iglau,19.4.,Mathias,-,Rinagl,Rosina,Mathias,Höffer,W (Der Bräutigam war Arbeiter, der Brautvater war aus Gushübel)
-Iglau,25.4.,Franz,-,Frey,Maria Dorothea,Johann Georg,Frey,W (Berufe -/Faber Lignarius)(Der Bräutigam war Pannitensor, "Braut Maria Dorothea Fatz, Tochter von Johann Georg Frey möglicher Fehler im Kirchenbuch ?)
-Iglau,25.4.,Joseph,Franz,Riesenfelder,Elisabeth,Franz,Long (Berufe Zytholpol/Fleischer)(Der Bräutigam war Alutarius)
+Iglau,19.4.,Mathias,-,Rinagl,Rosina,Mathias,Höffer,W (Berufe Arbeiter/-, Der Brautvater war aus Gushübel)
+Iglau,25.4.,Franz,-,Frey,Maria Dorothea,Johann Georg,Frey,W (Berufe Pannitensor/Faber Lignarius, "Braut Maria Dorothea Fatz, Tochter von Johann Georg Frey möglicher Fehler im Kirchenbuch ?)
+Iglau,25.4.,Joseph,Franz,Riesenfelder,Elisabeth,Franz,Long (Berufe Alutarius/Fleischer)(Der Vater des Bräutigams war Zythopol)
 
 DP 455
 
-Iglau,3.5.,Johann Jacob,-,Baumann,Elisabeth,Johann,Richter (Berufe -/Pannifex)(Der Bräutigam war Soldat)
-Iglau,16.5.,Franz,-,Benirschke,Maria Catharina,Franz,Neubauer,W,W (BErufe -/Pannifex)(Der Bräutigam war Pannifex)
-Iglau,24.5.,Laurenz,Franz,Schwestky,Anna,Andreas,Fridl (Berufe -/Arbeiter)(Der Bräutigam war Fuhrmann, der Brautvater stammt aus Wolframbs#).
-Iglau,30.5.,Laurenz,-,Galli,Catharina,Paul,Böhm,W,W (Berufe -/Arbeiter)(Der Bräutigam war Arbeiter)
-Iglau,7.6.,Joseph,-,Prager,Regina,Paul,Sitta,-,W (Berufe -/Incola)(Der Bräutigam war Soldat)
+Iglau,3.5.,Johann Jacob,-,Baumann,Elisabeth,Johann,Richter (Berufe Soldat/Pannifex)
+Iglau,16.5.,Franz,-,Benirschke,Maria Catharina,Franz,Neubauer,W,W (Berufe Pannifex/Pannifex)
+Iglau,24.5.,Laurenz,Franz,Schwestky,Anna,Andreas,Fridl (Berufe Fuhrmann/Arbeiter)(Der Brautvater stammt aus Wolframbs#).
+Iglau,30.5.,Laurenz,-,Galli,Catharina,Paul,Böhm,W,W (Berufe Arbeiter/Arbeiter)
+Iglau,7.6.,Joseph,-,Prager,Regina,Paul,Sitta,-,W (Berufe Soldat/Incola)
 
 DP 456
 
-Iglau,20.6.,Wenceslaus,Jacob,Ruziczka,Maria Magdalena,Christian,Kochwasser,-,W (Berufe Figulus/Figulus)(Der Bräutigam war Figulus)
-Iglau,22.6.,Johann,-,Merkl,Anna Maria,Johann,Müksch (Berufe -/Müller)(Der Bräutigam war Soldat)
-Iglau,4.7.,Anton,Paul,Riegl,Maria Catharina,Joseph,Mauerer (Berufe Faber Lignarius/Pannifex)(Der Bräutigam war Weber)
+Iglau,20.6.,Wenceslaus,Jacob,Ruziczka,Maria Magdalena,Christian,Kochwasser,-,W (Berufe Figulus/Figulus, Der Vater des Bräutigams war Figulus)
+Iglau,22.6.,Johann,-,Merkl,Anna Maria,Johann,Müksch (Berufe Soldat/Müller)
+Iglau,4.7.,Anton,Paul,Riegl,Maria Catharina,Joseph,Mauerer (Berufe Weber/Pannifex, Der Vater des Bräutigams war Faber Lignarius)
 Schützendorf(???),4.7.,Johann,Wenceslaus,Paleczek,Maria,Jacob,Motl (Der Bräutigam stammt aus Goblenz, die Braut aus Schützendorf, unklar, wo die Hochzeit war)
-Iglau,5.7.,Georg,Franz,Plachecz,Regina,Johann,Plass (Berufe Bürger/Arbeiter)
-Iglau,11.7.,Anton,-,Pendl,Maria Rosina,Johann,Morrils (Berufe -/Müller)(Der Bräutigam war Pannifex)
+Iglau,5.7.,Georg,Franz,Plachecz,Regina,Johann,Plass (Berufe -/Arbeiter)
+Iglau,11.7.,Anton,-,Pendl,Maria Rosina,Johann,Morrils (Berufe Pannifex/Müller)
 
 DP 457
 
 Iglau,12.7.,Augustin,-,Honauer,Regina,Thomas,Stummer,W,W (Berufe -/Arbeiter)(Augustin war aus Petrowitz)
-Iglau,17.7.,Melchior,-,Feith,Anna,Wenceslaus,Gallus (Berufe -/Arbeiter)(Der Bräutigam war Schäfer)
-Iglau,18.7.,Ignatz,-,Krobath,Catharina,Anton,Tütz,-,W (Berufe -/Pannifex)(Der Bräutigam war Pannifex)
-Iglau,25.7.,Joseph,-,Krajatsch,Joseph,Paul,Student (Der Bräutigam war Soldat, Herkunftsort der Braut schwer lesbar)
-Iglau,25.7.,Franz,Martin,Pockorny,Margareth,Peter,Fischer (Berufe Pannifex/Pannifex)
-Iglau,1.8.,Jacob,Jacob,Pranhoffer,Maria Catharina,Georg,Gischall (Berufe Pannifex/Bürger)(Der Bräutigam war Pannifex)
+Iglau,17.7.,Melchior,-,Feith,Anna,Wenceslaus,Gallus (Berufe Schäfer/Arbeiter)
+Iglau,18.7.,Ignatz,-,Krobath,Catharina,Anton,Tütz,-,W (Berufe Pannifex/Pannifex)
+Iglau,25.7.,Joseph,-,Krajatsch,Joseph,Paul,Student (Berufe Soldat/-, Herkunftsort der Braut schwer lesbar)
+Iglau,25.7.,Franz,Martin,Pockorny,Margareth,Peter,Fischer (Berufe -/Pannifex, Der Vater des Bräutigams war Pannifex)
+Iglau,1.8.,Jacob,Jacob,Pranhoffer,Maria Catharina,Georg,Gischall (Berufe Pannifex/-)(Der Vater des Bräutigams war Pannifex)
 
 DP 458
 
-Iglau,2.8.,Michael,-,Kirchhoffer,Elisabeth,Paul,Schuster (Berufe -/Pannifex)(Der Bräutigam war Soldat)
-Iglau,3.8.,Michael,-,Christoph,Theresia,Johann Georg,Schultz (-/Schuhmacher)(Der Bräutigam war Soldat)
-Iglau,15.8.,Wenceslaus,-,Payll,Rosina,Simon,Swachatzky,-,W (Berufe -/Incola)(Der Bräutigam war Soldat)
-Iglau,16.8.,Johann,-,Cziszar#,Veronica,-,Heiniger (Der Bräutigam war Soldat)
-Iglau,5.9.,Johann,-,Gobartsch#,Ludmilla,Wenceslaus,Neuwirth (Der Bräutigam war Soldat, Ludmilla ist aus Schrittenz#)
-Iglau,5.9.,Martin,Franz,Prochaska,Anna Barbara,Anton,Frühauf (Berufe Weber/Gärtner)
+Iglau,2.8.,Michael,-,Kirchhoffer,Elisabeth,Paul,Schuster (Berufe Soldat/Pannifex)
+Iglau,3.8.,Michael,-,Christoph,Theresia,Johann Georg,Schultz (Soldat/Schuhmacher)
+Iglau,15.8.,Wenceslaus,-,Payll,Rosina,Simon,Swachatzky,-,W (Berufe Soldat/Incola)
+Iglau,16.8.,Johann,-,Cziszar#,Veronica,-,Heiniger (Berufe Soldat/-)
+Iglau,5.9.,Johann,-,Gobartsch#,Ludmilla,Wenceslaus,Neuwirth (Berufe Soldat/-, Ludmilla ist aus Schrittenz#)
+Iglau,5.9.,Martin,Franz,Prochaska,Anna Barbara,Anton,Frühauf (Berufe -/Gärtner, Der Vater des Bräutigams war Weber)
 
 DP 459
 
-Iglau,15.9.,Michael,-,Sagy,Dorothea,Paul,Körpus (Berufe -/Tibialifics)(Der Bräutigam war Soldat)
-Iglau,19.9.,Martin,Johann,Kindl,Johanna,Paul,Wondack (Berufe Vietor/Oppilio)
-Iglau,26.9.,Joseph,Franz,Lang,Elisabeth,Philipp,Taubenkorn (Berufe Fleischer/Fleischer)(Der Bräutigam war Fleischer)
-Iglau,26.9.,Joseph,Andreas,Pfertros,Victoria,Karl,Dittrich (Berufe Chirurgus/Mercator)(Der Bräutigam war Chirurgus und stammte aus Prag)
-Iglau,26.9.,Ignatz,Jacob,Pils,Maria Theresia,Joseph,Sassensieder (Berufe Pannifex/Pannifex)
-Iglau,9.10.,Jeremias,Anton,Eberhardt,Dorothea,Andreas,Zeitinger,-,W (Berufe Weber/Fuhrmann)(Der Bräutigam war Fuhrmann)
+Iglau,15.9.,Michael,-,Sagy,Dorothea,Paul,Körpus (Berufe Soldat/Tibialifics)
+Iglau,19.9.,Martin,Johann,Kindl,Johanna,Paul,Wondack (Berufe -/Oppilio, Der Vater des Bräutigams war Vietor)
+Iglau,26.9.,Joseph,Franz,Lang,Elisabeth,Philipp,Taubenkorn (Berufe Fleischer/Fleischer, Der Vater des Bräutigams war Fleischer)
+Iglau,26.9.,Joseph,Andreas,Pfertros,Victoria,Karl,Dittrich (Berufe Chirurgus/Mercator, Der Vater des Bräutigams war Chirurgus, Bräutigam und sein Vater stammten aus Prag)
+Iglau,26.9.,Ignatz,Jacob,Pils,Maria Theresia,Joseph,Sassensieder (Berufe -/Pannifex, der Vater des Bräutigams war Pannifex)
+Iglau,9.10.,Jeremias,Anton,Eberhardt,Dorothea,Andreas,Zeitinger,-,W (Berufe Fuhrmann/Fuhrmann)(Der Vater des Bräutigams war Weber)
 
 DP 460
 
 Iglau,10.10.,Johann,-,Pauser,Regina,-,Kalboth (Regina ist aus Holentz)
-Iglau,17.10.,Joseph,Joseph,Geisler,Apollonia,Matthäus,Wolff (Berufe Postillio/Panifex)
-Iglau,18.10.,Martin,Andreas,Sommer,Rosina,Matthäus,Bösbauer (Berufe Arbeiter/Arbeiter)
+Iglau,17.10.,Joseph,Joseph,Geisler,Apollonia,Matthäus,Wolff (Berufe Postillio/Panifex, Der Vater des Bräutigams war Lamponis)
+Iglau,18.10.,Martin,Andreas,Sommer,Rosina,Matthäus,Bösbauer (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter)
 Iglau,18.10.,Johann,-,Körpe,Anna,Augustin,Zodl,W (Berufe Arbeiter/Arbeiter)
 Iglau,18.10.,Paul,Johann,Gleischner,Anna,Gregor,Schnöller (Anna ist aus Haintzendorf)
-Iglau,18.10.,Mathias,-,Schüller,Anna,Mathias,Gleischner (Berufe Arbeiter/-)(Anna ist aus Dürr#)
-Iglau,23.10.,Paul,Paul,Loch,Catharina,Andreas,Wondre (Berufe Arbeiter/-)(Catharina ist aus Altenberg)
-Iglau,25.10.,Mathias,Mathias,Lang,Maria,Mathias,Straus (Berufe Arbeiter/-)
+Iglau,18.10.,Mathias,-,Schüller,Anna,Mathias,Gleischner,W (Berufe Arbeiter/-)(Anna ist aus Dürr#)
+Iglau,23.10.,Paul,Paul,Loch,Catharina,Andreas,Wondre (Berufe -/-, Der Vater des Bräutigams war Arbeiter, Catharina ist aus Altenberg)
+Iglau,25.10.,Mathias,Mathias,Lang,Maria,Mathias,Straus (Der Vater des Bräutigams war Arbeiter)
 
