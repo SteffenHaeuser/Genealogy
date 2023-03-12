@@ -69,7 +69,7 @@ Iglau,11.02.,Martin,Andreas,Hampl,Theresia,Adam,Spornick,-,W
 Landskron und Iglau,11.02.,Wenceslaus,Georg,Schindler,Anna Catharina,Ignatz,Wessel (Berufe -/Sartor)
 Iglau,11.02.,Joseph,Andreas,Rinagl,Maria Magdalena,Joseph,Pausser
 Iglau,11.02.,Franz Michael,Joseph,Leipoldt,Maria Elisabeth,Ludwig,Schindler
-Hah#dorf und Obergoss,12.02.,Augustin,Gregor,Pader,Maria,Martin,Pitzal (Berufe -/-)(Der Vater des Bräutigams war Bauer)
+Hah#dorf und Obergoss,12.02.,Augustin,Gregor,Pader,Maria,Martin,Pitzal (Berufe -/-, Der Vater des Bräutigams war Bauer)
 Iglau,19.02.,Anton,Martin,Staubenkorb,Catharina,Conrad,Schüll (Berufe -/Vitriary)
 
 DP 338
@@ -78,28 +78,28 @@ Iglau,19.02.,Georg,Paul,Pezincka,Anna,Michael,Handt (Berufe -/Jäger)
 Iglau,25.02.,Joseph,Laurenz,Mopil,Theresia,Wenceslaus,Spatta (Berufe Maurer/Incola)
 Iglau,25.02.,Gallus,-,Wondracek#,Anna,Bartholomäus,Stiepnizka,W (Berufe Opilionis/Opilionis)
 Iglau,25.02.,Thomas,Bartholomäus,Micka,Catharina,Martin,Perzinek (Berufe Arbeiter/Arbeiter)
-Iglau,05.05.,Julius,Caspar,Dittrich,Anna Catharina,Christoph,Long (Berufe Gärtner/-)(Der Vater des Bräutigams stammt aus Au# in Böhmen)
-Iglau und Swetla,06.05.,Philipp,-,Renauer,Agnes,Wenceslaus,Bilek  (Berufe -/-)(Der Bräutigam stammt aus Böhmen)
+Iglau,05.05.,Julius,Caspar,Dittrich,Anna Catharina,Christoph,Long (Berufe Gärtner/-, Der Vater des Bräutigams stammt aus Au# in Böhmen)
+Iglau und Swetla,06.05.,Philipp,-,Renauer,Agnes,Wenceslaus,Bilek  (Berufe -/-, Der Bräutigam stammt aus Böhmen)
 Iglau,07.05.,Karl Bernard,-,Müller,Theresia,Philipp,Ohn (Berufe Cantor/-)
-Böhmen und Iglau,20.05.,Joseph,David,Tauffheber,Catharina,Anton,Glösser (Berufe -/-)(Der Vater des Bräutigams stammt aus Böhmen)
+Böhmen und Iglau,20.05.,Joseph,David,Tauffheber,Catharina,Anton,Glösser (Berufe -/-, Der Vater des Bräutigams stammt aus Böhmen)
 
 DP 339
 
-Bayern und Iglau,21.05.,Urban,Matthias,Mayer,Catharina,Johann Georg,Röger (Berufe -/Sartor)(Der Bräutigam ist aus Bayern)
+Bayern und Iglau,21.05.,Urban,Matthias,Mayer,Catharina,Johann Georg,Röger (Berufe -/Sartor, Der Bräutigam ist aus Bayern)
 Iglau,27.05.,Joseph,Johann,Johanna Theresia,Philipp,Wolff,-,W (Berufe -/Pannificis)
 Iglau,27.05.,Franz Joseph,Franz,Neumann,Barbara,Amadeus,Schneider,-,W (Berufe Spalir#/Paroccary#)
 Birnbaumhof und Iglau,18.06.,Johann,David,Krebs,Anna,Joseph,Mach (Berufe -/Arbeiter)
 Iglau,24.06.,Franz,Johann,Gast#striger,Anna Maria,Johann Georg,Pidermann (Berufe Stabuarius/Auriga)
-Iglau,25.06.,Johann Joseph,Franz Leopold,Gramputa,Catharina,Anton,Milota (-/Actuarius)(Der Vater des Bräutigams war Doktor der Medizin)
+Iglau,25.06.,Johann Joseph,Franz Leopold,Gramputa,Catharina,Anton,Milota (-/Actuarius, Der Vater des Bräutigams war Doktor der Medizin)
 
 DP 340
 
 Iglau,25.06.,Johann,David,Habermann,Anna Catharina,Philipp,Weiner
-Weißwasser und Iglau,08.07.,Johann Christoph,Wenceslaus,Kerle#,Apollonia,Erhard,Hartung (Berufe Schmied#/)(Der Vater des Bräutigams ist aus Weißwasser in Böhmen)
+Weißwasser und Iglau,08.07.,Johann Christoph,Wenceslaus,Kerle#,Apollonia,Erhard,Hartung (Berufe Schmied#, Der Vater des Bräutigams ist aus Weißwasser in Böhmen)
 Iglau,08.07.,Johann,-,Höffer,Regina,Simon,Pader,W,W (Berufe Arbeiter/Arbeiter)
 Iglau,23.07.,Stephan,-,Esako#,Anna Maria,Johann,Sembler (Berufe Soldat/Inquillinus)
 Iglau,23.07.,Ignatz,Lucas,Schindler,Judith,Johann,Fildl
-Neuenlangbach und Iglau,24.07.,Johann Georg,Balthasar,Körp#,Maria Josepha,Joseph,Österreicher (Berufe -/-)(Der Bräutigam stammt aus Neuenlangbach in Österreich)
+Neuenlangbach und Iglau,24.07.,Johann Georg,Balthasar,Körp#,Maria Josepha,Joseph,Österreicher (Berufe -/-, Der Bräutigam stammt aus Neuenlangbach in Österreich)
 
 DP 341
 
@@ -114,7 +114,7 @@ DP 342
 
 Iglau,09.09.,Erhard,-,Hartung,Maria Josepha,Caspar,Webazka,W (Berufe -/Soldat)
 Iglau,09.09.,Dominik,Johann Wilhelm,Ebert,Maria Catharina,Lucas,Springer
-Pan#stein und Iglau,16.09.,Johann,Johann,Steiner,Elisabeth,Salomon,Hondl (Berufe Weber/-)(Der Herkunftsort des Bräutgams ist in der Pfalz)
+Pan#stein und Iglau,16.09.,Johann,Johann,Steiner,Elisabeth,Salomon,Hondl (Berufe Weber/-, Der Herkunftsort des Bräutgams ist in der Pfalz)
 Iglau,16.09.,Johann,Johann,Plass,Maria,Tobias,Körber (Berufe Arbeiter/-)
 Iglau,24.09.,Mathias,-,Long,Maria,Johann,Oll (Berufe Arbeiter/Arbeiter)
 Iglau und Ebersdorf,03.10.,Matthäus,Matthäus,Sellner,Magdalena,Michael,Mies (Berufe Arbeiter/Bauer)
