@@ -8,9 +8,19 @@ rk
 
 1753
 
+DP 328
+
+
+
 DP 329
 
-
+Iglau,26.02.,Johann,-,Wolff,Anna Maria,-,Gall [1:<Lucas,-,Springer1>,2:<Johann,Harvandt#2>,3:<Franz,Meltzer3>,4:<Johann,Hole4>]
+Iglau,05.03.,Adam,-,Vohs,Anna,-,Hoffbauer (Berufe Soldat/-) [1:<Joseph,Ostolay1>,2:<Michael,Czisar2>,3:<Lucas,Weinstock3>,4:<Ignatz,Hamon4>]
+Iglau,30.04.,Samuel,-,Mockay,Catharina,-,Modl (Berufe Soldat/-) [1:<Samuel,Schüller1>,2:<Franz,Zerni,-,Soldat2>,3:<Franz,Hansig#3>,4:<Ignatz,Wittenberger4>]
+Iglau,08.05.,Thomas,-,Plitschka,Anna Clara,-,Creutzberger,-,W [1:<Johann,Nedopill1>,2:<Ferdinand,Sturzanowssky2>,3:<Leopold Thomas,Paumberger3>,4:<Anton,Po#san4>]
+Iglau,13.05.,Johann Wilhelm,-,Klattenberger,Sophia,-,Löw [1:<Joseph,Zebo1>,2:<Ignatz,Klattenberger2>,3:<Johann,Habermann3>,4:<Augustin,Politzer4>]
+Iglau,13.05.,Jacob,-,Wittenberger,Maria Catharina,-,Klettenberger [1:<Ignatz,Riedl1>,2:<Franz Anton,Schwartz2>,3:<Franz,Lerch3>,4:<Joseph,Schwartz4>]
+Iglau,13.05.,Karl,-,Österreicher,Maria Clara,-,Pauserek# [1:<Johann Michael,Reindler1>,2:<Matthäus,Michale#2>,3:<Ignatz,Körper3>,4:<Joseph,Müksch4>]
 
 DP 330
 
