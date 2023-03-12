@@ -8,9 +8,20 @@ rk
 
 1753
 
+DP 329
+
+
+
 DP 330
 
-
+Altenberg,21.05.,Joseph,-,Spatzal,Elisabeth,-,Wonder [1:<Johann,-,Glich1>,2:<Martin,Spatzal2>,3:<Tobias,-,Wonder3>,4:<Paul,Brischink#>]
+Iglau,21.05.,Joseph,-,Poltzer,Johanna,-,Schlei#,-,W [1:<Johann Georg,#iner1>,2:<Johann Georg,Kubischka2>,3:<Anselm,Neumann3>,4:<Joseph,Kun4>]
+Iglau,21.05.,Joseph,-,Smollenpach,Dorothea,-,Zäch [1:<Leonard,Peter1>,2:<Anselm,Neumann2>,3:<Joseph,Österreicher3>,4:<Norbert,Prauneys4>]
+Iglau,22.05.,Laurenz Philipp,-,Leonberger,Maria Anna Leopoldina,-,Pauerberger (Berufe Doktor der Medizin/-) [1:<Ferdinand,Pangratz1>,2:<Johann Georg,Neumann2>,3:<Leonhard,Peter3>,4:<Leopold,Harl#4>]
+Iglau,28.05.,Heinrich,-,Weber,Catharina,-,Wenes# [1:<Jacob,Kugler1>,2:<Karl,Linhardt2>,3:<Joseph,Schultz3>,4:<Johann Michael,Häussler4>]
+Iglau 04.06.,Mathias,-,Perdinansky,Maria Anna,-,Siegl (Berufe Soldat/-) [1:<Alexander,Schüssler1>,2:<Georg,Schugo2,-,Soldat>,3:<Hermann,Folter3>,4:<Mathias,Köpernick4>]
+Iglau,25.06.,Martin,-,Prackersch,Anna,-,Folter [1:<Wenceslaus,Kauth1>,2:<Franz,Motschka2>,3:<Gregor,Grilch#3>,4:<Andreas,Folter4>]
+Iglau,02.07.,Bernard,-,Schmilauer,Veronica,-,Spatt [1:<Joseph,Pistauer1>,2:<Johann,Schmilauer2>,3:<Matthäus,Steffl3>,4:<Anton,Lang4>]
 
 DP 331
 
