@@ -4,16 +4,16 @@ DP 332
 
 DP 333
 
-Iglau,08.10.,Leopold,-,Gnemetz,Regina,-,Wächter (Berufe -/-)(Zeugen: Sponsi: Franz Alle, Joseph Schmollenbach, Sponsa: Anton Wesszeli, Joseph Titz)
-Iglau,09.10.,Johann,-,Zodl,Anna,-,Hoffmann (Berufe -/-)(Zeugen: Sponsi: Johann Kottner, Mathias Grasl, Sponsa: Johann Lerch, Johann Sitta)
-Iglau,09.10.,Andreas,-,Dorffalter,Maria,-,Lang (Berufe -/-)(Zeugen: Sponsi: Mathias Lang, Simon Frey, Sponsa: Johann Schnöller, Johann Küttner)
-Iglau,15.10.,Johann,-,Hanet#,Maria Barbara,-,Schüll (Berufe -/-)(Zeugen: Sponsi: Jacob Hoffmann, Peter Rösel, Sponsa: Augustin Maar, Martin Kaudt#)
-Iglau,15.10.,Johann,-,Englisch,Theresia Catharina,-,- (Berufe -/-)(Zeugen: Sponsi: Franz Budintzky, Leopold Hartl, Sponsa: Anton Wecker,Franz Raab)
-Iglau,16.10.,Joseph,-,Reblan,-,-,- (Berufe -/-)(Zeugen: Sponsi: Johann Lerch, Joseph Linhardt, Sponsa: Laurenz Horassch, Joseph Mergauß)
-Iglau, 16.10.,Wenceslaus,-,Gerzabeck,Elisabeth,-,Matel (Berufe -/-)(Zeugen Sponsi: Thomas Singer, Matthäus Sotzeck, Sponsa: Martin Grünschandt#, Martin Böhm)
-Iglau,16.10.,Joseph,-,Hawle,Catharina,-,Wonder (Berufe -/-)(Testes Sponsi: Martin Achatz, Johann Frantz, Sponsa: Mathias Höffen, Martin Neuwirth)
-Iglau,22.10.,Johann,-,Frey,Maria,-,Krumm (Berufe -/-)(Testes Sponsi: Joseph Kuntschak, Andreas, Folter, Sponsa: Joseph Wucher, Anton Kuchner)
-22.10.,Daniel,-,Babelka,Maria,-,Puls (Berufe -/-)(Testes Sponsi: Johann Anton Siegl, Wenceslaus Kuntschak, Sponsa: Joseph Politzer, Franz Siegl)
+Iglau,08.10.,Leopold,-,Gnemetz,Regina,-,Wächter [1:<Franz,Alle1>,2:<Joseph,Schmollenbach2>,3:<Anton,Wesszeli3>,4:<Joseph,Titz4>]
+Iglau,09.10.,Johann,-,Zodl,Anna,-,Hoffmann [1:<Johann,Kottner1>,2:<Mathias,Grasl2>,3:<Johann,Lerch3>,4:<Johann Sitta4>]
+Iglau,09.10.,Andreas,-,Dorffalter,Maria,-,Lang (Berufe -/-) [1:<Mathias,Lang1>,2:<Simon,Frey2>,3:<Johann,Schnöller3>,4:<Johann,Küttner4>]
+Iglau,15.10.,Johann,-,Hanet#,Maria Barbara,-,Schüll [1:<Jacob,Hoffmann1>,2:<Peter,Rösel2>,3:<Augustin,Maar3>,4:<Martin,Kaudt#4>]
+Iglau,15.10.,Johann,-,Englisch,Theresia Catharina,-,- [1:<Franz,Budintzky1>,2:<Leopold,Hartl>,3:<Anton,Wecker>,<4:Franz,Raab4>]
+Iglau,16.10.,Joseph,-,Reblan,-,-,- [1:<Johann,Lerch1>,2:<Joseph,Linhardt2>,3:<Laurenz,Horassch3>,4:<Joseph,Mergauß4>]
+Iglau, 16.10.,Wenceslaus,-,Gerzabeck,Elisabeth,-,Matel [1:<Thomas,Singer1>,2:<Matthäus,Sotzeck2>,3:<Martin,Grünschandt#3>,4:<Martin,Böhm4>]
+Iglau,16.10.,Joseph,-,Hawle,Catharina,-,Wonder [1:<Martin,Achatz1>,2:<Johann,Frantz2>, 3:<Mathias,Höffen3>, 4:<Martin,Neuwirth4>]
+Iglau,22.10.,Johann,-,Frey,Maria,-,Krumm [1:<Joseph,Kuntschak1>,2:<Andreas, Folter2>,3:<Joseph,Wucher3>,4:<Anton,Kuchner4>]
+22.10.,Daniel,-,Babelka,Maria,-,Puls [1:<Johann Anton,Siegl1>,2:<Wenceslaus,Kuntschak2>,3:<Joseph,Politzer3>,4:<Franz,Siegl4>]
 
 DP 334
 
