@@ -1,3 +1,11 @@
+Böhmen
+Austria
+Hochzeiten
+Iglau
+St.Jacob
+rk
+6474 - 1708-1764
+
 1753
 
 DP 332
@@ -17,41 +25,41 @@ Iglau,22.10.,Johann,-,Frey,Maria,-,Krumm [1:<Joseph,Kuntschak1>,2:<Andreas, Folt
 
 DP 334
 
-Iglau,23.10.,Mathias,-,Lang,Catharina,-,Kreutz,W
-Iglau,23.10.,Johann,-,Schimka,Catharina,-,Polack
-Iglau,23.10.,Thomas,-,Wonder,Catharina,-,Pfeiffer,W
-Ebersdorf,29.10.,Laurenz,-,Matl,Catharina,-,Rinagl
-Gossau,29.10.,Gregor,-,Richter,Susanna,-,Ripp
-Iglau,06.11.,Martin,-,Urban,Anna,-,Steiner
-Iglau,06.11.,Martin,-,Vincentz,Maria,-,Schrambl
-Iglau,12.11.,Franz,-,Neumann,Maria,-,Mosak
-Iglau,13.11.,Joseph,-,Felix,Barbara Johanna,-,Michala (Berufe Soldat/-)
+Iglau,23.10.,Mathias,-,Lang,Catharina,-,Kreutz,W [1:<Johann,Just1>,2:<Friedrich,Scherer2>,3:<Joseph,Schwartzmann3>,4:<Ludwig,Foschanck4>]
+Iglau,23.10.,Johann,-,Schimka,Catharina,-,Polack [1:<Martin,Mellon#1>,2:<Johann,Ruschwer#2>,3:<Thomas,August3>,4:<Martin,Topper4>]
+Iglau,23.10.,Thomas,-,Wonder,Catharina,-,Pfeiffer,W [1:<Martin,Pitzall1>,2:<Johann,Pökh2>,3:<Laurenz,Poliska3>,4:<Johann,Neuwürth4>]
+Ebersdorf,29.10.,Laurenz,-,Matl,Catharina,-,Rinagl [1:<Martin,Krummshand1>,2:<Martin,Böhm2>,3:<Matthäus,Müksch3>,4:<Joseph,Körber4>]
+Gossau,29.10.,Gregor,-,Richter,Susanna,-,Ripp [1:<Andreas,Reder1>,2:<Johann,Luckschander2>,3:<Johann,Luckschander3>,4:<Joseph,Neubauer4>]
+Iglau,06.11.,Martin,-,Urban,Anna,-,Steiner [1:<Andreas,Broksch1>,2:<Johann,Grauß2>,3:<Franz,Langfeldt3>,4:<Johann Paul,Steiner4>]
+Iglau,06.11.,Martin,-,Vincentz,Maria,-,Schrambl [1:<Andreas,Rinagl1>,2:<Andreas,Röder2>,3:<Gregor,Schnöller3>,4:<Augustin,Döltscher4>]
+Iglau,12.11.,Franz,-,Neumann,Maria,-,Mosak [1:<Mathias,Lang1>,2:<Johann,Ätzer#2>,3:<Karl Ferdinand,Dittrich3>,4:<Johann Georg,Kubitzka4>]
+Iglau,13.11.,Joseph,-,Felix,Barbara Johanna,-,Michala (Berufe Soldat/-) [1:<Johann,Forinius,-,Soldat>,2:<Joseph,Politzki2>,3:<Franz,Grossberger3>,4:<Johann,Jah#>]
 
 DP 335
 
-Heintzendorf,13.11.,Laurenz,-,Schneller,Maria ELisabeth,-,Eugl 
-Iglau,13.11.,Joseph,-,Pistauer,Rosina,-,Pitzall
-Iglau,19.11.,Johann,-,Österreicher,Johanna,-,Hoffmann
-Iglau,19.11.,Jacob,-,Dintter,Elisabeth,-,Hoffmann,-,W
-Iglau,20.11.,Johann,-,Neubauer,Maria,-,Lang,W
-Iglau,20.11.,Matthäus,-,Nowack,Maria,-,Neubauer
-Iglau,26.11.,Wenceslaus,-,Kautenick#,Anna,-,Zemann
-Iglau,26.11.,Laurenz,-,Stutz,Rosina,-,Wonder
+Heintzendorf,13.11.,Laurenz,-,Schneller,Maria ELisabeth,-,Eugl [1:<Wenceslaus,Eugl1>,2:<Johann,Schneller2>,3:<Andreas,Eugl3>,4:<Matthäus,Fellner4>]
+Iglau,13.11.,Joseph,-,Pistauer,Rosina,-,Pitzall [1:<Andreas,Gilch1>,2:<Paul,Lang2>,3:<Laurenz,Gärttner3>,4:<Franz,Lang4>]
+Iglau,19.11.,Johann,-,Österreicher,Johanna,-,Hoffmann [1:<Michael,Reindl1>,2:<Anton Cornelius#,Titz2>,3:<Norbert,Naimon#3>,4:<Johann,Haran#4>]
+Iglau,19.11.,Jacob,-,Dintter,Elisabeth,-,Hoffmann,-,W [1:<Johann,Lenterher#1>,2:<Anton,Millner2>,3:<Leopold,Horni3>,4:<David,Hoffman4>]
+Iglau,20.11.,Johann,-,Neubauer,Maria,-,Lang,W [1:<Jacob,Aifatz#1>,2:<Augustin,Rinagl2>,3:<Hermann,Falter#3>,4:<Joseph,Pollich4>]
+Iglau,20.11.,Matthäus,-,Nowack,Maria,-,Neubauer [1:<Jacob,Wondrak1>,2:<Georg,Pöhm2>,3:<Gregor,Pauser3>,4:<Martin,Oberrenner4>]
+Iglau,26.11.,Wenceslaus,-,Kautenick#,Anna,-,Zemann [1:<Martin,Poppelka1>,2:<Georg,Chernitz2>,3:<Wenceslaus,Mockaisch#3>,4:<Jacob,Pausmann4>]
+Altenberg,26.11.,Laurenz,-,Stutz,Rosina,-,Wonder [1:<Georg,Blaschka1>,2:<Martin,Gülch2>,3:<Johann Paul,Prischinek#3>,4:<Martin,Neubauer4>]
 
 1754
 
-Iglau,07.01.,Johann Georg,-,Zöger#,Maria Catharina,-,Neuwirth
+Iglau,07.01.,Johann Georg,-,Zöger#,Maria Catharina,-,Neuwirth [1:<Johann Michael,Richter1>,2:<Franz,Honrick2>,3:<Andreas,Wucher3>,<4:Franz,Müller4>]
 
 DP 336
 
-Iglau,07.01.,Andreas,-,Rauf#il,Rosina Catharina,-,Grünberg (Berufe Panifex/-)
-Iglau,07.01.,Franz,-,Tym#,Theresia,-,Plasch# (Berufe Soldat/-)(Ist das mit Tym# ein Nachname oder etwas anderes ?)
-Iglau,14.01.,Johann,-,Tertz,Anna Maria,-,Miksch (Berufe Panifex/-)
-Iglau,21.01.,Johann Georg,Johann Georg,Miksch,Maria Catharina,Philipp,Soerer# (Berufe -/Panifex)(Der Beruf des Vaters des Bräutigams war Jäger)
-Iglau,21.01.,Ignatz,Joseph,Aurer,Catharina,Andreas,Müller (Berufe Pannifex/-)
-Iglau,28.01.,Johann Anton,Gottfried,Hertzig,Maria Barbara,Joseph,Schwartz,-,W
-Kleinstunitz,29.01.,Wenceslaus,Laurenz,Wirzakh#,Maria,Matthäus,Neubauer (Berufe -/Bauer)(Der Vater des Bräutigams war Bauer)
-Iglau,04.02.,Johann,Jacob,Panhoffer,Maria Catharina,-,Offner#
+Iglau,07.01.,Andreas,-,Rauf#il,Rosina Catharina,-,Grünberg (Berufe Panifex/-) [1:<Ignatz,Ridl1>,2:<Joseph,Pihlauer>,3:<Johann,Just3>,4:<Johann,Polack4>]
+Iglau,07.01.,Franz,-,Tym#,Theresia,-,Plasch# (Berufe Soldat/-, Ist das mit Tym# ein Nachname oder etwas anderes ?) [1:<Samuel,Schiseller#1>,2:<Georg,Schuller#2>,3:<Johann Michael,Au#3>,4:<Laurenz,Maurer4>]
+Iglau,14.01.,Johann,-,Tertz,Anna Maria,-,Miksch (Berufe Panifex/-) [1:<Jacob,Schichler1>,2:<David,Hoffmann2>,3:<David,Halemann3>,4:<Andreas,Schleina#4>]
+Iglau,21.01.,Johann Georg,Johann Georg,Miksch,Maria Catharina,Philipp,Soerer# (Berufe -/Panifex, Der Beruf des Vaters des Bräutigams war Jäger)[1:<Ignatz,Ridl1>,2:<Joseph,Gomias2>,3:<Thomas,Plath3>,4:<Franz,Schwartz4>]
+Iglau,21.01.,Ignatz,Joseph,Aurer,Catharina,Andreas,Müller (Berufe Pannifex/-) [1:<Philippus,Brauneys1>,2:<Johann,Neubauer2>,3:<Ferdinand,Pangratz3>,4:<Joseph,Schwartz4>]
+Iglau,28.01.,Johann Anton,Gottfried,Hertzig,Maria Barbara,Joseph,Schwartz,-,W [1:<Joseph,Zebo1>,2:<Laurenz,Schwartz2>,3:<Leopold,Hornik3>,4:<Ignatz,Ridl4>]
+Kleinstunitz,29.01.,Wenceslaus,Laurenz,Wirzakh#,Maria,Matthäus,Neubauer (Berufe -/Bauer, Der Vater des Bräutigams war Bauer) [1:<Joseph,Neubauer1>,2:<Johann,Müksch2>,3:<Martin,Oberrenner3>,4:<Gregor,Pausser,Kleinstunitz,Bauer4>] 
+Iglau,04.02.,Johann,Jacob,Panhoffer,Maria Catharina,-,Offner# [1:<Franz,Zebo1>,2:<Philippus,Zerwitzer2>,3:<Joseph,Pistauer3>,4:<Johann,Stoltz4>]
 
 DP 337
 
