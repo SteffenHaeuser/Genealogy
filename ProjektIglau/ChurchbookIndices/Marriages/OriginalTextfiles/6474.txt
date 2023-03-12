@@ -8,7 +8,32 @@ rk
 
 1753
 
+DP 330
+
+
+
+DP 331
+
+Iglau,03.07.,Franz,-,Krönberger,Maria Elisabeth,-,Gilch [1:<Franz,Wagner1>,2:<Gotthard,Pabl#>]
+Iglau,03.07.,Johann,-,Erdeln#,Catharina,-,Zirbelbach [1:<Franz,Urei#1>,2:<Andreas,Sverenko2>,3:<Johann,Ett#3>
+Iglau,09.07.,Johann Karl,-,Müller,Veronica,-,Bernstein# [1:<Philippus,Joch#1>,2:<Franz,Pernischke2>,3:<Franz,-,Fischer#3>,4:<Anton,-,Neuffer#4>]
+Iglau,23.07.,Joseph,-,Hennrich,Catharina Barbara,Drobschug# [1:<Andreas,Proksch1>,2:<Johann Georg,Pauer2>,3:<Johann Michael,Reindler3>,4:<Franz,Siegl4>]
+Iglau,06.08.,Johann,-,Lang,Maria,-,Janisch,W [1:<Anton,Oliwa,-,Gärtner1>,2:<Matthäus,Lang,-,Fleischer2>,3:<Johann,Duscheck,-,Corbonario#3>,4:<Mathias,Dornhauser4>]
+Iglau,13.08.,Johann,-,Greuhaus,Maria Barbara,-,Neumann [1:<Johann Michael,-,Reindler1>,2:<Matthäus,Lang2>,3:<Franz Michael,Neumann3>,4:<Joseph,Körber4>]
+Iglau,03.09.,Matthäus,-,Polack,Maria,-,Kauth [1:<Georg,Pader1>,2:<Johann Georg,Plahus#2;>,3:<Joseph,Stoltz3>,4:<Paul,Schüller4>]
+Iglau,11.09.,Wenceslaus,-,Nowottny,Catharina,-,Augustin [1:<Martin,Krümshandt1>,2:<Paul,Sowotka2>,3:<Andreas,Früauff3>,4:<Paul,Köstler4>]
+Iglau,17.09.,Franz,-,Linder,Theresia,-,Kurtz [1:<Johann,Zach1>,2:<Johann Georg,Weber2>,3:<Joseph,Raab3>,4:<Joseph,Krenmüller4>]
+
 DP 332
+
+Iglau,17.09.,Johann,-,Glos,Anna Regina,-,Ulrich,-,W [1:<Franz,Rab1>,2:<Franz,Riesenfelder2>,3:<Caspar,Kottauer3>,4:<Norbert,Prauney4>]
+Iglau,17.09..,Thomas,-,Horazeck,Maria Theresia,-,Pilner [1:<Matthäus,#ostzifal1>,2:<Mathias,Zervadyl2>,3:<Jacob,Pilak3>,4:<Jacob,Woderka#4>]
+Iglau,24.09.,Laurenz,-,Fritscher,Apollonia,-,Hoffbauer [1:<Andreas,Wucherer1>,2:<Anton,Oliwa2>,3:<Martin,Frimbl3>,4:<Ignatz,Hamon4>]
+Iglau,25.09.,Laurenz,-,Watzka,Maria,-,Hindenauf,W [1:<Thomas,August1>,2:<Vitus,Pauernfeit#2>,3:<Joseph,Wuchner3>,4:<Stephan,Onsorg4>]
+Iglau,01.10.,Andreas,-,Weiner,Rosina,-,Helter [1:<Joseph,Politzer1>,2:<Ignatz,Hamon2>,3:<Laurenz,Klattenberger3>,4:<Leopold,Pauspertl4>]
+Iglau,01.10.,Anton,-,Schmidt,Regina,-,Rosenkrantz,-,W [1:<Augustin,Oberrenner1>,2:<Johann,Kippry2>,3:<Johann Georg,Gusitschka3>,4:<Thomas,Reltscher4>]
+Iglau,02.10.,Johann,-,Girzabeck,Maria,-,Pater [1:<Laurenz,Schnöller1>,2:<Thomas,Pater2>,3:<Philippus,Blaschka3>,4:<Martin,Lang4>]
+Iglau,08.10.,Martin,-,Zepano#,Susanna,-,Stoltz 1:<Johann,Niesner1>,2:<Johann,Stoltz2>,3:<Tobias,Walter3>,4:<Matthäus,Stoltz4>]
 
 DP 333
 
