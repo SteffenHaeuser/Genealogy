@@ -8,9 +8,20 @@ rk
 
 1753
 
+DP 327
+
+
+
 DP 328
 
-
+Iglau,06.02.,Philipp,-,Rinagl,Elisabeth,-,Gleixner [1:<Johann,Gleixner1>,2:<Martin,Korppes#2>,3:<David,Hoffmann3>,4:<Florian,Schenck4>]
+Iglau,12.02.,Ladislaus,-,Kurczita,Elisabeth,-,Kircher (Berufe Soldat/-) [1:<Augustin,Retzer1>,Wenceslaus,Puchal2>,3:<Joseph,Pothorany3>,4:<Franz,Hoffmann4>]
+Iglau,12.02.,Johann,-,Salomon,Eleonora,-,Melihon [1:<Franz,Zebo1>,2:<Johann,Engelschal2>,3:<Franz,Krönberger3>,4:<Franz,Neumann4>]
+Iglau,12.02.,Martin,-,Plaschka,Catharina,-,Eubl [1:<Joseph,Politzer1>,2:<Joseph,Stoltz2>,3:<Friedrich,Welle3>,4:<Tobias,Walter4>]
+Iglau,12.02.,Johann,-,Weber,Maria Anna,-,Taubenkorb (Randnotitz: "Forte aliter etian vorabatur Telber.") [1:<Martin Leopold,Wels1>,2:<Johann,Hartl2>,3:<Franz,Horner3>,4:<Andreas,Gristler4>]
+Haintzendorf,13.02.,Matthäus,-,Schnöller,Catharina,-,Stutz [1:<Johann,Schnöller1>,2:<Peter,Puls2>,3:<Paul,Doltscher3>,4:<Andreas,Döltscher4>]
+Iglau,19.02.,Paul,-,Schuster,Catharina,-,Schwartz,W,W [1:<Johann,Schwartz1>,2:<Franz,Lerch2>,3:<Martin,Kundt3>,4:<Franz Xaver,Zebo4>]
+Iglau,19.02.,Augustin,-,Schwartz,Maria Elisabeth,Kürchner [1:<Franz,Riedt1>,2:<Matthäus,Kürchner2>,3:<Franz,Stütz#3>,4:<Johann,Schwartz4>]
 
 DP 329
 
