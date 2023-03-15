@@ -10,7 +10,14 @@ rk
 
 DP 321
 
-
+Iglau,19.06.,Franz Alexander,-,Jemler,Anna Maria,-,Pongratz (Bräutigam: "Pronobl. ac. generosus Dus", Braut: "Pronobl. ac. virtuosa", Zeugen 1,2: "Pronobl. Dus", Zeuge 3: "Pronobl. ac. Consultisimus Dus", Zeuge 4: "Dus = Dominus") [1:<Leopoldus Thomas,Baumberger1>,2:<Paulus,Lovienizka#2>,3:<Georgius Antonius,Neuman3>,4:<Carolus,Wenino4>]
+Iglau,20.06.,Paulus,-,Loch,Maria,-,Neuwirth,W [1:<Jacobus,Rinagl1>,2:<Franziscus Antonius,Hoffmann2>,3:<Matthäus,Steffl3>,4:<Philippus,Malentschperger4>]
+Iglau,17.07.,Andreas,-,Pelikan,Catharina,-,Wollner [1:<Norbert,Krichenbauer1>,2:<Sebastianus,Mayer2>,3:<Joannes,Neumann3>,4:<Godefridus,Lyda#4>]
+Iglau,17.07.,Georgius,-,Slowach,Elisabeth,-,Horack (Zeuge 3: "Dus = Dominus") [1:<Joannes Adam,Reindl1>,2:<Andreas,Sedlazeck2>,3:<Joannes,Zach3>,4:<Josephus,Krönmüller4>]
+Ebersdorf,18.07.,Martinus,-,Prockschäffer,Anna,-,Silip,-,W [1:<Vitus,Nidermertl1>,2:<Stephan,Schefer#2>,3:<Martinus,Krimshandl3>,4:<Mathias,Matzko4>]
+Iglau,25.07.,Simon,-,Schwachazek#,Rosina,-,Setoark#,W [1:<Jacobus,Schissler1>,2:<Josephus,Prabentz2,-,Civis et Auriga>,3:<Augustinus,Eugl,-,#3>,4:<Joannes Georgius,Krizala4>]
+Iglau,25.07.,Jacobus,-,Krum,Dorothea,-,Schmid,W (Bedeutet das "V." bei der Braut "Vidua" ?) [1:<Franciscus,Semrath,-,Sutor1>,2:<Joannes,Schuster,-,Pannifex2>,3:<Andreas,Frühauf,Öbersdorf#,Molitor3>,4:<Wenceslaus,Zuloth4>]
+Iglau,25.07.,Franziscus,-,Tütz,Rosa,-,Mentz,W (Zeuge 1,3: "Dus = Dominus", Zeuge 2: "Pronobl. ac. Consultisimus Dus") [1:<Elias,Neubauer1>,2:<Leopoldus,Hartl2>,3:<David,Habermann3>]
 
 DP 322
 
