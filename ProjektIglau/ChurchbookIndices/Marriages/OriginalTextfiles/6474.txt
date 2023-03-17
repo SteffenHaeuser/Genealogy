@@ -6,11 +6,109 @@ St.Jacob
 rk
 6474 - 1708-1764
 
+1751
+
+DP 308
+
+
+
+DP 309
+
+Iglau,01.06.,Leopoldus,-,Finsterwaldt,Anna Theresia,-,Neusser [1:<Antonius,Riemer1>,2:<Joannes,Fud#iel2>,3:<Elias,Neubauer3>,4:<Joannes Georgius,Gielickso#4>]
+Iglau,06.06.,Philippus Jacobus,-,Ronschpeck,Maria Catharina,-,Hein,W [1:<Antonius,Bachmann1>,2:<Josephus,Stoltz2>,3:<Tobias,Walter3>,4:<Philippus,Grüll4>]
+Iglau,22.06.,Joannes,-,Reinkowsky,Elisabeth,-,Müksch [1:<Fridericus,Schöp#1>,2:<Andeas,Frian2>,3:<Matthäus,Siegl3>,4:<Matthäus,Holtz4>]
+Iglau,29.06.,Joannes Michael,-,Häusler,Joanna,-,Holdt [1:<Leopold,Horning1>,2:<Josephus,Pistauer2>,3:<Josephus,Zebo3>,4:<Joannes,Holdt4>]
+Iglau,29.06.,Matthäus,-,Zodl,Rosina,Pockorn,-,W [1:<Mathias,Schüller1>,2:<Joannes,Neuwürth2>,3:<Mathäus,Föllner3>,4:<Andreas,Pitzal4>]
+Iglau,29.06.,Joannes,-,Stürtzer,Regina,-,Lowentz,W,W [1:<Laurentius,Polinka1>,2:<Joannes,Greuatz#2>,3:<Joannes,Lang3>,4:<Thomas,Bartl4>]
+Iglau,05.07.,Andreas,-,List#,Catharina,-,Weber,W,W [1:<Andreas,Fridl1>,2:<Laurentius,Galli2>,3:<Casparus,Kumzak3>,4:<Bernardus,Roltz4>]
+Iglau,05.07.,Elias,-,Creutzberger,Anna Clara,Riesenfelder,W (Zeuge 1: "Pronobl. ac. Consultisimus Dus", Zeuge 2,4: "Pronobl. Dus", Zeuge 3: "Excellentisimus Dus") [1:<Joannes Carolus,Goschko,Jaxenthal#1>,2:<Ferdinandus,Pongratz2>,3:<Antonius,Wecker3>,4:<Leopoldus Thomas,Baumberger4>]
+
+DP 310
+
+Altenberg,06.07.,Josephus Antonius,-,Heller,Maria Elisabeth,-,Reinsch (Zeuge 1,2: "Dus == Dominus", Zeuge 3: "Pronobl. ac. Consultisimus Dus", Zeuge 4: "Pronobl. Dus") [1:<Franziscus,Krönberger1>,2:<Josephus,Erbenstein2>,3:<Franziscus,Wagner3>,4:<Antonius,Zebo4>]
+Olmütz und Iglau,12.07.,Josephus,-,Heck,Catharina,-,Plath (Randnotiz: "In Gradu 2 afinitatis langentel", Notiz: "Obtenta Dispensatione a Hede Apostolica")
+Iglau,26.07.,Dominicus,-,Schuster,Theesia,-,Hordt (Zeuge 1: "Dus = Dominus") [1:<Joannes Georgius,Leiner1>,2:<Martinus,Conradt2>,3:<Josephus,Alerst3>,4:<Mathias,Donhause#4>]
+Iglau,27.07.,Martinus,-,Rab.Apollonia,Gras#,W,W [1:<Joannes,Sch#ib1>,2:<Mathäus,Tonhauser2>,3:<Andreas,Höger3>,4:<Franziscus Antonius,Hoffman4>]
+Iglau,27.07.,Joannes,-,Heydeman,Catharina,-,Prünhauser,-,W (Zeuge 3: "Dus = Dominus") [1:<Antonius,Bachman1>,2:<Josephus,Rabe2>,3:<Jacobus,Noe3>,4:<Matthäus,Michale4>]
+Iglau,27.07.,Paulus,-,Pöckh,Maria,-,Zodl [1:<Joannis,Galle1>,2:<Georgius,N#lein2>,3:<Joannes,Zodl3>,4:<Matthäus,Hanl4>]
+Iglau,25.08.,Martinus,-,Weseli,Elisabeth,Ma#,W,W [1:<Joannes Paulus,Wodwanez#1>,2:<Wenceslaus,Krum2>,3:<Simon,Frai>,4:<Joseph,Wochner4>]
+Iglau,30.08.,Martinus,-,Donner,Elisabeth,Rinagl [1:<Joannes,Thoma1>,2:<Laurentius,Thoma2>,3:<Joannes,Just3>,4:<Leopold,Kraus4>]
+
+DP 311
+
+Iglau,05.09.,Norbertus,-,Fatz,Susanna,-,Rebhan,W (Zeuge 1: "Dus == Dominus") [1:<Leopoldus,Zinlack1>,2:<Joannes Michael,Reindler2>,3:<Josephus,Zebo3>,4:<Josephus,Raabe4>]
+Iglau,05.09.,Franziscus Ernestus,-,Wagner,Agneta Veronica,-,Zach (Bräutigam und Zeuge 1: "Pronobl. ac. Consultisimus Dominus", Zeuge 3: "Pronobl. Dominus") [1:<Joannes Carolus,Goschko1>,2:<Franziscus,Krönberger2>,3:<Joannes,Müller3>,4:<Ludovicus,Foschanck4>]
+Iglau, 06.09.,Gottefridus,-,Jäger,Anna,-,Müller,W,W [1:<Mathias,Politzer1>,2:<Jacobus,Jäger2>,3:<Tobias,Wolter3>,4:<Carolus,Hajek4>]
+Iglau,06.09.,Philippus,-,Soeren,Catharina,-,Schwartz,W,W [1:<Josephus,Allenest1>,2:<David,Schwartz2>,3:<Matthäus,Lang3>,4:<Balthasar,Hoberman4>]
+Iglau,06.09.,Josephus,-,Pausser,Maria Elisabeth,-,Hoffman (Zeuge 1,3: "Dus == Dominus") [1:<Jacobus,Noe1>,2:<Joannes,Praksch2>,3:<David,Haberman3>,4:<Augustinus,Politzer4>]
+Iglau,07.09.,Laurentius,-,Schopper,Apollonia,-,Moppil,W [1:<Josephus,Österreicher1>,2:<Joannes,Hamon2>,3:<David,Unger3>,4:<Josephus,Löw4>]
+Iglau,13.09.,Matthäus,-,Neuner,Rosina,-,Köttner [1:<Joannes,Budal1>,2:<Joannes,Eigl2>,3:<Josephus,Maurreiter3>,4:<Georgius,Siegl4>]
+Iglau,14.09.,Paulus,-,Nachtigall,Joanna,-,Glaser [1:<Josephus,Rabe1>,2:<Andreas,Höch2>,3:<Joannes,Alitzer3>,4:<Joephus,Wondraschek4>]
+
+DP 312
+
+Iglau,21.09.,Franziscus,-,Schröckeyssen,Barbara,-,Kratohwill [1:<Joannes,Schül1>,2:<Joannes,Bauer2>,3:<Franziscus Antonius,Long3>,<4:<Ignatius,Mellion4>]
+Iglau,21.09.,Joannes,-,Weber,Anna,-,Kalsörl,-,W [1:<Joannes,Handt1>,2:<Georgius,Schaffer2>,3:<Joannes,Weinner3>,4:<Joannes Michael,Häusler4>]
+Iglau,28.09.,Jacobus,-,Stiastny,Catharina,-,Sprinsfeld,W [1:<Franziscus,Kubeck1>,2:<Josephus,Pellich2>,3:<Ignatius,Habermann3>,4:<Lucas,Schindler4>]
+Iglau,28.09.,Martinus,-,Proksch,Rosina,-,Hort [1:<Andreas,Folter1>,2:<Augustinus,Loswaldt2>,3:<Paulus,Hanl3>,4:<Laurentius,Polischka4>]
+Iglau,04.10.,Andreas,-,Gärttner,Anna,-,Pfeiffer,-,W [1:<Martinus,Qeis#1>,2:<Josephus,Benirschko2>,3:<Leopoldnus,Horning3>,4:<Antonius,Petzl4>]
+Iglau,12.10.,Antonius,-,Zepelka,Maria Elisabeth,-,Müller [1:<Joannes,Tost1>,2:<Augustinus,Eugl2>,3:<Josephus,Hirschko3>,4:<Josephus,Tütz4>]
+Altenberg,12.10.,Martinus,-,Spatzals,Elisabeth,-,Zeckh# [1:<Tobias,Vondri1>,2:<Joannes Paulus,Zeishinh#2>,3:<Andreas,Frianth#3>,4:<Matthäus,Prissink#4>]
+
+DP 313
+
+Ebersdorf,18.10.,Georgius,-,Sellner,Catharina,-,Schimek [1:<Thomas,Schimek1>,2:<Paulus,Han#2>,3:<Martinus,Krimshandl3>,4:<Philippus,Letz#4>]
+Iglau,19.10.,Laurentius,-,Endal,Anna,-,Mattl# [1:<Matthias,Jank1>,2:<Josephus,Kutlwascher2>,3:<Tobias,Wonder3>,4:<Philippus,Parthl4>]
+Iglau,25.10.,Michael,-,Auer,Maria Elisabeth,-,Frontz (Zeuge 3,4: "Dominus") [1:<Joannes,Jully1>,2:<Josephus,Schwip2>,3:<Franziscus,Foschanck3>,4:<Franziscus,Zebo4>]
+Iglau,25.10.,Augustinus,-,Neuman,Susanna,Gall [1:<Martinus,Neubauer1>,2:<Josephus,Wonder2>,3:<Tobias,Wonder3>,4:<Joannes Paulus,Prischinck4>]
+Iglau,25.10.,Thomas,-,Kopenitz,Anna,-,Zlabinger,-,W [1:<Joannes,Long1>,2:<Joannes,Biderman2>,3:<Jaconus,Schüssler3>,4:<Josephus,Pellich4>]
+Iglau,26.10.,Norbertus,-,Hordt,Judith,-,Ripp# [1:<Paulus,Gündra1>,2:<Josephus,Schiller#2>,3:<Josephus,Gleisen3>,4:<Augustinus,Luxander4>]
+Iglau,26.10.,Jacobus,-,Plath,Maria,-,Wohnl [1:<Laurentius,Praventz1>,2:<Wenceslaus,Teltzn2>,3:<Stephanus,Pindorsch#3>,4:<Georgius,Kamp#4>]
+
+DP 314
+
+Iglau,26.10.,Joannes Paulus,-,Steiner#,Rosina,-,Kregsch# (Kregsch und Kreyasch der selbe Name ?) [1:<Joannes,Kreyasch#1>,2:<Wenceslaus,Neufingerl2>,3:<Joannes,Teltscher#3>,4:<Matthäus,Mischk#4>]
+Ebersdorf,31.10.,Bartholomäus,-,Sellner,Magdalena,Thonel,W [1:<Martinus,Krümshandl1>,2:<Augustinus,Sirlib#2>,3:<Josephus,Mühlfeit3>,4:<Thomas,Stummer4>]
+Iglau,31.10.,Andreas,Litzka,Maria,Laschk [1:<Tobias,Körber1>,2:<Georgius Michael,Hartl2>,3:<Josephus,Wonder3>,4:<Laurentius,Frontz4>]
+Iglau,08.11.,Carolus,-,Linhardt,Elisabeth,-,Fremdl [1:<Franziscus,Fridel1>,2:<Martinus,Krum2>,3:<Georgius,Zik#3>,4:Josephus,Linhardt4>]
+Iglau,08.11.,Antonus,-,Kürnberger,Maria Catharina,Nask# (Zeuge 3: "Dus = Dominus") [1:<Josephus,Stöckl1>,2:<Martinus,Knoblach2>,3:<Anselmus,Neuman3>,4:<Martinus,Khun4>]
+Iglau,08.11.,Mathias,-,Long,Susanna,Swornrek# [1:<Melchior,Jancko1>,2:<Franziscus,Hansig2>,3:<Augustinus,Long3>,4:<Franziscus,Long4>]
+Iglau,09.11.,Mathias,-,Kunschack,Dorothea,Straus [1:<Matthäus,Köttner1>,2:<Joannes,Gött2>,3:<Philippus,Mann3>,4:<Georgius,Deltscher4>]
+Ebersdorf,09.11.,Mathias,-,Stumer,Maria,Holtzer [1:<Martinus,Krümshandl1>,2:<Martinus,Böhm2>,3:<Paulus,Schwartz3>,4:<Joannes,Körp#4>]
+
+DP 315
+
+Iglau,15.11.,Joannes Georgius,-,Vicentz,Anna,-,Long,W,W [1:<Matthäus,Long1>,2:<Ignatius,Alitzer2>,3:<Christianus,Kochwasser3>,4:<Josephus,Ruzizka4>]
+Iglau,15.11.,Carolus,-,Binckmann#,Elisabeth,-,Rosenkrantz [1:<Joannes Fridricus,Welle1>,2:<Joannes Michael,Sturm2>,3:<Josephus,Heckh3>,4:<Wenceslaus,Eugl4>]
+Iglau,15.11.,Wenceslaus,-,Zatrab,Anna,-,Mitzen# [1:<Jaconus,Hanus#1>,2:<Georgius,Havel2>,3:<Mathias,Sonovitz3>,4:<Matthäus,Urban4>]
+Iglau,15.11.,Joannes Paulus,-,Khun,Elisabeth,-,Tropp (Zeugen 1,3: "Pronobl. ac. Consultisimus Dominus", Zeuge 2,4: "Dus == Dominus") [1:<Franziscus,Rab1>,2:<Joannes Georgius,Grassl2>,3:<Leopoldus,Hartl3>,4:<Leonardus,Peter4>]
+Iglau,16.11.,Josephus,-,Wonder,Catharina,-,Patr [1:<Mathias,Schüller1>,2:<Joannes,Neuwürth2>,3:<Martinus,Khun#>,4:<Jacobus,Ruswurms4>]
+Iglau,16.11.,Martinus,-,Ruzizka,Maria Catharina,-,Schwartz (Zeuge 1,3: "Pronobl. ac. Consultisimus Dus", Zeuge 2,4: "D. == Dominus") [1:<Leopoldus,Hartl1>,2:<David,Hoberman2>,3:<Franciscus,Budinzky3>,4:<Elias,Neubauer4>]
+Iglau,21.11.,Franziscus Carolus,-,Horner,Maria Theresia,-,Mikush (Zeuge 1,3,4: "Pronobl. ac. Consultisimus Dus", Zeuge 2: "Pronobl. Dus") [1:<Joannes Carolus,Goschke1>,2:<Leopoldus,Zinlack2>,3:<Franziscus,Budinsky3>,4:<Franziscus,Raab4>]
+
+DP 316
+
+Iglau,22.11.,Joannes,-,Schuster,Maria,-,Zinlack (Zeuge 3: "Dus == Dominus") [1:<Franziscus,Lerch1>,2:<Ignatius,Riedl2>,3:<Franziscus,Krenberger3>,4:<Andreas,Reichardt4>]
+Iglau,23.11.,Philippus,-,Alle,Rosalia,-,Neubauer [1:<Franciscus,Emerat1>,2:<Wenceslaus,Kraus2>,3:<Joannes Jacobus,Barth3>,4:<Matthäus,Michale4>]
+
 1752
+
+Iglau,11.01.,Georgius,-,Böhm,Anna,Vursack [1:<Joannes,Summer#1>,2:<Augustinus,Vursack2>,3:<Laurentius,Wuriak3>,4:<Wenceslaus,Novack4>]
+Iglau,17.01.,Josephus,-,Förser,Maria Catharina,Schiedlberger#,W (Zeuge 1: "D.") [1:<Joannes Georgius,Grassl1>,2:<Jacobus,Leipoldt2>,3:<Franziscus Ignatius,Grinberger#3>,4:<Ferdinandus,Wen#4>]
+Iglau,17.01.,Jacobus,-,Hoffman,Anna,-,Neufingerl,W,W [1:<Matthäus,Rinagl1>,2:<Andreas,Kraus#2>,3:<Josephus,Miksche3>,4:<Norbertus,Pitzal4>]
+Iglau,17.01.,Franziscus,-,Plath,Elisabeth,R# [1:<Martinus,Pobelcka1>,2:<Thomas,Plath2>,3:<Franziscus Josephus,Kucn#3>,4:<Melchior,Janschka4>]
+Iglau,17.01.,Joannes Georgius,-,Röge,Catharina,-,-,W,W [1:<Franziscus,Zith#1>,2:<Joannes Paulus,Cun2>,3:<Joannes,Schreckeysen3>,4:<Mathias,Thonhauser4>]
+Iglau,18.01.,Franziscus,-,Koniasch,Catharina,-,Schug (Zeuge 3: "Pra#. Consultisimus D.") [1:<Dominicus,Schmilauer1>,2:<Josephus,Koniasch2>,3:<Georgius,Weimer3>,4:<Thomas,Schmilauer4>]
+Haintzendorf,18.01.,Jacobus,-,Röder,Maria,-,Schnäller [1:<Joannes,Luxander1>,2:<Andreas,Röder2>,3:<Joannes,Schniller#3>,4:<Augustinus,Teltz4>]
 
 DP 317
 
-
+Iglau,24.01.,Paulus,-,Böhm,Catharina,-,Strassner,W [1:<Casparus,Kuntschak1>,2:<Joannes,Lerch2>,3:<Franziscus,Eckardt3>,4:<Franziscus,Fidler4>]
+Iglau,24.01.,Antonius,-,Seidl,Apollonia,-,Krobath,W [1:<Laurentius,Klattenberger1>,2:<Martinus,Frimbl2>,3:<Franziscus,Tutz3>,4:<Ignatius,Krobath4>]
+Iglau,24.01.,Carolus,-,Long,Maria Anna,-,Pabl (Zeuge 1: "Pronobl. Dus.", Bräutigam und Zeuge 2,3,4: "Dus == Dominus") [1:<Amadeus,Rohn1>,2:<Anselmus,Neuman2>,3:<Carolus,Venino3>,4:<Ferdinandus,Pangratz4>]
+Iglau,24.01.,Matthäus,-,Taude#,Maria Catharina,-,Hartl (Zeuge 1: "Excellentisimus Dus", Zeuge 2: "Pronobl. ac. Consultisimus Dominus", Bräutigam und Zeuge 3,4: "Dus == Dominus") [1:<Antonius,Wacker1>,2:<Franziscus,Rab2>,3:<Franziscus,Zebo3>,4:<Joannes,Hartl4>]
+Iglau,25.01.,Antonius,-,Loswaldt,Rosina,-,Neubauer [1:<Laurentius,Würschack1>,2:<Josephus,Neubauer2>,3:<Franziscus,Müller3>,4:<Jacobus,Entzman#4>]
+Iglau,25.01.,Martinus,-,Werman,Maria,-,Blaschotz [1:<Paulus,Jindera1>,2:<Augustinus,Lukschander2>,3:<Joannes,Maurer3>,4:<Josephus,Schwartz4>]
 
 DP 318
 
@@ -127,7 +225,7 @@ Iglau,06.02.,Philipp,-,Rinagl,Elisabeth,-,Gleixner [1:<Johann,Gleixner1>,2:<Mart
 Iglau,12.02.,Ladislaus,-,Kurczita,Elisabeth,-,Kircher (Berufe Soldat/-) [1:<Augustin,Retzer1>,Wenceslaus,Puchal2>,3:<Joseph,Pothorany3>,4:<Franz,Hoffmann4>]
 Iglau,12.02.,Johann,-,Salomon,Eleonora,-,Melihon [1:<Franz,Zebo1>,2:<Johann,Engelschal2>,3:<Franz,Krönberger3>,4:<Franz,Neumann4>]
 Iglau,12.02.,Martin,-,Plaschka,Catharina,-,Eubl [1:<Joseph,Politzer1>,2:<Joseph,Stoltz2>,3:<Friedrich,Welle3>,4:<Tobias,Walter4>]
-Iglau,12.02.,Johann,-,Weber,Maria Anna,-,Taubenkorb (Randnotitz: "Forte aliter etian vorabatur Telber.") [1:<Martin Leopold,Wels1>,2:<Johann,Hartl2>,3:<Franz,Horner3>,4:<Andreas,Gristler4>]
+Iglau,12.02.,Johann,-,Weber,Maria Anna,-,Taubenkorb (Randnotiz: "Forte aliter etian vorabatur Telber.") [1:<Martin Leopold,Wels1>,2:<Johann,Hartl2>,3:<Franz,Horner3>,4:<Andreas,Gristler4>]
 Haintzendorf,13.02.,Matthäus,-,Schnöller,Catharina,-,Stutz [1:<Johann,Schnöller1>,2:<Peter,Puls2>,3:<Paul,Doltscher3>,4:<Andreas,Döltscher4>]
 Iglau,19.02.,Paul,-,Schuster,Catharina,-,Schwartz,W,W [1:<Johann,Schwartz1>,2:<Franz,Lerch2>,3:<Martin,Kundt3>,4:<Franz Xaver,Zebo4>]
 Iglau,19.02.,Augustin,-,Schwartz,Maria Elisabeth,Kürchner [1:<Franz,Riedt1>,2:<Matthäus,Kürchner2>,3:<Franz,Stütz#3>,4:<Johann,Schwartz4>]
@@ -162,7 +260,7 @@ Iglau,23.07.,Joseph,-,Hennrich,Catharina Barbara,Drobschug# [1:<Andreas,Proksch1
 Iglau,06.08.,Johann,-,Lang,Maria,-,Janisch,W [1:<Anton,Oliwa,-,Gärtner1>,2:<Matthäus,Lang,-,Fleischer2>,3:<Johann,Duscheck,-,Corbonario#3>,4:<Mathias,Dornhauser4>]
 Iglau,13.08.,Johann,-,Greuhaus,Maria Barbara,-,Neumann [1:<Johann Michael,-,Reindler1>,2:<Matthäus,Lang2>,3:<Franz Michael,Neumann3>,4:<Joseph,Körber4>]
 Iglau,03.09.,Matthäus,-,Polack,Maria,-,Kauth [1:<Georg,Pader1>,2:<Johann Georg,Plahus#2;>,3:<Joseph,Stoltz3>,4:<Paul,Schüller4>]
-Iglau,11.09.,Wenceslaus,-,Nowottny,Catharina,-,Augustin [1:<Martin,Krümshandt1>,2:<Paul,Sowotka2>,3:<Andreas,Früauff3>,4:<Paul,Köstler4>]
+Iglau,11.09.,Wenceslaus,-,Nowottny,Catharina,-,Augustin [1:<Martin,Krümshandl1>,2:<Paul,Sowotka2>,3:<Andreas,Früauff3>,4:<Paul,Köstler4>]
 Iglau,17.09.,Franz,-,Linder,Theresia,-,Kurtz [1:<Johann,Zach1>,2:<Johann Georg,Weber2>,3:<Joseph,Raab3>,4:<Joseph,Krenmüller4>]
 
 DP 332
