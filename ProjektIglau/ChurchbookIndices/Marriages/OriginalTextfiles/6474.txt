@@ -8,9 +8,42 @@ rk
 
 1751
 
+DP 305
+
+
+
+DP 306
+
+Iglau,21.01.,Joannes Georgius,-,Schwoboda,Maria Elisabeth,-,Kammermeyer [1:<Ferdinandus,Wernsdörffer1>,2:<Carolus,Rab2>,3:<Carolus,Püll3>,4:<Andreas,Wöber4>]
+Iglau,25.01.,Carolus,-,Hauer,Maria Elisabeth,-,Holm [1:<Georg,Hauer1>,2:<Ignatius,Malenschperger2>,3:<Elias,Kreutzberger3>,4:<Franziscus,Siegl4>]
+Iglau,25.01.,Wenceslaus,-,Kunschack,Maria Catharina,-,Politzer (Zeuge 1,3: "Dus == Dominus") [1:<Franziscus,Zebo1>,2:<Petrus,Rössl2>,3:<Jacobus,Noe3>,4:<Joannes,Prakesch4>]
+Iglau,25.01.,Leopoldus,-,Springer,Maria Clara,-,Schleim [1:<Franziscus,Schwartz1>,2:<Franziscus,Müller2>,3:<Anselmus,Neumann3>,4:<Henricus,Schleim4>]
+Iglau,26.01.,Joannes Georgius,-,Löschner,Maria Anna,Wannikh,W (Zeugen sind gemeinsame Zeugen von Bräutigam und Braut) [1:<Antonius,Hönig1>,2:<Joannes,Zach2>]
+Gossau,26.01.,Matthias,-,Rippa,Anna,-,Höffer [1:<Gregor,Reder1>,2:<Augustinus,Deltscher2>,3:<Wenceslaus,Hocheysel#3>,4:<Joannes,Eugl4>]
+Iglau,01.02.,Joannes,-,Stintzinger,Maria Regina,-,Söllner,W,W (Zeuge 1: "Dus == Dominus") [1:<Joannes Josephus,Feyertag1>,2:<Joannes,Jullius2>,3:<Joannes,Schröckeysen3>,4:<Josephus,Leiwoldt#4>]
+Iglau,01.02.,Jacobus,-,Kollmansberger,Catharina,-,Long [1:<Antonius,Schmidt1>,2:<Paulus,Schwartz2>,3:<Joannes,Küttler3>,4:<Georgius,Küttler4>]
+
+DP 307
+
+Iglau,02.02.,Franziscus,-,Long,Catharina,-,Janck (Es gibt einen fünften Zeugen Franziscus Fischer, Zeugen 1-3 sind vom Bräutigam, 4-5 von der Braut, Zeuge 1: "Dus == Dominus", Zeuge 2: "Pronob. ac. Consultisimus") [1:<Franziscus Carolus,Horner1>,2:<Carolus Josephus,Mickusch,-,Pinnatoris#2>,3:<Andreas,Bachman3>,4:<Gotthardus,Pable4>]
+Iglau,08.02.,Joannes,-,Moderer,Elisabeth,-,Rauffeysen,W,W [1:<Antonius,Wessely1>,2:<Franziscus,Langfeldt2>,3:<Jacobus,Schüssler3>,4:<Christianus,Müller4>]
+Iglau,08.02.,Josephus,-,Huckauff,Maria,-,Polack [1:<Joannes,Krum1>,2:<Fraciscus,Huckauff2>,3:<Josephus,Pistauer3>,4:<Christophorus,Finck4>]
+Iglau,08.02.,Josephus,-,Thomas,Maria Elisabeth,-,Pabl (Zeuge 1,2: "Dus == Dominos") [1:<Carolus,Venino1>,2:<Augustinus,Neuman2>,3:<Andreas,Hampl3>,4:<Andreas,Schleim4>]
+Iglau,15.02.,Martinus,-,Krum,Anna Maria,Cullen (Zeuge 1: "D. == Dominus") [1:<Franziscus,Krenberger1>,2:<Franziscus,Friedl2>,3:<Ferdinandus,Pauspertl3>,4:<Luckas,Lull4>]
+Ebersdorf und Iglau,15.02.,Martinus,-,Madl,Maria,-,Pistauer [1:<Martinus,Grimshandl1>,2:<Martinus,Böm2>,3:<Philippus,Madl3>,4:<Mathias,Jancko4>]
+Iglau,15.02.,David,-,Dornbergl,Barbara,-,Pernhus [1:<Henrichus,Shleim1>,2:<Ignatius,Rephon2>,3:<Sebastianus,Mayer,4:<Joannes,Rebhon4>]
+Iglau,15.02.,Franziscus Bernardus,-,Krenberger,Maria Anna,-,Weinner (Bräutigam: "Pronobl. ac. Consultisimus Dus", Braut: "Nobili. ac. virtuosa", Zeuge 1,2,3: "Pronobilis Dus", Zeuge 4: "Dus == Dominus") [1:<Jacobus,Schneider1>,2:<Antonius,Zebo2>,3:<Martinus,Höffer3>,4:<Franziscus,Zebo4>]
+
 DP 308
 
-
+Ebersdorf,16.02.,Martinus,-,Stumer,Susanna,-,Mies [1:<Laurentius,Madl1>,2:<Augustinus,Silib2>,3:<Martinus,Krimshandl3>,4:<Mathias,Janko4>]
+Iglau,13.05.,Petrus Paulus,-,Patzol,Maria Catharina,-,Schwartz [1:<Josephus,Zebo,-,Pannifex1>,2:<Marcus,Hauenschildt2>,3:<Elias,Neubauer3>,4:<Franziscus,Alle4>]
+Iglau,13.05.,Wenceslaus,-,Rippa,Elisabeth,-,Samk# [1:<Tobias,Wonder1>,2:<Andreas,Schwartz2>,3:<Joannes,Greujatsch3>,4:<Andreas,Straus4>]
+Iglau,13.05.,Matthias,-,Proksch,Elisabeth,-,Schlegl,W,W [1:<Michael,Janizeck1>,2:<Paulus,Ulmann2>,3:<Mathias,Jancko3>,4:<Georgius,Politzer4>]
+Iglau,04.05.,Josephus,-,Schneider,Rosina,-,Böhm [1:<Jacobus,Schüssler1>,2:<Josephus,Pellich2>,3:<Petrus,Rössl3>,4:<Joannes,Hantschl4>]
+Birnbaumhof,11.05.,Wenceslaus,-,Neufingerl,Elisabeth,-,Müller [1:<Paulus,Hindra1>,2:<Joannes,Graijatsch#2>,3:<Joannes,Deltscher3>,4:<Laurentius,Prawentz4>]
+Iglau,13.05.,Franciscus Carolus,-,Streit,Maria Barbara,-,Körner,-,W (Der Bräutigam wird als "Dus" bezeichnet, die Braut war eine geborene Albrecht) [1:<Joannes,Schwartz1>,2:<Matthäus,Michale2>,3:<Josephus,Tütz3>]
+Iglau,26.05.,Franziscus Antonius,-,Riedl,Anna Barbara,-,Siegl (Zeuge 1,2,3: "Pronobl. ac. Consultisimus Dus", Zeuge 4: "Pronobl. D.") [1:<Joannes Carolus,Goschko,Saxenthal1>,2:<Franziscus,Wagner2>,3:<Franziscus,Predintzki3>,4:<Joannes,Hartl4>]
 
 DP 309
 
