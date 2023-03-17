@@ -8,6 +8,41 @@ rk
 
 1752
 
+DP 317
+
+
+
+DP 318
+
+Iglau,31.01.,Joannes Georgius,-,Weber,Barbara,-,App (Zeugen 1-4: "Dus == Dominus") [1:<Paulus,Cmierezka#1>,2:<Joachimus,Steyrer2>,3:<Ludovicus Eusebius,Weinner3>,4:<Joannes,Zach4>]
+Iglau,31.01.,Joannes Georgius,-,Shug,Maria Catharina,-,Überswasser,W [1:<Antonius,Pötzl1>,2:<Philippus,Brauneys2>,3:<Joannes Paulus,Schmidt3>,4:<Thomas,Schmillauer4>]
+Iglau,31.01.,Franziscus,-,Staudl,Regina,-,Neuhoffer,-,W [1:<Matthäus,Kirchner1>,2:<Matthäus,Kraupner2>,3:<Philippus,Jaich3>,4:<David,Hoffman4>]
+Iglau,31.01.,Jacobus,-,Miksche,Maria Magdalena,-,Hordt [1:<Franziscus,Zebo1>,2:<Josephus,Miksche2>,3:<Paulus,Gindera3>,4:<Norbertus,Hordt4>]
+Iglau,31.01.,Joannes,-,Weinner,Maria Elisabeth,Krönberger,W (Zeuge 3: "Dus == Dominus") [1:<Josephus,Hirschko1>,2:<Antonius,Tütz2>,3:<Joannes Georgius,Grassl3>,4:<Joannes Michael,Reindler4>]
+Iglau,01.02.,Martinus,-,Spury,Barbara,-,Eberhardtl [1:<Joannes,Holle1>,2:<Ignatius,Riedl2>,3:<Andreas,Schleim3>,4:<Franziscus,Clement4>]
+Iglau,06.02.,Josephus Antonius,-,Tütz,Anna Franzisca,-,Kampert (Zeugen 1,2: "Pronobilis ac. Consultisimus Dus", Zeuge 3: "Pronobilis Consultisimus Dus", Zeuge 4: "Dus == Dominus") [1:<Franziscus,Budinsky1>,2:<Leopoldus,Hartl2>,3:<Leopoldus,Baumberger3>,4:<Antonius,Milata4>]
+
+DP 319
+
+Iglau,07.02.,Johann Michael,-,Häussler,Anna Barbara,-,Springsfeld (Zeuge 3 ist als "Dus == Dominus" bezeichnet) [1:<Jacobus,Schüsler1>,2:<Josephus,Schwartz2>,3:<Jaachimus#,Steyrer3>,4:<Lucas,Schindler4>]
+Iglau,14.02.,Joannes Nepomucenus,-,Wesselly,Maria Elisabeth,-,Ruprecht [1:<Antonius,Oliva1>,2:<Joannes Pauly,Wodnianza#2>,3:<Joannes Georgius,Gubiczka3>,4:<Joannes Georgius,Böhm4>]
+Iglau,15.02.,Joannes,-,Bauman,Maria Barbaria,-,Haixner [1:<Josephus,Österreicher1>,2:<Andreas,Schleim2>,3:<Joannes Georgius,Gleisser3>,4:<Josephus,Benirschko4>]
+Iglau,24.02.,Joannes Henricus,-,Matzcy#,Joanna Elisabeth,-,Risenfelder (Zeuge 1: "Pre. D.", Zeugen 2,3,4: "D.") [1:<Leonardus,Peter1>,2:<Martinus,Weltz2>,3:<Josephus,Risenfelder3>,4:<Carolus,Pill#4>]
+Iglau,24.02.,Josephus,-,Hertzig,Catharina,-,Frantz [1:<Leopoldus,Pausberdl1>,2:<Josephus,Zehmeister#2>,3:<Josephus,Zebo3>,4:<Mathias,Long4>]
+Iglau,25.02.,Josephus,-,Politzer,Anna,-,Schwommenschneider#,W [1:<Georgius,Proksch1>,2:<Thomas,Nischkau2>,3:<Josephus,Simon3>,4:<Laurentius,Watzke4>]
+Iglau,01.05.,Andreas,-,Weber,Agnete,-,Taubenkorb (Zeuge 1: "Pronobl. ac. Consultisimus", Zeuge 2: "Excellentisimus Dus", Zeuge 4: "Dus == Dominus") [1:<Franciscus,Rab1>,2:<Franciscus,Wagner2>,3:<Antonius,Wecker3>,4:Joannes,Wagner4>]
+
+DP 320
+
+Iglau,01.05.,Ignatius,-,Hauer,Martha,-,Stoninger,-,W [1:<Philippus,Zerwitzer1>,2:<Josephus,Zebo2>,3:<Josephus,Alpers#3>,4:<Leopoldus,Pauspertl4>]
+Iglau,01.05.,Paulus Sebastianus,-,Heylman,Maria Agneta,-,Kuntz (Zeuge 2: "Pronobl.  ac. Consultisimus Dominus") [1:<Joannis,Kolischko1>,2:<Josephus,Mauretter#2>,3:<Leopoldus,Hartl3>,4:<Franziscus Josephus,Kübeck4>]
+Iglau,01.05.,Johannes Jacobus,-,Hauer,Maria Catharina,-,Körisch [1:<Franziscus,Krönberger1>,2:<Josephus,Zebo2>,3:<Franziscus,Neuman3>,4:<Augustinus,Politzer4>]
+Iglau,01.05.,Matthäus,-,Neuwirth,Maria,-,Schwartz [1:<Matthäus,Föllner1>,2:<Andreas,Folter2>,3:<Christophorus,Finck3>,4:<Joannes,Ruswurms4>]
+Iglau,13.05.,Jacobus,-,Nodler,Maria,-,Stro#er,W [1:<Mathias,Schüller1>,2:<Andreas,Schüller2>,3:<Josephus,Kürsch3>,<4:Joannes,Ruswurms4>]
+Iglau,15.05.,#,-,Hosper#,Maria Magdalena,-,Züttler,W (Zeuge 1: "# Dus", Zeuge 2: "# ac. Consultisimus Dus") [1:<Joanes Fridericus,de Sch#aus1>,2:<Franziscus Jeremias,Reutzer#2>,3:<Ignatius,Körber3>,4:<Josephus,Bellius#4>]
+Iglau,12.05.,Leonardus,-,Leinthaler,Maria,-,Holder,W [1:<Elias,Creutzberger1>,2:<Joannes Georgius,Grabler2>,3:<Jacobus,Schüsler3>,4:<Josephus,Kürsch4>]
+Iglau,19.05.,Martinus,-,Schaber,Rosina,-,Frid [1:<Andreas,Eugl1>,2:<Augustinus,Plath2>,3:<Laurentius,Rosenkrantz3>,4:<Martinus,Neuwirth4>]
+
 DP 321
 
 Iglau,19.06.,Franz Alexander,-,Jemler,Anna Maria,-,Pongratz (Bräutigam: "Pronobl. ac. generosus Dus", Braut: "Pronobl. ac. virtuosa", Zeugen 1,2: "Pronobl. Dus", Zeuge 3: "Pronobl. ac. Consultisimus Dus", Zeuge 4: "Dus = Dominus") [1:<Leopoldus Thomas,Baumberger1>,2:<Paulus,Lovienizka#2>,3:<Georgius Antonius,Neuman3>,4:<Carolus,Wenino4>]
