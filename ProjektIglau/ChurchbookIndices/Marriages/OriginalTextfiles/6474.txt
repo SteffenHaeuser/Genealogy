@@ -6,11 +6,24 @@ St.Jacob
 rk
 6474 - 1708-1764
 
-1751
+1750
+
+DP 304
+
+
 
 DP 305
 
+Iglau,23.11.,Paulus,-,Kropp,Catharina,Widernitz,W [1:<Joann Michael,Sturm1>,2:<Eustabius,Kreissl2>,3:<Josephus,Shultz3>,4:<Franziscus,Krum4>]
+Iglau,23.11.,Joannes Michael,-,Hanusch,Anna Paulina,-,Kolischko,W (Zeuge 1: "Pronobl. ac. Consultisimus Dus", Zeuge 3,4: "Dus == Dominus") [1:<Franziscus,Wagner1>,2:<Josephus,Erberstein2>,3:<Josephus,Schwartzman3>,4:<Joannes,Hartl4>]
+Iglau,25.11.,Joannes Michael,-,Ambros,Catharina Barbara,-,Gerzabek (Zeuge 1,3: "Pro. et Consultisimus Dus", Zeuge 2: "Dus == Dominus", Zeuge 4: "Pro. D.") [1:<Franziscus,Raab1>,2:<Franziscus,Cebo2>,4:<Bernardus,Euskanek#3>,4:<Antonius,Cebo4>]
 
+1751
+
+Iglau,11.01.,Joannes,-,Weinner,Theresia,-,Worl,W (Zeuge 1,2: "Dus = Dominus") [1:<Franziscus,Horner1>,2:<Carolus,Püll2>,3:<Gottefridus,Foschank3>,4:<Augustinus,Neumann4>]
+Iglau,18.01.,Wenceslaus,-,Mokreg,Susanna,Jacob,Chmelarz [1:<Joannes Michael,Hartl1>,2:<Martinus,Popelka2>,3:<Mathias,Schlechtizkey3>,4:<Joannes,Mach4>]
+Iglau,18.01.,Laurentius,Joannes,Maurer,Anna Elisabeth,Georg,Plaschke (Berufe Pannitonhoris#/Textoris) [1:<Josephus,Zebo1>,2:<Ignatius,Khärber2>,3:<Godefridus,Forchan3>,4:<Michael,Sturm4>]
+Iglau,18.01.,Joannes,-,Ebert,Magdalena,-,Drösler (Berufe Soldat/-, Bräutigam: "Generosus Dus, Musicus ab Inclyto Regimine Androsi", Zeuge 1: "Pronobl. ac. Consultisimus Dus", Zeuge 3: "D. = Dominus") [1:<Joannes Carolus,Goschko,Sachsenthal1>,2:<Casparus,Dropp2>,3:<Philippus,Zerwitzer3>,4:<Joannes,Tost4>]
 
 DP 306
 
