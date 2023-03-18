@@ -8,9 +8,20 @@ rk
 
 1750
 
+DP 298
+
+
+
 DP 299
 
-
+Iglau,26.01.,Antonius,-,Miksche,Catharina,-,Brosch [1:<Franziscus,Brosch1>,2:<Joephus,Forschtner2>,3:<Ignatius,Körber3>,4:<Franziscus,Senrath#4>]
+Iglau,26.01.,Josephus,-,Mischinger,Anna,-,Popelka [1:<Laurentius,Kirchner1>,2:<Joannes,Bauer2>,3:<Martinus,Kundt3>,4:<Mathias,Frey4>]
+Iglau,01.02.,Leopoldus,-,Buchwaldt,Anna Maria,-,Schaber [1:<Caspar,Kunschack1>,2:<Paulus,Schüller2>,3:<Mathias,Witaschek3>,4:<Joannes,Sütta4>]
+Iglau,02.02.,Joannes,-,Stirtzer,Maria,-,Hubitzky,-,W [1:<Joannes,Neuwürth1>,2:<Laurentius,Polisska2>,3:<Joannes,Long3>,4:<Joannes,Krimhotz#4>]
+Iglau,02.02.,Augustinus,-,Schmidt,Catharina,-,Presl,W (Zeuge 1: "Dus == Dominus") [1:<Joannes Georgius,Grassl1>,2:<Franziscus,Krum2>,3:<Franziscus,Handlos3>,4:<Joann Henricus,Pürger4>]
+Iglau,02.02.,Bernard Joannes,-,Czokanekh#,Maria Josepha,-,Zebo (Bräutigam: "Pronobl. ac. Consultisimus Dus, Senator Iglensis#, Senatore Igl.", Braut "Pronobl. ac. virtuosa", Zeuge 1: "Pei# Austri# Dus, ab Ehrihalnis Actualis Capitanus Districtus Iglvinsis", Zeuge 2: "Pronobl. ac. Consultisimus Dus", Zeuge3: Pri. Austris Dus, de Priuttinau#", Zeuge 4: "Pronobl. ac. Consultisimus Dua") [1:<Josephus,Kornritter1>,2:<Carolus,Miksche2,-,Primator>,3:<Josephus,Zebo3>,4:<Franziscus,Budinski4>]
+Iglau,09.02.,Antonius,-,Neumann,Maria Theresia,-,Miksche,W [1:<Josephus,Raab1>,2:<Ludovicus,Köttner2>,3:<Augustinus,Eugl3>,4:<Joannes,Krum4>]
+Iglau,09.02.,Josephus,-,Pater,Maria,-,Hök [1:<Georgius,Sitta1>,2:<Thomas,August2>.3:<Norbertus,Krichenbauer3>,4:<Josephus,Wauser#4>]
 
 DP 300
 
