@@ -65,7 +65,7 @@ Iglau,27.04.,Franziscus,-,Wadhoffe,Rosalia,-,Malendtschperger (Zeuge 1,3,4: "D. 
 Iglau,27.04.,Sebastianus,-,Kolb,Rosina,-,Mayfort,-,W [1:<Joannes,Schreckeysen1>,2:<Andreas,Rinagl2>,3:<Adamus,Reindl3>,4:<Joannes,Schüb4>]
 Iglau,11.05.,Mathias,-,Nosseck,Maria Theresia,Lull [1:<Wenceslaus,Hofnyssl1>,2:<Antonius,Oliwa2>,3:<Chrsitianus,Hochwasser3>,4:<Joannes,Horant#4>]
 Iglau,26.05.,Martinus,-,Schwartz,Anna,-,Neubauer [1:<Augustinus,Teltzer1>,2:<Martinus,Holtzbauer2>,3:<Augustinuns,Oberenner3>,4:<Josephus,Heibauer4>]
-Iglau,31.05.,Vincentus,-,Ruppert,Joanna,-,Klintz (Berufe Soldat/-, Bräutigam: "Miles ab inclito Regime Leopoldi Daum", Zeuge 4: "Milites ab eodam Regime") [1:<Josephus,-,Petzl1>,2:<Jacbus,Kaul2>,3:<Joannes,Kulscher3>,4:<Antonius,Mutter4>]
+Iglau,31.05.,Vincentus,-,Ruppert,Joanna,-,Klintz (Berufe Soldat/-, Bräutigam: "Miles ab inclito Regime Leopoldi Daum", Zeuge 4: "Milites ab eodam Regime") [1:<Josephus,Petzl1>,2:<Jacbus,Kaul2>,3:<Joannes,Kulscher3>,4:<Antonius,Mutter4>]
 Iglau, 02.06.,Franziscus,-,Sitka,Maria,-,Röder [1:<Joann Michael,Sturm1>,2:<Joannes,Thoma2>,3:<Gregorius,Neubauer3>,4:<Georgius,Röder4>]
 Iglau,02.06.,Jacobus,-,Kunradt,Rosina,Ramowschki [1:<Mathias,Krasel1>,2:<Laurentius,Stroy#2>,3:<Mathias,Galli3>,4:<Laurentius,Dvorzak4>]
 Iglau,08.06.,Franziscus,-,Haisler,Dorothea,Graus [1:<Ferdinand,Pausbrottl1>,2:<Josephus,Richter2>,3:<Joannes,Richter3>,4:<Franziscus,Clemendt4>]
