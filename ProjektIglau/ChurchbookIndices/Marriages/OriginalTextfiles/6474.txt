@@ -1,4 +1,4 @@
-Böhmen
+Mähren
 Austria
 Hochzeiten
 Iglau
@@ -548,7 +548,7 @@ Iglau,28.10.,Franz,Johann Paul,Schirhackl,Johanna Barbara,Johann Paul,Schmidt
 Iglau,29.10.,Laurenz,-,Gilch,Maria Josepha,Ignaz,Hüber
 Kleinstunitz und Haintzendorf,29.10.,Matthäus,Johann,Stutz,Rosina,Peter,Puls (Berufe -/Bauer, Der Vater des Bräutigams war Bauer)
 Iglau,4.11.,Andreas,Johann,Hofbauer,Johanna,Georg,Güsel
-4.11.,Thomas,Vitus,Honzlik,Catharina,Wenceslaus,Hawrenek#
+Iglau,4.11.,Thomas,Vitus,Honzlik,Catharina,Wenceslaus,Hawrenek#
 
 DP 345
 
@@ -665,7 +665,7 @@ DP 357
 
 Iglau,20.10.,Joseph,-,Lackenbauer#,Maria Barbara,Philipp,Michl
 Iglau,20.10.,Gottfried,Ferdinand,Pausgertl,Elisabeth Barbara,Gregor,Schiller
-Chalibortz# und Jamnay#,21.10.,Martin,Pleschbatsch#,Elisabeth,Joseph,Polack
+Chalibortz# und Jamnay#,21.10.,Martin,-,Pleschbatsch#,Elisabeth,Joseph,Polack
 Wilan# und Iglau,21.10.,Jacob,Jacob,Ponstingl,Elisabeth,Andreas,Sobotka
 Pistau und Obergoss,21.10.,Joseph,Joseph,Neumann,Anna Rosina,Matthäus,Wondry#
 Posowitz und Dodrentz#,18.10.,Philipp,Wenceslaus,Angel,Anna,Thomas,Inwald
@@ -677,7 +677,7 @@ Obergossau und Iglau,04.11.,Matthäus,Matthäus,Schüller,Rosina,Georg,Ludl
 Kleinstunitz und Gossau,4.11.,Georg,Martin,Neubauer,Anna,Matthäus,Schwartz
 Hirschberg in Schlesien und Iglau,10.11.,Anton Joseph,Anton Joseph,Tamann#,Elisabeth,Johann,Gottrolf#,-,W
 Schwonau und Iglau,10.11.,Franz,-,Otto,Anna,Johann Georg,Drösner,W
-11.11.,Joseph,Johann,Hubatzak,Johanna,Joseph,Leipold
+Iglau,11.11.,Joseph,Johann,Hubatzak,Johanna,Joseph,Leipold
 
 DP 359
 
@@ -690,7 +690,7 @@ Boronau und Ebersdorf,24.11.,Thomas,Johann,Mucha,Anna,Vitus,Goldschmidt
 
 DP 360
 
-Reichstadt und Carlswaldt,25.11.,Johann Georg,Johann,Böhm,Anna Barbara,-
+Reichstadt und Carlswaldt,25.11.,Johann Georg,Johann,Böhm,Anna Barbara,-,-
 Iglau und Ebersdorf,25.11.,Andreas,-,Haunoldt#,Maria,Augustin,Silipp,W
 Wodian in Böhmen und Iglau,27.11.,Anton,Melchior,Allesch,Catharina,Anton,Mackowitz
 
@@ -698,7 +698,7 @@ Wodian in Böhmen und Iglau,27.11.,Anton,Melchior,Allesch,Catharina,Anton,Mackow
 
 Iglau,12.01.,Johann,David,Grün,Anna Regina,Augustin,Caspar
 Iglau,12.01.,Franz,-,Tatzer#,Anna Regina,Johann,Güss#
-13.01.,Philipp,Matthäus,Lang,Johanna,Johann Conrad,Schüller#
+Iglau,13.01.,Philipp,Matthäus,Lang,Johanna,Johann Conrad,Schüller#
 
 DP 361
 
@@ -1661,4 +1661,3 @@ Iglau,18.10.,Paul,Johann,Gleischner,Anna,Gregor,Schnöller (Anna ist aus Haintze
 Iglau,18.10.,Mathias,-,Schüller,Anna,Mathias,Gleischner,W (Berufe Arbeiter/-)(Anna ist aus Dürr#)
 Iglau,23.10.,Paul,Paul,Loch,Catharina,Andreas,Wondre (Berufe -/-, Der Vater des Bräutigams war Arbeiter, Catharina ist aus Altenberg)
 Iglau,25.10.,Mathias,Mathias,Lang,Maria,Mathias,Straus (Der Vater des Bräutigams war Arbeiter)
-
