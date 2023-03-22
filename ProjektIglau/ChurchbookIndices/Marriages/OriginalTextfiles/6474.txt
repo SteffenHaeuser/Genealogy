@@ -395,7 +395,7 @@ Iglau,21.05.,Joseph,-,Poltzer,Johanna,-,Schlei#,-,W [1:<Johann Georg,#iner1>,2:<
 Iglau,21.05.,Joseph,-,Smollenpach,Dorothea,-,Zäch [1:<Leonard,Peter1>,2:<Anselm,Neumann2>,3:<Joseph,Österreicher3>,4:<Norbert,Prauneys4>]
 Iglau,22.05.,Laurenz Philipp,-,Leonberger,Maria Anna Leopoldina,-,Pauerberger (Berufe Doktor der Medizin/-) [1:<Ferdinand,Pangratz1>,2:<Johann Georg,Neumann2>,3:<Leonhard,Peter3>,4:<Leopold,Harl#4>]
 Iglau,28.05.,Heinrich,-,Weber,Catharina,-,Wenes# [1:<Jacob,Kugler1>,2:<Karl,Linhardt2>,3:<Joseph,Schultz3>,4:<Johann Michael,Häussler4>]
-Iglau 04.06.,Mathias,-,Perdinansky,Maria Anna,-,Siegl (Berufe Soldat/-) [1:<Alexander,Schüssler1>,2:<Georg,Schugo2,-,Soldat>,3:<Hermann,Folter3>,4:<Mathias,Köpernick4>]
+Iglau,04.06.,Mathias,-,Perdinansky,Maria Anna,-,Siegl (Berufe Soldat/-) [1:<Alexander,Schüssler1>,2:<Georg,Schugo2,-,Soldat>,3:<Hermann,Folter3>,4:<Mathias,Köpernick4>]
 Iglau,25.06.,Martin,-,Prackersch,Anna,-,Folter [1:<Wenceslaus,Kauth1>,2:<Franz,Motschka2>,3:<Gregor,Grilch#3>,4:<Andreas,Folter4>]
 Iglau,02.07.,Bernard,-,Schmilauer,Veronica,-,Spatt [1:<Joseph,Pistauer1>,2:<Johann,Schmilauer2>,3:<Matthäus,Steffl3>,4:<Anton,Lang4>]
 
@@ -433,7 +433,7 @@ Iglau,16.10.,Joseph,-,Reblan,-,-,- [1:<Johann,Lerch1>,2:<Joseph,Linhardt2>,3:<La
 Iglau, 16.10.,Wenceslaus,-,Gerzabeck,Elisabeth,-,Matel [1:<Thomas,Singer1>,2:<Matthäus,Sotzeck2>,3:<Martin,Grünschandt#3>,4:<Martin,Böhm4>]
 Iglau,16.10.,Joseph,-,Hawle,Catharina,-,Wonder [1:<Martin,Achatz1>,2:<Johann,Frantz2>, 3:<Mathias,Höffen3>, 4:<Martin,Neuwirth4>]
 Iglau,22.10.,Johann,-,Frey,Maria,-,Krumm [1:<Joseph,Kuntschak1>,2:<Andreas, Folter2>,3:<Joseph,Wucher3>,4:<Anton,Kuchner4>]
-22.10.,Daniel,-,Babelka,Maria,-,Puls [1:<Johann Anton,Siegl1>,2:<Wenceslaus,Kuntschak2>,3:<Joseph,Politzer3>,4:<Franz,Siegl4>]
+Iglau,22.10.,Daniel,-,Babelka,Maria,-,Puls [1:<Johann Anton,Siegl1>,2:<Wenceslaus,Kuntschak2>,3:<Joseph,Politzer3>,4:<Franz,Siegl4>]
 
 DP 334
 
@@ -893,12 +893,12 @@ DP 381
 
 Iglau,12.09.,Joseph,Anton,Niemetz,Maria Susanna,Johann Georg,Güsweyer
 Iglau,19.09.,Joseph,Joseph,Zodl,Maria Elisabeth,-,Müksch
-Pfauendorf und Iglau,25.09.,Philipp,Vitus,Madl,Susanna,Umbshaus
+Pfauendorf und Iglau,25.09.,Philipp,Vitus,Madl,Susanna,-,Umbshaus
 Mikldorf# und Luckau,26.09.,Jacob,Matthäus,Krasl#,Anna,Martin,Schindler
 Iglau,3.10.,Johann,-,Heintz,Apollonia,Laurenz,Schorrer#,W,W
 Iglau,3.10.,Martin,-,Schwamm#höffer,Susanna,Martin,Czeppari#,W,W
 Iglau,4.10.,Joseph,Matthäus,Springinsfeldt,Magdalena,Paul,Kirchner
-4.10.,Bartholomäus,-,Mick#,Apollonia,Franz,Swoboda,W,W
+Iglau,4.10.,Bartholomäus,-,Mick#,Apollonia,Franz,Swoboda,W,W
 
 DP 382
 
@@ -1371,11 +1371,11 @@ Iglau,13.7.,Jacob,-,Steinbauer,Catharina,Peter Paul,Weis,W,W
 Iglau,13.7.,Anton,Johann,Lerch,Veronica,Johann,Pudall
 Iglau,13.7.,Mathias,-,Güttig,Anna,Georg,Höffer,W
 Iglau,13.7.,Joseph,-,Mauretter#,Eleonora,Philipp,Lischka,W
-Iglau,13.7.,Franz Anton,-,Schwartz#,Elisabeth,Doleczal (Braut aus Boczdecy#)
+Iglau,13.7.,Franz Anton,-,Schwartz#,Elisabeth,-,Doleczal (Braut aus Boczdecy#)
 
 DP 431
 
-Iglau,20.7.,Georg,Matthäus.Hable#,Maria Elisabeth,Mathias,Frühauf
+Iglau,20.7.,Georg,Matthäus,Hable#,Maria Elisabeth,Mathias,Frühauf
 Iglau,3.8.,Andreas,-,Lieb,-,Jacob,Höfer
 Iglau,10.8.,Franz,Thomas,Rambousek,Elisabeth,Franz,Syckora# (Bräutigam aus Brusnick#)
 Iglau,17.8.,Franz,Karl,Kuffner,Maria Barbara,Joseph,Neuwirth
@@ -1477,7 +1477,7 @@ DP 440
 
 Obergoss,11.5.,Martin,Laurenz,Frantz,Maria,Augustin,Wondre (Martin aus Gürzings, Maria aus Obergoss)
 Iglau,24.5.,Wenceslaus,-,Paduwe#,Anna,Georg,Anton
-Iglau,24.5.,Anton Joseph,Neumann,Anna,Thomas Johann,Cziack#
+Iglau,24.5.,Anton Joseph,-,Neumann,Anna,Thomas Johann,Cziack#
 Haintzendorf,25.5.,Matthäus,Martin,Reltscher,Maria,Johann,Schneller
 Iglau,31.5.,Johann Michael,Philipp,Ohn,Anna,-,Staudl#
 Iglau,1.6.,Valentin,-,Mongob#,Maria Regina,Johann Jacob#,Siegl
