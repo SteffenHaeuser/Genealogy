@@ -60,7 +60,7 @@ DP 4
 29.1.,Johann Joseph,Wenceslaus,Kunschack,Catharina
 2.2.,Maria Theresia,Paul,Friedl,Rosina
 2.2.,Johann Baptista,-,-,Maria U: Kind von Maria Offenparthl#
-3.2.,Johann Nepomuck Leopold Ferdinand,Johann Adam Friedrich,Edler de Werner,Anna Maria Franziska (Mutter ist geborene Bosch)
+3.2.,Johann Nepomuck Leopold Ferdinand,Johann Adam Friedrich,Edler de Werner,Anna Maria Franziska U: Kind von Amma Maria Franziska Bosch
 4.2.,Antonia Veronica Apollonia,Anton,Riedl,Rosina Catharina
 4.2.,Mathias Joseph,Ignatz,Meixner,Maria Rosina
 5.2.,Franz Xaver Joseph,-,-,Ursula U: Kind von Ursula Petter#
@@ -230,7 +230,7 @@ Ebersdorf,15.6.,Elisabeth,Johann Georg,Lobitsch,Regina
 Iglau,18.6.,Joseph,-,-,Johanna U: Kind von Johanna Wondrak#
 Iglau,19.6.,Maria Anna,Joachim,Andraschek#,Anona# Lucia (Beruf Bäcker)
 Iglau,20.6.,Johann Baptista,Anton,Siegl,Maria Elisabeth
-Iglau,23.6.,Johann Paul,Thomas,Patre,Susanna (beruf Gurarius)
+Iglau,23.6.,Johann Paul,Thomas,Patre,Susanna (Beruf Gurarius)
 Gossau,24.6.,Maria Magdalena,Caspar,Puls,Anna
 Iglau,24.6.,Maria Johanna,Johann Anton,Riesenfelder,Antonia
 Iglau,1.7.,Anna,Joseph,Poliwka,Anna (Beruf Gurarius)
@@ -397,7 +397,7 @@ Iglau,7.11.,Martin und Leopold,-,-,Anna U: Kind von Anna All#
 DP 22
 
 Iglau,8.11.,Franz Xaver Gottfried Martin,Bernhard,Czikunek#,Maria Josepha
-Iglau,8.11.,Maria Catharina,-,-,Maria Catharina (Named er Mutter: Onsorg)
+Iglau,8.11.,Maria Catharina,-,-,Maria Catharina U: Kind von Maria Catharina Onsorg
 Iglau,9.11.,Leopold,Johann,Rinagl,Anna Regina
 Iglau,9.11.,Martin,Ferdinand,Mückler,Maria Elisabeth (Beruf Incola)
 Iglau,11.11.,Martin,Dominik,Kuntz,Theresia
@@ -563,7 +563,7 @@ Iglau,20.3.,Joseph,Matthäus,Lang,Susanna (Beruf Fleischer)
 Iglau,21.3.,Andreas Franz,Andreas,Pausgertl#,Eva
 Iglau,21.3.,Franz de Paula,Matthäus,Michal,Maria Judith (Beruf Sacristan#)
 Iglau,22.3.,Franziska de Paula,Franz,Ruzeck#,Anna (Beruf Braxator)
-Iglau,23.3.,Maria Catharina,Martin,Kurzweil,Catharina (BEruf Incola)
+Iglau,23.3.,Maria Catharina,Martin,Kurzweil,Catharina (Beruf Incola)
 
 DP 32
 
