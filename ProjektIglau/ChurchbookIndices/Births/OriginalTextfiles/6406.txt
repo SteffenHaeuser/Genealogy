@@ -1,3 +1,12 @@
+Mähren
+Austria
+Taufen
+Iglau
+St.Jacob
+rk
+6406 - 1757-1764
+Steffen Häuser
+
 1757
 
 DP 2
@@ -27,7 +36,7 @@ DP 3
 12.1.,Maria,Jacob,Plasch#,Maria (Beruf Gurarius)
 13.1.,Maria Veronica,Martin,Plaschko,Catharina
 13.1.,Ernst Vinzenz Maximilian,Johann,Englisch,Theresia
-13.1.,Maria,-,-,Anna Maria (Name der Mutter: Lobgesang#)
+13.1.,Maria,-,-,Anna Maria U: Kind von Anna Maria Lobgesang#
 15.1.,Johann Paul,Johann,Seidel,Rosina (Beruf Gurarius)
 16.1.,Anna Rosina,Johann,Krumm#,Maria (Beruf Arbeiter)
 17.1.,Maria Apollonia,Jacob,Czasny,Maria Catharina (Beruf Incola)
@@ -35,7 +44,7 @@ DP 3
 18.1.,Agnes,Gottfried,Roschanck#,Eleonora
 Obergoss,20.1.,Mathias,Mathias,Schüller,Rosina
 22.1.,Paul Joseph,Leopold,Finsterwald,Anna Theresia (Beruf Incola)
-22.1.,Maria Veronica,-,-,Veronica (Name der Mutter: Schöffer)
+22.1.,Maria Veronica,-,-,Veronica U: Kind von Veronica Schöffer
 22.1.,Johann Paul,Johann,Neuwirth,Maria (Beruf Arbeiter)
 22.1.,Maria Dorothea,Philipp,Wodiancka,Elisabeth
 23.1.,Johann Joseph,Jacob,Müksche,Maria Magdalena (Beruf Incola)
@@ -46,15 +55,15 @@ Obergoss,20.1.,Mathias,Mathias,Schüller,Rosina
 DP 4
 
 25.1.,Apollonia,Franz,Huckauf,Maria (Beruf Arbeiter)
-28.1.,Joseph Karl,-,-,Catharina (Name der Mutter: Schirschabeck)
+28.1.,Joseph Karl,-,-,Catharina U: Kind von Catharina Schirschabeck
 28.1.,Maria Dorothea,Joseph,Benirschke,Maria Catharina
 29.1.,Johann Joseph,Wenceslaus,Kunschack,Catharina
 2.2.,Maria Theresia,Paul,Friedl,Rosina
-2.2.,Johann Baptista,-,-,Maria (Name der Mutter: Offenparthl#)
+2.2.,Johann Baptista,-,-,Maria U: Kind von Maria Offenparthl#
 3.2.,Johann Nepomuck Leopold Ferdinand,Johann Adam Friedrich,Edler de Werner,Anna Maria Franziska (Mutter ist geborene Bosch)
 4.2.,Antonia Veronica Apollonia,Anton,Riedl,Rosina Catharina
 4.2.,Mathias Joseph,Ignatz,Meixner,Maria Rosina
-5.2.,Franz Xaver Joseph,-,-,Ursula (Name der Mutter: Petter#)
+5.2.,Franz Xaver Joseph,-,-,Ursula U: Kind von Ursula Petter#
 5.2.,Mathias,Georg,Siegl,Maria (Beruf Incola)
 8.2.,Regina,Georg,Chernitz,Maria (Beruf Incola)
 10.2.,Maria Thecla Johanna Nepomucina Anna,Joseph,Schwartzmann,Anna
@@ -73,7 +82,7 @@ DP 5
 18.2.,Mathias Joseph,-,-,-
 19.2.,Maria Catharina,Martin,Rinogl,Anna Catharina (Beruf Incola)
 21.2.,Maria Catharina,Andreas,Schoffbaur#,Johanna (Beruf Incola)
-22.2.,Maria Catharina,-,-,Apollonia (Name der Mutter: Puls#)
+22.2.,Maria Catharina,-,-,Apollonia U: Kind von Apollonia Puls#
 22.2.,Maria Josepha,Franz,Wachhoffner,Rosalia
 24.2.,Maria Josepha Walpurga,Laurenz,Gülch,Maria Josepha
 24.2.,Regina,Georg,Grassl,Catharina (Beruf Arbeiter)
@@ -85,18 +94,18 @@ DP 5
 
 DP 6
 
-Iglau,27.2.,Maria Josepha,-,-,Anna Maria (Name der Mutter: Schmid)
+Iglau,27.2.,Maria Josepha,-,-,Anna Maria U: Kind von Anna Maria Schmid
 Iglau,27.2.,Johann Joseph,Wenceslaus,Hadrawa,Eleonora
 Iglau,28.2.,Joseph Grillus,Johann Georg,Augustin,Barbara (Beruf Gärtner)
 Iglau,28.2.,Joseph Leopold,-,-,Rosina,Hordt#
-Iglau,28.2.,Joseph Jacob#,-,-,Anna Rosina (Name der Mutter: Prawentz)
+Iglau,28.2.,Joseph Jacob#,-,-,Anna Rosina U: Kind von Anna Rosina Prawentz
 Iglau,1.3.,Maria Franziska Romana,Philipp,Hauer,Anna Maria (Beruf Incola)
 Iglau,3.3.,Joseph,Franz,Grobler,Theresia
 Iglau,4.3.,Maria Elisabeth,Joseph,Wuchner,Anna (Beruf Schneider)
-Iglau,4.3.,Joseph,-,-,Elisabeth (Name der Mutter: Gört#)
+Iglau,4.3.,Joseph,-,-,Elisabeth U: Kind von Elisabeth Gört#
 Iglau,5.3.,Joseph Vinzenz,Franz,Ratz,Maria Apollonia (Beruf Incola)
 Iglau,6.3.,Maria Elisabeth,Martin,Fürst,Anna (Beruf Arbeiter)
-Iglau,6.3.,Maria Elisabeth Thecla,-,-,Elisabeth (Name der Mutter: Winckler)
+Iglau,6.3.,Maria Elisabeth Thecla,-,-,Elisabeth U: Kind von Elisabeth Winckler
 Iglau,7.3.,Joseph,Johann,Hordt#,Regina (Beruf Gurarius)
 Kleinstunitz#,7.3.,Joseph,Martin,Ober#,Catharina
 Iglau,7.3.,Joseph,Joseph,Neumann,Johanna
@@ -129,10 +138,10 @@ DP 8
 
 Iglau,1.4.,Catharina S#,Laurenz,Krojutsch#,Rosina (Beruf Arbeiter)
 Iglau,2.4.,Johann Nepomuck Vinzenz,Franz,Neumann,Eleonora
-Iglau,2.4.,Franz Vinzenz,-,-,Maria Elisabeth (Name der Mutter: Mütt#)
-Iglau,3.4.,Maria Theresia,-,-,Regina (Name der Mutter: Lukschander#)
+Iglau,2.4.,Franz Vinzenz,-,-,Maria Elisabeth U: Kind von Maria Elisabeth Mütt#
+Iglau,3.4.,Maria Theresia,-,-,Regina U: Kind von Regina Lukschander#
 Iglau,4.4.,Anna Maria,Johann,Lukschander#,Maria
-Iglau,5.4.,Vinzenz,-,-,Rosina (Name der Mutter: Polack)
+Iglau,5.4.,Vinzenz,-,-,Rosina U: Kind von Rosina Polack
 Iglau,6.4.,Maria Catharina,Johann Georg,Krziak#,Maria Catharina (Beruf Telonarius)
 Iglau,7.4.,Anna Maria und Maria Catharina,Joseph,Pentl#,Catharina
 Iglau,7.4.,Johann Georg,Anton,Hondl#,Maria (Beruf Arbeiter)
@@ -185,13 +194,13 @@ Iglau,17.5.,Anna Maria,Johann,Habel,Rosina (Beruf Arbeiter)
 Iglau,18.5.,Maria Anna,Andreas,Gregor,Barbara
 Iglau,19.5.,Johanna Anna,Franz,Schwoboda,Maria Catharina (Beruf Incola)
 Iglau,21.5.,Maria Catharina Anna,Johann Joseph,Schneider,Anna Theresia
-Iglau,22.5.,Johann Nepomuck Norbert,-,-,Elisabeth (Name der Mutter: Mücksche#)
+Iglau,22.5.,Johann Nepomuck Norbert,-,-,Elisabeth U: Kind von Elisabeth Mücksche#
 Iglau,22.5.,Johanna Regina,Mathias,Eugl,Anna Catharina (Beruf Müller)
 
 DP 11
 
 Gossau,22.5.,Anna Johanna,Augustin,Töltscher#,Regina
-Iglau,23.5.,Anton de Padua,Franz Neumann,Barbara
+Iglau,23.5.,Anton de Padua,Franz,Neumann,Barbara
 Iglau,26.5.,Johann Baptista,Michael,Mücksche,Rosina (Beruf Incola)
 Iglau,27.5.,Johann Aloys,Franz,Matzner,Apollonia
 Altenberg,27.5.,Maria Antonia Thecla,Joseph,Höller,Elisabeth
@@ -214,11 +223,11 @@ Iglau,8.6.,Anton Vinzenz Eusebius,Johann Michael,Weiner,Anna Maria
 Iglau,8.6.,Anton Norbert,Geograph#,Peffni#,Maria Catharina
 Iglau,9.6.,Anna Maria,Andreas,Pacher,Barbara (Beruf Arbeiter)
 Iglau,11.6.,Johann Franz,Johann Franz,Augustin,Maria Elisabeth (Beruf Gärtner)
-Iglau,12.6.,Anton,-,-,Maria Catharina (Name der Mutter: Sittkin#)
+Iglau,12.6.,Anton,-,-,Maria Catharina U: Kind von Maria Catharina Sittkin#
 Iglau,12.6.,Johann Bernhard,Andreas,Durchhalter,Maria (Beruf Gurarius)
 Iglau,12.6.,Maria Theresia,Joseph,Krochen#,Maria Catharina (Beruf Incola)
 Ebersdorf,15.6.,Elisabeth,Johann Georg,Lobitsch,Regina
-Iglau,18.6.,Joseph,-,-,Johanna (Name der Mutter: Wondrak#)
+Iglau,18.6.,Joseph,-,-,Johanna U: Kind von Johanna Wondrak#
 Iglau,19.6.,Maria Anna,Joachim,Andraschek#,Anona# Lucia (Beruf Bäcker)
 Iglau,20.6.,Johann Baptista,Anton,Siegl,Maria Elisabeth
 Iglau,23.6.,Johann Paul,Thomas,Patre,Susanna (beruf Gurarius)
@@ -231,7 +240,7 @@ DP 13
 
 Iglau,2.7.,Maria,Johann,Grauhans,Anna (Beruf Incola)
 Iglau,6.7.,Maria Anna Margaretha,Mathias,Korrnutz#,Elisabeth
-Iglau,6.7.,Ignatz Jacob,-,-,Catharina (Name der Mutter: Wanger)
+Iglau,6.7.,Ignatz Jacob,-,-,Catharina U: Kind von Catharina Wanger
 Ebersdorf,6.7.,Laurenz,Georg,Küttler,Catharina
 Obergoss,7.7.,Johann,Augustin,Pader,Maria
 Iglau,12.7.,Anna Maria Theresia,Christoph,Segner,Anna Maria
@@ -241,7 +250,7 @@ Iglau,17.7.,Anna Maria Magdalena,Andreas,Weber,Agnes
 Gossau,17.7.,Maria Magdalena,Anton,Reder,Rosina
 Iglau,18.7.,Anna Elisabeth,Ignatz,Alitzer,Elisabeth
 Iglau,18.7.,Franz de Paula Eusebius,Johann Michael,Hanusch,Anna Paulina
-Iglau,18.7.,Maria Magdalena,-,-,Maria Catharina (Name der Mutter: Engelwützke#)
+Iglau,18.7.,Maria Magdalena,-,-,Maria Catharina U: Kind von Maria Catharina Engelwützke#
 Iglau,19.7.,Jacob Franz Xaver,Joseph,Grönmüller,Catharina
 Iglau,21.7.,Maria Magdalena,Johann,Frey,Maria (Beruf Incola)
 Kleinstunitz,22.7.,Jacob,Wenceslaus,Dvorcak,Maria
@@ -253,7 +262,7 @@ Iglau,24.7.,Jacob Joseph,Ignatz,Finsterwald,Monica
 Ebersdorf,25.7.,Elisabeth,Laurenz,Stummer,Susanna
 Kleinstunitz,25.7.,Jacob,Johann,Neubauer,Anna
 Iglau,26.7.,Anna Maria,Jacob,Swoboda,Rosalia
-Iglau,27.7.,Laurenz Christian,Catharina (Name der Mutter: Ludl#)
+Iglau,27.7.,Laurenz Christian,-,-,Catharina U: Kind von Catharina Ludl
 Iglau,27.7.,Ignatz Dominik,Johann,Müller,Maria Anna
 Iglau,27.7.,Ignatz,Anton,Pendl,Anna (Beruf Gurarius)
 Iglau,29.7.,Ignatz Franz,Gregor,Senrog#,Elisabeth (Beruf Soldat)
@@ -276,7 +285,7 @@ Kleinstunitz,7.8.,Laurenz,Johann,Neubauer,Catharina
 Iglau,7.8.,Laurenz,Martin,Durchhalter,Maria Catharina (Beruf Arbeiter)
 Iglau,9.8.,Maria Clara,Norbert,Schneider,Anna (Beruf Bäcker)
 Iglau,10.8.,Maria Regina,Peter,Kürsch,Regina
-Iglau,11.8.,Maria Susanna,Johannes Hable,Dorothea (Beruf Schneider)
+Iglau,11.8.,Maria Susanna,Johannes,Hable,Dorothea (Beruf Schneider)
 Iglau,11.8.,Johann Michael,Johannes,Heuka,Maria
 Iglau,13.8.,Maria Catharina,Jacob,Panstingl#,Elisabeth (Beruf Gurarius)
 Iglau,13.8.,Maria Catharina,Augustin,Long,Dorothea
@@ -286,7 +295,7 @@ Iglau,16.8.,Augustin Johann,Ignatz,Preis,Elisabeth
 Iglau,17.8.,Anna Elisabeth,Matthäus,Schlinck,Agatha (Beruf Soldat)
 Iglau,18.8.,Augustin Joseph,Anton,Preis,Susanna Clara
 Iglau,18.8.,Maria Elisabeth,Mathias,Frey,Anna Rosina
-Iglau,18.8.,Michael,-,-,Elisabeth (Name der Mutter: Schnöller, aus Haintzendorf)
+Haintzendorf,18.8.,Michael,-,-,Elisabeth U: Kind von Elisabeth Schnöller
 
 DP 16
 
@@ -297,11 +306,11 @@ Iglau,19.8.,Matthäus,Joseph,Ladl#,Regina (Beruf Arbeiter)
 Iglau,20.8.,Martin,Johann,Zodl,Anna (Beruf Arbeiter)
 Iglau,20.8.,Susanna,Martin,Frontz,Maria (Beruf Arbeiter)
 Iglau,21.8.,Anna Paulina,Wilhelm,Vit,Anna Rosina (Beruf Soldat)
-Iglau,22.8.,Franz Augustin,-,-,Anna Catharina (Name der Mutter: Ruml)
+Iglau,22.8.,Franz Augustin,-,-,Anna Catharina U: Kind von Anna Catharina Ruml
 Iglau,22.8.,Maria Thecla,Leopold,Nahalausky#,Anna Maria
 Iglau,23.8.,Maria Theresia,Johannes,Frühauf,Regina
-Iglau,25.8.,Maria Christina Susanna,Karl Johann Kostka,Anna Catharina (Beruf Regimentskapitän)
-Iglau,26.8.,Augustin,-,-,Elisabeth (Name der Mutter: Frühauf)
+Iglau,25.8.,Maria Christina Susanna,Karl Johann,Kostka,Anna Catharina (Beruf Regimentskapitän)
+Iglau,26.8.,Augustin,-,-,Elisabeth U: Kind von Elisabeth Frühauf
 Gossau,28.8.,Anna Regina,Vitus,Long,Maria
 
 DP 17
@@ -334,7 +343,7 @@ Iglau,16.9.,Maria Theresia,Martin,Sellner#,Eva (Beruf Incola)
 Iglau,16.9.,Franz Xaver,Johann Michael,Richter,Eva Rosina
 Iglau,16.9.,Maria Thecla,Johann,Hartl,Maria Catharina (Beruf Anwalt)
 Iglau,17.9.,Maria Theresia,Johann,Weis,Maria Josepha (Beruf Incola)
-Iglau,19.9.,Maria Victoria,-,-,Elisabeth (Name der Mutter: Müksch)
+Iglau,19.9.,Maria Victoria,-,-,Elisabeth U: Kind von Elisabeth Müksch
 Iglau,20.9.,Maria Theresia,Philipp,Grüll,Anna
 
 DP 19
@@ -346,7 +355,7 @@ Iglau,26.9.,Johann Wenceslaus,Joseph,Lang,Anna Maria (Beruf Faber Lignarius)
 Iglau,26.9.,Aloysia Elisabeth,Ludwig Anton,Hermann,Johanna Petronilla (Beruf Leutnant)
 Iglau,26.9.,Wenceslaus,Johann Georg,Ullmann,Catharina (Beruf Incola)
 Iglau,27.9.,Catharina Elisabeth,Mathias,Galle,Catharina (Beruf Inquilinus)
-Iglau,28.9.,Anna Margaretha,Johann Schmidt,Barbara (Beruf Soldat)
+Iglau,28.9.,Anna Margaretha,Johann,Schmidt,Barbara (Beruf Soldat)
 Iglau,29.9.,Anna Maria Theresia,Jacob,Hoffmann,Johanna
 Iglau,29.9.,Maria Theresia,Martin,Rosenkrantz,Regina (Beruf Incola)
 Iglau,29.9.,Johann Michael,Philipp,Höffer,Maria Elisabeth (Beruf Incola)
@@ -383,7 +392,7 @@ Iglau,1.11.,Catharina Regina,Johann,Liru#,Maria (Beruf Gurarius)
 Iglau,1.11.,Vinzenz,Gabriel,Schwartz,Anna Maria
 Iglau,2.11.,Franz Xaver Karl,Johann Michael,Giswen#,Maria Constantia
 Iglau,5.11.,Johanna Josepha,Johann,Fanger#,Theresia (Beruf Soldat)
-Iglau,7.11.,Martin und Leopold,-,-,Anna (Name der Mutter: All#)
+Iglau,7.11.,Martin und Leopold,-,-,Anna U: Kind von Anna All#
 
 DP 22
 
@@ -403,8 +412,8 @@ Iglau,17.11.,Elisabeth Barbara,Philipp,Long,Anna
 
 DP 23
 
-Iglau,17.11.,Cäcilia Anna Josepha Antonia Ignatia Elisabeth,Bernhard de Dhi#,Elisabeth
-Iglau,19.11.,Franz Vinzenz,-,-,Elisabeth (Name der Mutter: Fürst)
+Iglau,17.11.,Cäcilia Anna Josepha Antonia Ignatia Elisabeth,Bernhard,de Dhi#,Elisabeth
+Iglau,19.11.,Franz Vinzenz,-,-,Elisabeth U: Kind von Elisabeth Fürst
 Ebersdorf,20.11.,Maria Catharina,Andreas,Schwammhöffer,Anna
 Iglau,21.11.,Maria Catharina,Paul,Wonder,Catharina (Beruf Faber Lignarius)
 Iglau,23.11.,Catharina Barbara,Mathias,Goniass#,Johanna
@@ -453,7 +462,7 @@ DP 26
 
 1758
 
-Iglau,1.1.,Johann Nepomuck,-,-,Anna (Name der Mutter: Müksch)
+Iglau,1.1.,Johann Nepomuck,-,-,Anna U: Kind von Anna Müksch
 Iglau,1.1.,Anna Eleonora,-,-,-
 Iglau,2.1.,Anna Maria Genoveva Apollonia,Franz Bernhard,Grün,Maria Anna
 Ebersdorf,2.1.,Martin,Andreas,Wolff,Maria
@@ -462,9 +471,9 @@ Iglau,3.1.,Maria Anna,Georg,Zwilling,Elisabeth (Beruf Gurarius)
 Iglau,5.1.,Johann Nepomuck,Johann,Schimka,Catharina (Beruf Incola)
 Iglau,6.1.,Agnes Thecla,Johann Paul,Habermann,Anna
 Iglau,6.1.,Caspar Franz de Paula,Johann,Hondl,Maria Anna
-Iglau,7.1.,Maria Clara,-,-,Eva (Name der Mutter: Ladl)
+Iglau,7.1.,Maria Clara,-,-,Eva U: Kind von Eva Ladl
 Iglau,10.1.,Maria Catharina,Johann,Paucker,Anna Maria (Beruf Incola)
-Iglau,12.1.,Johann Mathias,-,-,Elisabeth (Name der Mutter: Rinagl)
+Iglau,12.1.,Johann Mathias,-,-,Elisabeth U: Kind von Elisabeth Rinagl
 Iglau,13.1.,Karl Magnus Sebastian,Mathias,Ramkowsky,Apollonia (Beruf Faber Lignarius)
 Iglau,16.1.,Karl Franz Xaver,Karl,Östreicher,Maria Clara
 Iglau,16.1.,Apollonia,Johann Georg,Frühauf,Maria Anna (Beruf Incola)
@@ -478,7 +487,7 @@ Iglau,20.1.,Paul,Jacob,Hanauseck,Theresia (Beruf Incola)
 Iglau,20.1.,Maria Regina,Sebastian,Korr,Catharina (Beruf Faber Orarius#)
 Iglau,21.1.,Paul Vinzenz,Joseph,Linhardt,Anna Rosina
 Iglau,23.1.,Joseph Franz de Paula,Johann,Hanseck#,Anna Maria
-Iglau,24.1.,Johann Paul,-,-,Anna (Name der Mutter: Welch#)
+Iglau,24.1.,Johann Paul,-,-,Anna U: Kind von Anna Welch#
 Iglau,28.1.,Maria Elisabeth Johanna,Johann Georg,Böhm,Barbara (Beruf Bäcker)
 Iglau,29.1.,Mathias Vinzenz,Joseph,Ramkowsky,Apollonia (Beruf Incola)
 Iglau,2.2.,Vinzenz Stanislaus#,Tobuas,Gött#,Johanna
@@ -487,14 +496,14 @@ Iglau,4.2.,Mathias Anton,Purhardus# Laurenz,Waller,Eleonora (Beruf Bäcker)
 Iglau,9.2.,Johann Nepomuck Norbert,Franz,Liebisch,Maria Catharina
 Iglau,9.2.,Joseph Vinzenz,Franz,Ridelmacher#,Barbara (Beruf Weber)
 Iglau,9.2.,Catharina,Andreas,Wolff,Maria
-Iglau,11.2.,Maria Anna,-,-,Maria Anna (Name der Mutter: Polak)
-Iglau,12.2.,Johann,Maria Catharina (Name der Mutter: Erich)
+Iglau,11.2.,Maria Anna,-,-,Maria Anna U: Kind von Maria Anna Polak
+Iglau,12.2.,Johann,-,-,Maria Catharina U: Kind von Maria Catrharina Erich
 
 DP 28
 
 Iglau,13.2.,Joseph,Paul,Jindra,Anna
 Iglau,14.2.,Anton Maximilian,-,-,Catharina
-Iglau,14.2.,Johann Nepomuck,-,-,Anna (Name der Mutter: Sördin)
+Iglau,14.2.,Johann Nepomuck,-,-,Anna U: Kind von Anna Sördin
 Iglau,18.2.,Johann Georg,Martin,Schpatzal#,Elisabeth
 Iglau,19.2.,Maria Catharina,Jacob,Urban,Elisabeth
 Iglau,19.2.,Vinzenz Joseph,Friedrich,Mah#,Maria Josepha
@@ -509,12 +518,12 @@ Iglau,25.2.,Joseph Vinzenz# und Maria Catharina Thekla,Joseph,Herlitzka#,Anna
 
 DP 29
 
-Iglau,25.2.,Maria Catharina,-,-,Anna Maria (Name der Mutter: Wessel)
+Iglau,25.2.,Maria Catharina,-,-,Anna Maria U: Kind von Anna Maria Wessel
 Iglau,25.2.,Johann Nepomuck Joseph,Johann Anton,Fischer,Agnes (Beruf Richter oder so was ?)
 Iglau,26.2.,Johann Joseph,Joseph,Hertzig,Catharina
 Iglau,26.2.,Johann Nepomuck Vinzenz,Johann,Zeitinger#,Elisabeth (Beruf #)
 Iglau,27.2.,Joseph Karl Anton,Johann Franz,Eigelb#,Maria Magdalena
-Kleinstunitz,28.2.,Maria Rosina,-,-,Regina (Name der Mutter: Neubauer)
+Kleinstunitz,28.2.,Maria Rosina,-,-,Regina U: Kind von Regina Neubauer
 Gossau,28.2.,Rosina Barbara,Joseph,Neubauer,Judith
 Iglau,2.3.,Johann Nepomuck,Joseph,Kobanetz,Anna (Beruf Arbeiter)
 Iglau,3.3.,Maria Catharina,Martin,Röltscher,Catharina (Beruf Arbeiter)
@@ -532,7 +541,7 @@ Iglau,10.3.,Vinzenz Anton,Lucas,Weinstock,Maria Regina
 Iglau,11.3.,Vinzenz,Paul,Loch,Catharina (Beruf Arbeiter)
 Iglau,12.3.,Joseph Ignatz Constantin,Georg Anton,Neumann,Anna Elisabeth (Beruf Consul)
 Iglau,12.3.,Joseph Vinzenz,Johann,Salomon,Eleonora
-Iglau,14.3.,Joseph Vinzenz,-,-,Maria Elisabeth (Name der Mutter: Müller)
+Iglau,14.3.,Joseph Vinzenz,-,-,Maria Elisabeth U: Kind von Maria Elisabeth Müller
 Iglau,14.3.,Maria Anna,Johann,Frühauf,Clara (Beruf Incola)
 Iglau,14.3.,Maria Catharina,Jacob,Pils,Elisabeth (Beruf Incola)
 Iglau,16.3.,Maria Josepha,Leopold,Habermann,Catharina
@@ -545,9 +554,9 @@ DP 31
 Iglau,17.3.,Joseph Vinzenz,Franz,Waidocher,Rosalia
 Iglau,17.3.,Maria Catharina,Joseph,Elinar#,Magdalena
 Iglau,17.3.,Joseph,Jacob,Kundrath,Rosina (Beruf Arbeiter)
-Iglau,17.3.,Catharina,-,-,Rosina (Name der Mutter: Plasch#)
+Iglau,17.3.,Catharina,-,-,Rosina U: Kind von Rosina Plasch#
 Iglau,18.3.,Joseph Eusebius,Caspar,Zink#,Theresia
-Iglau,18.3.,Maria Josepha,-,-,Maria (Name der Mutter: Foder#)
+Iglau,18.3.,Maria Josepha,-,-,Maria U: Kind von Maria Foder#
 Iglau,19.3.,Joseph Franz de Paula,Philipp,Fraunys#,Dorothea
 Iglau,20.3.,Maria Anna,Martin,Praksch,Anna (Beruf Arbeiter)
 Iglau,20.3.,Joseph,Matthäus,Lang,Susanna (Beruf Fleischer)
@@ -568,7 +577,7 @@ Iglau,29.3.,Franz de Paula,Johann Vinzenz,Rörtsch#,Catharina Barbara (Beruf Inc
 Iglau,30.3.,Anna Catharina,Johann,Grauhansl,Anna Catharina (Beruf Incola)
 Iglau,30.3.,Johann Nepomuck,Joseph,Thomascheck,Rosina (Beruf Arbeiter)
 Iglau,#.4.,Maria Anna,Anton,Augustin,Anna Catharina (Beruf Gärtner)
-Iglau,5.4.,Vinzenz Matthäus,-,-,Anna (Name der Mutter: Grauhansl)
+Iglau,5.4.,Vinzenz Matthäus,-,-,Anna U: Kind von Anna Grauhansl
 Iglau,6.4.,Anna Maria,Jacob,Schwartz,Anna (Beruf Incola)
 Iglau,6.4.,Johann Nepomuck Hermann,Karl,Anckner,Elisabeth
 Iglau,6.4.,Norbert Johann Nepomuck,Joseph,Körber,Catharina
@@ -583,7 +592,7 @@ Iglau,9.4.,Catharina Thecla,Andreas,Strauß,Anna (Beruf Arbeiter)
 Iglau,12.4.,Franz,Michael,Häusler,Anna Barbara
 Iglau,12.4.,Georg Nepomuck,Leonard,Crinthaler,Maria
 Iglau,12.4.,Wenceslaus,Andreas,Pelikan,Catharina
-Iglau,15.4.,Anna Barbara,-,-,Maria Magdalena (Name der Mutter: Pockorn#)
+Iglau,15.4.,Anna Barbara,-,-,Maria Magdalena U: Kind von Maria Magdalena Pockorn#
 Iglau,15.4.,Philipp,Mathias,Folt#,Anna
 Iglau,15.4.,Maria Clara,Andreas,Raufus,Catharina (Beruf Panifex)
 Iglau,18.4.,Johann Nepomuck Georg F#,Martin,Mellion#,Dorothea
@@ -597,7 +606,7 @@ Iglau,24.4.,Johann Georg,Franz,Nickodin#,Maria (Beruf Incola)
 Iglau,27.4.,Philipp Jacob,Ludwig,Löw,Maria Catharina (Beruf Incola)
 Iglau,27.4.,Johanna Anna Maria,Augustin,Lang,Catharina (Beruf Maurer)
 Iglau,28.4.,Philipp Jacob,Franz,Haidtberger#,Anna (Beruf Aurifolsor)
-Iglau,28.4.,Anna Catharina,Franz Sittka,Maria (Beruf Arbeiter)
+Iglau,28.4.,Anna Catharina,Franz,Sittka,Maria (Beruf Arbeiter)
 Iglau,29.4.,Philipp Jacob,Anton,Czepelka,Elisabeth (Beruf Maurer)
 Ebersdorf,1.5.,Anna,Georg,Stummer,Susanna
 Iglau,1.5.,Johanna Agnes,Johann,Körber,Christina
@@ -610,16 +619,16 @@ DP 35
 
 Iglau,5.5.,Anton Ignatz,Joseph,Neußer#,Susanna
 Iglau,6.5.,Johann Nepomuck,Jacob,Hauer,Dorothea
-Iglau,7.5.,Johann Nepomuck Anton,-,-,Elisabeth (Name der Mutter: Neubauer)
+Iglau,7.5.,Johann Nepomuck Anton,-,-,Elisabeth U: Kind von Elisabeth Neubauer
 Iglau,8.5.,Johanna Josepha,Lucas,Rebhann,Sophia
-Iglau,8.5.,Johannes Nepomuck #,-,-,Catharina (Name der Mutter: Seidlmann)
+Iglau,8.5.,Johannes Nepomuck #,-,-,Catharina U: Kind von Catharina Seidlmann
 Iglau,9.5.,Johann Nepomuck,Philipp,Krumm,Catharina (Beruf Arbeiter)
-Iglau,9.5.,Maria Thecla,-,-,Anna (Name der Mutter: Habl)
-Iglau,9.5.,Ignatz Alois,-,-,Elisabeth (Name der Mutter: Neubauer)
-Iglau,13.5.,Johann Nepomuck,-,-,Barbara (Name der Mutter: Procher#)
+Iglau,9.5.,Maria Thecla,-,-,Anna U: Kind von Anna Habl
+Iglau,9.5.,Ignatz Alois,-,-,Elisabeth U: Kind von Elisabeth Neubauer
+Iglau,13.5.,Johann Nepomuck,-,-,Barbara U: Kind von Barbara Procher#
 Iglau,13.5.,Johann Nepomuck,Andreas,Liczka,Maria (Beruf Incola)
 Iglau,13.5.,Johanna,Philipp,So#er,Catharina (Beruf Incola)
-Iglau,17.5.,Maria Anna,-,-,Maria (Name der Mutter: Schindler)
+Iglau,17.5.,Maria Anna,-,-,Maria U: Kind von Maria Schindler
 Iglau,18.5.,Johanna Nepomucina und Maria Theresia,Franz Joseph,Hnatek,Maria Theresia (ein Kind mit 4 Vornamen oder Zwillinge ?)
 Kleinstunitz,19.5.,Jacob Anton,Johann,Miksche,Anna Maria
 Iglau,22.5.,Johanna Antonia,Ludwig,Faschan#,Theresia Catharina
@@ -643,7 +652,7 @@ DP 37
 Ebersdorf,5.6.,Laurenz,Martin,Proksch,Anna
 Hatzendorff,5.6.,Anna Catharina und Maria Magdalena,Gregor,Puls,Regina
 Iglau,7.6.,Anna Maria,Andreas,Huppa#,Anna (Beruf Arbeiter)
-Iglau,7.6.,Mathias,-,-,Maria (Name der Mutter: Mayer)
+Iglau,7.6.,Mathias,-,-,Maria U: Kind von Maria Mayer
 Iglau,9.6.,Anton,Jacob,Krumm,Dorothea (Beruf Arbeiter)
 Iglau,10.6.,Antonia Thecla und Elisabeth Johanna,Karl,Schmucker,Elisabeth
 Iglau,10.6.,Johann Aloys,Ignatz,Schindler,Judith
@@ -662,7 +671,7 @@ Iglau,19.6.,Johann Michael,Caspar,Eberhardt,Susanna (Beruf Soldat)
 Iglau,20.6.,Anna Regina,Mathias,Eugl,Anna Catharina
 Iglau,22.6.,Franz,Johann,Mütschack,Dorothea (Beruf Opillio)
 Iglau,22.6.,Johann Franz Thaddäus,Johann Joseph,Hoffmann,Maria Catharina
-Iglau,24.6.,Johanna,Georg Wasserbaul,Maria (Beruf Schneider)
+Iglau,24.6.,Johanna,Georg,Wasserbaul,Maria (Beruf Schneider)
 Ebersdorf,24.6.,Andreas,Mathias,Parthl,Anna
 Iglau,26.6.,Johann Paul,Joseph,Müschninger,Rosina (Beruf Aurifolsor)
 Iglau,30.6.,Jacob,Leopold,Kürschner,Susanna (Beruf Arbeiter)
@@ -675,23 +684,23 @@ DP 39
 Iglau,6.7.,Johanna Rosalia,Melchior,Haas,Eva (Beruf Soldat)
 Haitzendorf,7.7.,Jacob,Augustin,Schnöller,Anna
 Iglau,10.7.,Heinrich Jacob,Heinrich,Stephan,Johanna (Beruf Gärtner)
-Iglau,11.7.,Johann Norbert,-,-,Maria Ursula (Name der Mutter: Pfeiffer)
+Iglau,11.7.,Johann Norbert,-,-,Maria Ursula U: Kind von Maria Ursula Pfeiffer
 Iglau,12.7.,Jacob Ignatz,Joseph,Neumann,Johanna
-Iglau,13.7.,Maria Magdalena Margaretha,-,-,Maria Catharina (Name der Mutter: Richter)
+Iglau,13.7.,Maria Magdalena Margaretha,-,-,Maria Catharina U: Kind von Maria Catharina Richter
 Iglau,13.7.,Maria Anna,Jacob,Kobot#,Maria Anna (Beruf Soldat)
 Iglau,14.7.,Anna Rosina,Joseph,Neumann,Anna Rosina (Beruf Arbeiter)
 Iglau,15.7.,Leopold Norbert,Anton,Wecker,Anna Rosina (Beruf Arzt)
 Iglau,16.7.,Norbert Eusebius Leopold,Johann Joseph,Schreiber,Anna Theresia
 Iglau,17.7.,Anna Rosina,Johann,Neumann,Anna Maria
 Ebersdorf,17.7.,Matthäus,Joseph,Long,Rosina
-Iglau,21.7.,Vinzenz Jacob,-,-,Barbara (Name der Mutter: Prochaska)
+Iglau,21.7.,Vinzenz Jacob,-,-,Barbara U: Kind von Barbara Prochaska
 
 DP 40
 
 Iglau,21.7.,Johann Jacob,Joseph,Poncery,Johanna (Beruf Soldat)
 Iglau,21.7.,Ignatz Jacob,Joseph Adalbert,Frey#en,Anna Elisabeth
 Iglau,24.7.,Jacob Ignatz Xaver,KArl Joseph,Parthl,Maria Regina
-Iglau,25.7.,Jacob,-,-,Anna (Name der Mutter: Swoboda)
+Iglau,25.7.,Jacob,-,-,Anna U: Kind von Anna Swoboda
 Iglau,25.7.,Anna Catharina,Philipp,Rülck,Johanna (Beruf Incola)
 Iglau,26.7.,Anna Rosina,Franz,Holdt,Rosina (Beruf Incola)
 Iglau,27.7.,Susanna,Johann,Neufingerl,MAria (Beruf Arbeiter)
@@ -699,19 +708,19 @@ Iglau,28.7.,Ignatz Erasmus,Johann Joseph,Payer,Anna Paulina
 Iglau,29.7.,Rosalia,Johann Wenceslaus,Gallus,Margaretha (Beruf Incola)
 Iglau,1.8.,Maria Clara,Bernhard,Waywald,Juliana (Beruf Chirurgus)
 Iglau,4.8.,Maria Elisabeth,Paul,Pek,Maria (Beruf Mercenarius)
-Iglau,4.8.,Dominik Ignatz,Dominik Horner,Apollonia
+Iglau,4.8.,Dominik Ignatz,Dominik,Horner,Apollonia
 Iglau,4.8.,Anna,Anton,Alisch,Maria Catharina
-Iglau,5.8.,Laurenz,Johann Patz#,Anna
+Iglau,5.8.,Laurenz,Johann,Patz#,Anna
 
 DP 41
 
 Iglau,6.8.,Ludwig Joseph,Joseph,Schindler,Maria Barbara
-Iglau,7.8.,Augustin Ludwig Lorenz,Thomas Plitzka,Anna (Beruf Tinktor#)
+Iglau,7.8.,Augustin Ludwig Lorenz,Thomas,Plitzka,Anna (Beruf Tinktor#)
 Iglau,12.8.,Maria Clara,Karl,Goscko,Franziska (Beruf Senator und Provinz-Quaestor#)
 Iglau,15.8.,Maria Catharina Theresia,Julian,Dittrich,Maria Catharina
 Iglau,17.8.,Anna Maria,Johann,Glema#,Veronica (Beruf Opillio)
 Iglau,18.8.,Augustin Ludwig,Ignatz,Prosl,Veronica
-Iglau,19.8.,Maria Elisabeth,-,-,Anna (Name der Mutter: Antonin)
+Iglau,19.8.,Maria Elisabeth,-,-,Anna U: Kind von Anna Antonin
 Iglau,20.8.,Augustin,Joseph,Illgmann,Anna (Beruf Incola)
 Iglau,20.8.,Rosalia,Johann Michael,Häusler,Johanna (Beruf Incola)
 Kostau,23.8.,Augustin,Gregor,Röder,Susanna
@@ -750,11 +759,11 @@ Iglau,16.9.,Maria,Anton,Hyffer#,Rosina (Beruf Incola)
 Iglau,18.9.,Matthäus,Joseph,Offerbartl#,Catharina (Beruf Arbeiter)
 Iglau,20.9.,Maria Clara,Joseph,Stolz,Rosina
 Iglau,20.9.,Wenceslaus,Joseph,Pauker#,Maria (Beruf Arbeiter)
-Iglau,24.9.,Wenceslaus Anton,-,-,Rosina (Name der Mutter: Zodl)
+Iglau,24.9.,Wenceslaus Anton,-,-,Rosina U: Kind von Rosina Zodl
 
 DP 44
 
-Iglau,20.9.,Matthäus,-,-,Anna Maria (Name der Mutter: Leinhaller#)
+Iglau,20.9.,Matthäus,-,-,Anna Maria U: Kind von Anna Maria Leinhaller#
 Iglau,23.9.,Anna Catharina,Joseph Anton,Grabbler,Maria Anna
 Iglau,23.9.,Andreas,Georg,Pauser,Catharina
 Iglau,25.9.,Maria Catharina,Joseph,Prawentz#,Maria Elisabeth
@@ -782,7 +791,7 @@ Iglau,12.10.,Maria Theresia,Martin,Wesselky,Elisabeth (Beruf Gärtner)
 Iglau,13.10.,Martin,Tobias,Häusler,Regina (Beruf Arbeiter)
 Iglau,15.10.,Matthäus,Mathias,Wonder,Elisabeth (Beruf Faber Lignarius)
 Iglau,16.10.,Johann Karl,Simon,Pernfus,Apollonia
-Iglau,18.10.,Barbara Regina,Pernirscho,Eva
+Iglau,18.10.,Barbara Regina,Franciscus,Pernirschko,Eva
 Iglau,19.10.,Franz Xaver Joseph,Ignatz,Neumann,Maria Regina
 
 DP 46
@@ -836,7 +845,7 @@ Iglau,6.12.,Franz Xaver Nickolaus,Johann Jacob,Schüller,Anna Maria
 Iglau,8.12.,Maria Anna,Karl,Heuer,Elisabeth (Beruf Panifex)
 Iglau,10.l2.,Thomas,Georg,Kowartsch,Judith (Beruf Famulus #)
 Iglau,11.12.,Maria Apollonia,Mathias,Galle,Catharina (Beruf Incola)
-Iglau,11.12.,Johann Paul,Johann Frey,Catharina (Beruf Müller)
+Iglau,11.12.,Johann Paul,Johann,Frey,Catharina (Beruf Müller)
 Iglau,11.12.,Maria Eva,Laurenz,Fritscher,Apollonia (Beruf Incola)
 Haintzendorf,11.12.,Maria Elisabeth,Jacob,Röder,Maria
 Iglau,12.12.,Johann Franz,Mathias,Neufingerl,Veronica
@@ -858,11 +867,11 @@ Iglau,28.12.,Anna Maria Apollonia,Andreas,Hoffbauer,Johanna (Beruf Incola)
 Iglau,29.12.,Maria Genoveffa,Franz,Camelreiter#,Sophia (Beruf #)
 Iglau,29.12.,Anastasius,Jacob,Swoboda,Rosalia (Beruf Incola)
 Iglau,30.12.,Maria Monica Apollonia,Ignatz,Groboth,Anna Regina
-Iglau,30.12.,Johann Bartholomäus,-,-,Theresia (Name der Mutter: Fux)
+Iglau,30.12.,Johann Bartholomäus,-,-,Theresia U: Kind von Theresia Fux
 
 DP 51
 
-Iglau,30.12.,Anton de Padua und Franz de Paula und Friedrich Maximilian,Johann Adam Friedrich,Baro de Werner,Anna Maria Franziska (Der Mädchenname der Mutter ist de Posch, unklar ob ein Kind mit vielen Vornamen oder Mehrlinge)
+Iglau,30.12.,Anton de Padua und Franz de Paula und Friedrich Maximilian,Johann Adam Friedrich,Baro de Werner,Anna Maria Franziska (unklar ob ein Kind mit vielen Vornamen oder Mehrlinge) U: Kind von Anna Maria Franziska de Posch
 Iglau,30.12.,Maria Josepha,Johann,Bernfuhs,Maria Theresia (Beruf Incola)
 Ebersdorf,30.12.,Mathias,Martin,Madl,Anna
 
@@ -886,7 +895,7 @@ Iglau,13.1.,Franz de Paula,Johann,Penirschke,Rosina
 Iglau,13.1.,Joseph Vinzenz,Franz,Semeret#,Clara
 Iglau,14.1.,Maria,Johann Georg,Reith,Anna Maria
 Iglau,17.1.,Anna Catharina,Franz,Sassensieder,Maria Josepha (Beruf Incola)
-Iglau,20.1.,Johann Sebastian,Johann Parth,Elisabeth
+Iglau,20.1.,Johann Sebastian,Johann,Parth,Elisabeth
 Iglau,20.1.,Mathias,Sebastian,Paul,Melcher,Catharina (Beruf Arbeiter)
 Iglau,22.1.,Maria Agnes,Johann,Wolff,Anna Maria
 Iglau,23.1.,Mathias Joseph,Gottfried,Weimer,Catharina
@@ -916,11 +925,11 @@ Iglau,5.2.,Maria Dorothea,Ignatz,Braun,Maria Elisabeth
 Iglau,5.2.,Vinzenz Ignatz,Johann,Hertzig,Barbara (Beruf Pannifex)
 Iglau,9.2.,Joseph Ignatz,Ignatz,Schwartz,Anna Barbara (Beruf Pannifex)
 Ebersdorf,9.2.,Joseph,Michael,Mies#,Maria
-Iglau,10.2.,Maria Josepha,Ignatz,Mellion,BArbara (Beruf Fleischer)
-Iglau,12.2.,Maria Anna,-,-,Regina (Name der Mutter: Hintenaus)
+Iglau,10.2.,Maria Josepha,Ignatz,Mellion,Barbara (Beruf Fleischer)
+Iglau,12.2.,Maria Anna,-,-,Regina U: Kind von Regina Hintenaus
 Iglau,12.2.,Maria Elisabeth,-,-,-
 Iglau,12.2.,Maria Elisabeth,Karl,Linhardt,Elisabeth (Beruf Incola)
-Iglau,13.2.,Karl Joseph #,-,-,Elisabeth (Name der Mutter: Hamann)
+Iglau,13.2.,Karl Joseph #,-,-,Elisabeth U: Kind von Elisabeth Hamann
 Iglau,13.2.,Vinzenz Joseph,Laurenz,Maurer#,Anna (Beruf Lehrer)
 Iglau,13.2.,Franz Vinzenz,Gotthard,Schnebbitz#,Rosina Josepha
 
@@ -931,7 +940,7 @@ Birnbaumhof,14.2.,Maria Elisabeth,Paul,Röltscher,Magdalena
 Iglau,16.2.,Joseph Franz,Paul,Friedl,Theresia (Beruf Pannifex)
 Iglau,16.2.,Juliana Apollonia,Franz,Neusser,Maria Anna (Beruf Pannifex)
 Iglau,16.2.,Maria Juliana,Jacob,Ponstingl#,Elisabeth (Beruf Arbeiter)
-Iglau,18.2.,Mathias Joseph,Mathias,Schwartz (Beruf Arbeiter)
+Iglau,18.2.,Mathias Joseph,Mathias,Schwartz,Anna (Beruf Arbeiter)
 Iglau,18.2.,Maria Catharina,Johann,Pozaletzky#,Barbara (Beruf Maurer)
 Gossau,18.2.,Mathias,Mathias,Schüller,Catharina
 Ebersdorf,18.2.,Joseph,Martin,Madl,Maria 
@@ -950,7 +959,7 @@ Iglau,24.2.,Mathias Joseph,Anton,Müller,Maria Theresia (Beruf Figulus)
 Iglau,24.2.,Joseph Mathias,Johann,Schwartz,Paulina (Beruf Pannifex)
 Iglau,24.2.,Anna Josepha,Mathias,Krinhuber#,Franziska (Beruf Chirurgus)
 Iglau,25.2.,Johann Paul,Joseph,Rödlmacher,Rosina (Beruf Arbeiter)
-Iglau,26.2.,Johann Joseph,-,-,Maria Theresia (Name der Mutter: Hoffmann)
+Iglau,26.2.,Johann Joseph,-,-,Maria Theresia U: Kind von Maria Theresia Hoffmann
 Iglau,26.2.,Rosina,Laurenz,Anderst#,Regina (Beruf Arbeiter)
 Iglau,27.2.,Joseph Franz,Johann Georg,Köpps#,Maria Josepha
 Iglau,28.2.,Joseph,Franz,Neubauer,Catharina (Beruf Pannifex)
@@ -958,7 +967,7 @@ Iglau,28.2.,Aloys Joseph,David,Schwartz,Barbara (Beruf Pannifex)
 
 DP 57
 
-Iglau,4.3.,Maria Josepha,-,-,Clara (Name der Mutter: Möltzer)
+Iglau,4.3.,Maria Josepha,-,-,Clara U: Kind von Clara Möltzer
 Gossau,4.3.,Joseph,Andreas,Röltscher,Anna
 Iglau,5.3.,Joseph,Johann,Holderer,Magdalena (Beruf Schuhmacher)
 Iglau,6.3.,Anna Rosina,Wenceslaus,Riedl,Anna (Beruf Incola)
@@ -1007,11 +1016,11 @@ DP 60
 
 Iglau,9.4.,Johann Nepomuck,Franz,Fachler,Dorothea (Beruf Pannifex)
 Iglau,10.4.,Johann Nepomuck Vinzenz,Philipp,Wodianka,Elisabeth (Beruf Pannifex)
-Iglau,10.4.,Philipp Jacob,-,-,Elisabeth (Name der Mutter: Redlich)
+Iglau,10.4.,Philipp Jacob,-,-,Elisabeth U: Kind von Elisabeth Redlich
 Kleinstunitz,10.4.,Maria Theresia,Gregor,Pauser,Maria
 Iglau,14.4.,Susanna,Georg,Siegl,Maria (Beruf Incola)
-Iglau,14.4.,Johann,-,-,Dorothea (Name der Mutter: Sellner)
-Iglau,15.4.,Maria Catharina,-,-,Anna Rosina (Name der Mutter: Porst)
+Iglau,14.4.,Johann,-,-,Dorothea U: Kind von Dorothea Sellner
+Iglau,15.4.,Maria Catharina,-,-,Anna Rosina U: Kind von Anna Rosina Porst
 Iglau,16.4.,Johann,Franz Xaver,Long,Catharina Barbara (Beruf Pannifex)
 Iglau,16.4.,Johann Nepomuck Erasmus,Urban,Mayer,Maria Catharina (Beruf Cursor)
 Iglau,16.4.,Anna Catharina,Johann,Neuwirth,Maria (Beruf Arbeiter)
@@ -1031,18 +1040,18 @@ Iglau,26.4.,Maria Catharina,Philipp,Frantz,Theresia (Beruf Incola)
 Iglau,27.4.,Johann Nepomuck Philipp Vinzenz,Johann Wenceslaus,Tort,Regina (Beruf Organist)
 Iglau,28.4.,Maria Susanna,Johann,Sitta,Susanna (Beruf Incola)
 Iglau,28.4.,Maria Catharina,Johann,Kerrernik#,Rosina (Beruf Incola)
-Iglau,29.4.,Anton Vinzenz,-,-,Elisabeth (Name der Mutter: Prauentz#)
+Iglau,29.4.,Anton Vinzenz,-,-,Elisabeth U: Kind von Elisabeth Prauentz#
 
 DP 62
 
 Iglau,29.4.,Maria Anna Catharina Nepomucena,Franz Bernhard,Cronberger,Maria Anna
 Iglau,29.4.,Maria Catharina,Johann,Eberth,Eleonora (Beruf Musiker)
 Iglau,1.5.,Johann Nepomuck Jacob,Wenceslaus,Eugl,Anna Clara (Beruf Maurer)
-Iglau,2.5.,Maximilian Anton,-,-,Catharina (Name der Mutter: Ebers#)
+Iglau,2.5.,Maximilian Anton,-,-,Catharina U: Kind von Catharina Ebers#
 Iglau,3.5.,Joseph,Michael,Holy#,Catharina (Beruf Pannifex)
 Iglau,7.5.,Maria Theresia,Joseph,Wuhner#,Anna (Beruf Schneider)
 Iglau,10.5.,Anna Catharina,Wenceslaus,Hauer,Ursula (Beruf Pannifex)
-Iglau,12.5.,Johanna Catharina,-,-,Barbara (Name der Mutter: Schwartz)
+Iglau,12.5.,Johanna Catharina,-,-,Barbara U: Kind von Barbara Schwartz
 Iglau,12.5.,Rosalia Johanna Nepomucena,Mathias,Augetzky,Rosalia (Beruf Zythopol)
 Iglau,13.5.,Johanna Nepomucena,Johannes,Plummendörfer#,Maria Elisabeth (Beruf Soldat)
 Iglau,14.5.,Maria Anna,Mathias,Folt,Anna Maria (Beruf Schneider)
@@ -1129,7 +1138,7 @@ Iglau,10.8.,Laurenz Ludwig Joseph,Franz,Wolff,Rosina Catharina (Beruf Pannifex)
 Iglau,12.8.,Ludwig,Anton,Preuß,Susanna Clara (Beruf Pannifex)
 Kleinstunitz,13.8.,Maria Anna,Martin,Abeurn#,Catharina (Beruf Bauer)
 Iglau,14.8.,Maria Anna,Georg,Mobrez#,Johanna (Beruf Famulus)
-Iglau,15.8.,Matthäus,-,-,Rosina (NAme der Mutter: Habl#)
+Iglau,15.8.,Matthäus,-,-,Rosina U: Kind von Rosina Habl#
 Iglau,16.8.,Augustin Joseph,Joseph,Rinogl,Magdalena (Beruf Pannifex)(Rinogl durchgestrichen, nichts als Ersatz hingeschrieben)
 Iglau,16.8.,Ignatz Johann Bernhard,Andreas,Weber,Agnes (Beruf Praxator)
 Iglau,16.8.,Johann Paul,Andreas,Prius#,Maria (Beruf Arbeiter)
@@ -1159,7 +1168,7 @@ Iglau,30.8.,Maria Anna Nepomucena,Joseph,Lebitsch,Anna Catharina (Beruf Pileator
 Iglau,31.8.,Matthäus Vinzenz,Laurenz,Schenk#,Theresia (Beruf Fuhrmann)
 Iglau,3.9.,Maria Regina,Jacob,Churwath#,Catharina (Beruf Gärtner)
 Iglau,4.9.,Anna Rosina,Joseph,Waidocher,Maria Theresia (Beruf Beamter)
-Iglau,4.9.,Maria Rosina,-,-,Anna Theresia (Name der Mutter: Wolff)
+Iglau,4.9.,Maria Rosina,-,-,Anna Theresia U: Kind von Anna Theresia Wolff
 Iglau,5.9.,Maria Catharina Thekla,Johann,Brakisch#,Anna Catharina (Beruf Müller)
 Iglau,6.9.,Johann Wenceslaus,Johann,Huika,Maria (Beruf Müller und Incola)
 Iglau,6.9.,Johann Michael,Franz,Winckler,Barbara
@@ -1171,25 +1180,25 @@ DP 70
 
 Iglau,12.9.,Vinzenz Stanislaus,Anton Paul,Leutner,Anna
 Iglau,12.9.,Maria Catharina,Johann,Körber,Maria Catharina (Beruf Arbeiter)
-Iglau,12.9.,Maria Elisabeth,-,-,Maria (Name der Mutter: Platin)
+Iglau,12.9.,Maria Elisabeth,-,-,Maria U: Kind von Maria Platin
 Iglau,13.9.,Maria Catharina Josepha,Franz,Hold,Catharina Barbara (Beruf Pannifex)
 Iglau,15.9.,Franz Seraph#,Joseph,Schindler,Catharina (Beruf Incola)
 Obergoss,15.9.,Maria Catharina,Georg,Plaschka,Rosina
 Iglau,16.9.,Eleonora Magdalena,Laurenz,Böhm,Magdalena (Beruf Incola)
 Ebersdorf,16.9.,Matthäus,Mathias,Pistauer,Maria (Beruf Schuhmacher)
-Iglau,18.9.,Johann Nepomuck und Wenceslaus Franz,Florian Gaylekoffsky,Barbara (Ein Kind oder zwei Kinder ?)
+Iglau,18.9.,Johann Nepomuck und Wenceslaus Franz,Florian,Gaylekoffsky,Barbara (Ein Kind oder zwei Kinder ?)
 Iglau,18.9.,Anna Theresia,Joachim,Andraschek,Lucia (Beruf Pistor Annora#)
 Iglau,20.9.,Matthäus Wenceslaus,Caspar,Arnet,Theresia (Beruf Soldat)
 Iglau,20.9.,Anna Theresia,Andreas,Polak,Veronica (Beruf Praxator)
 Iglau,20.9.,Maria Theresia,Johann Georg,Urban,Catharina (Beruf Maurer)
-Iglau,23.9.,Johann Michael,-,-,Rosina (Name der Mutter: Hord)
+Iglau,23.9.,Johann Michael,-,-,Rosina U: Kind von Rosina Hord
 Iglau,23.9.,Maria Catharina,Jacob,Krumm,Dorothea (Beruf Arbeiter)
 Iglau,25.9.,Maria Theresia,Joseph,Schultz,Maria Elisabeth (Beruf Pannifex)
 
 DP 71
 
 Iglau,25.9.,Wenceslaus Vinzent Terrovius#,Wenceslaus,Herlitzka,Rosalia (Beruf Opillio)
-Iglau,25.9.,Maria Theresia,-,-,Catharina (Name der Mutter: Porrelk#)
+Iglau,25.9.,Maria Theresia,-,-,Catharina U: Kind von Catharina Porrelk#
 Iglau,26.9.,Maria de Victoria Aloysia,Philipp,Hauschild,Maria Barbara (Beruf Pannifex)
 Iglau,27.9.,Maria Baptist Michael,Daniel,Pawelcka,Anna Maria (Beruf Faber Lignarius)
 Iglau,28.9.,Wenceslaus Joseph,Joseph Adalbert,Feuereisen,Anna Elisabeth (Beruf Bäcker)
@@ -1199,8 +1208,8 @@ Iglau,28.9.,Wenceslaus,Joseph Peter,Lang,Rosina
 Altenberg,29.9.,Rosina Catharina,Joseph,Wondre,Maria
 Iglau,30.9.,Maria Theresia Constantia,Joseph,Seidlmeyer,Maria Clara
 Iglau,30.9.,Anna Theresia,Paul,Janko,Maria Theresia (Beruf Fleischer)
-Iglau,30.9.,Johann,-,-,Rosina (Name der Mutter: Madl)
-Iglau,1.10.,Maria Theresia Emerentiana#,Michael,Häusler,Anna BArbara (Beruf Pannifex)
+Iglau,30.9.,Johann,-,-,Rosina U: Kind von Rosina Madl
+Iglau,1.10.,Maria Theresia Emerentiana#,Michael,Häusler,Anna Barbara (Beruf Pannifex)
 Obergoss,1.10.,Maria Catharina,Augustin,Wondre,Anna
 
 DP 72
@@ -1229,8 +1238,8 @@ Kleinstunitz,20.10.,Catharina,Joseph,Töltscher,Anna
 Iglau,20.10.,Maria Elisabeth,Johann,Helder,Elisabeth (Beruf Maurer)
 Iglau,22.10.,Maria Catharina,Matthäus,Polak,Maria (Beruf Famulus)
 Iglau,23.10.,Maria Catharina,Jacob,Kompp,Catharina (Beruf Pannifex)
-Iglau,23.10.,Leopold,-,-,Anna Maria (Name der Mutter: Joksch#)
-Iglau,23.10.,Rosalia,-,-,Rosalia (Name der Mutter: Woditzky#)
+Iglau,23.10.,Leopold,-,-,Anna Maria U: Kind von Anna Maria Joksch#
+Iglau,23.10.,Rosalia,-,-,Rosalia U: Kind von Rosalia Woditzky#
 Iglau,23.10.,Maria Elisabeth,Johann Wenceslaus,Galle,Margaretha (Beruf Incola)
 Iglau,24.10.,Martin,Thomas,Pader#,Susanna (Beruf Arbeiter)
 Obergoss,24.10.,Maria Catharina,Matthäus,Schüller,Rosina
@@ -1242,8 +1251,8 @@ DP 74
 
 Iglau,29.10.,Catharina,Martin,Pöltzl,Anna (Beruf Schäfer)
 Iglau,30.10.,Franz Xaver Karl,Dominik,Östreicher,Elisabeth
-Iglau,30.10.,Johann Karl,-,-,Anna (Name der Mutter: Schutter#)
-Iglau,30.10.,Maria Catharina,-,-,Maria Theresia (Name der Mutter: Simon)
+Iglau,30.10.,Johann Karl,-,-,Anna U: Kind von Anna Schutter#
+Iglau,30.10.,Maria Catharina,-,-,Maria Theresia U: Kind von Maria Theresia Simon
 Iglau,3.11.,Andreas,Mathias,Grassl,Elisabeth
 Iglau,4.11.,Maria Catharina Barbara,Franz,Gonias,Anna Catharina (Beruf Pannifex)
 Sunersdorf#,5.11.,Andreas,Bartholomäus,Souczek#,Rosina
@@ -1261,7 +1270,7 @@ Iglau,14.11.,Anna Vinzentia Julia,Franz Joseph,Hnatek,Maria Theresia (Beruf Telo
 Iglau,15.11.,Maria Catharina,Andreas,Plaschka,Catharina (Beruf Weber)
 Iglau,17.11.,Maria Elisabeth,Joseph,Onsorg,Catharina (Beruf Incola)
 Iglau,17.11.,Maria Elisabeth,Augustin,Richter,Maria (Beruf Arbeiter)
-Iglau,19.11.,Andreas Christian,-,-,Maria (Name der Mutter: Krayatsch#)
+Iglau,19.11.,Andreas Christian,-,-,Maria U: Kind von Krayatsch#
 Iglau,21.11.,Leonard Vinzenz,Johann Paul,Kuhn,Elisabeth (Beruf Alutarius)
 Iglau,22.11.,Andreas,Leonard,Müller,Anna Catharina (Beruf Incola)
 Ebersdorf,22.11.,Maria Catharina,Thomas,Stummer,Anna Maria
@@ -1271,6 +1280,5 @@ Iglau,24.11.,Franz Xaver,Martin,Ruziczka,Catharina (Beruf #)
 Iglau,24.11.,Maria Barbara Emerentiana#,Augustin,Lang,Maria Catharina (Beruf Maurer)
 
 DP 76
-
 
 
