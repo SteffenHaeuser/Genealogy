@@ -9,7 +9,36 @@ Steffen Häuser
 
 1748
 
+DP 286
+
+
+
+DP 287
+
+Iglau,13.05.,Joannes Wenceslaus,-,Aller,Anna Rosina,-,Koller,J,J [1:<Joannes,Kunschad1>,2:<Mathias,Telscher2>,3:<Philippus,Weinner3>,4:<Martinus,Würtzinger4>]
+Iglau,14.05.,Joannes,-,Ludl,Dorothea,-,Rinagl,W,J [1:<Mathäus,Miksche1>,2:<Mathias,Rinagl2>,3:<Andreas,Schüller3>,4:Joannes,Neufingerl4>]
+Ebersdorf,14.05.,Josephus,-,Strahl,Rosina,-,Schink,J,J [1:<Godefridus,Bartl1>,2:<Philippus,Letzer2>,3:<Martinus,Grimshandl3>,4:<Martinus,Töpper4>]
+Iglau,10.06.,Paulus,-,Budinschki,Maria Barbara,-,Schmilauer,W,J [1:<Franciscus Josephus,Siegl1>,2:<Paulus,Schüller2>,3:<David,Reindler3>,4:<Joannes,Schmilauer4>]
+Iglau,26.06.,Joannes,-,Kottrolff,Elisabeth,-,Stoiger#,W,J [1:<Leopoldus,Pable1>,2:<Josephus,Richter2>,3:<Joannes,Bruno3>,4:<Mathias,Steyger4>]
+Hondhana und Iglau,09.07.,#annes,-,Lang,Anna Catharina,-,#,J,J (Berufe Famulus) [1:<Martinus,Suda1>,2:<Jacobus,Hoffmann2>,3:<Joannes,Lang3>,4:<Christianus,Khochwasser#4>]
+Iglau,09.07.,Leopold,-,Stragsburger#,Clara,-,Grabler,J,J [1:<Josephus,Raab1>,2:<Franciscus,Grabler2>,3:<Simon,Kargl3>,4:<Joannes,Federspiel4>]
+Iglau,19.08.,Joannes,-,Puth,Anna,-,Neywirdt,W,W (Berufe Faber Lignarius/-, Zeuge 3: "Dus") [1:<Laurentius,Toma1>,2:<Augustinus,Eiges#2>,3:<Joachimus,Stayerer3>,4:<Franciscus,Stajerer4>]
+Iglau,27.08.,Mathias,-,Knittl,Barbara,-,Prosch,W,J [1:<Franciscus,Semrath1>,2:<Lucas,Gantzwohl2>,3:<Andreas,Semradth3>,4:<Joannes,Hanschl4>]
+Iglau,01.09.,Mathias,-,Siegl,Anna,-,Lerchl,J,J [1:<Andreas,Siegl1>,2:<Georgius,Siegl2>,3:<Joannes,Lengderffer3>,4:<Augustinus,Eugl4>]
+Iglau,02.09.,Martinus,-,Schönowitzer,Catharina,-,Neubauer,J [1:<Joannes,Widholt1>,2:<Mathias,Polistka#2>,3:<Georgius,Loßwaldt3>,4:<Mathias,Holtz4>]
+
 DP 288
+
+Iglau,02.09.,Josephus,-,Pranetz#,Maria Barbara,Kirchenbauer,J,W [1:<Joannes,Janscky1>,2:<Fridericus,Scherer2>,3:<David,Haberman3>,4:<Godefridus,Schwartz4>]
+Iglau,15.09.,Joannes,-,Zytka,Susanna,-,Schneider,J,J [1:<Thomas,Ploth1>,2:<Joannes Antonius,Siegl2>,3:<Jacobus,Schüssler3>,4:<Franciscus,Zebo,-,Pannifex4>]
+Iglau,23.09.,Martinus,-,Fastenbauer,Maria,-,Long,W,W [1:<Jacobus,Feser1>,2:<Antonius,Titz2>,3:<Tobias,Horner3>,4:<Jacobus,Schmicheus#4>]
+Iglau,30.09.,Antonius,-,Preuss,Susanna,-,Hertzig,W,J (Berufe Pannifex et Civis/-) [1:<Elias,Neubauer1>,2:<Leopoldus,Horning2>,3:<Josephus,Zebo3>,4:<Laurentius,Schwortz4>]
+Iglau,30.09.,Joannes,-,Pöck,Rosina,-,Lang,J,J [1:<Joannes,Telscher1>,2:<Matthäus,Holtz2>,3:<Leopoldus,Gilch3>,4:<Joannes,Wondre4>]
+Iglau,30.09.,Joannes,-,Schusdahrek#,Maria Francisca,-,Sellner#,J,J (Berufe Pistor/-, Zeuge 1: "Dominus", Zeuge 3: "Pronobilis ac Ca# huius D.") [1.<Antonius,Midtlacker1>,2:<Andreas,Reichard2>,3:<Leopoldus,Hartl3>,4:<Joannes Georgius,Horner4>]
+Iglau,06.10.,Mathias,-,Poliwka,Elisabeth,-,Hörnl,J,J [1:<Joannes Henricus,Kübeck1>,2:<Andreas,Zeutzinger2>,3:<Josephus,Politzer3>,4:<Josephus,Östereicher4>]
+Iglau,06.10.,Augustinus,-,Richter,Maria,-,Föck,J,J [1:<Laurentius,Deltscher1>,2:<Joannes,Seeman2>,3:<Andreas,Onschorg3>,4:<Joannes,Kutti4>]
+Iglau,07.10.,Joannes,-,Ruswurm,Maria Catharina,-,Reinisch,J,J (Zeuge 1,3: "Pronobl. Dus", Zeuge 4: "Dus") [1:<Franciscus Bernardus,Krönbercher1>,2:<Melchior,Jancko2>,3:<Antonius,Zebon3>,4:<Franciscus,Krönberger4>]
+Iglau,08.10.,Joannes,-,Deltscher,Maria Clara,-,Malentschperger,J,J [1:<Christianus,Kochwasser1>,2:<Joannes Josephus,#eyer2>,3:<Ignatius,Malentschperger3>,4:<Antonius,Schwortz4>]
 
 DP 289
 
