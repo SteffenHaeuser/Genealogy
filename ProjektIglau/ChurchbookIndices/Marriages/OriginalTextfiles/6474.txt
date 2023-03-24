@@ -51,7 +51,7 @@ Iglau,12.02.,Ignatius,-,Fatz,Magdalena,-,Gärttner,W,J (Zeuge 1: "D." == Dominus
 Gossau,13.02.,Georgius,-,Röder,Susanna,-,-,J,J [1:<Georgius,Neubauer1>,2:<Martinus,Holtzbauer2>,3:<Mathäus,Pistauer3>,4:<Joannes,Zodl4>]
 Iglau,13.02.,Joannes,-,Seidl,Rosina,Perzinck,J,J [1:<Augustinus,Luxander1>,2:<Joannes,Plahns#2>,3:<Martinus,Popelka3>,4:<Paulus,Ginrak#4>]
 Iglau,12.02.,Andreas,-,Figer,Barbara,-,Gilch,W,W [1:<Georgius,Watzal1>,2:<Thomas,Müller2>,3:<Laurentius,Mopils3>,4:<Joannes,Quell4>]
-Iglau,20.02.,Christianus Thomas,Knauth,Eleonora,Hantsch,J,W (Zeuge 1,2,3: "D." == Dominus) [1:<Anselmus,Neumann1>,2:<Franciscus,Handtlos2>,3:<Franciscus,Schneider3>,4:<Carolus,Brinhauser#4>]
+Iglau,20.02.,Christianus Thomas,Knauth,Eleonora,-,Hantsch,J,W (Zeuge 1,2,3: "D." == Dominus) [1:<Anselmus,Neumann1>,2:<Franciscus,Handtlos2>,3:<Franciscus,Schneider3>,4:<Carolus,Brinhauser#4>]
 Iglau,25.02.,Wenceslaus,-,Schik#,Maria,-,Zeppan,J,J [1:<Joannes,Lang1>,2:<Norbertus,Tersch2>,3:<Andreas,Proksch3>,4:<Martinus,Suda4>]
 
 DP 286
@@ -61,11 +61,11 @@ Iglau, 26.02.,Franciscus,-,Höffer,Catharina,-,Pistauer,J,W (Zeuge 3: "Dus") [1:
 Iglau,26.02.,Norbertus,-,Fatz,Susanna,-,Reindler,J,W (Zeuge 1,3: "D." == Dominus") [1:<Leopoldus,Horny,-,Pannifex1>,2:<Josephus,Fatz2>,3:<Michael,Reindler3>,4:<Augustinus,Politzer4>]
 Iglau,26.02.,Augustinus,-,Rippa,Anna,Oberrenner,J,J [1:<Joannes,Lukschander1>,2:<Augustinus,Deltscher2>,3:<Laurentius,Koschack3>,4:<Josephus,Neubauer4>]
 Sachsenthal und Iglau,30.04.,Ignatius,-,Kostko,Maria Theresia,-,Forcker#,-,J (Bräutigam: "Pronobilis Dnus") [1:<Joannes,Sander,Iglau,Civis1>,2:<Andreas,Klein,Iglau,Civis2>]
-Iglau,06.05.,Andreas,-,Hamonn,Eva Rosina,Hackenberger,W,J [1:<Josephus,Panger1>,2:<Antonius,Hermann2>,3:<Daniel,Lucas3>,4:<Josephus,Tütz4>]
+Iglau,06.05.,Andreas,-,Hamonn,Eva Rosina,-,Hackenberger,W,J [1:<Josephus,Panger1>,2:<Antonius,Hermann2>,3:<Daniel,Lucas3>,4:<Josephus,Tütz4>]
 Iglau,06.05.,Ignatius,-,Harant,Maria Elisabeth,-,Ruml,W,J (Berufe Civis et Pannifex/-, Zeuge 1: "Dus") [1:<Antonius,Zebo1>,2:<Georgius,Horner2>,3:<Josephus,Zebo3>,4:<Augustinus,Politzer4>]
 Iglau,06.05.,Jacobus,-,Pfamdörffer,Rosina,-,Urban,W,W [1:<Paulus,Böhm1>,2:<Laurentius,Galle2>,3:<Jacobus,Hoffmann3>,4:<Martinus,Rödlmacher4>]
 Iglau,07.05.,Wenceslaus, Adam,-,Kraus,Anna Maria,-,Philipp,W,J (Zeuge 3: "Pronobl. ac. Consultisimus Dus", Zeuge 4: "Dus" == Dominus) [1:<Henricus,Schleim1>,2:<Joannes Georgius,Kubitzka2>,3:<Leopoldus,Hartl3>,4:<Joannes Georgius,Horner4>]
-Iglau,07.05.,Elias,-,Neubauer,Anna Theresia,Habermann,W,J (Zeuge 1,2,3: "D." == Dominus) [1:<Antonius,Zebo1>,2:<Franciscus,Kronberger2>,3:<Leopold,Baumberger3>,4:<Hermanus,Hartl4>]
+Iglau,07.05.,Elias,-,Neubauer,Anna Theresia,-,Habermann,W,J (Zeuge 1,2,3: "D." == Dominus) [1:<Antonius,Zebo1>,2:<Franciscus,Kronberger2>,3:<Leopold,Baumberger3>,4:<Hermanus,Hartl4>]
 Iglau,12.05.,Martinus,-,Thuman,Catharina,-,Anton,W [1:<Andreas,Frey1>,2:<Adam,Drewnitsky2>,3:<Simon,Halina#3>,4:<Mathias,Przibil4>]
 
 DP 287
