@@ -14,7 +14,7 @@ DP 288
 DP 289
 
 Iglau,14.10.,Bernardus,-,Kirchberger,Mariana,-,Peter,J (Berufe Kyrotogarius/-, V. wie Virgine oder wie Vidua ? Randnotiz: "Prius Nostito Juramento") [1:<Antonius,Pachmann1>,2:<Andreas,Schleim2>,3:<Elias,Neybauer3>,4:<Joannes Michael,Sturm4>]
-Iglau,14.10.,Antonius,-,Plath,Maria Elisabeth,Popelka,J,W (Berufe Müller/-, Zeuge 3: "Pronobilis ac. generosus Dus", Zeuge 4: "Dus") [1:<Wenceslaus,Eugl1>,2:<Josephus,Höck2>,3:<Thomas Leopoldus,Bauernperger3>,4:<Martinus,Koß4>]
+Iglau,14.10.,Antonius,-,Plath,Maria Elisabeth,-,Popelka,J,W (Berufe Müller/-, Zeuge 3: "Pronobilis ac. generosus Dus", Zeuge 4: "Dus") [1:<Wenceslaus,Eugl1>,2:<Josephus,Höck2>,3:<Thomas Leopoldus,Bauernperger3>,4:<Martinus,Koß4>]
 Frauenthal und Iglau,15.10.,Sebastianus Zacharias,-,Faber,Apollonia,-,Ruml,J,J [1:<Felix,Wolff1>,2:<Joannes,Still2>,3:<Elias,Kreutzberger3>,4:<Franciscus,Neybauer4>]
 Gossau,15.10.,Andreas,-,Strauch,Maria,-,Hoffman,J (V. wie Virgine oder V. wie Vidua ?) [1:<Andreas,Lipa1>,2:<Georgius,Kehauth#2>,3:<Josephus,Stultz3>,4:<Godefridus,Luida4>]
 Iglau,20.10.,Martinus,-,Müller,Susanna,-,Neumann,W,J [1:<Joannes,Schwoihsfiser1#>,2:<Joannes,Neuwürth2>,3:<Gregorius,Stutz3>,4:<Martinus,Huda#4>]
@@ -41,9 +41,9 @@ Iglau,11.11.,Martinus,-,Stutz,Rosina,-,Zemann,W,W [1:<Mathäus,Micksche1>,2:<And
 DP 291
 
 Iglau,12.11.,Joannes,-,Rinagl,Anna,-,Habl,W,W [1:<Georgius Michael,Hartl1>,2:<Tobias,Wonder2>,3:<Georgius,Schaler3>,4:<Georgius,Polack4>]
-Iglau,12.11.,Paulus,-,Kass,Anna Regina,Ponstingl,J,J [1:<Joannes,Schnöller1>,2:<Paulus,Teltscher2>,3:<Augustinus,Teltscher3>,4:<Georgius,Pruser#4>]
+Iglau,12.11.,Paulus,-,Kass,Anna Regina,-,Ponstingl,J,J [1:<Joannes,Schnöller1>,2:<Paulus,Teltscher2>,3:<Augustinus,Teltscher3>,4:<Georgius,Pruser#4>]
 Polncnis# und Iglau,18.11.,Joannes,-,Hladik,Rosalia,-,Gallinova,J (Berufe Pannifex/-, V. wie Virgine oder V. wie Vidua ?) [1:<Andreas,Pergmann1>,2:<Joannes,Wentzlaus2>]
-Iglau,18.11.,Ignatius,-,Pokorni,Anna Rosina,Raub,J,J (Zeuge 3: "Pro. Dus") [1:<Joann Jacobus,Frichler#1>,2:<Tobias,Seidlinger2>,3:<Antonius,Zebo3>,4:<Joannes,Jacobus,Parth4>]
+Iglau,18.11.,Ignatius,-,Pokorni,Anna Rosina,-,Raub,J,J (Zeuge 3: "Pro. Dus") [1:<Joann Jacobus,Frichler#1>,2:<Tobias,Seidlinger2>,3:<Antonius,Zebo3>,4:<Joannes,Jacobus,Parth4>]
 Iglau,25.11.,Josephus,-,Kolserl,Anna,-,Thomer,W,J [1:<Mathias,Politzer1>,2:<Wenceslaus,Schneller2>,3:<Augustinus,Politzer3>,4:<Joannes,Weinner4>]
 Iglau,25.11.,Wenceslaus,-,Matzner,Catharina,-,Kürschner,J,W [1:<Joann Michael,Sturm1>,2:<Tobias,Walter2>,3:<Philippus,Schleim3>,4:<Joann Georg,Gubitschka4>]
 Iglau,25.11.,Josephus,-,Kirchner,Catharina,-,Föllner#,J,J [1:<Franciscus,Tütz1>,2:<Augustinus,Eugl2>,3:<Antonius,Tütz3>,4:<Thomas,Plath4>]
@@ -1740,7 +1740,7 @@ Iglau,2.8.,Michael,-,Kirchhoffer,Elisabeth,Paul,Schuster (Berufe Soldat/Pannifex
 Iglau,3.8.,Michael,-,Christoph,Theresia,Johann Georg,Schultz (Soldat/Schuhmacher)
 Iglau,15.8.,Wenceslaus,-,Payll,Rosina,Simon,Swachatzky,-,W (Berufe Soldat/Incola)
 Iglau,16.8.,Johann,-,Cziszar#,Veronica,-,Heiniger (Berufe Soldat/-)
-Iglau,5.9.,Johann,-,Gobartsch#,Ludmilla,Wenceslaus,Neuwirth (Berufe Soldat/-, Ludmilla ist aus Schrittenz#)
+Iglau und Schritenz#,5.9.,Johann,-,Gobartsch#,Ludmilla,Wenceslaus,Neuwirth (Berufe Soldat/-)
 Iglau,5.9.,Martin,Franz,Prochaska,Anna Barbara,Anton,Frühauf (Berufe -/Gärtner, Der Vater des Bräutigams war Weber)
 
 DP 459
@@ -1760,5 +1760,5 @@ Iglau,18.10.,Martin,Andreas,Sommer,Rosina,Matthäus,Bösbauer (Berufe -/Arbeiter
 Iglau,18.10.,Johann,-,Körpe,Anna,Augustin,Zodl,W (Berufe Arbeiter/Arbeiter)
 Iglau,18.10.,Paul,Johann,Gleischner,Anna,Gregor,Schnöller (Anna ist aus Haintzendorf)
 Iglau,18.10.,Mathias,-,Schüller,Anna,Mathias,Gleischner,W (Berufe Arbeiter/-)(Anna ist aus Dürr#)
-Iglau,23.10.,Paul,Paul,Loch,Catharina,Andreas,Wondre (Berufe -/-, Der Vater des Bräutigams war Arbeiter, Catharina ist aus Altenberg)
+Iglau und Altenberg,23.10.,Paul,Paul,Loch,Catharina,Andreas,Wondre (Berufe -/-, Der Vater des Bräutigams war Arbeiter)
 Iglau,25.10.,Mathias,Mathias,Lang,Maria,Mathias,Straus (Der Vater des Bräutigams war Arbeiter)
