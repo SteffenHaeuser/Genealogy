@@ -2076,3 +2076,41 @@ Iglau,18.10.,Paul,Johann,Gleischner,Anna,Gregor,Schnöller (Anna ist aus Haintze
 Iglau,18.10.,Mathias,-,Schüller,Anna,Mathias,Gleischner,W (Berufe Arbeiter/-)(Anna ist aus Dürr#)
 Iglau und Altenberg,23.10.,Paul,Paul,Loch,Catharina,Andreas,Wondre (Berufe -/-, Der Vater des Bräutigams war Arbeiter)
 Iglau,25.10.,Mathias,Mathias,Lang,Maria,Mathias,Straus (Der Vater des Bräutigams war Arbeiter)
+
+DP 461
+
+Iglau,30.10.,Jacobus,-,Weinig,Theresia,Thomas,Schmidt,-,W (Berufe Civis et Faber/Civis, Zeuge 1,3: Dus) [1:<Joannes,Eugelbrenner1,Iglau,Civis et Zythopol1>,2:<Joannes Michael,Güsnerin,Iglau,Civis et Vietor2>,3:<Jacobus,Leipoldt,Iglau,Civis et Zythopol3>,4:<Joannes,Praksch,Iglau,Civis et Molitor4>]
+Iglau,06.11.,Joannes,Thomas,Lull,Maria,Martin,Durchhalter,J,J (Berufe Arbeiter/Civis, Unklar ob die Ortsbezeichnung Birnbaumhof nur zum letzten Zeugen oder zu mehreren Zeugen gehört) [1:<Mathias,Schirler#1>,2:<Martinus,Pitzal2>,3:<Joannes,Teltscher3>,4:<Wenceslaus,Teltscher,Birnbaumhoff4>]
+Iglau,06.11.,Joannes,Joannes,Köpernick,Rosina,Thomas,Totschick,J,J (Berufe Arbeiter/Arbeiter) (Unklar ob die Ortsbezeichnung Altenberg nur zum letzten Zeugen oder zu mehreren Zeugen gehört) [1:<Joannes,Lang1>,2:<Michael,Krem#2>,3:<Tobias,Wondri3>,4:<Joannes,Siegel,Altenberg4>]
+Iglau,07.11.,Augustinus,-,Telscher,Anna,Mathias,Todl,J,J (Berufe Famulus/Arbeiter) [1:<Martinus,Prakesch1>,2:<Josephus,Saschka2>,3:<Franciscus,Alle#,Iglau,Civis3>,4:<Joannes Michael,Just,Iglau,Civis et Pistor4>]
+Iglau,07.11.,Joannes,-,Agatzy,Elisabeth,-,Krappl,W,W (Berufe Villicus/-) [1:<Mathias,Hoffer1>,2:<Laurentius,Agatzy,-,#2>,3:<Mathias,Eugel,-,Müller3>,4:<Franciscus,Agatzy,-,Sartor4>]
+Obergoß und Kleinneustadt,07.11.,Joannes,-,Neuwirth,Rosina,-,Baltrin#,W,W [1:<Martinus,Melion,Iglau,Civis et Lanio1>,2:<Martinus,Frantz,-,Arbeiter2>,3:<Andreas,Pitzal3>,4:<Mathias,Schwartz,-,Arbeiter4>]
+Iglau und Hatzendorf,08.11.,Mathias,Joannes,Schneller,Elisabeth,Andreas,Teltscher,J,J [1:<Gregorius,Schneller1>,2:<Gregorius,Pulß2>,3:<Martinus,Teltscher3>,4:<Joannes,Kittner4>]
+Iglau und Kleinstunitz,08.11.,Mathias,Martin,Wursack,Anna,Joseph,Neubauer,J,J [1:<Philippus,Wursack1>,2:<Josephus,Neubauer2>,3:<Tobias,Wondra3>,4:<Joannes,Miksche4>]
+Iglau und Hohdorff,08.11.,Augustinus,Andreas,Rinagl,Anna,Laurenz,Prawentz,J,J [1:<Franciscus,Polay,-,Mercator et Zythopola1>,2:<Joannes,Ernst2>,3:<Joannes,Gleisner3>,4:<Andreas,Teltscher4>]
+
+DP 462
+
+Iglau und Gossau,08.11.,Joannes,Joannes,Kettner,Regina,Joannes,Lukschander,J (Berufe Villici/-) [1:<Matthias,Tonnhauser1>,2:<Jacobus,Neubauer2>,3:<Andreas,Reder#3>,4:<Martinus,Luckschander4>]
+Iglau,14.11.,Joannes Michael,-,Hucka,Maria Theresia,Joseph,Österreicher,W,J (Berufe Civis et Molitor/Civis et Molitor) [1:<Leopoldus,Hornig,Iglau,Cives et Zythopol1>,2:<Laurentius,Kirchner,Iglau,Cives et Zythopol2>,3:<Joannes,Prock#,Iglau,Cives et Molitor3>,4:<Josephus,Mentz,Iglau,Cives et Pannifex4>]
+Iglau,15.11.,Martinus,Martinus,Mücksche,Maria,Gregor,Zwilling,J,J (Berufe -/Arbeiter) [1:<Joannes,Mayer1>,2:<Philippus,Müksche,-,Molitor2>,3:<Joannes,Wendt,-,Molitor3>,4:<Wenceslaus,Rositzka,-,Civis et Figulus4>]
+Iglau,15.11.,Michael,Paul,Thoma,Maria Elisabeth,Joseph,Ruswurm,J,J (Berufe Faber Lignarius/Civis et Molitoris) [1:<Joannes Thoma1>,2:<Laurentius,Thoma,Iglau,Civis2>,3:<Jacobus,Ruswurm3>,4:<Joannes,Ruswurm,Iglau,Civis et Molitor4>]
+Iglau,21.11.,Franciscus,-,Werner,Catharina,Laurentius,Peckh#,W,J (Berufe Civis in Nepomuck vico Bocmia/-) (Zeuge 1,2: Dominus) [1:<Jacobus,Leipoldt,Iglau,Zythopol1>,2:<Joannes,Ra#2>,3:<Joannes,Fu#,-,Arcularius3>,4:<Carolus,Gibel#,-,Sartor4>]
+Iglau,21.11.,Mathäus,-,Mahn#,Elisabeth,Joannes,Lerch,W,W (Berufe Civis/Civis et Murarius, Zeuge 1,2: "D." = Dominus) [1:<Carolus,Dietrich,-,Mercator et Zytopol1>,2:<Josephus,Erbstein,-,Civis et Zytopol2>,3:<Joannes,Ernst,-,Civis et #3>4:<Antonius,Allisch,-,Civis et Lorarius4>]
+Iglau,22.11.,Ignatius,-,Schvatzer,Anna Maria,-,Punhord#,J (Zeuge 1: Pronobilis Dominus, Zeuge 2,3,4: "D." == Dominus) [1:<Joannes Franciscus,Klosper,-,#1>,2:<Dominicus,Österreicher,Iglau,Civis2>,3:<Joannes,Schüb#,Iglau,Civis et #3>,4:<Antonius,Seibl4>]
+Iglau,22.11.,Joannes Georgius,-,Gubitschka,Anna Catharina,Andreas,Debins# (Berufe Civis et Sartor, Civis) (Zeuge 1,2: Dominus) [1:<Joannes,Richly,Iglau,Civis et Zytopol1>,2:<Antonius Josephus,Neiman,-,#2>,3:<Michael,Seltzer3>,4:<Wenceslaus,Kraus4>]
+
+DP 463
+
+Iglau,23.11.,#,-,Stuller,Catharina,-,Dulin#,-,J (Berufe Chirurgus/-) (Bräutigam: "ac. Pronobilis Dominus", Braut: "Virtuosa", Zeuge 1,2: "Dominus") [1:<Josephus,Sedelmayer,-,Cives et #1>,2:<Franciscus,Alec#,Iglau,Civis2>]
+
+1764
+
+Iglau und Lasowitz,09.01.,Paulus,Michael,Pasler,Dorothea,Georg,Matgrek#,J,J (Berufe Civis et Pannifex/Textoris, "V." bei der Braut heißt wohl Virgine, da explizit ein Vater genannt wird)[1:<Ignatius,Preiß,Iglau,Civis et Pannifex1>,2:<Ferdinandus,Noe2>,3:<Wenceslaus,Riedl,Iglau,Civis et Pannitonsor3>,4:<Henricus,Pasler,Iglau,Civis et Pannifex4>]
+Iglau und Kleinstunitz,10.01.,Augustinus,Mathäus,Neubauer,Rosina,Mathäus,Hable,J,J (Berufe Arbeiter/-) [1:<Augustinus,Eugl1>,2:<Laurentius,Sittka,Iglau,Cives et Murary2>,3:<Antonius,Taubenkorb,Iglau,Civis et Pistor3>,4:<Joannes,Schub,Iglau,Civis et Faber4>]
+Iglau,16.01.,Michael,Joseph,Wittmann,Catharina,Georg,Riedl,J,J (Berufe Civis et Pannifex/Civis et Pileator, Zeuge 3: "Dus") [1:<Philippus,Praunisch1>,2:<Michael,Frondl2>,3:<Ignatius,Körber,Iglau,Civis et Pannifex3>,4:<Norbertus,Prauneys,Iglau,Civis et Pileator4>]
+Iglau,23.01.,Carolus,-,Sauerer,Dorothea Veronica,Martin,Sedlazek,W,J (Berufe Civis et Sartor/Civis et Tibialifex Polnensis, Zeuge 1: "Pronobl. ac. Consultisimus Dus", Zeuge 2,4: "Dus", Zeuge 3: "Pronobl. Dominus") [1:<Franciscus,Krönberger1>,2:<Joannes,Siegl,Iglau,Civis et Zythopol2>,3:<Ludovicus Eusebius,Weiner,Iglau,Civis et Pharmacopaeus#3>,4:<Joannes,Kolisko,Iglau,Civis et Zythopol4>]
+Iglau,23.01.,Georgius,-,Kalwoda,Maria,Joannis,Eckert,W,J [1:<Philippus,Döltscher1>,2:<Joannes Eckert,Stauern#2>,3:<Joannes,Ruswurml,Iglau,Civis et Molitor3>,4:<Wenceslaus,Kalwoda,-,Murarius4>]
+
+DP 464
+
