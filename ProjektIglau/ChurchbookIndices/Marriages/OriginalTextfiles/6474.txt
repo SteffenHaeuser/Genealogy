@@ -2114,3 +2114,103 @@ Iglau,23.01.,Georgius,-,Kalwoda,Maria,Joannis,Eckert,W,J [1:<Philippus,Döltsche
 
 DP 464
 
+Neustüfft und Höffen,24.01.,Joannes,Martin,Patry,Maria,Mathäus,Patry,J,J [1:<Thomas,Patry1>,2:<Andreas,Patry,Neustüfft2>,3:<Joannes,Faber3>,4:<Andreas,Neufingerl,Willantz4>]
+Posowitz und Philipsdorff,30.01.,Mathäus,Michael,Weber,Rosina,Augustin,Stumer,J,J [1:<Joannes,Klemm,-,Opilio1>,2:<Josephus,Zimmermann2>,3:<Laurentius,Watzka3>,4:<Joannes,Prawentz,Bürnbaumhoff4>]
+Iglau,06.02.,Wenceslaus,Martin,Rosenkrantz,Eva,Anton,Rimer,J,J (Berufe Civis et Figulus/Civis) [1:<Josephus,Heckh#,Iglau,Civis et Corarius1>,2:<Carolus,Anckner,Iglau,Civis et Acigularius2>,3:<Joseph,Politzky,Iglau,Civis et Zythopol3>,4:<Francisucs,Müller,Iglau,Civis et Pistor4>]
+Iglau,13.02.,Ignatius,Andreas,Hampl,Rosina,Mathäus,Siegl,J,J (Berufe Civis et Pannifex/Incola, Zeuge : "Dus") [1:<Ignatius,Körber,Iglau,Civis et Pannifex1>,2:<Ignatius,Riedl,Iglau,Civis et Pannifex2>,3:<Joannes,Neumann3>,4:<Joannes,Long,Iglau,Civis et Pannifex4>]
+Prositz und Iglau,13.02.,Josephus,Adam,Spor,Joanna,Andreas,Holderer (Berufe Civis et Sutor/Civis et Sutor) [1;<Joannes,Holderer,Iglau,Civis et Sutor1>,2:<Jacobus,Schüssler,Iglau,Civis et Pannifex2>,3:<Leonardus,Leinthaller#,Iglau,Civis et Pileator3>,4:<Franciscus,Holderer,Iglau,Civis et Sutor4>]
+Iglau,13.02.,Norbertus,Nicolas,Pasnocht,Maria Josepha,Davidus,Pauspertl,J,J (Berufe Civis et Lorarius/Civis et Pannifex, Zeuge 1: "Pronobl. Dominus", Zeuge 3: "Dus") [1:<Joannes,Richly,Iglau,Civis et Zythopol1>,2:<Philippus,Grüll,Iglau,Civis et Lorarius2>,3:<Leopoldus,Horninck,Iglau,Civis et Zythopol3>,4:<Josephus,Zebo,Iglau,Civis et Pannifex4>]
+
+DP 465
+
+Hülbersdorf und Schrittentz,14.02.,Joannes,Martin,Rruschka#,Anna Theresia,Michael,Janetschek,J,J (Berufe -/Sutor) [1:<Josephus,Zimmermann1>,2:<Godefridus,Schorff2>,3:<Martinus,Zimmermann3>,4:<Mathias,Schimka,Hülbersdorf4>]
+Iglau,20.02.,Jacobus,Ignatius,Preiß,Regina,Ignatius,Fatz,J,J (Berufe Civis et Pannifex/Civis et Pannifex, Zeuge 3: "Dus") [1:<Jacobus,Schüssler1>,2:<Ignatius,Alitzer,Iglau,Civis et Pannifex2>,3:<Joannes,Siegl,Iglau,Civis et Zythopol3>,4:<Iglau,Civis et Pannifex4>]
+Iglau,27.02.,Josephus,-,Tentullin#,Maria Theresia,-,Rittlin#,W,J [1:<Joannes,Eugelbrenner,Iglau,Civis et Zythopola1>,2:<Joannes,Schwortz,Iglau,Civis et Pannifex2>,3:<Joannes,Rastius3>,4:<Godhardus,Schnöthz,Iglau,Civis et Leroplasa#4>]
+Klagenfurth und Iglau,27.02.,Joannes,Mathias,Stuck,Maria Barbara,Anton,Schwortz,J,J (Berufe Schuhmacher/Civis et Pannifex, Der Vater des Bräutigams war Civis et Faber Lignarius) [1:<Joannes,Federspill,Iglau,Civis1>,2:<Godefridus,Pauspertl,Iglau,Civis et Pannifex2>,3:<Joannes,Holderer3>,4:<Franciscus Holderer,Iglau,Cives et Sutores4>]
+Glatz und Iglau,04.03.,Ernestus,Joannis Ernestus,Wolff,Maria Catharina,Leopold,Pabl,J,J (Berufe Civis et Piliopoa/Civis et Pannitonsor, Der Vater des Bräutigams war Civis et Piliopoa, Zeuge 1: "Pronobl. Dominus", Zeuge 2,3,4: "Dus") [1:<Joannes Francisca,Klapperer1>,2:<Franciscus,Polay,Iglau,Civis et Mercator2>,3:<Jacobus,Hoffmann,Iglau,Civis et Pannitonsor3>,4:<Dominicus,Östereicher,Iglau,Civis4]
+Iglau,05.03.,Godefridus,Johannis Georgius,Schertzer,Maria Catharina,Joannis,Paucker,J,J (Berufe -/Auriga, Der Vater des Bräutigams war Incola, Zeuge 3: "Pronobl. Dus", Zeuge 4: "Dus", Braut nicht explizit als "Virgine" bezeichnet, aber als "Tochter", also wohl unverheiratet) [1:<Antonius,Rackl1>,2:<Josephus,Grabler,Iglau,Cives2>,3:<Joannes Franciscus,Klapperer3>,4:<Godefridus,Roibar,Iglau,Civis et Zythopola4>]
+
+DP 466
+
+Schürtz und Iglau,01.05.,Joannes,Joannes,Ricker,Elisabeth,Joannes,Gall,J,J (Berufe Faber/Operarius, Der Vater des Bräutigams war Faber, Die Braut nicht explizit als Virgine bezeichnet, aber als Filia, also wohl unverheiratet) [1:<Joannes,Richter,Iglau,Civis et Pannifex1>,2:<Michael,Güsorin#,Iglau,Civis et Vietor2>,3:<Jaconus,Merady,Iglau,Civis et Pannifex3>,4:<Laurentius,Schnöller,-,Murarius4>]
+Iglau,07.05.,Philippus,Adalbert,Pröttmüller,Elisabeth,Joseph,Labermann,J,J (Berufe -/Civis et Pannifex, Der Vater des Bräutigams war Faber Lignarius, Zeuge 3: "Dus", Die Braut ist nicht explizit als Virgine bezeichnet, aber als Filia, daher wohl unverheiratet) [1:<Franciscus,Fischer,Iglau,Civis et Lanio1>,2:<Antonius,Müller,Iglau,Civis et Pannifex2>,3:<Josephus,Friedrich,Iglau,Civis et Zythopola3>,4:<Franciscus,Long,Iglau,Civis et Lanio4>]
+Iglau,07.05.,Franciscus,-,Preiß,Anna Barbara,Mathäus,Kindl,W,W (Berufe Civis et Pannifex/Tibialifex et Civis Polnousis) [1:<Ignatius,Preiß,Iglau,Civis et Pannifex1>,2:<Carolus,Sauern,Iglau,Civis et Sartor2>,3:<Wenceslaus,Klipp#,Iglau,Civis et Zythopola3>,4:<Franciscus,Semerodt,Iglau,Civis et Sutor4>]
+Iglau,08.05.,Carolus Franciscus,-,Kunschack,Maria Anna,Carolus,Pil,-,J (Berufe Civis et Zythopola/Civis et Pietoris, Zeuge 1,3: "Pronobl. ac. Consultisimus Dus", Zeuge 2: "Pronobl. Dus") [1:<Carolus,Goschko,Saxenthal1>,2:<Franciscus Josephus,Hnateck,-,Supremus Consumtionis Telonarius2>,3:<Franciscus,Krönberger3>,4:<Thomas,Ziackl,Iglau,Senator4>]
+Brisau und Iglau,14.05.,Antonius,Joannis,Pelickan,Maria Joanna,Philippus,Sassensider,J,J (Berufe -/Civis et Pannifex, Der Vater des Bräutigams war Pannifex in Brisau) [1:<Ignatius,Harandt1>,2:<Andreas,Müller2>,3:<Franciscus,Lang3>,4:<Josephus,Schindler,Iglau,Civis et Pannifex4>]
+Sternberg und Iglau,14.05.,Josephus,Josephus,Ehrenstein,Catharina,Augustin,Prauer,J,J (Berufe -/Civis et Pannifex, Der Vater des Bräutigams war Schneider in Sternberg, Die Braut ist nicht explizit als Virgine bezeichnet, sondern als Filia, aber vermutlich zuvor unverheiratet) [1:<Antonius,Taubenkorb,Iglau,Civis et Pistor1>,2:<Joannes,Kübeck,Iglau,Civis et Sartor2>,3:<Casparus,Neuwürth3>,4:<Ignatius,Kroboth,Iglau,Civis et Pannifex4>]
+
+DP 467
+
+Iglau,15.05.,Josephus,Josephus,Wolff,Catharina,Ferdinand,Hackenberger,J,W (Berufe Civis/Civis et Bibliopego) [1:<Joannes,Lang1>,2:<Joannes,Harandt,Iglau,Civis et Pannifex2>,3:<Antonius,Pachmann,Iglau,Civis et Smigmator3>,4:<Joannes,Wolff,Iglau,Civis et Pannifex4>]
+Iglau,15.05.,Joannes,-,Höcht,Maria,Philipp,Hackenhauer,W,J (Berufe Vietor/-) [1:<Josephus,Früauf,-,Molitor1>,2:<Augustinus,Neubauer2>,3:<Mathäus,Michlfrith3>,4:<Josephus,Wolff4>]
+Iglau,27.05.,Adamus,-,Balleta,Anna Theresia,Franciscus,Tietz,-,J (Berufe Decurio Inclytus Regiminis Artilleric/Civis et Pannifex) [1:<Dominicus,Strauss1>,2:<Josephus,Schön,-,Decuriones Prodidi Regiminis2>,3:<Ignatius,Krobath,Iglau,Civis et Pannifex3>,4:<David,Pracht,-,Pistor4>]
+Iglau,28.05.,Wenceslaus,Jacob,Stiasneg,Catharina,Martin,Czeran,J,J (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter, Die Braut wird nicht explizit als Virgine genannt, aber als Filia, also wohl zuvor unverheiratet) [1:<Andreas,Töltscher1>,2:<Martinus,Markus2>,3:<Mathias,Schwörtz3>,4:<Laurentius,Padry,-,Arbeiter4>]
+Kleinstunitz und Haintzendorf,05.06.,Georgius,Martin,Töltscher,Anna,Joannis,Schnell,J,J (Die Braut wird nicht explizit als Virgine genannt, aber als Filia, also wohl zuvor unverheiratet, unklar ob sich "Haintzendorf" nur auf den vierten Zeugen oder auf mehrere Personen bezieht) [1:<Andreas,Töltscher1>,2:<Mathias,Schnöller2>,3:<Joannes,Küttler3>,4:<Philippus,Töltscher,Haintzendorf4>]
+Wepazikow und Iglau,11.06.,Joannes,Mathias,Spsiarowitz,Dorothea,Martin,Zianda,J,J (Berufe -/Faber) [1:<Leopoldus,Früauf,-,Molitor1>,2:<Wenceslaus,Strantzky2>,3:<Josephus,Wilhelm#3>,4:<Joannes Pauluis,Steiner,-,Vilicus4>]
+
+DP 468
+
+Iglau,25.06.,Vincentius,Joannis Georgius,Fridl,Maria Elisabeth,Joannis,Höffer,J,J (Berufe -/Aurifohsoris, Der Vater des Bräutigams war Pannifex) [1:<Josephus,Grabler1>,2:<Franciscus,Plaschko2>,3:<Michael,Pasler3>,4:<Antonius,Pasler,Iglau,Civis et Pannifex4>]
+Iglau,25.06.,Leopoldus,Wenceslaus,Hertzig,Eva Rosina,Dominicus,Sorer,J,W (Berufe -/Civis et Pannifex, der Vater des Bräutigams war Civis et Pannifex) [1:<Josephus,Zechmeyster1>,2:<Dominicus,Hertzig,Iglau,Civis et Pannifex2>,3:<Casparus,Hübschky,Iglau,Civis et Tornator3>,4:<Franciscus,Hampelmann#,Iglau,Civis et Loccus#4>]
+Iglau,26.06.,Mathäus,Christophorus,Krügl,Josepha,Josephus,Petter (Berufe,J,J Lanio/Civis et Sutoris, Zeuge 3: "Dominus") [1:<Colmanus,Herlizeck,-,Lanio1>,2:<Ignatius,Achatz,Iglau,Civis et Lanio2>,3:<Ferdinandus,Wernsdörffer,Iglau,Civis et Pannitonsor3>,4:<Mathias,Wittaseck,Iglau,Civis et Pistor4>]
+Iglau,16.07.,Augustinus,-,Lojda,Anna Catharina,Ignatius,Rieglsperger,-,W (Berufe Exemtoartus Miles/Lanionis) [1:<Josephus,Schultz,Iglau,Civis1>,2:<Franciscus,Rimpernagl,Iglau,Civis et Pistor2>,3:<Adamus,Reindl,Iglau,Civis et Alutarius3>,4:<Jacobus,Weinich,Iglau,Civis4>]
+Iglau,17.07.,Georgius,-,Hubinsky,Francisca,Wenceslaus,Jost,-,W (Berufe Miles Inclyto Regimine/Inquillinus Palnensis) [1:<Andreas,Türek#,-,Corporalis ejudem Regiminis1>,2:<Paulus,Metul#,-,Miles ab eodem Regimine2>]
+
+DP 469
+
+Iglau,30.07.,Jannes,-,Roibar,Joanna,Ludovicus,Weiss,W,J (Berufe Civis et Pannifex/Statuary, Zeuge 1,2: "Dominus") [1:<Antonius,Ridl,-,Zytopol1>,2:<Leopoldus,Hornik,-,Zytopol2>,3:<Josephus,Mentz,Iglau,Civis et Pannifex3>,4:<Josephus,Schwabenbach,Iglau,Civis et Pileator4>]
+Wolfframshoff und Iglau,13.08.,Conradus,Simonis,Pauriedl,Christina,Joannis,Körber,J,W (Berufe Sutor/Civis ac Sutor, Der Vater des Bräutigams war Schuhmacher, Wolfframshoff liegt in Bayern) [1:<Joannes,Schulsch,Iglau,Civis et Sutor1>,2:<Georgius,Kleiser,Iglau,Civis et Tibialifex2>,3:<Andreas,Schimko,Iglau,Civis et Zythopol3>,4:<Franciscus,Kosack,Iglau,Civis et Sutor4>]
+Iglau,21.08.,Jacobus,Joannis,Krum,Maria,Matthäus,Rinogl,J,J (Berufe -/Arbeiter, Der Vater des Bräutigams war Incola) [1:<Josephus,Schindler1>,2:<Philippus,Hauenschild,Iglau,Civis et Pannifex2>,3:<Andreas,Kollasch,-,Incola3>,4:<Andreas,Rinogl,Hoffdorff4>]
+Krubern# und Iglau,21.08.,Joannes,Joannis,Krisch,Maria,Andreas,Stucz,J,J (Berufe Auriga/Arbeiter, Krabern# liegt in Böhmen, Die Braut wurde nicht explizit als Virgine bezeichnet, aber da als Filia vermutlich zuvor unverheiratet) [1:<Francsicus,Liebisch,-,Soriba#1>,2:<Ignatius,Drobschug#,Iglau,Civis et Faber2>,3:<Simon,Frey,Iglau,Civis3>,4:<Jacobus,Hauer,Iglau,Civis et Pannifex4>]
+Iglau,28.08.,Franciscus,Joannis,Pudal,Catharina,Martin,Saradneck,J,J (Berufe Civis et Pellio/Civis et Lanio, Der Vater des Bräutigams war Civis et Pellio) [1:<Andreas,Grisster1>,2:<Joannes,Preckl,Iglau,Cives et Alutarius2>,3:<Ignatius,Melnon3>,4:<Joannes,Modl,Iglau,Cives et Lanio4>]
+
+DP 470
+
+Iglau,28.08.,Ignatius,-,Engelsdorffer,Maria Josepha,Leopold Thomas,Pauernberger,-,J (Berufe Salis Prafectus in Poßkowitz/Salis Prafectus Iglaviensis, Bräutigam und Zeuge 1,2,4: "Praenob. Dominus", Zeuge 3: "Praenob. ac. Consultisimus Dnus") [1:<Carolus,de Lebendfeldt1>,2:<Joannes,Engelschall2>,3:<Georgius Antonius,Neumann3>,4:<Ernestus,Perner,Iglau,Pharmaropaus# et Civis et Zythopola4>]
+Iglau und Schritentz,06.09.,Carolus,-,Hanl,Dorothea,Georg,Umbshauß,-,J (Berufe Exautoratus Miles/-, Die Braut wird nicht explizit als Virgine bezeichnet aber als Filia, also wohl zuvor unverheiratet) [1:<Georgius,Wondre1>,2:<Laurentius,Schwes#,-,Arbeiter2>,3:<Ignatius,Melion,Iglau,Civis et Lanio3>,4:<Joannes,Kinent#,Iglau,Civis et Molitor4>]
+Hoffen und Iglau,18.09.,Augustinus,Georg,Pulß,Rosina,Georg,Kohlsörl,J,W (Berufe -/Arbeiter) [1:<Georgius,Ludo,Iglau,Vitus Pruna Civis et Molitor1>,2:<Mathias,Pulß2>,3:<Joannes,Kohlsörl3>,4:<Joannes,Luckschander,Zaischau4>]
+Iglau,24.09.,Franciscus,-,Frey,Magdalena,Franciscus,Hon,W,W (Berufe Pannitonsor/Faber Lignarius) [1:<Josephus,Hirschko,Iglau,Civis et Pannitonsor1>,2:<Josephus,Forstner,Iglau,Civis et Sutor2>,3:<Josephus,Prawentz,Iglau,Civis et Auriga3>,4:<Carolus,Kraus,Iglau,Civis et Pannifex4>]
+Iglau,02.10.,Paulus,Georg,Kaüßer,Rosina,Martin,Schindler,J,J (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter) [:<Joannes,Kohlsörl1>,2:<Andreas,Köttner2>,3:<Andreas,Schindler,Kuchau3>,4:<Mathias,Kragatsch,Gürsching4>]
+Iglau und Mitteldorff,08.10.,Martinus,Joannis,Walentschka,Catharina,Joannis,Schmid,J,J (Berufe -/Sartoris, Der Vater des Bräutigams war Arbeiter) [1:<Antonius,Pachenau,Iglau,Civis et Smigmator1>,2:<Joannes Jacobus,Porth,Iglau,Civis et Pannitonsor2>,3:<Franciscus,Dimpernogl,Iglau,Civis et Pistor3>,4:<Joannes,Gäger,Iglau,Civis et Pannifex4>]
+
+DP 471
+
+Roschitz und Iglau,09.10.,Matthäus,Laurentius,Hable,Regina,Joseph,Mach,J,J (Berufe -/Arbeiter) [1:<Mathias,Payer1>,2:<Josephus,Neubauer,Gossau2>,3:<Martinus,Gassamas3>,4:<Martinus,Weber,-,Auriga4>]
+Iglau,15.10.,Josephus,Martin,Frideryky,Anna Catharina,Georg,Hort,J,J (Berufe exautoratus Miles/Arbeiter, Der Vater des Bräutigams war Civis et Pellio, die Braut wurde nicht als Virgine sondern als Filia bezeichnet, vermutlich zuvor unverheiratet) [1:<Josephus,Penirschko1>,2:<Joannes,Wolff2>,3:<Josephus,Körber3>,4:<Paulus,Pasler,Iglau,Cives et Pannifex4>]
+Iglau und Wolfframs,16.10.,Laurentius,-,Straus,Maria,Martin,Krautschneider,J,J (Berufe Exauctoratus Miles/-) [1:<Andreas,Höck,Iglau,Civis et Alutarius1>,2:<Georgius,Wondre2>,3:<Laurentius,Schnöller3>,4:<Philippus,Hable,Wolfframs4>]
+Iglau,22.10.,Paulus,-,Haber,Susanna,Martin,Markus,J,J (Berufe Exauctoratus Miles/Arbeiter, Die Braut wurde nicht explizit als Virgine bezeichnet sondern als Filia, aber vermutlich zuvor unverheiratet) [1:<Philippus,Jeich1>,2:<Paulus,Pasler,Iglau,Cives et Pannifex2>,3:<Joannes,Paukerle3>,4:Philippus,Krum,-,Arbeiter4>]
+Iglau,23.10.,Mathias,Martin,Faber,Elisabeth,Joseph,Long,J,J (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter, Zeuge 3,4: "D." == Dominus) [1:<Andreas,Grester#,Iglau,Civis1>,2:<Martinus,Perst2>,3:<Joannes,Eigelbrenner3>,4:<Josephus,Erbstein,Iglau,Cives et Zythopol4>]
+Iglau,29.10.,Joannes Adamas,Franciscus,Messert,Rosina Catharina,Joseph,Ruprecht,J,J (Berufe Tibialifex/Civis et Tibialifex, Der Vater des Bräutigams war Schneider) [1:<Francsiscus,Rinogl,Iglau,Civis et Pannifex1>,2:<Franciscus,Obst,-,Caupo2>,3:<Franciscus,Fiescher3>,4:<Franciscus,Lang,Iglau,Cives et Laniones4>]
+
+DP 472
+
+Bräutenhoff und #,29.10.,Mathias,-,Gerzabeck,Catharina,Franciscus,Holann,W,J (Berufe Sutor/Incola Magno Mezsici#, Zeuge 3: "Dnus", Ist Magno Mezsici# der Ortsname ? Braut als Filia, nicht als Virgine bezeichnet, aber vermutlich zuvor unverheiratet) [1:<Michael,Ambros,Gärtner1>,2:<Joannes,Politzer,Bräuttenhoff,Caupo2>,3:<Franciscus,Poliwsky,-,Juratus Advocatus3>,4:<Josephus,Heller,Iglau,Civis4>]
+Gonies und Pokowy,04.11.,Matthäus,Simeonis,Dworzak,Catharina,Martin,Swoboda,J,J (Braut als Filia, nicht als Virgine bezeichnet, aber vermutlich zuvor unverheiratet) [1:<Ignatius,Melion1>,2:<Mathias,Lang2>,3:<Martinus,Melion,Iglau,Cives et Laniones3>,4:<Jacobus,Neubauer,-,Murarius4>]
+Iglau und Dürr,05.11.,Mathias,Andreas,Schnöller,Maria,Matthäus,Hannl,J,J (Der Vater des Bräutigams war Arbeiter) [1:<Francsicus,Semradt,Iglau,Civis et Sutor1>,2:<Tobias,Wondre2>,3:<Joann. Paulus,Priepisink#3>,4:<Josephus,Wondre,Altenberg4>]
+Iglau,05.11.,Simon,-,Pernfues,Maria Catharina,Joannis,Honner,W,J (Berufe Civis et Pannifex/Civis et Pannifex, Zeuge 1: "Dnus", Zeuge 2: "Praenob. Dnus") [1:<Joan. Jacobus,Siegl,Iglau,Civis et Zythopol1>,2:<Ignatius,Schindler,Iglau,Civis et Pannifex2>,3:<Ludovicus Eusebius,Weiner,Iglau,Civis et Pharmacopaus3>,4:<Joannes,Haberman,Iglau,Civis et Pannifex4>]
+Obergoss,06.11.,Joannes,Matthäus,Schüller,Regina,Martin,Pitzal,J,J [1:<Mathias,Lang,Iglau,Civis et Auriga1>,2:<Mathäus,Schüller,Obergoss2>,3:<Laurentius,Kirchner,Iglau,Civis et Zythopol3>,4:<Georgius,Siegl,Iglau,Civis et Auriga4>]
+Iglau,06.11.,Martinus,-,Röder,Anna,Augustinus,Hort,J,J (Berufe Exauctoratus Miles/Arbeiter, die Braut ist nicht explizit als Virgine bezeichnet, sondern als Filia, aber war vermutlich zuvor unverheiratet) [1:<Mathias,Rippa1>,2:<Andreas,Röder,Gossau2>,3:<Joannes,Federspiel,Iglau,Civis et Arcularius3>,4:<Joannes,Mopiels,-,Incola et Murarius4>]
+
+DP 473
+
+Iglau,12.11.,Wenceslaus,Leopold,Kundrat,Agneta,Joannis,Lobgesang,J,J (Berufe Aurifohsor/Hortulanus, Der Vater des Bräutigams war Cauponus, die Braut ist nicht explizit als Virgine bezeichnet, sondern als Filia, aber war vermutlich zuvor unverheiratet) [1:<Franciscus,Neubauer1>,2:<Mathias,Kirchner,Iglau,Civis et Pannifex2>,3:<Josephus,Lang,Iglau,Civis et Lanio3>,4:<Wenceslaus,Matzner,Iglau,Civis et Sartor4>]
+Iglau,12.11.,Michael,-,Wolffeker,Maria Theresia,Lucas,Materny,W,W (Berufe Civis et Pannifex/Civis et Pannifex, Zeuge 1: "Dnus") [1:<Ignatius,Körber1>,2:<Mathias,Möntz2>,3:<Franciscus,Tietz,Iglau,Cives et Pannifex3>],4:<Petrus Paulus,Töltscher,Iglau,Civis4>]
+Pistau und Iglau,13.11.,Josephus,Philipp,Gleihsner,J,J (Berufe -/Villicus) [1:<Andreas,Schwartz,Pistau1>,2:<Andreas,Töltscher2>,3:<Paulus,Gindra3>,4:<Georgius,Popelka,-,Civis et Molitor4>]
+Iglau,13.11.,Joannes,Andreas,Friedl,Anna Rosina,Joannis,Rosenkrantz,J,J (Berufe -/Arbeiter, Der Vater des Bräutigams war Arbeiter) [1:<Martinus,Pitzal,Obergoss1>,2:<Philippus,Krum2>,3:<Joannes,Hort3>,4:<Josephus,Eckert,-,Arbeiter4>]
+Bürnbaumhoff und Iglau,13.11.,Mathias,Davidus,Kröbs,Anna,Augustin,Luckschander,J,J (Berufe -/Villicus) [1:<Joan. Michael,Hucka,Iglau,Civis et Molitor1>,2:<Georgius,Kubiczka,Iglau,Civis et Sartor2>,3:<Franciscus,Libisch,-,Soriba#3>,4:<Josephus,Miksche,-,Sartor4>]
+Kleinstunitz,13.11.,Josephus,Georg,Pauser,Regina,Joseph,Neubauer,J,J (Die Braut ist nicht explizit als Virgine bezeichnet, sondern als Filia, aber vermutlich zuvor unverheiratet) [1:<Mathias,Long,Iglau,Civis et Lanio1>,2:<Mathias,Pauser,Roschitz2>,3:<Philippus,Dworzak3>,4:<Philippus,Oberrenner,Kleinstunitz4>]
+
+DP 474
+
+Iglau,19.11.,Petrus,-,Weinhardt,Elisabeth,Martin,Walentschka,-,J (Berufe Exauctoratus Miles/Arbeiter, Die Braut ist nicht explizit als Virgine bezeichnet, sondern als Filia, aber vermutlich zuvor unverheiratet) [1:<Fridericus,Mahr,Iglau,Civis et Pannifex1>,2:<Thomas,Hartung,-,Sutor2>,3:<Leopoldus,Nasahoffsky,Iglau,Civis et Faber Eraius#3>,4:<Joannes,Semann,-,Pannifex4>]
+Iglau,19.11.,Joannes Ferdinandus,-,de Hörl,Catharina,Petrus,Zimmermann,-,W (Berufe Officialis Annona/Civis et Ephippiarus, Bräutigam: "Praenob. Dominus", Braut: "Domina", Zeuge 1: "Praenob. ac. Generosus Dny", Zeuge 2: "Dnus") [1:<Carolus,Preitlachner,-,Leutenantius Inclyti Regl. Leopold Palffi1>,2:<Joannes Ernestus,Böhm,-,Frumentarius in Dominio Iglavensi2>]
+Iglau,20.11.,Joannes Paulus,-,Mücksche,Rosina,Francsicus,Schiller,-,J (Berufe Exauctoratus Miles/Arbeiter) [1:<Josephus,Micksche,-,Sartor1>,2:<Georgius,Röder,Iglau,Civis et Faber2>,3:<Franciscus,Semrat,Iglau,Civis et Sutor3>,4:<Augustinus,Lukschander,-,Villicus4>]
+Raunekh und Zeuppau,20.11.,Augustinus,Laurentius,Frantz,Susanna,Martin,Röder,J,J [1:<Paulus,Frantz,Raunekh1>,2:<Joannes,Neuwirth,Obergoss2>,3:<Leopoldus,Wessely3>,4:<Joannes,Neufingerl,Willantz4>]
+Willantz und Iglau,20.11.,Jacobus,Matthäus,Frantz,Rosina,Joannis,Müksche (Berufe -/Maurer) [1:<Augustinus,Long,Iglau,Civis et Murarius1>,2:<Antonius,Gerstmann,Iglau,Civis et Pannifex2>,3:<Joannes,Wutschka,-,Praxator3>,4:<Joannes,Pröckl,Iglau,Civis et Alutarius4>]
+Iglau,26.11.,Philippus Aloysius,Amadeus,Rahn,Antonia Joanna,Ludovicus Eusebius,Weiner,J,J (Berufe Civis et Zytopol/Pharmacopai Civis ac Zytopol, Der Vater des Bräutigams war Cives et Zythopol, Bräutigam und auch sein Vater: "Praenob. Dnus", Braut: "Praenob. ac. Virtuosa", ihr Vater und Zeuge 1,4: "Praenob. Dnus", Zeuge 2: "Dnus", Zeuge 3: "Praenob. ac. Consultisimus Dnus") [1:<Josephus,Slaviczek,-,Secretarius Districtus Iglavensis1>,2:<Joannes,Zach,Iglau,Civis et Zythopol2>,3:<Franciscus,Krönberger,-,Senator3>,4:<Josephus,Staritzer,Iglau,Civis et Zythopol4>]
+
+DP 475
+
+Ebersdorf,26.11.,Andreas,Martin,Pöhm,Maria Anna,Joannis,Früauff,J,J (Berufe -/Müller) [1:<Laurentius,Kirchner,Iglau,Civis et Zythopol1>,2:<Franciscus,Hauenschild,Iglau,Civis et Pannifex2>,3:<Antonius,Siegl,Iglau,Civis et Molitor3>,4:<Joannes,Streihsbier#,Simmersdorff4>]
+Iglau,28.11.,Mathias,-,Siegl,Maria Elisabetha,Martin,Wessely,W,W (Berufe Incola/Arbeiter) [1:<Antonius Josephus,Neumann,-,Registrator1>,2:<Augustinus,Siegl,Iglau,Civis et Molitor2>,3:<Gregorius,Siegl,Obergoss3>,4:<Mathias,Höffer,Güsiebl4>]
+
