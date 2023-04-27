@@ -9,6 +9,26 @@ Steffen Häuser
 
 1744
 
+DP 261
+
+
+DP 262
+
+Iglau,16.11.,Joannes,-,Penirschko,Maria Rosina,-,May#,J,J [1:<Andreas,Hambl1>,2:<Josephus,Penirschko2>,3:<Ignatius,Kerber3>,4:<Ludovicus,Maurer4>]
+Iglau,16.11.,Michael,-,Wolffegger,Maria Catharina,-,Sigl,J,W [1:<Martinus,Geis#1>,2:<Josephus,Ladenbauer2>,3:<Joannes,Schillauer3>,4:<Henricus,Zebo4>]
+Iglau,16.11.,Joannes,-,Weiner,Katharina,-,Weber,-,J (Berufe Miles Iglavensis Cir#/-) [1:<Carolus,Grmetz1>,2:<Franciscus Antonius,Lenk2>,3:<Josephus,Hirschko3>,4:<Augustinus,Eigl4>]
+Iglau,16.11.,Francsicus,-,Zebo,Magdalena,-,Pausperdl,J,W (Zeuge 1: "Consult. Dnu", Zeuge 2: "Pre. D.", Zeuge 3,4: "Pre. ac. Cs. D.") [1:<Bernardus,Zikanek1>,2:<Joannes,Zulak2>,3:<Joannes Carolus,Kosika#3>,4:<Franciscus,Rob4>]
+Ebersdorf,17.11.,Martinus,-,Madl,Susanna,-,Goldtschmied,J [1:<Martin,Krümschandl1>,2:<Martin,Böhm2>,3:<Vitus,Höltzel3>,4:<Mathias,Schimko4>]
+Iglau,17.11.,Joannes,-,Spatzal,Catharina,-,Miksch,J,J (Berufe Faber Lignarius/-) [1:<Joannes,Thoma1>,2:<Laurentius,Thoma2>,3:<Elias,Neubauer3>,4:<Joannes,Benirschko4>]
+Haintzendorf,17.11.,Gregorius,-,Piels,Rosina,-,Teltscher,W,W [1:<Paul,Teltscher1>,2:<Petrus,Puls2>,3:<Balthasar,Hobermann3>,4:<Martin,Töltscher4>]
+Iglau,22.11.,Matthäus,-,Miksche,Maria,-,Pitzal,J,J (Zeuge 3,4: "D."==Dominus) [1:<Mathias,Gilch1>,2:<Laurentius,Thoma2>,3:<Matthus,Schmetana3>,4:<Joann Jacobus,Siegl4>]
+Iglau,22.11.,Thomas,-,Trucholka#,Judith,-,Widthelm,J,J [1:<Josephus,Raab1>,2:<Joannes,Andreas,Zimmermann2>,3:<Tobias,Göll#3>,4:<Mathias,Habli4>]
+Iglau,23.11.,Wenceslaus,-,Ridl#,Anna Maria,-,Gall,J,J [1:<Augustinus,Schmidt1>,2:<David,Torwenkril#2>,3:<Joannes Henricus,Schleim3>,4:<Jacobus,Fösser4>]
+Iglau,23.11.,Philippus,-,Kürchner,Anna Maria,-,Perufuss,W,W [1:<Joannes,Schmillauer1>,2:<Jacobus,Hoffmann2>,3:<Henricus,Zebo3>,4:<Joannes Michael,Reindler4>]
+Iglau,23.11.,Josephus,-,Alems#,Paulina,-,Wodgarkin,W,J (Zeuge 3,4: "D."==Dominus) [1:<Michael,Reinler1>,2:<Augustinus,Mar2>,3:<Ludovicus,Weiner3>,4:<Mathias,Schmeltzer4>]
+Iglau,23.11.,Tobias,-,Mosockh,Maria Catharina,-,Ebert,J,W [1:<Elias,Neubauer1>,2:<Joannes,Maurer2>,3:<Hermannus,Hartl3>,4:<Martinus,Kauss#4>]
+Iglau,23.11.,Benedict#,-,Eberhartl,Rosina,-,Gruber,J,J [1:<Hermannus,Hartl1>,2:<Franciscus,Hauenschildt2>,3:<Andreas,Hamppl3>,4:<Ignatius,Körber4>]
+
 DP 263
 
 Iglau,23.11.,Josephus,-,Zechmeister,Maria Elisabeth,-,Zertzig,J,W [1:<Jacobus,Schüssler1>,2:<Wenceslaus,Köllner2>,3:<Josephus,Zebo3>,4:<Laurentius,Schwartz4>]
