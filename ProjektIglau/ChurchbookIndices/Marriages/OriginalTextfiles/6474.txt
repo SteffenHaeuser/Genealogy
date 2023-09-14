@@ -29,7 +29,7 @@ Iglau,21.01.,Carolus,-,Shindler,Regina,-,Neubaur,J,J (Zeuge 1: "D."==Dominus, Ze
 DP 203
 
 Iglau,21.01.,Joannes,-,Röbhann,Susanna,-,Lochenbaur,J,J (Zeuge 1: "D."==Dominus, Zeuge 3: "Dno") [1:<Josephus,Handll1>,2:<Franciscus,Kisbeck#2>,3:<Fridericus,Harrandt3>,4:<Joannes Wilhelmus,Ebert4>]
-Iglau,26.01.,Andreas,-,Frey,Catharina,J,J [1:<Martinus,Piczal1>,2:<Lucas,Würtzzingl2>,3:<Paulus,Giglo#3>,4:<Thomas,Geeth4>]
+Iglau,26.01.,Andreas,-,Frey,Catharina,-,-,J,J [1:<Martinus,Piczal1>,2:<Lucas,Würtzzingl2>,3:<Paulus,Giglo#3>,4:<Thomas,Geeth4>]
 Iglau,27.01.,Antonius,-,Seydl,Maria Elisabeth,-,Klattenberger,J,J [1:<Elias,Neubauer1>,2:<#,Weiss2>,3:<Leopoldus,Lang3>,4:<Benedictus,Reinner4>]
 Iglau,27.01.,Mathias,-,Schüller,Anna,-,Neubauer,J,J [1:<Andreas,Urban1>,2:<Martinus,Wessely2>,3:<Norbertus Franciscus,Peyl#3>,4:<Joes,Thome4>]
 Iglau,03.02.,Joannes,-,Scholl#,Joanna,-,Weiner,W (Unklar, ob V. wie Vidua oder wie Virgine) [1:<Georgius,Heyer1>,2:<Bernardus,Wentzendörfer#2>,3:<Henricus,Zebo3>,4:<Antonius,Weiner4>]
