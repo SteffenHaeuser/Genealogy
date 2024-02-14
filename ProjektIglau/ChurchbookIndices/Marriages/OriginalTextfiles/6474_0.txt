@@ -7,11 +7,29 @@ rk
 6474 - 1708-1764
 Steffen Häuser
 
+1736
+
+DP 193
+
 1737
+
+Iglau,21.01.,Tobias,-,Rebhann,Ursula,-,Khün,W,J (Zeuge 1: "Dno") [1:<Fridericus,Harant1>,2:<Franciscus Antonius,Rebhann2>,3:<Ferdinand,Clement3>,4:<Josephus,Khun4>]
+Iglau,28.01.,Antonius,-,Lang,Maria Catharina,-,Hirsk,J,J (Zeuge 1: "Praenobl. Dns", Zeuge 2: "Dno", Zeuge 3: "Dnus", Zeuge 4: "Consultisimo Dns") [1:<Antonius,Cebo1>,2:<Joannes Georgius,Krassl2>,3:<Jacobus,Sigl3>,4:<Jacobus,Zepann#4>]
 
 DP 194
 
-
+Iglau,28.01.,Joes,-,Richter,Barbara,-,Gerstmann,J,J [1:<Matthaus,Schvartz1>,2:<Joes,Reindler2>,3:<Georgius,Feigl3>,4:<Joes,Kotteloff#4>]
+Iglau,29.01.,Joseph,-,Leewaldt,Rosina,-,Stefflin,J [1:<Tobias,Görber1>,2:<Joannes,Thome2>,3:<Gregorius,Lang3>,4:<Wenceslaus,Schöloth#4>]
+Iglau,03.02.,Carolus,-,Mayer,Maria Magdalena,-,Titz,J [1:<Otto Fridericus,Neumann1>,2:<Josephus,Wolff2>,3:<Joannes,Weiß3>,4:<Carolus,Müller4>]
+Iglau,04.02.,Laurentius,-,Kirchner,Maria Catharina,-,Prißhübin#,J (Unklar, ob V. wie Virgine oder V. wie Vidua) [1:<Matthäus,Zencka#1>,2:<Josephus,Politzer2>,3:<Antonius,Zebo3>,4:<Mathias,Gilch4>]
+Iglau,04.02.,David,-,Domskrit#,Catharina Barbara,-,Redlich,J (Unklar, ob V. wie Virgine oder V. wie Vidua) [1:<Heinrich,Sch#1>,2:<Augustinus,Schmidt2>,3:<#,R#lib#>,4:<Jacobus,Redlich4>]
+Iglau,11.02.,Andreas,-,Höck,Catharina Barbara,-,Eygl,J,J [1:<Josephus,Raab1>,2:<Godefridus,Frey2>,3:<David,Kautzmann3>,4:<Joannes,Hackenberger4>]
+Iglau,11.02.,Adalbertus,-,Bordtmüller#,Anna Maria,-,Bretvöglin#,J [1:<Joannes,Thomas1>,2:<Paulus,Novosol#2>,3:<Mathias,Lang3>,4:<Joannes Wenceslaus,Galle4>]
+Iglau,12.02.,Paulus,-,Wodjanka,Maria Catharina,-,Orteg#,J (Zeuge 1: "Pren. Dnu", Zeuge 3: "Groho Dnu") [1:<Franciscus,Raab1>,2:<Joannes,Reinler2>,3:<Franciscus,Schneider3>,4:<Michael,Fleischer4>]
+Iglau,17.02.,Laurentius,-,Schmidt,Eva,-,Neuwirth,J,J (Zeuge 1: "D."==Dominus) [1:<Joes Georgius,Leinner1>,2:<Josephus,Nöckl#2>,3:<Matthias,Gülgek3>,4:<Andreas,Wucherer4>]
+Iglau,18.02.,Norbertus,-,Wondre,Anna,-,Popelkyn,J,J (Zeuge 1: "D."==Dominus) [1:<Thomas,Marcea#1>,2:<Joannes Georg,Prahoska2>,3:<Mathäus,Hucka3>,4:<Franciscus,Kayer4>]
+Iglau,18.02.,Laurentius,-,Löw,Joanna,-,Körper,J,J [1:<Salomon,Handl1>,2:<Philippus,Fürst2>,3:<Philippus,Eygl3>,4:<Joannes Wilhelmus,Ebert,#4>]
+Iglau,18.02.,Franciscus,-,Körber,Maria Catharina,-,Adolph,J,J (Zeuge 1,2,3: "Dns", Zeuge 4: "D."==Dominus) [1:<Josephus,Handl1>,2:<Godefridus,Körber2>,3:<Antonius,Cebo3>,4:<Joann Georg,Grassl,#4>]
 
 DP 195
 
@@ -103,11 +121,3 @@ Iglau,19.11.,Mathäus,-,Neufingerl,Elisabeth,-,Rinogl,J,J [1:<Georgius,Scholer1>
 Iglau,25.11.,Joannes Josephus,-,Fridrich,Maria Magdalena,-,Cator,J (Braut: "Virtuosa Dna", Zeuge 1: "Praenobl. Dns", Zeuge 2: "Dns", Zeuge 3: "Consultissimus Dns", Zeuge 4: "Dns") [1:<Franciscus,Raab,-,Advocatus1>,2:<Leopoldus,Pable2>,3:<Jacobus,Czepan,Iglau,Regine Urbis Igl. Senator3>,4:<Franciscus,Wagner4>]
 Iglau,25.11.,Laurentius,-,Schopper,Veronica,-,Clarin,J,W (Zeuge 1: "Praenobl. Dns") [1:<Franciscus,Raab,-,Advocatus1>,2:<Joannes Josephus,Österreicher2>,3:<Dominicus,Kuntz3>,4:<Franciscus,Rittiger4>]
 Iglau,25.11.,Dominicus,-,Soerer,Eva Rosina,-,Miller,J,J (Zeuge 1: "Dns", Zeuge 3 wird als "Senior" bezeichnet) [1:<Michael,Reindler1>,2:<Joannis,Haberman2>,3:<Andreas,Jäger3>,4:<Ignatius,Miller4>]
-
-DP 202
-
-Iglau,25.11.,Josephus,-,Schindler,Dorothea,-,Aichl#,J,J [1:<Joannes,Fridl1>,2:<Godefridus,Schvwartz2>,3:<Ignatius,Linhardt3>,4:<Laurentius,Schwartz4>]
-Iglau,25.11.,Joannes,-,Längdörffer,Maria Catharina,-,Ankner#,W,J () Zeuge 1,2,4: "Dno", Zeuge 3: "Prenobl. ac. Consultissimo Dno") [1:<Franciscus,Wagner,Iglau,Urbis Cancellista1>,2:<Wenceslaus,Herman2>,3:<Leopoldus,Hartll,Iglau,Urbis Senator3>,4:<Carolus,Venino4>]
-Iglau,25.11.,Martinus,-,Schwartz,Elisabeth,-,Neybauer,W,J [1:<Gregorius,Neybauer1>,2:<Mathey,Ripper2>,3:<Laurentius,Wesab#3>,4:<Joannes,Stütz4>]
-Iglau,26.11.,Josephus,-,Walcher,Johanna,-,Gordon,J,W (Zeuge 3: "Pronobl. Dnus", Zeuge 4: "Dnus") [1:<Wilhelmus,Irrnberger1>,2:<Crystophorus,Boesker#2>,3:<Joannes,Czinlack,Lilienfeld3>,4:<Simon,Timon4>]
-Iglau,27.11.,Petrus,-,Zimerman,Maria Elisabeth,-,Meltzer,J,J (Zeuge 1: "Consultissimus Dus", Zeuge 2,3,4: "Dno") [1:<Leopoldus,Hartl,Iglau,Regie# Orly# Igl. Senator1>,2:<Joannes Georgius,Grassl2>,3:<Antonius,Milota3>,4:<Franciscus,Raab,-,Advocatus4>]
